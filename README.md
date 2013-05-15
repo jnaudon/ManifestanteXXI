@@ -1,9 +1,12 @@
 # ManifestDroid
 
-Programas libres para android [descargar F-droid](https://f-droid.org/FDroid.apk) y instalar en tu android
+Programas pensado para poder comunicarse de modo seguro en una manifestación usando android.
+
+* Para instalarlo [descagar](paquetes) descarga cada item e instalalo.
 
 ## Programas para instalar
 
+* [F-droid](https://f-droid.org/FDroid.apk) Muchos programás libres para android
 * [Firefox](http://f-droid.org/repository/browse/?fdfilter=firefox&fdid=org.mozilla.firefox) navegador libre.
 * [Addblock](http://f-droid.org/repository/browse/?fdfilter=adblock&fdid=org.adblockplus.android) bloquea la publicidad.
 * [DuckDuckGO](http://f-droid.org/repository/browse/?fdfilter=duck%20duck&fdid=se.johanhil.duckduckgo) un buscador mucho mejor que google.
@@ -15,8 +18,6 @@ Programas libres para android [descargar F-droid](https://f-droid.org/FDroid.apk
 * [Frostwire](http://www.frostwire.com/) Descarga torrent desde android **NOTA: este programa no es muy seguro**
 * [RedPhone](http://www.whispersystems.org/) Llamadas encriptada sobre telefonia movil
 * [TextSecure](http://www.whispersystems.org/) SMS encriptados
-
-Para instalarlos [fácilmente](https://github.com/b4zz4/manifestdroid/tags)
 
 ## Agregar el repositorio de **Guardian Project**
 
