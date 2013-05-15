@@ -1,32 +1,29 @@
-# ManifestDroid
+#Poster del manifestante del siglo XXI
 
-Programas pensado para poder comunicarse de modo seguro en una manifestación usando android.
+Poster para mostrar las cosas que necesita un activista del siglo XXI
 
-* Para instalarlo [descagar](paquetes) descarga cada item e instalalo.
+![Poster](poster_revolucionario_de_accion.png)
 
-## Programas para instalar
+* Casco y proteccion para la bici
+* Pañuelo en la cara o pasamontaña
+  * Contra el [gas lacrimogeno](#Protocolo de protección personal)
+  * contra el [sistema BIOS](http://www.vialibre.org.ar/2012/01/10/biometria-en-argentina-la-vigilancia-masiva-como-politica-de-estado/comment-page-1/) o reconocimento de rostros
+* **Guante de cuero curtido:** para sostener las bombas de gas lacrimogeno
+* Ropa de la [gratisferia](http://es.wikipedia.org/wiki/Gratiferia)
+* Cámara transmitiendo en vivo
+* Telefono con [ManifiestDroid](manifiestdroid/)
+* **Botella con vinagre o jugo de limón:** para protegerse del gas lacrimogeno
+* Mochila con router wifi
+ * antenas para transmitir con mayor potencia
+* Linterna [estroboscopico]() de entre 5HZ a 7HZ para calmar a las fieras
 
-* [F-droid](https://f-droid.org/FDroid.apk) Muchos programás libres para android
-* [Firefox](http://f-droid.org/repository/browse/?fdfilter=firefox&fdid=org.mozilla.firefox) navegador libre.
-* [Addblock](http://f-droid.org/repository/browse/?fdfilter=adblock&fdid=org.adblockplus.android) bloquea la publicidad.
-* [DuckDuckGO](http://f-droid.org/repository/browse/?fdfilter=duck%20duck&fdid=se.johanhil.duckduckgo) un buscador mucho mejor que google.
-* [VOIP encriptado](http://code.google.com/p/csipsimple/) telefonía por internet wifi o 3g.
-* [Gibberbot](https://guardianproject.info/apps/gibber/) chatea en bounjour, jabber, facebook, googletalk de modo [encriptado](http://wiki.partidopirata.com.ar/Gibberbot_con_OTR) y seguro. **Bounjour:** Permite chatear con gente conectada a la misma red.
-* [Barnacle Wifi Tether](http://f-droid.org/repository/browse/?fdfilter=Barnacle%20Wifi%20Tether&fdid=net.szym.barnacle) arma tu propia red ad-hoc con android.
-* [Obscura cam](https://guardianproject.info/apps/obscuracam/) protege a los manifestantes y borra la data de gps, modelo de celular cuando compartis sus fotos internet.
-* [Note Cipher](https://guardianproject.info/apps/) bloque de notas cifrado.
-* [Frostwire](http://www.frostwire.com/) Descarga torrent desde android **NOTA: este programa no es muy seguro**
-* [RedPhone](http://www.whispersystems.org/) Llamadas encriptada sobre telefonia movil
-* [TextSecure](http://www.whispersystems.org/) SMS encriptados
 
-## Agregar el repositorio de **Guardian Project**
+##Protocolo de protección personal
 
-Dentro de **F-droid** ir al menu y elegir **agregar un repositorio** y poner `https://guardianproject.info/repo/`
+En una situación de verse afectado de forma real o potencial por este tipo de armas, es necesario conocer las medidas utilizadas para mantener el control de la situación. No existe un protocolo unificado, pero suelen darse varios consejos:
 
-## Quehaceres
+ Antes de que el gas se aproxime, protegerse la nariz y la boca con un trapo empapado de vinagre.
+ Evitar que el gas alcance los ojos, para ello se pueden llevar preparadas gafas de buceo o en todo caso cerrarlos y llevarlos hacia el suelo, ya que el gas se disipa hacia arriba. 
+ Generalmente, la bomba se puede coger y lanzar a otra dirección, aunque hay que protegerse las manos con un paño húmedo grueso o guantes de protección, ya que la bomba se calienta hasta alcanzar altas temperaturas, además, hay que considerar que, quien la tome se verá rodeado de gas momentáneamente.
 
-* un paquete mágico
-* Cosas para bloquear
- * Servicio de DRM
- * Servicios de google
-* tutorial de tincgui
+Leer [más](http://es.wikipedia.org/wiki/Gas_lacrim%C3%B3geno#Protocolo_de_protecci.C3.B3n_personal)
