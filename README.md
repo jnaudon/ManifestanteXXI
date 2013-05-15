@@ -2,7 +2,7 @@
 
 Lo que necesita un activista del siglo XXI
 
-![Poster](poster/poster_revolucionario_de_accion.png)
+![Poster](poster/poster_revolucionario_de_accion_chico.png)
 
 * Casco y proteccion para la bici
 * Pañuelo en la cara o pasamontaña
