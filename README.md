@@ -1,29 +1,34 @@
 # ManifestDroid
 
-Programas libres para android [descargarlo] y instalar en tu android
+Programas libres para android [descargar F-droid](https://f-droid.org/FDroid.apk) y instalar en tu android
 
 ## Programas instalados
 
-* [Firefox]() navegador libre.
-* [Addblock]() bloquea la publicidad.
-* [DuckDuckGO]() un buscador muy mejor que google.
-* [VOIP encriptado]() telefonía por internet wifi o 3g.
-* [Giver]() chatea en bounjour, jabber, facebook, googletalk de modo encriptado y seguro.
-* [Obscura cam]() protege a los manifestantes y borra la data de gps, modelo de celular cuando compartis sus fotos internet.
-* [Note Cipher]() bloque de notas cifrado.
-* [Frostwire]() Descarga torrent desde android **NOTA: este programa no es muy seguro**
+* [Firefox](http://f-droid.org/repository/browse/?fdfilter=firefox&fdid=org.mozilla.firefox) navegador libre.
+* [Addblock](http://f-droid.org/repository/browse/?fdfilter=adblock&fdid=org.adblockplus.android) bloquea la publicidad.
+* [DuckDuckGO](http://f-droid.org/repository/browse/?fdfilter=duck%20duck&fdid=se.johanhil.duckduckgo) un buscador muy mejor que google.
+* [VOIP encriptado](http://code.google.com/p/csipsimple/) telefonía por internet wifi o 3g.
+* [Gibberbot](https://guardianproject.info/apps/gibber/) chatea en bounjour, jabber, facebook, googletalk de modo encriptado y seguro. [Como usarlo](http://wiki.partidopirata.com.ar/Gibberbot_con_OTR)
+* [Obscura cam](https://guardianproject.info/apps/obscuracam/) protege a los manifestantes y borra la data de gps, modelo de celular cuando compartis sus fotos internet.
+* [Note Cipher](https://guardianproject.info/apps/) bloque de notas cifrado.
+* [Frostwire](http://www.frostwire.com/) Descarga torrent desde android **NOTA: este programa no es muy seguro**
 
 ### Telefonia movil
 
-* [Llamadas encriptada]()
-* [SMS encriptados]()
+* [Llamadas encriptada](http://www.whispersystems.org/)
+* [SMS encriptados](http://www.whispersystems.org/)
 
 ### Tene tu red libre para android
 
-* [Barnacle Wifi Tether] arma tu propia red ad-hoc con android.
+* [Barnacle Wifi Tether](http://f-droid.org/repository/browse/?fdfilter=Barnacle%20Wifi%20Tether&fdid=net.szym.barnacle) arma tu propia red ad-hoc con android.
+
+## Agregar el repositorio de **Guardian Project**
+
+Dentro de **F-droid** ir al menu y elegir **agregar un repositorio** y poner `https://guardianproject.info/repo/`
 
 # Quehaceres
 
+* un paquete mágico
 * Cosas para bloquear
  * Servicio de DRM
  * Servicios de google
