@@ -2,14 +2,14 @@
 
 Lo que necesita un activista del siglo XXI
 
-![Poster](poster_revolucionario_de_accion.png)
+![Poster](poster/poster_revolucionario_de_accion.png)
 
 * Casco y proteccion para la bici
 * Pañuelo en la cara o pasamontaña
-  * Contra el [gas lacrimogeno](#Protocolo de protección personal)
+  * Contra el [gas lacrimogeno](GAS.md)
   * contra el [sistema BIOS](SIBIOS.md) o reconocimento de rostros
-* **Guante de cuero curtido:** para sostener las bombas de gas lacrimogeno
-* Ropa de la [gratisferia](http://es.wikipedia.org/wiki/Gratiferia)
+* Guante de cuero curtido, para sostener las bombas de gas lacrimogeno
+* Ropa de la [gratisferia](Gratiferia.md)
 * Cámara transmitiendo en vivo
 * Telefono con [ManifiestDroid](manifiestdroid/)
 * **Botella con vinagre o jugo de limón:** para protegerse del gas lacrimogeno
@@ -19,7 +19,5 @@ Lo que necesita un activista del siglo XXI
 
 ## Quehaceres
 
-* traducir
-* pasar articulos a markdown
-* 
-* 
+* Pasar articulos a markdown
+* Diagrama del estroboscopico
