@@ -16,7 +16,7 @@ Programas libres para android [descargar F-droid](https://f-droid.org/FDroid.apk
 * [RedPhone](http://www.whispersystems.org/) Llamadas encriptada sobre telefonia movil
 * [TextSecure](http://www.whispersystems.org/) SMS encriptados
 
-Para instalarlos facilmente podes usar [esta lista](https://raw.github.com/b4zz4/manifestdroid/master/paquetes)
+Para instalarlos [fácilmente](https://github.com/b4zz4/manifestdroid/tags)
 
 ## Agregar el repositorio de **Guardian Project**
 
