@@ -4,6 +4,8 @@ Lo que necesita un activista del siglo XXI
 
 ![Poster](poster/poster_revolucionario_de_accion_chico.png)
 
+## Detalles
+
 * Casco y proteccion para la bici
 * Pañuelo en la cara o pasamontaña
   * Contra el [gas lacrimogeno](GAS.md)
@@ -22,7 +24,7 @@ Lo que necesita un activista del siglo XXI
 * Hacer svg interactivo
  * exportar en pixelar
  * traducir
-* barricada
+* barricada un hosteable
 * Pasar articulos a markdown
  * Correjir enlaces
 * Diagrama del estroboscopico con un 505
