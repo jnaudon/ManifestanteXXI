@@ -9,8 +9,8 @@ Lo que necesita un activista del siglo XXI
   * Contra el [gas lacrimogeno](GAS.md)
   * Contra el [sistema BIOS](SIBIOS.md) o reconocimento de rostros
 * Guante de cuero curtido, para sostener las bombas de gas lacrimogeno
-* Ropa de la [gratisferia](Gratiferia.md)
-* Cámara grabar/transmitiendo en vivo
+* Ropa de la [gratisferia](Gratiferia.md) para que no te identifiquen con ella
+* Cámara grabando/transmitiendo en vivo
 * Telefóno con [ManifiestDroid](manifiestdroid/)
 * Botella con vinagre o jugo de limón: para protegerse del [gas lacrimogeno](GAS.md)
 * Mochila con [router wifi](/b4zz4/NodoDeGuerrilla/) con [OpenWRT](https://openwrt.org/)
@@ -19,9 +19,10 @@ Lo que necesita un activista del siglo XXI
 
 ## Quehaceres
 
-* Hacer svg, interactivo
+* Hacer svg interactivo
  * exportar en pixelar
  * traducir
+* barricada
 * Pasar articulos a markdown
  * Correjir enlaces
 * Diagrama del estroboscopico con un 505

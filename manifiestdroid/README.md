@@ -23,11 +23,17 @@ Para instalarlo [descagar](paquetes) descarga cada item e instalalo.
 
 Dentro de **F-droid** ir al menu y elegir **agregar un repositorio** y poner `https://guardianproject.info/repo/`
 
+## Nubes
+
+Mapa para manifestantes
+
+* [barricada](http://barricada.esfriki.com/)
+* [Fluv.io](http://fluv.io/)
+
 ## Quehaceres
 
-* barricada
-* un paquete mágico
+* Un paquete mágico
 * Cosas para bloquear
- * Servicio de DRM
+ * Servicio de [DRM](http://www.defectivebydesign.org/)
  * Servicios de google
-* tutorial de tincgui
+* Tutorial de [tincgui](http://tinc-vpn.org/)
