@@ -19,5 +19,9 @@ Lo que necesita un activista del siglo XXI
 
 ## Quehaceres
 
+* Hacer svg, interactivo
+ * exportar en pixelar
+ * traducir
 * Pasar articulos a markdown
-* Diagrama del estroboscopico
+ * Correjir enlaces
+* Diagrama del estroboscopico con un 505
