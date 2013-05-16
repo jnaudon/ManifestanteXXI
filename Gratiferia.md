@@ -20,16 +20,12 @@ Las tiendas gratis han adoptado como su lema, las palabras pronunciadas por [Mah
 
 -   [1 Funcionamiento](#Funcionamiento)
     -   [1.1 Otros servicios](#Otros_servicios)
-
 -   [2 Historia](#Historia)
 -   [3 Ecología](#Ecolog.C3.ADa)
 -   [4 Inconvenientes](#Inconvenientes)
 -   [5 Gratiferias](#Gratiferias)
--   [6 Véase también](#V.C3.A9ase_tambi.C3.A9n)
--   [7 Referencias](#Referencias)
--   [8 Enlaces externos](#Enlaces_externos)
 
-## Funcionamiento [[editar](/w/index.php?title=Tienda_gratis&action=edit&section=1 "Editar sección: Funcionamiento")]
+## Funcionamiento 
 
 Es una tienda segura ya que no se puede robar y no se maneja dinero ya que todo lo que hay es gratis. Sólo se pone una condición a 
 quien desee llevarse algo: que lo vaya a usar y le de una vida útil. Estos locales suelen ser apoyados por grupos de personas que 
@@ -51,14 +47,14 @@ En ellas son personas corrientes las que ofertan productos y objetos que quisier
 sitio que publican anuncios con un objeto específico que necesiten y estén buscando; con un sistema de transacción similar a la de los 
 mercados en línea, pero sin manejar dinero ni formas de pago por ser todo gratis.
 
-### Otros servicios [[editar](/w/index.php?title=Tienda_gratis&action=edit&section=2 "Editar sección: Otros servicios")]
+### Otros servicios 
 
 Es habitual que en algunas tiendas gratis se lleven a cabo otras actividades como charlas informativas, que abarcan desde temas 
 ecológicos y ambientales hasta charlas sobre economía y sociedad. Talleres, proyectos de reciclado a nivel comunal, colaboraciones con 
 otras entidades ecológicas de reciclado y debates. Algunas tiendas incluso, celebran maratones de recogida de objetos con el apoyo de 
 voluntarios e instituciones caritativas, iglesias y parroquias.^[[2]](#cite_note-basurama-2)^
 
-## Historia [[editar](/w/index.php?title=Tienda_gratis&action=edit&section=3 "Editar sección: Historia")]
+## Historia 
 
 Las primeras tiendas de este tipo comenzaron a funcionar a principios de los [años 1990](/wiki/Años_1990 "Años 1990"), pero su 
 generalización se produce a finales de la década con la apertura de la anterior nombrada Imsonst Landen en Alemania, en 
@@ -67,13 +63,13 @@ han creado tiendas de esta índole en países como España y Reino Unido. Cada u
 independientes y se organizan autogestionadamente por la asamblea de los voluntarios que las forman, pero la intención que las anima es 
 similar: acabar con el consumismo masivo, y con la dependencia de dinero-trabajo y viceversa.
 
-## Ecología [[editar](/w/index.php?title=Tienda_gratis&action=edit&section=4 "Editar sección: Ecología")]
+## Ecología 
 
 Este tipo de tienda de generalizarse ayudaría a disminuir la producción y el consumo de objetos y, por ende de potencial basura, 
 apoyando el reciclado y la reutilización. Además, el sistema de estas tiendas hace una crítica al afán de comprar objetos con poco o 
 nada de uso por moda y al hecho de tirar objetos en buen estado y con muchos años de vida útil por delante.
 
-## Inconvenientes [[editar](/w/index.php?title=Tienda_gratis&action=edit&section=5 "Editar sección: Inconvenientes")]
+## Inconvenientes 
 
 Dado que el sistema de comercio que emplean estas tiendas apela exclusivamente a civismo y la buena voluntad de los clientes y a evitar 
 que sea codiciosos, muchas de ellas cierran antes de cumplir su primer mes. Esto es principalmente debido a que las personas que las 
@@ -82,7 +78,7 @@ solo lo que se necesite. De esta manera en muchos casos las tiendas gratis falla
 estilo de vida más sencillo.^[[1]](#cite_note-soitues-1)^ Asimismo, el fenómeno de este tipo de tiendas hasta el momento solo se ha 
 podido expandir a países europeos.
 
-## Gratiferias [[editar](/w/index.php?title=Tienda_gratis&action=edit&section=6 "Editar sección: Gratiferias")]
+## Gratiferias 
 
 [![image](//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Gratiferia1.jpg/220px-Gratiferia1.jpg)](/wiki/Archivo:Gratiferia1.jpg) 
 [![image](//bits.wikimedia.org/static-1.22wmf3/skins/common/images/magnify-clip.png)](/wiki/Archivo:Gratiferia1.jpg "Aumentar") Una 

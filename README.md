@@ -13,7 +13,7 @@ Lo que necesita un activista del siglo XXI
 * Cámara transmitiendo en vivo
 * Telefono con [ManifiestDroid](manifiestdroid/)
 * Botella con vinagre o jugo de limón: para protegerse del gas lacrimogeno
-* Mochila con router wifi
+* Mochila con [router wifi]() con [OpenWRT]()
  * Antenas para transmitir con mayor potencia
 * Linterna [estroboscopico](https://www.instructables.com/id/Stop-Time-with-an-LED-Stroboscope/?ALLSTEPS) de entre 5HZ a 7HZ para calmar a las fieras
 
