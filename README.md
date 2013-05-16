@@ -1,4 +1,4 @@
-#Poster del manifestante del siglo XXI
+# Poster del manifestante del siglo XXI
 
 Lo que necesita un activista del siglo XXI
 
@@ -10,10 +10,10 @@ Lo que necesita un activista del siglo XXI
   * Contra el [sistema BIOS](SIBIOS.md) o reconocimento de rostros
 * Guante de cuero curtido, para sostener las bombas de gas lacrimogeno
 * Ropa de la [gratisferia](Gratiferia.md)
-* Cámara transmitiendo en vivo
-* Telefono con [ManifiestDroid](manifiestdroid/)
-* Botella con vinagre o jugo de limón: para protegerse del gas lacrimogeno
-* Mochila con [router wifi]() con [OpenWRT]()
+* Cámara grabar/transmitiendo en vivo
+* Telefóno con [ManifiestDroid](manifiestdroid/)
+* Botella con vinagre o jugo de limón: para protegerse del [gas lacrimogeno](GAS.md)
+* Mochila con [router wifi](/b4zz4/NodoDeGuerrilla/) con [OpenWRT](https://openwrt.org/)
  * Antenas para transmitir con mayor potencia
 * Linterna [estroboscopico](https://www.instructables.com/id/Stop-Time-with-an-LED-Stroboscope/?ALLSTEPS) de entre 5HZ a 7HZ para calmar a las fieras
 
@@ -25,3 +25,4 @@ Lo que necesita un activista del siglo XXI
 * Pasar articulos a markdown
  * Correjir enlaces
 * Diagrama del estroboscopico con un 505
+* Referencia a los italiano que se protegian de los policias
