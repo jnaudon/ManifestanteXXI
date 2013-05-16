@@ -1,12 +1,11 @@
 # ManifestDroid
 
 Programas pensado para poder comunicarse de modo seguro en una manifestación usando android.
-
-* Para instalarlo [descagar](paquetes) descarga cada item e instalalo.
+Para instalarlo [descagar](paquetes) descarga cada item e instalalo.
 
 ## Programas para instalar
 
-* [F-droid](https://f-droid.org/FDroid.apk) Muchos programás libres para android
+* [F-droid](https://f-droid.org/FDroid.apk) Muchos programás libres para android.
 * [Firefox](http://f-droid.org/repository/browse/?fdfilter=firefox&fdid=org.mozilla.firefox) navegador libre.
 * [Addblock](http://f-droid.org/repository/browse/?fdfilter=adblock&fdid=org.adblockplus.android) bloquea la publicidad.
 * [DuckDuckGO](http://f-droid.org/repository/browse/?fdfilter=duck%20duck&fdid=se.johanhil.duckduckgo) un buscador mucho mejor que google.
@@ -15,9 +14,10 @@ Programas pensado para poder comunicarse de modo seguro en una manifestación us
 * [Barnacle Wifi Tether](http://f-droid.org/repository/browse/?fdfilter=Barnacle%20Wifi%20Tether&fdid=net.szym.barnacle) arma tu propia red ad-hoc con android.
 * [Obscura cam](https://guardianproject.info/apps/obscuracam/) protege a los manifestantes y borra la data de gps, modelo de celular cuando compartis sus fotos internet.
 * [Note Cipher](https://guardianproject.info/apps/) bloque de notas cifrado.
-* [Frostwire](http://www.frostwire.com/) Descarga torrent desde android **NOTA: este programa no es muy seguro**
-* [RedPhone](http://www.whispersystems.org/) Llamadas encriptada sobre telefonia movil
-* [TextSecure](http://www.whispersystems.org/) SMS encriptados
+* [RedPhone](http://www.whispersystems.org/) Llamadas encriptada sobre telefonia movil.
+* [TextSecure](http://www.whispersystems.org/) SMS encriptados.
+* [Binaureal](http://f-droid.org/repository/browse/?fdfilter=binaural&fdid=com.ihunda.android.binauralbeat) Poner en un amplificador para cambar a la gente o los policias.
+* [Frostwire](http://www.frostwire.com/) Descarga torrent desde android
 
 ## Agregar el repositorio de **Guardian Project**
 
@@ -25,6 +25,7 @@ Dentro de **F-droid** ir al menu y elegir **agregar un repositorio** y poner `ht
 
 ## Quehaceres
 
+* barricada
 * un paquete mágico
 * Cosas para bloquear
  * Servicio de DRM
