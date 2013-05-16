@@ -9,7 +9,7 @@ Lo que necesita un activista del siglo XXI
 * Casco y proteccion para la bici y protegerse de la represión
 * Pañuelo en la cara o pasamontaña
   * Contra el [gas lacrimogeno](GAS.md)
-  * Contra el [sistema BIOS](SIBIOS.md) o reconocimento de rostros
+  * Contra el [sistema SIBIOS](SIBIOS.md) o reconocimento de rostros
 * Guante de cuero curtido, para sostener las bombas de gas lacrimógeno
 * Ropa de la [gratisferia](Gratiferia.md) para que no te identifiquen con ella y taparte la cara
 * Cámara grabando/transmitiendo en vivo
