@@ -33,11 +33,15 @@ En una situación de verse afectado de forma real o potencial por este tipo de a
 
 ### ManifestDroid
 
-.. resumen ..
+Programas pensado para poder comunicarse y organizarse de modo seguro en una manifestación usando android. 
 
 [Leer más](manifestdroid/)
 
 ### Linterna estroboscopica
+
+[circuito]
+
+.. resumen ..
 
 ## Quehaceres
 
