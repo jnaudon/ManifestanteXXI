@@ -13,7 +13,7 @@ Lo que necesita un activista del siglo XXI
 * Guante de cuero curtido, para sostener las bombas de gas lacrimógeno
 * Ropa de la [gratisferia](Gratiferia.md) para que no te identifiquen con ella y taparte la cara
 * Cámara grabando/transmitiendo en vivo
-* Telefóno con [ManifiestDroid](manifiestdroid/)
+* Telefóno con [ManifestDroid](manifestdroid/)
  * Comunicación encritada (SMS, telefono, chat y voip)
  * Publicar fotos sin exponer a los manifestantes
 * Botella con vinagre o jugo de limón: para protegerse del [gas lacrimógeno](GAS.md)
