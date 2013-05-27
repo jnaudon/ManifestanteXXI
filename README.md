@@ -87,7 +87,9 @@ Estos métodos de comunicación pueden usarse tanto en internet como en redes li
 
 Estas luces se usa para control mental inducir al sueño o poner en estado de trance en las velocidades adecuadas producen estado de calma, somnolencia o la sensación de falta de tiempo.
 
+
 [circuito]
+
 
 _**Nota:** estas luces se venden comercialmente para iluminación de fiestas, aunque puede ser que las velocidades no sean las adecuadas._
 
