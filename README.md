@@ -16,6 +16,7 @@ Lo que necesita un activista del siglo XXI
 * Mochila con [router wifi](/b4zz4/NodoDeGuerrilla/) para mejorar el acceso a la red.
 * Antenas para transmitir con mayor potencia
 * Linterna [estroboscopico](https://www.instructables.com/id/Stop-Time-with-an-LED-Stroboscope/?ALLSTEPS) de entre 5HZ a 7HZ para calmar a las fieras
+* Protección para documentos con RFID
 
 ### Gas lacrimógeno
 
@@ -35,7 +36,7 @@ En una situación de verse afectado de forma real o potencial por este tipo de a
 
 Tanto en las computadoras como los dispositivos portátiles (celulares, pad, tablet, etc) estamos muy mal acostumbrados a comunicarnos de modo inseguro, conectándonos a cualquier red disponible, comunicarnos y navegar sin encriptar, pudiendo cualquier persona cercana a nosotros interceptar lo que estamos haciendo, y ademas la compañía de celular o internet pueden hacerlo todo el tiempo. 
 
-Para solucionar este problema se pueden usar varias tecnologías de encriptación, tuneles y proxys en particular para dispositivos que usan **Android** donde son muy fáciles de instalar, con software libre disponibles en [f-droid.org](https://f-droid.org/) y [guardianproject.info](https://guardianproject.info).
+Para solucionar este problema se pueden usar varias tecnologías de encriptación, tuneles y proxys en particular para dispositivos que usan **Android** solamente usando software libre muy fáciles de instalar y usar.
 
 La encriptación es como si inventáramos nuestro propio idioma para hablar con una persona el particular, aun así para nosotros sigue siendo totalmente legible. Esto sirve para que nadie pueda interceptar la conversación. Algo muy simple que se puede hacer es navegar en paginas con _https_ en lugar de _http_. Esto funciona en muchas paginas populares.
 
