@@ -1,19 +1,18 @@
-# Poster del manifestante del siglo XXI
+# Póster del manifestante del siglo XXI
 Lo que necesita un activista del siglo XXI
 
-![Poster](poster/poster_revolucionario_de_accion_chico.png)
-
+![Póster](poster/poster_revolucionario_de_accion_chico.png)
 
 ## Detalles
 
-* Casco y proteccion para la bici para protegerse de la represión
-* Pañuelo en la cara o pasamontaña: contra el [gas lacrimógeno](#gas-lacrimgeno) y el [reconocimento fácial](#reconocimiento-fcial)
+* Casco y protección para la bici para protegerse de la represión
+* Pañuelo en la cara o pasa montaña: contra el [gas lacrimógeno](#gas-lacrimógeno) y el [reconocimiento facial](#reconocimiento-fcial)
 * Guante de cuero curtido, para sostener las bombas de gas lacrimógeno
 * Ropa de la [gratisferia](Gratiferia.md) para que no te identifiquen con ella y taparte la cara
 * Cámara grabando y transmitiendo en vivo
-* Teléfono con [ManifestDroid](#manifestdroid): comunicación encriptada (SMS, llamadas, chat y voip), publicar fotos sin exponer a los manifestantes, etc.
+* Teléfono con [ManifestDroid](#manifestdroid): comunicación criptográfica (SMS, llamadas, chat y voip), publicar fotos sin exponer a los manifestantes, etc.
 * Botella con vinagre o jugo de limón: para protegerse del [gas lacrimógeno](#gas-lacrimgeno)
-* Mochila con [router wifi](/b4zz4/NodoDeGuerrilla/) para mejorar el acceso a la red.
+* Mochila con [router wifi](/b4zz4/NodoDeGuerrilla/) para mejorar el acceso a la red
 * Antenas para transmitir con mayor potencia
 * Linterna [estroboscopico](https://www.instructables.com/id/Stop-Time-with-an-LED-Stroboscope/?ALLSTEPS) de entre 5HZ a 7HZ para calmar a las fieras
 * Protección para documentos con RFID
@@ -30,20 +29,20 @@ En una situación de verse afectado de forma real o potencial por este tipo de a
 
 En el 2011 Cristina Fernández de Kirchner emitió un Decreto ordenando la creación del Sistema Federal de Identificación Biométrica (SIBIOS), un servicio de identificación biométrica centralizado, con cobertura nacional, que permitirá a las agencias de seguridad hacer “referencias cruzadas” de información con datos biométricos, con la posibilidad de vincular el sistema de registro facial obtenido a través de las cámaras de vigilancia en la vía pública con las imágenes obtenidas a través de sistema SIBIOS.
 
-Tan solo en la Ciudad de Buenos Aires las [camaras de seguridad](http://camaras.buenosaires.gob.ar/) superan las mil.
+Tan solo en la Ciudad de Buenos Aires las [cámaras de seguridad](http://camaras.buenosaires.gob.ar/) superan las mil.
 Aunque parezca de ciencia ficción el reconocimiento de rostros es cada más simple y barato. Además las redes sociales con reconocimiento fácil (facebook, google+, flickr, etc) son cada vez más populares y la actualización permanente por parte de sus usuarios mejora la base de datos permanentemente.
 
 #### ¿Que podemos hacer?
 
 * No etiquetar fotos
 * Bloquear o deshabilitar las cámaras
-* Solo compartir fotos de manifestaciones con rostro ocultos
+* Solo compartir fotos de manifestaciones con rostro borrados
 
-Para Android esta el programas [Obscura Cam](https://guardianproject.info/apps/obscuracam/) que tapa las caras de forma automatica y permite poner imagenes en lugar de los rostros.
+Para Android esta el programas [ObscuraCam](https://guardianproject.info/apps/obscuracam/) que tapa las caras de forma automática y permite poner imágenes en lugar de los rostros.
 
 ##### Falta
 
-* Programa para tapar caras
+* Programa para tapar caras en html5
 
 [Leer más](SIBIOS.md)
 
@@ -54,13 +53,15 @@ Y en la SUBE genera un registro de todos los viajes que realiza y los guarda en 
 
 Este sistema viola el derecho a la privacidad y al anonimato, el Estado no debería recabar este tipo de información por la sensibilidad de dichos datos, por el exceso en el ámbito de recolección y por la posibilidad real de implementar numerosos esquemas que no impliquen el control sobre los ciudadanos.
 
-En algunos paises ya se a usado este sistema para identificar manifestantes, ya que los lectores (RFID) pueden ser leidos a la distancia.
+En algunos países ya se a usado este sistema para identificar manifestantes, ya que los lectores (RFID) pueden ser leídos a la distancia.
 
 #### Estuche para la SUBE
 
-![porta sube](circuitos/porta_sube.png)
+Este porta SUBE bloquea la tarjeta así no es detectable a larga distancia. Para sacar el boleto hay que sacarla de su estuche.
+	
+![porta sube](planos/porta_sube.png)
 
-Podes hacerlo cortando un tetra pak y pegandolo con cinta
+Podes hacerlo cortando un tetra pak y pegándolo con cinta. 
 
 #### ¿Que podemos hacer?
 
@@ -71,18 +72,17 @@ Podes hacerlo cortando un tetra pak y pegandolo con cinta
 
 #### Falta
 
-* en que pais lo usan
-* instrucciones para el tetrapac
+* en que país lo usan
 
 [Leer más](SUBE.md)
 
 ### ManifestDroid
 
-Tanto en las computadoras como los dispositivos portátiles (celulares, pad, tablet, etc) estamos muy mal acostumbrados a comunicarnos de modo inseguro, conectándonos a cualquier red disponible, comunicarnos y navegar sin encriptar, pudiendo cualquier persona cercana a nosotros interceptar lo que estamos haciendo, y ademas la compañía de celular o internet pueden hacerlo todo el tiempo. 
+Tanto en las computadoras como los dispositivos portátiles (celulares, pad, tablet, etc) estamos muy mal acostumbrados a comunicarnos de modo inseguro, conectándonos a cualquier red disponible, comunicarnos y navegar sin criptografía, pudiendo cualquier persona cercana a nosotros interceptar lo que estamos haciendo, y además la compañía de celular o internet pueden hacerlo todo el tiempo. 
 
-Para solucionar este problema se pueden usar varias tecnologías de encriptación, tuneles y proxys en particular para dispositivos que usan **Android** solamente usando software libre muy fáciles de instalar y usar.
+Para solucionar este problema se pueden usar varias tecnologías de criptografía, túneles y proxys en particular para dispositivos que usan **Android** solamente usando software libre muy fáciles de instalar y usar.
 
-La encriptación es como si inventáramos nuestro propio idioma para hablar con una persona el particular, aun así para nosotros sigue siendo totalmente legible. Esto sirve para que nadie pueda interceptar la conversación. Algo muy simple que se puede hacer es navegar en paginas con _https_ en lugar de _http_, esto funciona en muchas paginas populares.
+La criptografía es como si inventáramos nuestro propio idioma para hablar con una persona el particular, aun así para nosotros sigue siendo totalmente legible. Esto sirve para que nadie pueda interceptar la conversación. Algo muy simple que se puede hacer es navegar en paginas con _https_ en lugar de _http_, esto funciona en muchas paginas populares.
 
 Los proxys nos permite pasar por la red sin que nadie pueda ver que estamos haciendo. Uno de los mas populares es TOR que su particularidad es que esta compuesto por miles de computadoras que se coordinan de modo descentralizado, haciéndolo muy seguro y confiable.
 
@@ -96,12 +96,12 @@ Los proxys nos permite pasar por la red sin que nadie pueda ver que estamos haci
 
 #### Telefonía convencional
 
-* [RedPhone](http://www.whispersystems.org/) Llamadas encriptada sobre telefonía móvil.
-* [TextSecure](http://www.whispersystems.org/) SMS encriptados.
+* [RedPhone](http://www.whispersystems.org/) Llamadas con criptografía sobre telefonía móvil.
+* [TextSecure](http://www.whispersystems.org/) SMS con criptografía.
 
 #### Difusión y coordinación
 
-* [Obscura cam](https://guardianproject.info/apps/obscuracam/) protege a los manifestantes y borra la data de GPS, modelo de celular cuando compartís sus fotos internet.
+* [ObscuraCam](https://guardianproject.info/apps/obscuracam/) protege a los manifestantes y borra la data de GPS, modelo de celular cuando compartís sus fotos internet.
 * [c:geo](http://f-droid.org/repository/browse/?fdfilter=osm&fdid=cgeo.geocaching) mapas para coordinarse en las calles.
 * [Multi Sms](https://f-droid.org/repo/com.hectorone.multismssender_13.apk) enviar SMS en cadena a muchos contactos.
 
@@ -116,15 +116,16 @@ Si no tenes acceso a internet, o no queres tenerlo :P podes armar un red propia,
 
 Estos métodos de comunicación pueden usarse tanto en internet como en redes libres
 
-* [Gibberbot](https://guardianproject.info/apps/gibber/) chatea en bounjour, jabber, facebook, googletalk de modo [encriptado](http://wiki.partidopirata.com.ar/Gibberbot_con_OTR) y seguro.
-* [CsipSimple](https://code.google.com/p/csipsimple/) telefonía por internet (VOIP) totalmente encriptada, podes crear un cuenta local para la red libre y una cuenta en [ekiga.org](https://www.ekiga.net/?page=register) para acceso desde internet.
+* [Gibberbot](https://guardianproject.info/apps/gibber/) chatea en bounjour, jabber, facebook, googletalk de modo [criptografico](http://wiki.partidopirata.com.ar/Gibberbot_con_OTR) y seguro.
+* [CsipSimple](https://code.google.com/p/csipsimple/) telefonía por internet (VOIP) criptográfico, podes crear un cuenta local para la red libre y una cuenta en [ekiga.org](https://www.ekiga.net/?page=register) para acceso desde internet.
 
 ### Linterna estroboscopica
 
 Estas luces se usa para control mental, inducir al sueño o poner en estado de trance en las velocidades adecuadas producen estado de calma, somnolencia o la sensación de falta de tiempo.
 
-![circuito](circuitos/555_Estroboscopica.png)
-[ver detalles](circuitos/555_Estroboscopica.pdf)
+![circuito](planos/555_Estroboscopica.png)
+
+[ver detalles](planos/555_Estroboscopica.pdf)
 
 _**Nota:** estas luces se venden comercialmente para iluminación de fiestas, aunque puede ser que las velocidades no sean las adecuadas._
 
@@ -137,4 +138,4 @@ Hay un generador para Android, [binauralbeat](https://f-droid.org/repository/bro
  * exportar en pixelar
  * traducir
 * barricada un hosteable
-* Referencia a los italiano que se protegian de los policias
+* Referencia a los italiano que se protegían de los policías
