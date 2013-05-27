@@ -8,8 +8,6 @@ La encriptación es como si inventáramos nuestro propio idioma para hablar con 
 
 Los proxys nos permite pasar por la red sin que nadie pueda ver que estamos haciendo. Uno de los mas populares es TOR que su particularidad es que esta compuesto por miles de computadoras que se coordinan de modo descentralizado, haciéndolo muy seguro y confiable.
 
-Los túneles nos permite pasar por la red sin que nadie pueda ver que estamos haciendo, por que como su nombre lo dice generamos un túnel dentro de la red y salimos de modo anónimo por otro. 
-
 ## Internet
 
 * [Orbot](http://f-droid.org/repository/browse/?fdfilter=browser&fdid=org.torproject.android) TOR para android
@@ -45,6 +43,9 @@ Estos métodos de comunicación pueden usarse tanto en internet como en redes li
 Para buscar más software libre para Android podes hacerlo en [F-droid](http://f-droid.org/)
 
 =========
+
+Los túneles nos permite pasar por la red sin que nadie pueda ver que estamos haciendo, por que como su nombre lo dice generamos un túnel dentro de la red y salimos de modo anónimo por otro. 
+
 
 # Extras
 
