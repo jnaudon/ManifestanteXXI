@@ -28,7 +28,17 @@ En una situación de verse afectado de forma real o potencial por este tipo de a
 
 ### Reconocimiento fácil y RFID
 
-.. resumen ..
+En el 2011 Cristina Fernández de Kirchner emitió un Decreto ordenando la creación del Sistema Federal de Identificación Biométrica (SIBIOS), un servicio de identificación biométrica centralizado, con cobertura nacional, que permitirá a las agencias de seguridad hacer “referencias cruzadas” de información con datos biométricos, con la posibilidad de vincular el sistema de registro facial obtenido a través de las cámaras de vigilancia en la vía pública con las imágenes obtenidas a través de sistema SIBIOS.
+
+#### Tarjeta SUBE
+
+**El sistema SUBE genera un registro de todos los viajes que realiza la persona en los que paga con la tarjeta** y luego los guarda en una base de datos controlada por la Secretaría de Transporte.
+
+A pesar de que para obtener la tarjeta siempre fue necesario dar los datos personales (incluyendo el DNI) y a pesar de que utilizar la tarjeta deja un registro de los viajes que realiza el usuario, hasta ahora no se había planteado laobligatoriedad del sistema para acceder al subsidio.
+
+Si bien en un principio podría ser una idea razonable establecer un subsidio diferencial para los sectores más carenciados o la imposición de una tarifa de tramo único para quienes requieren más de un medio de transporte, definitivamente su implementación a través del sistema SUBE no lo es. **La recolección por parte del Estado de los datos de transporte de todos los ciudadanos y su posterior guarda en una base de datos, es una medida abusiva e innecesaria que invade la privacidad y viola el derecho a la intimidad del que gozan los ciudadanos.**
+
+El problema central es que, más allá de las medidas evasoras que puedan implementar los ciudadanos para ejercer su justo derecho a la privacidad y al anonimato, el Estado no debería recabar este tipo de información por la sensibilidad de dichos datos, por el exceso en el ámbito de recolección y por la posibilidad real de implementar numerosos esquemas que no impliquen el control sobre los ciudadanos.
 
 [Leer más](SIBIOS.md)
 
