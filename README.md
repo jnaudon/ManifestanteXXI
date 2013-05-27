@@ -1,8 +1,9 @@
 # Poster del manifestante del siglo XXI
-
 Lo que necesita un activista del siglo XXI
 
 ![Poster](poster/poster_revolucionario_de_accion_chico.png)
+
+
 
 ## Detalles
 
@@ -30,22 +31,42 @@ En una situación de verse afectado de forma real o potencial por este tipo de a
 
 En el 2011 Cristina Fernández de Kirchner emitió un Decreto ordenando la creación del Sistema Federal de Identificación Biométrica (SIBIOS), un servicio de identificación biométrica centralizado, con cobertura nacional, que permitirá a las agencias de seguridad hacer “referencias cruzadas” de información con datos biométricos, con la posibilidad de vincular el sistema de registro facial obtenido a través de las cámaras de vigilancia en la vía pública con las imágenes obtenidas a través de sistema SIBIOS.
 
-Tan solo en la **Ciudad de Buenos Aires** las [camaras de seguridad](http://camaras.buenosaires.gob.ar/) superan las mil.
-Aunque parezca de ciencia ficción el reconocimiento de rostros es cada más mas simple y barato. Además las redes sociales con reconocimiento fácil (facebook, google+, flickr, etc) son cada vez más populares y la actualización permanente por parte de sus usuarios mejora la base de datos permanentemente.
+Tan solo en la Ciudad de Buenos Aires las [camaras de seguridad](http://camaras.buenosaires.gob.ar/) superan las mil.
+Aunque parezca de ciencia ficción el reconocimiento de rostros es cada más simple y barato. Además las redes sociales con reconocimiento fácil (facebook, google+, flickr, etc) son cada vez más populares y la actualización permanente por parte de sus usuarios mejora la base de datos permanentemente.
+
+#### ¿Que podemos hacer?
+
+* No etiquetar fotos
+* Bloquear o de habilitar las cámaras
+* Solo compartir fotos de manifestaciones con rostro ocultos
+
+##### Falta
+
+* Programa para tapar caras
 
 [Leer más](SIBIOS.md)
 
 ### Protección para documentos con RFID
 
-Los sistemas SUBE, AFA plus y los nuevos documentos de identidad dan la posibilidad identificar a personas a distancia. 
-Y en la SUBE  genera un registro de todos los viajes que realiza la persona en los que paga con la tarjeta y luego los guarda en una base de datos controlada por la Secretaría de Transporte. 
+Los sistemas SUBE, AFA plus y los nuevos DNI dan la posibilidad identificar a personas a distancia. 
+Y en la SUBE genera un registro de todos los viajes que realiza y los guarda en una base de datos controlada por la Secretaría de Transporte. 
 
 Este sistema viola el derecho a la privacidad y al anonimato, el Estado no debería recabar este tipo de información por la sensibilidad de dichos datos, por el exceso en el ámbito de recolección y por la posibilidad real de implementar numerosos esquemas que no impliquen el control sobre los ciudadanos.
 
 En algunos paises ya se a usado este sistema para identificar manifestantes, ya que los lectores (RFID) pueden ser leidos a la distancia.
 
+#### ¿Que podemos hacer?
+
+Algunas de las cosas que se pueden hacer para contrarestar esto es no usar estos sistemas
+
+* No usar este tipo de identificaciones
+* No renovar el DNI
+* Intercambiar tarjetas SUBE
+* Funda de aluminio, se pueden hacer unas muy fácilmente con tetrapac
+
+#### Falta
+
 * en que pais lo usan
-* quitar tanto dato nacional
 
 [Leer más](SUBE.md)
 
@@ -96,9 +117,7 @@ Estos métodos de comunicación pueden usarse tanto en internet como en redes li
 
 Estas luces se usa para control mental inducir al sueño o poner en estado de trance en las velocidades adecuadas producen estado de calma, somnolencia o la sensación de falta de tiempo.
 
-
-[circuito]
-
+![circuito/555_Estroboscopica.png](circuito/555_Estroboscopica.pdf)
 
 _**Nota:** estas luces se venden comercialmente para iluminación de fiestas, aunque puede ser que las velocidades no sean las adecuadas._
 
@@ -113,5 +132,4 @@ Hay un generador para Android, [binauralbeat](https://f-droid.org/repository/bro
 * barricada un hosteable
 * Pasar articulos a markdown (por la mitad)
  * Correjir enlaces
-* Diagrama del estroboscopico con un 555
 * Referencia a los italiano que se protegian de los policias
