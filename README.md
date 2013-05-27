@@ -14,12 +14,12 @@ Lo que necesita un activista del siglo XXI
 * Botella con vinagre o jugo de limón: para protegerse del [gas lacrimógeno](#gas-lacrimgeno)
 * Mochila con [router wifi](/b4zz4/NodoDeGuerrilla/) para mejorar el acceso a la red
 * Antenas para transmitir con mayor potencia
-* Linterna [estroboscopico](https://www.instructables.com/id/Stop-Time-with-an-LED-Stroboscope/?ALLSTEPS) de entre 5HZ a 7HZ para calmar a las fieras
-* Protección para documentos con RFID
+* Linterna [estroboscopico](#linterna-estroboscopica) para calmar a las fieras
+* Protección para [identificaciones con RFID](#proteccin-para-documentos-con-rfid)
 
 ### Gas lacrimógeno
 
-En una situación de verse afectado de forma real o potencial por este tipo de armas, es necesario conocer las medidas utilizadas para mantener el control de la situación. 
+En una situación de verse afectado de forma real o potencial por este tipo de armas, es necesario conocer las medidas utilizadas para mantener el control de la situación.
 
 - Antes de que el gas se aproxime, protegerse la nariz y la boca con un trapo empapado de vinagre o jugo de limón.
 - Evitar que el gas alcance los ojos, para ello se pueden llevar preparadas gafas de buceo o en todo caso cerrarlos y llevarlos hacia el suelo, ya que el gas se disipa hacia arriba. 
@@ -87,7 +87,7 @@ Los proxys nos permite pasar por la red sin que nadie pueda ver que estamos haci
 #### Internet
 
 * [Orbot](https://f-droid.org/repository/browse/?fdfilter=browser&fdid=org.torproject.android) TOR para android
-* [Orweb](https://f-droid.org/repository/browse/?fdfilter=browser&fdid=info.guardianproject.browser) nave usando TOR
+* [Orweb](https://f-droid.org/repository/browse/?fdfilter=browser&fdid=info.guardianproject.browser) navegar usando TOR
 * [Adblock](https://f-droid.org/repository/browse/?fdfilter=adblock&fdid=org.adblockplus.android) quita la publicidad de las paginas web.
 
 #### Telefonía convencional
@@ -98,14 +98,14 @@ Los proxys nos permite pasar por la red sin que nadie pueda ver que estamos haci
 #### Difusión y coordinación
 
 * [ObscuraCam](https://guardianproject.info/apps/obscuracam/) protege a los manifestantes y borra la data de GPS, modelo de celular cuando compartís sus fotos internet.
-* [c:geo](https://f-droid.org/repository/browse/?fdfilter=osm&fdid=cgeo.geocaching) mapas para coordinarse en las calles.
+* [c:geo](https://f-droid.org/repository/browse/?fdfilter=osm&fdid=cgeo.geocaching) mapas para coordinar se en las calles.
 * [Multi Sms](https://f-droid.org/repo/com.hectorone.multismssender_13.apk) enviar SMS en cadena a muchos contactos.
 
 #### Red libre con Android
 
 Si no tenes acceso a internet, o no queres tenerlo :P podes armar un red propia, compartir archivos, chatear con bounjour, etc. A la vez a esta red pueden conectarse computadoras y otros dispositivos.
 
-* [Barnacle Wifi Tether](https://f-droid.org/repository/browse/?fdfilter=Barnacle%20Wifi%20Tether&fdid=net.szym.barnacle) arma tu propia red en malla con android.
+* [Barnacle Wifi Tether](https://f-droid.org/repository/browse/?fdfilter=Barnacle%20Wifi%20Tether&fdid=net.szym.barnacle) arma tu propia red en malla con Android.
 * [Share via http](https://f-droid.org/repository/browse/?fdfilter=share%20via%20http&fdid=com.MarcosDiez.shareviahttp) comparte archivos en la red.
 
 #### Comunicación segura
@@ -119,18 +119,20 @@ Estos métodos de comunicación pueden usarse tanto en internet como en redes li
 
 ### Linterna estroboscopica
 
-Estas luces se usa para control mental, inducir al sueño o poner en estado de trance en las velocidades adecuadas producen estado de calma, somnolencia o la sensación de falta de tiempo.
+Estas luces se usa para control mental, inducir al sueño o poner en estado de trance en las velocidades adecuadas producen estado de calma, somnolencia o la sensación de falta de tiempo. 
+En las frecuencias entre 5 HZ a 7 HZ produce un estado de calma
+
 
 ![circuito](planos/555_Estroboscopica.png)
 
-Podemos modifiar una lintera que use entre 5v a 12v con este circuito.
+Podemos modificar una linterna que use entre 5v a 12v con este circuito.
 
 * uno o más led (de la linterna)
 * circuito integrado 555
 * resistencias de 47k, 82k y 1k
-* capacitor electrolitico 1 mf (micro faradio)
-* capacitor ceramico 1 mf
-* bateria o pilas de entre 5v a 12v (baterias de la linterna)
+* capacitor electrolítico 1 mf (micro faradio)
+* capacitor cerámico 1 mf
+* batería o pilas de entre 5v a 12v (baterías de la linterna)
 
 _Estos componentes se pueden comprar en cualquier casa de electrónica_
 
@@ -144,3 +146,4 @@ Hay un generador para Android, [binauralbeat](https://f-droid.org/repository/bro
  * traducir
 * barricada un hosteable
 * Referencia a los italiano que se protegían de los policías
+* Corregir el color de la acuarela
