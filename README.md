@@ -9,7 +9,7 @@ Lo que necesita un activista del siglo XXI
 * Casco y protección para la bici para protegerse de la represión
 * Pañuelo en la cara o pasa montaña: contra el [gas lacrimógeno](#gas-lacrimógeno) y el [reconocimiento facial](#reconocimiento-fcial)
 * Guante de cuero curtido, para sostener las bombas de gas lacrimógeno
-* Ropa de la [gratisferia](Gratiferia.md) para que no te identifiquen con ella y taparte la cara
+* Ropa de la [gratisferia](textos/Gratiferia.md) para que no te identifiquen con ella y taparte la cara
 * Cámara grabando y transmitiendo en vivo
 * Teléfono con [ManifestDroid](#manifestdroid): comunicación criptográfica (SMS, llamadas, chat y voip), publicar fotos sin exponer a los manifestantes, etc.
 * Botella con vinagre o jugo de limón: para protegerse del [gas lacrimógeno](#gas-lacrimgeno)
@@ -45,7 +45,7 @@ En Android  podemos usar el programas [ObscuraCam](https://guardianproject.info/
 
 * Programa para tapar caras en html5
 
-[Leer más](SIBIOS.md)
+[Leer más](textos/SIBIOS.md)
 
 ### Protección para documentos con RFID
 
@@ -69,7 +69,7 @@ Este porta SUBE bloquea la tarjeta así no es detectable a larga distancia. Para
 	
 ![porta sube](planos/porta_sube.png)
 
-[Leer más](SUBE.md)
+[Leer más](textos/SUBE.md)
 
 ### ManifestDroid
 
@@ -96,7 +96,7 @@ Los proxys nos permite pasar por la red sin que nadie pueda ver que estamos haci
 
 * [ObscuraCam](https://guardianproject.info/apps/obscuracam/) protege a los manifestantes y borra la data de GPS, modelo de celular cuando compartís sus fotos internet.
 * [c:geo](https://f-droid.org/repository/browse/?fdfilter=osm&fdid=cgeo.geocaching) mapas para coordinar se en las calles.
-* [Multi Sms](https://f-droid.org/repo/com.hectorone.multismssender_13.apk) enviar SMS en cadena a muchos contactos.
+* [Multi Sms](http://f-droid.org/repository/browse/?fdfilter=sms&fdid=com.hectorone.multismssender) enviar SMS en cadena.
 
 #### Red libre con Android
 
