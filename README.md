@@ -29,16 +29,16 @@ En una situación de verse afectado de forma real o potencial por este tipo de a
 
 En el 2011 Cristina Fernández de Kirchner emitió un Decreto ordenando la creación del Sistema Federal de Identificación Biométrica (SIBIOS), un servicio de identificación biométrica centralizado, con cobertura nacional, que permitirá a las agencias de seguridad hacer “referencias cruzadas” de información con datos biométricos, con la posibilidad de vincular el sistema de registro facial obtenido a través de las cámaras de vigilancia en la vía pública con las imágenes obtenidas a través de sistema SIBIOS.
 
-Tan solo en la Ciudad de Buenos Aires las [cámaras de seguridad](http://camaras.buenosaires.gob.ar/) superan las mil.
-Aunque parezca de ciencia ficción el reconocimiento de rostros es cada más simple y barato. Además las redes sociales con reconocimiento fácil (facebook, google+, flickr, etc) son cada vez más populares y la actualización permanente por parte de sus usuarios mejora la base de datos permanentemente.
+Ya en la Ciudad de Buenos Aires las [cámaras de seguridad](http://camaras.buenosaires.gob.ar/) superan las mil y el reconocimiento de rostros es cada más simple y barato. Además las redes sociales con reconocimiento fácil (facebook, google+, flickr, etc) son cada vez más populares y la actualización permanente por parte de sus usuarios mejora las bases de datos permanentemente.
 
 #### ¿Que podemos hacer?
 
 * No etiquetar fotos
-* Bloquear o deshabilitar las cámaras
+* Bloquear o deshabilitar las cámaras de seguridad
 * Solo compartir fotos de manifestaciones con rostro borrados
+* Borrar datos de localización y metadatos de las fotos.
 
-Para Android esta el programas [ObscuraCam](https://guardianproject.info/apps/obscuracam/) que tapa las caras de forma automática y permite poner imágenes en lugar de los rostros.
+En Android  podemos usar el programas [ObscuraCam](https://guardianproject.info/apps/obscuracam/) que tapa las caras de forma automática.
 
 ##### Falta
 
@@ -120,23 +120,23 @@ Estos métodos de comunicación pueden usarse tanto en internet como en redes li
 ### Linterna estroboscopica
 
 Estas luces se usa para control mental, inducir al sueño o poner en estado de trance en las velocidades adecuadas producen estado de calma, somnolencia o la sensación de falta de tiempo. 
-En las frecuencias entre 5 HZ a 7 HZ produce un estado de calma
-
+En las frecuencias entre 5 HZ a 7 HZ produce un estado de calma, eso es lo que intenta generar el este circuito.
+Más popularmente se usan como efecto optico para ilumnación, aunque las frecuencias que usan son mayores.
 
 ![circuito](planos/555_Estroboscopica.png)
 
 Podemos modificar una linterna que use entre 5v a 12v con este circuito.
 
-* uno o más led (de la linterna)
-* circuito integrado 555
-* resistencias de 47k, 82k y 1k
-* capacitor electrolítico 1 mf (micro faradio)
-* capacitor cerámico 1 mf
-* batería o pilas de entre 5v a 12v (baterías de la linterna)
+* Uno o más led (de la linterna)
+* Circuito integrado 555
+* Resistencias de 47k, 82k y 1k
+* Capacitor electrolítico 1 mf (micro faradio)
+* Capacitor cerámico 1 mf
+* Batería o pilas de entre 5v a 12v (baterías de la linterna)
 
 _Estos componentes se pueden comprar en cualquier casa de electrónica_
 
-Además podes mejorar el efecto con sonidos binaureal amplificado con un megáfono. Se puede reproducirlo "debajo" de música o cuando alguien habla en los posible este sonido tiene que ser escuchado inconscientemente
+Además podes mejorar el efecto con sonidos binaureal amplificado con un megáfono. Se puede reproducirlo "debajo" de música o cuando alguien habla en los posible este sonido tiene que ser escuchado inconscientemente.
 Hay un generador para Android, [binauralbeat](https://f-droid.org/repository/browse/?fdfilter=binaural&fdid=com.ihunda.android.binauralbeat), que esta disponible en [f-droid](https://f-droid.org/)
 
 ## Quehaceres
