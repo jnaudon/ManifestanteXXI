@@ -4,7 +4,6 @@ Lo que necesita un activista del siglo XXI
 ![Poster](poster/poster_revolucionario_de_accion_chico.png)
 
 
-
 ## Detalles
 
 * Casco y proteccion para la bici para protegerse de la represión
@@ -21,11 +20,11 @@ Lo que necesita un activista del siglo XXI
 
 ### Gas lacrimógeno
 
-En una situación de verse afectado de forma real o potencial por este tipo de armas, es necesario conocer las medidas utilizadas para mantener el control de la situación. No existe un protocolo unificado, pero suelen darse varios consejos:
+En una situación de verse afectado de forma real o potencial por este tipo de armas, es necesario conocer las medidas utilizadas para mantener el control de la situación. 
 
 - Antes de que el gas se aproxime, protegerse la nariz y la boca con un trapo empapado de vinagre o jugo de limón.
 - Evitar que el gas alcance los ojos, para ello se pueden llevar preparadas gafas de buceo o en todo caso cerrarlos y llevarlos hacia el suelo, ya que el gas se disipa hacia arriba. 
-- Generalmente, la bomba se puede coger y lanzar a otra dirección, aunque hay que protegerse las manos con un paño húmedo grueso o guantes de protección, ya que la bomba se calienta hasta alcanzar altas temperaturas, además, hay que considerar que, quien la tome se verá rodeado de gas momentáneamente.
+- Generalmente, la bomba se puede agarra y lanzar a otra dirección, aunque hay que protegerse las manos con un paño húmedo grueso o guantes de protección, ya que la bomba se calienta hasta alcanzar altas temperaturas, además, hay que considerar que, quien la tome se verá rodeado de gas momentáneamente.
 
 ### Reconocimiento fácil
 
@@ -37,8 +36,10 @@ Aunque parezca de ciencia ficción el reconocimiento de rostros es cada más sim
 #### ¿Que podemos hacer?
 
 * No etiquetar fotos
-* Bloquear o de habilitar las cámaras
+* Bloquear o deshabilitar las cámaras
 * Solo compartir fotos de manifestaciones con rostro ocultos
+
+Para Android esta el programas [Obscura Cam](https://guardianproject.info/apps/obscuracam/) que tapa las caras de forma automatica y permite poner imagenes en lugar de los rostros.
 
 ##### Falta
 
@@ -55,28 +56,33 @@ Este sistema viola el derecho a la privacidad y al anonimato, el Estado no deber
 
 En algunos paises ya se a usado este sistema para identificar manifestantes, ya que los lectores (RFID) pueden ser leidos a la distancia.
 
-#### ¿Que podemos hacer?
+#### Estuche para la SUBE
 
-Algunas de las cosas que se pueden hacer para contrarestar esto es no usar estos sistemas
+![porta sube](circuitos/porta_sube.png)
+
+Podes hacerlo cortando un tetra pak y pegandolo con cinta
+
+#### ¿Que podemos hacer?
 
 * No usar este tipo de identificaciones
 * No renovar el DNI
 * Intercambiar tarjetas SUBE
-* Funda de aluminio, se pueden hacer unas muy fácilmente con tetrapac
+* Funda de aluminio, se pueden hacer unas muy fácilmente con tetra pak
 
 #### Falta
 
 * en que pais lo usan
+* instrucciones para el tetrapac
 
 [Leer más](SUBE.md)
 
-### [ManifestDroid](manifestdroid/)
+### ManifestDroid
 
 Tanto en las computadoras como los dispositivos portátiles (celulares, pad, tablet, etc) estamos muy mal acostumbrados a comunicarnos de modo inseguro, conectándonos a cualquier red disponible, comunicarnos y navegar sin encriptar, pudiendo cualquier persona cercana a nosotros interceptar lo que estamos haciendo, y ademas la compañía de celular o internet pueden hacerlo todo el tiempo. 
 
 Para solucionar este problema se pueden usar varias tecnologías de encriptación, tuneles y proxys en particular para dispositivos que usan **Android** solamente usando software libre muy fáciles de instalar y usar.
 
-La encriptación es como si inventáramos nuestro propio idioma para hablar con una persona el particular, aun así para nosotros sigue siendo totalmente legible. Esto sirve para que nadie pueda interceptar la conversación. Algo muy simple que se puede hacer es navegar en paginas con _https_ en lugar de _http_. Esto funciona en muchas paginas populares.
+La encriptación es como si inventáramos nuestro propio idioma para hablar con una persona el particular, aun así para nosotros sigue siendo totalmente legible. Esto sirve para que nadie pueda interceptar la conversación. Algo muy simple que se puede hacer es navegar en paginas con _https_ en lugar de _http_, esto funciona en muchas paginas populares.
 
 Los proxys nos permite pasar por la red sin que nadie pueda ver que estamos haciendo. Uno de los mas populares es TOR que su particularidad es que esta compuesto por miles de computadoras que se coordinan de modo descentralizado, haciéndolo muy seguro y confiable.
 
@@ -101,7 +107,7 @@ Los proxys nos permite pasar por la red sin que nadie pueda ver que estamos haci
 
 #### Red libre con Android
 
-Si no tenes acceso a internet, o no queres tenerlo :P podes armar un red propia, compartir archivos, chatear con bounjour, etc.
+Si no tenes acceso a internet, o no queres tenerlo :P podes armar un red propia, compartir archivos, chatear con bounjour, etc. A la vez a esta red pueden conectarse computadoras y otros dispositivos.
 
 * [Barnacle Wifi Tether](http://f-droid.org/repository/browse/?fdfilter=Barnacle%20Wifi%20Tether&fdid=net.szym.barnacle) arma tu propia red en malla con android.
 * [Share via http](http://f-droid.org/repository/browse/?fdfilter=share%20via%20http&fdid=com.MarcosDiez.shareviahttp) comparte archivos en la red.
@@ -115,13 +121,14 @@ Estos métodos de comunicación pueden usarse tanto en internet como en redes li
 
 ### Linterna estroboscopica
 
-Estas luces se usa para control mental inducir al sueño o poner en estado de trance en las velocidades adecuadas producen estado de calma, somnolencia o la sensación de falta de tiempo.
+Estas luces se usa para control mental, inducir al sueño o poner en estado de trance en las velocidades adecuadas producen estado de calma, somnolencia o la sensación de falta de tiempo.
 
 ![circuito](circuitos/555_Estroboscopica.png)
+[ver detalles](circuitos/555_Estroboscopica.pdf)
 
 _**Nota:** estas luces se venden comercialmente para iluminación de fiestas, aunque puede ser que las velocidades no sean las adecuadas._
 
-Además podes mejorar el efecto con sonidos binaureal amplificado con un megáfono. Podes reproducirlo "debajo" de una canción o cuando alguien habla en los posible este sonido tiene que ser escuchado inconscientemente
+Además podes mejorar el efecto con sonidos binaureal amplificado con un megáfono. Se puede reproducirlo "debajo" de música o cuando alguien habla en los posible este sonido tiene que ser escuchado inconscientemente
 Hay un generador para Android, [binauralbeat](https://f-droid.org/repository/browse/?fdfilter=binaural&fdid=com.ihunda.android.binauralbeat), que esta disponible en [f-droid](https://f-droid.org/)
 
 ## Quehaceres
@@ -130,6 +137,4 @@ Hay un generador para Android, [binauralbeat](https://f-droid.org/repository/bro
  * exportar en pixelar
  * traducir
 * barricada un hosteable
-* Pasar articulos a markdown (por la mitad)
- * Correjir enlaces
 * Referencia a los italiano que se protegian de los policias
