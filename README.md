@@ -6,7 +6,7 @@ Lo que necesita un activista del siglo XXI
 
 ## Detalles
 
-* Casco y proteccion para la bici y protegerse de la represión
+* Casco y proteccion para la bici para protegerse de la represión
 * Pañuelo en la cara o pasamontaña: contra el [gas lacrimógeno](#gas-lacrimgeno) y el [reconocimento fácial](#reconocimiento-fcial)
 * Guante de cuero curtido, para sostener las bombas de gas lacrimógeno
 * Ropa de la [gratisferia](Gratiferia.md) para que no te identifiquen con ella y taparte la cara
@@ -45,8 +45,8 @@ Los proxys nos permite pasar por la red sin que nadie pueda ver que estamos haci
 #### Internet
 
 * [Orbot](http://f-droid.org/repository/browse/?fdfilter=browser&fdid=org.torproject.android) TOR para android
-* [Orweb](http://f-droid.org/repository/browse/?fdfilter=browser&fdid=info.guardianproject.browser) Nave usando TOR
-* [Addblock](http://f-droid.org/repository/browse/?fdfilter=adblock&fdid=org.adblockplus.android) quita la publicidad de las paginas web.
+* [Orweb](http://f-droid.org/repository/browse/?fdfilter=browser&fdid=info.guardianproject.browser) nave usando TOR
+* [Adblock](http://f-droid.org/repository/browse/?fdfilter=adblock&fdid=org.adblockplus.android) quita la publicidad de las paginas web.
 
 #### Telefonía convencional
 
@@ -56,7 +56,7 @@ Los proxys nos permite pasar por la red sin que nadie pueda ver que estamos haci
 #### Difusión y coordinación
 
 * [Obscura cam](https://guardianproject.info/apps/obscuracam/) protege a los manifestantes y borra la data de GPS, modelo de celular cuando compartís sus fotos internet.
-* [c:geo](http://f-droid.org/repository/browse/?fdfilter=osm&fdid=cgeo.geocaching) Mapas para coordinarse en las calles.
+* [c:geo](http://f-droid.org/repository/browse/?fdfilter=osm&fdid=cgeo.geocaching) mapas para coordinarse en las calles.
 * [Multi Sms](https://f-droid.org/repo/com.hectorone.multismssender_13.apk) enviar SMS en cadena a muchos contactos.
 
 #### Red libre con Android
@@ -71,7 +71,7 @@ Si no tenes acceso a internet, o no queres tenerlo :P podes armar un red propia,
 Estos métodos de comunicación pueden usarse tanto en internet como en redes libres
 
 * [Gibberbot](https://guardianproject.info/apps/gibber/) chatea en bounjour, jabber, facebook, googletalk de modo [encriptado](http://wiki.partidopirata.com.ar/Gibberbot_con_OTR) y seguro.
-* [CsipSimple](https://code.google.com/p/csipsimple/) telefonía por internet (VOIP) totalmente encriptada.
+* [CsipSimple](https://code.google.com/p/csipsimple/) telefonía por internet (VOIP) totalmente encriptada, podes crear un cuenta local para la red libre y una cuenta en [ekiga.org](https://www.ekiga.net/?page=register) para acceso desde internet.
 
 ### Linterna estroboscopica
 
@@ -92,5 +92,5 @@ Hay un generador para Android, [binauralbeat](https://f-droid.org/repository/bro
 * barricada un hosteable
 * Pasar articulos a markdown (por la mitad)
  * Correjir enlaces
-* Diagrama del estroboscopico con un 505
+* Diagrama del estroboscopico con un 555
 * Referencia a los italiano que se protegian de los policias
