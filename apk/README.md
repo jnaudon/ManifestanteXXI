@@ -6,10 +6,10 @@ https://f-droid.org/repo/net.szym.barnacle_39.apk
 https://f-droid.org/repo/com.ihunda.android.binauralbeat_39.apk
 https://f-droid.org/repo/org.torproject.android_51.apk
 https://f-droid.org/repo/info.guardianproject.browser_18.apk
+https://f-droid.org/repo/com.hectorone.multismssender_13.apk
 https://guardianproject.info/releases/gibberbot-latest.apk
 https://guardianproject.info/repo/ObscuraCam-1.2-FINAL.apk
 http://nightlies.csipsimple.com/stable/CSipSimple-latest-trunk.apk
-https://f-droid.org/repo/com.hectorone.multismssender_13.apk
 
 ## Extras
 
@@ -19,6 +19,13 @@ https://github.com/downloads/guardianproject/ProxyMob/proxymob-addon-0.0.5.xpi
 https://f-droid.org/repo/se.johanhil.duckduckgo_1.apk
 
 http://dl.frostwire.com/android/1.0.7/frostwire.apk
+
+
+# Nota
+
+En caso de pad, minipad, tablet, muchos de los programas para SMS y telefonia convencional no funcionan.
+
+====
 
 #Quehaceres
 
