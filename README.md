@@ -3,6 +3,7 @@ Lo que necesita un activista del siglo XXI
 
 ![Póster](poster/poster_revolucionario_de_accion_chico.png)
 
+
 ## Detalles
 
 * Casco y protección para la bici para protegerse de la represión
@@ -68,10 +69,6 @@ Este porta SUBE bloquea la tarjeta así no es detectable a larga distancia. Para
 	
 ![porta sube](planos/porta_sube.png)
 
-#### Falta
-
-* en que país lo usan para verificar a los manifestantes
-
 [Leer más](SUBE.md)
 
 ### ManifestDroid
@@ -120,8 +117,9 @@ Estos métodos de comunicación pueden usarse tanto en internet como en redes li
 ### Linterna estroboscopica
 
 Estas luces se usa para control mental, inducir al sueño o poner en estado de trance en las velocidades adecuadas producen estado de calma, somnolencia o la sensación de falta de tiempo. 
-En las frecuencias entre 5 HZ a 7 HZ produce un estado de calma, eso es lo que intenta generar el este circuito.
-Más popularmente se usan como efecto optico para ilumnación, aunque las frecuencias que usan son mayores.
+En las frecuencias entre 5hz a 7hz produce un estado de calma, eso es lo que intenta generar el este circuito.
+
+Estas luces son usadas popularmente para generar efecto optico en ilumnación, aunque las frecuencias que usan son mayores.
 
 ![circuito](planos/555_Estroboscopica.png)
 
@@ -130,8 +128,8 @@ Podemos modificar una linterna que use entre 5v a 12v con este circuito.
 * Uno o más led (de la linterna)
 * Circuito integrado 555
 * Resistencias de 47k, 82k y 1k
-* Capacitor electrolítico 1 mf (micro faradio)
-* Capacitor cerámico 1 mf
+* Capacitor electrolítico 1mf
+* Capacitor cerámico 1mf
 * Batería o pilas de entre 5v a 12v (baterías de la linterna)
 
 _Estos componentes se pueden comprar en cualquier casa de electrónica_
@@ -147,3 +145,5 @@ Hay un generador para Android, [binauralbeat](https://f-droid.org/repository/bro
 * barricada un hosteable
 * Referencia a los italiano que se protegían de los policías
 * Corregir el color de la acuarela
+
+![Creado para la comunidad compartir con la misma licencia](http://creativecommons.org.ar/media/uploads/licencias/by-sa-125px.png)
