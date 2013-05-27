@@ -26,21 +26,28 @@ En una situación de verse afectado de forma real o potencial por este tipo de a
 - Evitar que el gas alcance los ojos, para ello se pueden llevar preparadas gafas de buceo o en todo caso cerrarlos y llevarlos hacia el suelo, ya que el gas se disipa hacia arriba. 
 - Generalmente, la bomba se puede coger y lanzar a otra dirección, aunque hay que protegerse las manos con un paño húmedo grueso o guantes de protección, ya que la bomba se calienta hasta alcanzar altas temperaturas, además, hay que considerar que, quien la tome se verá rodeado de gas momentáneamente.
 
-### Reconocimiento fácil y RFID
+### Reconocimiento fácil
 
 En el 2011 Cristina Fernández de Kirchner emitió un Decreto ordenando la creación del Sistema Federal de Identificación Biométrica (SIBIOS), un servicio de identificación biométrica centralizado, con cobertura nacional, que permitirá a las agencias de seguridad hacer “referencias cruzadas” de información con datos biométricos, con la posibilidad de vincular el sistema de registro facial obtenido a través de las cámaras de vigilancia en la vía pública con las imágenes obtenidas a través de sistema SIBIOS.
 
-#### Tarjeta SUBE
-
-**El sistema SUBE genera un registro de todos los viajes que realiza la persona en los que paga con la tarjeta** y luego los guarda en una base de datos controlada por la Secretaría de Transporte.
-
-A pesar de que para obtener la tarjeta siempre fue necesario dar los datos personales (incluyendo el DNI) y a pesar de que utilizar la tarjeta deja un registro de los viajes que realiza el usuario, hasta ahora no se había planteado laobligatoriedad del sistema para acceder al subsidio.
-
-Si bien en un principio podría ser una idea razonable establecer un subsidio diferencial para los sectores más carenciados o la imposición de una tarifa de tramo único para quienes requieren más de un medio de transporte, definitivamente su implementación a través del sistema SUBE no lo es. **La recolección por parte del Estado de los datos de transporte de todos los ciudadanos y su posterior guarda en una base de datos, es una medida abusiva e innecesaria que invade la privacidad y viola el derecho a la intimidad del que gozan los ciudadanos.**
-
-El problema central es que, más allá de las medidas evasoras que puedan implementar los ciudadanos para ejercer su justo derecho a la privacidad y al anonimato, el Estado no debería recabar este tipo de información por la sensibilidad de dichos datos, por el exceso en el ámbito de recolección y por la posibilidad real de implementar numerosos esquemas que no impliquen el control sobre los ciudadanos.
+Tan solo en la **Ciudad de Buenos Aires** las [camaras de seguridad](http://camaras.buenosaires.gob.ar/) superan las mil.
+Aunque parezca de ciencia ficción el reconocimiento de rostros es cada más mas simple y barato. Además las redes sociales con reconocimiento fácil (facebook, google+, flickr, etc) son cada vez más populares y la actualización permanente por parte de sus usuarios mejora la base de datos permanentemente.
 
 [Leer más](SIBIOS.md)
+
+### Protección para documentos con RFID
+
+Los sistemas SUBE, AFA plus y los nuevos documentos de identidad dan la posibilidad identificar a personas a distancia. 
+Y en la SUBE  genera un registro de todos los viajes que realiza la persona en los que paga con la tarjeta y luego los guarda en una base de datos controlada por la Secretaría de Transporte. 
+
+Este sistema viola el derecho a la privacidad y al anonimato, el Estado no debería recabar este tipo de información por la sensibilidad de dichos datos, por el exceso en el ámbito de recolección y por la posibilidad real de implementar numerosos esquemas que no impliquen el control sobre los ciudadanos.
+
+En algunos paises ya se a usado este sistema para identificar manifestantes, ya que los lectores (RFID) pueden ser leidos a la distancia.
+
+* en que pais lo usan
+* quitar tanto dato nacional
+
+[Leer más](SUBE.md)
 
 ### [ManifestDroid](manifestdroid/)
 
@@ -51,6 +58,8 @@ Para solucionar este problema se pueden usar varias tecnologías de encriptació
 La encriptación es como si inventáramos nuestro propio idioma para hablar con una persona el particular, aun así para nosotros sigue siendo totalmente legible. Esto sirve para que nadie pueda interceptar la conversación. Algo muy simple que se puede hacer es navegar en paginas con _https_ en lugar de _http_. Esto funciona en muchas paginas populares.
 
 Los proxys nos permite pasar por la red sin que nadie pueda ver que estamos haciendo. Uno de los mas populares es TOR que su particularidad es que esta compuesto por miles de computadoras que se coordinan de modo descentralizado, haciéndolo muy seguro y confiable.
+
+[Leer más](manifestdroid/)
 
 #### Internet
 
