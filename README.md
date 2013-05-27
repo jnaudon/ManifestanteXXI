@@ -53,15 +53,7 @@ Y en la SUBE genera un registro de todos los viajes que realiza y los guarda en 
 
 Este sistema viola el derecho a la privacidad y al anonimato, el Estado no debería recabar este tipo de información por la sensibilidad de dichos datos, por el exceso en el ámbito de recolección y por la posibilidad real de implementar numerosos esquemas que no impliquen el control sobre los ciudadanos.
 
-En algunos países ya se a usado este sistema para identificar manifestantes, ya que los lectores (RFID) pueden ser leídos a la distancia.
-
-#### Estuche para la SUBE
-
-Este porta SUBE bloquea la tarjeta así no es detectable a larga distancia. Para sacar el boleto hay que sacarla de su estuche.
-	
-![porta sube](planos/porta_sube.png)
-
-Podes hacerlo cortando un tetra pak y pegándolo con cinta. 
+En algunos países ya se a usado este sistema para identificar manifestantes, ya que los lectores (RFID) pueden ser leídos a la distancia. Esto puede verse en el documental "[La Police Totale](http://websuterfuge.free.fr/rfid.html)" 
 
 #### ¿Que podemos hacer?
 
@@ -70,9 +62,15 @@ Podes hacerlo cortando un tetra pak y pegándolo con cinta.
 * Intercambiar tarjetas SUBE
 * Funda de aluminio, se pueden hacer unas muy fácilmente con tetra pak
 
+##### Estuche para la SUBE
+
+Este porta SUBE bloquea la tarjeta así no es detectable a larga distancia. Para sacar el boleto hay que sacarla de su estuche. Podes hacerlo cortando un tetra pak y pegándolo con cinta.
+	
+![porta sube](planos/porta_sube.png)
+
 #### Falta
 
-* en que país lo usan
+* en que país lo usan para verificar a los manifestantes
 
 [Leer más](SUBE.md)
 
@@ -86,13 +84,11 @@ La criptografía es como si inventáramos nuestro propio idioma para hablar con 
 
 Los proxys nos permite pasar por la red sin que nadie pueda ver que estamos haciendo. Uno de los mas populares es TOR que su particularidad es que esta compuesto por miles de computadoras que se coordinan de modo descentralizado, haciéndolo muy seguro y confiable.
 
-[Leer más](manifestdroid/)
-
 #### Internet
 
-* [Orbot](http://f-droid.org/repository/browse/?fdfilter=browser&fdid=org.torproject.android) TOR para android
-* [Orweb](http://f-droid.org/repository/browse/?fdfilter=browser&fdid=info.guardianproject.browser) nave usando TOR
-* [Adblock](http://f-droid.org/repository/browse/?fdfilter=adblock&fdid=org.adblockplus.android) quita la publicidad de las paginas web.
+* [Orbot](https://f-droid.org/repository/browse/?fdfilter=browser&fdid=org.torproject.android) TOR para android
+* [Orweb](https://f-droid.org/repository/browse/?fdfilter=browser&fdid=info.guardianproject.browser) nave usando TOR
+* [Adblock](https://f-droid.org/repository/browse/?fdfilter=adblock&fdid=org.adblockplus.android) quita la publicidad de las paginas web.
 
 #### Telefonía convencional
 
@@ -102,15 +98,15 @@ Los proxys nos permite pasar por la red sin que nadie pueda ver que estamos haci
 #### Difusión y coordinación
 
 * [ObscuraCam](https://guardianproject.info/apps/obscuracam/) protege a los manifestantes y borra la data de GPS, modelo de celular cuando compartís sus fotos internet.
-* [c:geo](http://f-droid.org/repository/browse/?fdfilter=osm&fdid=cgeo.geocaching) mapas para coordinarse en las calles.
+* [c:geo](https://f-droid.org/repository/browse/?fdfilter=osm&fdid=cgeo.geocaching) mapas para coordinarse en las calles.
 * [Multi Sms](https://f-droid.org/repo/com.hectorone.multismssender_13.apk) enviar SMS en cadena a muchos contactos.
 
 #### Red libre con Android
 
 Si no tenes acceso a internet, o no queres tenerlo :P podes armar un red propia, compartir archivos, chatear con bounjour, etc. A la vez a esta red pueden conectarse computadoras y otros dispositivos.
 
-* [Barnacle Wifi Tether](http://f-droid.org/repository/browse/?fdfilter=Barnacle%20Wifi%20Tether&fdid=net.szym.barnacle) arma tu propia red en malla con android.
-* [Share via http](http://f-droid.org/repository/browse/?fdfilter=share%20via%20http&fdid=com.MarcosDiez.shareviahttp) comparte archivos en la red.
+* [Barnacle Wifi Tether](https://f-droid.org/repository/browse/?fdfilter=Barnacle%20Wifi%20Tether&fdid=net.szym.barnacle) arma tu propia red en malla con android.
+* [Share via http](https://f-droid.org/repository/browse/?fdfilter=share%20via%20http&fdid=com.MarcosDiez.shareviahttp) comparte archivos en la red.
 
 #### Comunicación segura
 
@@ -119,25 +115,24 @@ Estos métodos de comunicación pueden usarse tanto en internet como en redes li
 * [Gibberbot](https://guardianproject.info/apps/gibber/) chatea en bounjour, jabber, facebook, googletalk de modo [criptografico](http://wiki.partidopirata.com.ar/Gibberbot_con_OTR) y seguro.
 * [CsipSimple](https://code.google.com/p/csipsimple/) telefonía por internet (VOIP) criptográfico, podes crear un cuenta local para la red libre y una cuenta en [ekiga.org](https://www.ekiga.net/?page=register) para acceso desde internet.
 
+[Leer más](manifestdroid/)
+
 ### Linterna estroboscopica
 
-Estas luces se usa para control mental, inducir al sueño o poner en estado de trance en las velocidades adecuadas producen estado de calma, somnolencia o la sensación de falta de tiempo. 
-
+Estas luces se usa para control mental, inducir al sueño o poner en estado de trance en las velocidades adecuadas producen estado de calma, somnolencia o la sensación de falta de tiempo.
 
 ![circuito](planos/555_Estroboscopica.png)
 
-#### Material
+Podemos modifiar una lintera que use entre 5v a 12v con este circuito.
 
-Podemos modifiar una lintera que use entre 5v a 12v y poner este circuito.
-
-_**Nota:** estas luces se venden comercialmente para iluminación de fiestas, aunque puede ser que las velocidades no sean las adecuadas._
-
-* uno o más led (de la linteran)
+* uno o más led (de la linterna)
 * circuito integrado 555
 * resistencias de 47k, 82k y 1k
 * capacitor electrolitico 1 mf (micro faradio)
-* capacitor ceramico 1 mf (optativo)
+* capacitor ceramico 1 mf
 * bateria o pilas de entre 5v a 12v (baterias de la linterna)
+
+_Estos componentes se pueden comprar en cualquier casa de electrónica_
 
 Además podes mejorar el efecto con sonidos binaureal amplificado con un megáfono. Se puede reproducirlo "debajo" de música o cuando alguien habla en los posible este sonido tiene que ser escuchado inconscientemente
 Hay un generador para Android, [binauralbeat](https://f-droid.org/repository/browse/?fdfilter=binaural&fdid=com.ihunda.android.binauralbeat), que esta disponible en [f-droid](https://f-droid.org/)
