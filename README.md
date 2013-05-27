@@ -70,9 +70,9 @@ Si no tenes acceso a internet, o no queres tenerlo :P podes armar un red propia,
 Estos métodos de comunicación pueden usarse tanto en internet como en redes libres
 
 * [Gibberbot](https://guardianproject.info/apps/gibber/) chatea en bounjour, jabber, facebook, googletalk de modo [encriptado](http://wiki.partidopirata.com.ar/Gibberbot_con_OTR) y seguro.
-* [CsipSimple](http://code.google.com/p/csipsimple/) telefonía por internet (VOIP) totalmente encriptada.
+* [CsipSimple](https://code.google.com/p/csipsimple/) telefonía por internet (VOIP) totalmente encriptada.
 
-Para buscar más software libre para Android podes hacerlo en [F-droid](http://f-droid.org/)
+Para buscar más software libre para Android podes hacerlo en [F-droid](https://f-droid.org/)
 
 ### Linterna estroboscopica
 
@@ -82,7 +82,8 @@ Estas luces se usa para control mental inducir al sueño o poner en estado de tr
 
 _**Nota:** estas luces se venden comercialmente para iluminación de fiestas, aunque puede ser que las velocidades no sean las adecuadas._
 
-Además podes mejorar el efecto con sonidos binaureal. Hay un generador [para Android](http://f-droid.org/repository/browse/?fdfilter=binaural&fdid=com.ihunda.android.binauralbeat). Obviamente vas a necesitar un amplificador o megáfono, podes ponerlo en "segundo plano" debajo de una canción o cuando alguien habla, este sonido tiene que ser escuchado inconscientemente
+Además podes mejorar el efecto con sonidos binaureal y amplificarlo con un megáfono. Podes reproducirlo "debajo" de una canción o cuando alguien habla en los posible este sonido tiene que ser escuchado inconscientemente
+Hay un generador para Android, [binauralbeat](https://f-droid.org/repository/browse/?fdfilter=binaural&fdid=com.ihunda.android.binauralbeat), que esta disponible en [F-droid](https://f-droid.org/)
 
 ## Quehaceres
 
