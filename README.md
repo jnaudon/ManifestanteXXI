@@ -33,9 +33,9 @@ En una situación de verse afectado de forma real o potencial por este tipo de a
 
 ### [ManifestDroid](manifestdroid/)
 
-Tanto en las computadoras como los dispositivos portátiles (celulares, pad, tablet, etc) estamos muy mal acostumbrados a comunicarnos de modo inseguro, conectándonos a cualquier red disponible, comunicarnos y navegar sin encriptar, pudiendo cualquier persona cercana a nosotros interceptar lo que estamos haciendo. A la vez siempre la compañía de celular o internet podrían hacer lo mismo.
+Tanto en las computadoras como los dispositivos portátiles (celulares, pad, tablet, etc) estamos muy mal acostumbrados a comunicarnos de modo inseguro, conectándonos a cualquier red disponible, comunicarnos y navegar sin encriptar, pudiendo cualquier persona cercana a nosotros interceptar lo que estamos haciendo, y ademas la compañía de celular o internet pueden hacerlo todo el tiempo. 
 
-Para solucionar este problema se pueden usar varias tecnologías de encriptación, tuneles y proxys en particular para dispositivos que usan **Android** donde son muy fáciles de instalar. 
+Para solucionar este problema se pueden usar varias tecnologías de encriptación, tuneles y proxys en particular para dispositivos que usan **Android** donde son muy fáciles de instalar, con software libre disponibles en [f-droid.org](https://f-droid.org/) y [guardianproject.info](https://guardianproject.info).
 
 La encriptación es como si inventáramos nuestro propio idioma para hablar con una persona el particular, aun así para nosotros sigue siendo totalmente legible. Esto sirve para que nadie pueda interceptar la conversación. Algo muy simple que se puede hacer es navegar en paginas con _https_ en lugar de _http_. Esto funciona en muchas paginas populares.
 
@@ -72,8 +72,6 @@ Estos métodos de comunicación pueden usarse tanto en internet como en redes li
 * [Gibberbot](https://guardianproject.info/apps/gibber/) chatea en bounjour, jabber, facebook, googletalk de modo [encriptado](http://wiki.partidopirata.com.ar/Gibberbot_con_OTR) y seguro.
 * [CsipSimple](https://code.google.com/p/csipsimple/) telefonía por internet (VOIP) totalmente encriptada.
 
-Para buscar más software libre para Android podes hacerlo en [F-droid](https://f-droid.org/)
-
 ### Linterna estroboscopica
 
 Estas luces se usa para control mental inducir al sueño o poner en estado de trance en las velocidades adecuadas producen estado de calma, somnolencia o la sensación de falta de tiempo.
@@ -82,8 +80,8 @@ Estas luces se usa para control mental inducir al sueño o poner en estado de tr
 
 _**Nota:** estas luces se venden comercialmente para iluminación de fiestas, aunque puede ser que las velocidades no sean las adecuadas._
 
-Además podes mejorar el efecto con sonidos binaureal y amplificarlo con un megáfono. Podes reproducirlo "debajo" de una canción o cuando alguien habla en los posible este sonido tiene que ser escuchado inconscientemente
-Hay un generador para Android, [binauralbeat](https://f-droid.org/repository/browse/?fdfilter=binaural&fdid=com.ihunda.android.binauralbeat), que esta disponible en [F-droid](https://f-droid.org/)
+Además podes mejorar el efecto con sonidos binaureal amplificado con un megáfono. Podes reproducirlo "debajo" de una canción o cuando alguien habla en los posible este sonido tiene que ser escuchado inconscientemente
+Hay un generador para Android, [binauralbeat](https://f-droid.org/repository/browse/?fdfilter=binaural&fdid=com.ihunda.android.binauralbeat), que esta disponible en [f-droid](https://f-droid.org/)
 
 ## Quehaceres
 
