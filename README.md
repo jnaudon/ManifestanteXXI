@@ -121,13 +121,21 @@ Estos métodos de comunicación pueden usarse tanto en internet como en redes li
 
 ### Linterna estroboscopica
 
-Estas luces se usa para control mental, inducir al sueño o poner en estado de trance en las velocidades adecuadas producen estado de calma, somnolencia o la sensación de falta de tiempo.
+Estas luces se usa para control mental, inducir al sueño o poner en estado de trance en las velocidades adecuadas producen estado de calma, somnolencia o la sensación de falta de tiempo. 
+_**Nota:** estas luces se venden comercialmente para iluminación de fiestas, aunque puede ser que las velocidades no sean las adecuadas._
 
 ![circuito](planos/555_Estroboscopica.png)
 
-[ver detalles](planos/555_Estroboscopica.pdf)
+#### Material
 
-_**Nota:** estas luces se venden comercialmente para iluminación de fiestas, aunque puede ser que las velocidades no sean las adecuadas._
+Podemos modifiar una lintera que use entre 5v a 12v y poner este circuito.
+
+uno o más led (de la linteran)
+circuito integrado 555
+resistencias de 47k, 82k y 1k
+capacitor electrolitico 1 mf (micro faradio)
+capacitor ceramico 1 mf (optativo)
+bateria o pilas de entre 5v a 12v (baterias de la linterna)
 
 Además podes mejorar el efecto con sonidos binaureal amplificado con un megáfono. Se puede reproducirlo "debajo" de música o cuando alguien habla en los posible este sonido tiene que ser escuchado inconscientemente
 Hay un generador para Android, [binauralbeat](https://f-droid.org/repository/browse/?fdfilter=binaural&fdid=com.ihunda.android.binauralbeat), que esta disponible en [f-droid](https://f-droid.org/)
