@@ -25,13 +25,13 @@ En una situación de verse afectado de forma real o potencial por este tipo de a
 - Evitar que el gas alcance los ojos, para ello se pueden llevar preparadas gafas de buceo o en todo caso cerrarlos y llevarlos hacia el suelo, ya que el gas se disipa hacia arriba. 
 - Generalmente, la bomba se puede coger y lanzar a otra dirección, aunque hay que protegerse las manos con un paño húmedo grueso o guantes de protección, ya que la bomba se calienta hasta alcanzar altas temperaturas, además, hay que considerar que, quien la tome se verá rodeado de gas momentáneamente.
 
-### Reconocimiento fácil
+### Reconocimiento fácil y RFID
 
 .. resumen ..
 
 [Leer más](SIBIOS.md)
 
-### ManifestDroid(manifestdroid/)
+### [ManifestDroid](manifestdroid/)
 
 Tanto en las computadoras como los dispositivos portátiles (celulares, pad, tablet, etc) estamos muy mal acostumbrados a comunicarnos de modo inseguro, conectándonos a cualquier red disponible, comunicarnos y navegar sin encriptar, pudiendo cualquier persona cercana a nosotros interceptar lo que estamos haciendo. A la vez siempre la compañía de celular o internet podrían hacer lo mismo.
 
@@ -64,7 +64,6 @@ Si no tenes acceso a internet, o no queres tenerlo :P podes armar un red propia,
 
 * [Barnacle Wifi Tether](http://f-droid.org/repository/browse/?fdfilter=Barnacle%20Wifi%20Tether&fdid=net.szym.barnacle) arma tu propia red en malla con android.
 * [Share via http](http://f-droid.org/repository/browse/?fdfilter=share%20via%20http&fdid=com.MarcosDiez.shareviahttp) comparte archivos en la red.
-* [Note Cipher](https://guardianproject.info/apps/) bloque de notas encriptado.
 
 #### Comunicación segura
 
@@ -77,9 +76,13 @@ Para buscar más software libre para Android podes hacerlo en [F-droid](http://f
 
 ### Linterna estroboscopica
 
+Estas luces se usa para control mental inducir al sueño o poner en estado de trance en las velocidades adecuadas producen estado de calma, somnolencia o la sensación de falta de tiempo.
+
 [circuito]
 
-.. resumen ..
+_**Nota:** estas luces se venden comercialmente para iluminación de fiestas, aunque puede ser que las velocidades no sean las adecuadas._
+
+Además podes mejorar el efecto con sonidos binaureal. Hay un generador [para Android](http://f-droid.org/repository/browse/?fdfilter=binaural&fdid=com.ihunda.android.binauralbeat). Obviamente vas a necesitar un amplificador o megáfono, podes ponerlo en "segundo plano" debajo de una canción o cuando alguien habla, este sonido tiene que ser escuchado inconscientemente
 
 ## Quehaceres
 
@@ -87,8 +90,7 @@ Para buscar más software libre para Android podes hacerlo en [F-droid](http://f
  * exportar en pixelar
  * traducir
 * barricada un hosteable
-* Pasar articulos a markdown
+* Pasar articulos a markdown (por la mitad)
  * Correjir enlaces
 * Diagrama del estroboscopico con un 505
 * Referencia a los italiano que se protegian de los policias
-
