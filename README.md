@@ -112,7 +112,7 @@ Estos métodos de comunicación pueden usarse tanto en internet como en redes li
 * [Gibberbot](https://guardianproject.info/apps/gibber/) chatea en bounjour, jabber, facebook, googletalk de modo [criptografico](http://wiki.partidopirata.com.ar/Gibberbot_con_OTR) y seguro.
 * [CsipSimple](https://code.google.com/p/csipsimple/) telefonía por internet (VOIP) criptográfico, podes crear un cuenta local para la red libre y una cuenta en [ekiga.org](https://www.ekiga.net/?page=register) para acceso desde internet.
 
-[Leer más](manifestdroid/)
+[Leer más](apk/)
 
 ### Linterna estroboscopica
 
