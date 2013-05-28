@@ -3,7 +3,6 @@ Lo que necesita un activista del siglo XXI
 
 ![Póster](poster/poster_revolucionario_de_accion_chico.png)
 
-
 ## Detalles
 
 * Casco y protección para la bici para protegerse de la represión
@@ -54,7 +53,7 @@ Y en la SUBE genera un registro de todos los viajes que realiza y los guarda en 
 
 Este sistema viola el derecho a la privacidad y al anonimato, el Estado no debería recabar este tipo de información por la sensibilidad de dichos datos, por el exceso en el ámbito de recolección y por la posibilidad real de implementar numerosos esquemas que no impliquen el control sobre los ciudadanos.
 
-En algunos países ya se a usado este sistema para identificar manifestantes, ya que los lectores (RFID) pueden ser leídos a la distancia. Esto puede verse en el documental "[La Police Totale](http://websuterfuge.free.fr/rfid.html)" 
+En algunos países ya se a usado este sistema para identificar manifestantes, ya que los lectores (RFID) pueden ser leídos a la distancia, como puede verse en el documental frances "[La Police Totale](http://websuterfuge.free.fr/rfid.html)"
 
 #### ¿Que podemos hacer?
 
@@ -146,4 +145,10 @@ Hay un generador para Android, [binauralbeat](https://f-droid.org/repository/bro
 * Referencia a los italiano que se protegían de los policías
 * Corregir el color de la acuarela
 
-![Creado para la comunidad compartir con la misma licencia](http://creativecommons.org.ar/media/uploads/licencias/by-sa-125px.png)
+#Licencia
+
+Se permite el uso comercial de la obra y de las posibles obras derivadas, la distribución de las cuales se debe hacer con una licencia igual a la que regula la obra original.
+
+![GFDL](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/GFDL_Logo.svg/100px-GFDL_Logo.svg.png) ![Creado para la comunidad compartir con la misma licencia](http://creativecommons.org.ar/media/uploads/licencias/by-sa-125px.png)
+
+
