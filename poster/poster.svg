@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1787215"
-     inkscape:cx="598.76594"
-     inkscape:cy="683.64677"
+     inkscape:zoom="0.24497723"
+     inkscape:cx="546.35073"
+     inkscape:cy="729.1932"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -36,7 +36,7 @@
      inkscape:window-x="-1"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true">
     <sodipodi:guide
        orientation="1,0"
@@ -83,39 +83,28 @@
     <image
        sodipodi:absref="/home/moteado/ManifestanteXXI/poster/poster_revolucionario_de_accion.png"
        xlink:href="poster_revolucionario_de_accion.png"
-       width="918.23132"
-       height="1282"
-       id="image3066"
+       y="-288.35208"
        x="70.027382"
-       y="-256.35208" />
-    <flowRoot
+       id="image3066"
+       height="1282"
+       width="918.23132" />
+    <text
        xml:space="preserve"
-       id="flowRoot3544"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(0,-403.82679)"><flowRegion
-         id="flowRegion3546"><rect
-           id="rect3548"
-           width="916.88666"
-           height="127.35441"
-           x="66.976616"
-           y="1326.5212" /></flowRegion><flowPara
-         id="flowPara3550"
-         style="font-size:14px;text-align:end;text-anchor:end">bazza © licencia cc-by-sa y GFDL</flowPara></flowRoot>  </g>
+       x="763.79657"
+       y="941.53381"
+       id="text3237"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3239"
+         x="763.79657"
+         y="941.53381"
+         style="font-size:14px">bazza © licencia cc-by-sa / gfdl</tspan></text>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="tips">
-    <path
-       style="opacity:0.65;color:#000000;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 440.96875,877 25.625,39.53125 0,77.28125 c 0,8.864 7.136,16 16,16 l 200.75,0 c 8.864,0 16,-7.136 16,-16 l 0,-79.1875 c 0,-8.864 -7.136,-16 -16,-16 l -200.75,0 c -2.14592,0 -4.19587,0.42776 -6.0625,1.1875 L 440.96875,877 z"
-       id="rect3095-4-6-6-7"
-       inkscape:connector-curvature="0" />
-    <path
-       style="opacity:0.65;color:#000000;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 810.5,1162.75 8.375,22.75 -140.625,0 c -8.864,0 -16,7.136 -16,16 l 0,44.7812 c 0,8.8641 7.136,16 16,16 l 243.28125,0 c 8.864,0 16,-7.1359 16,-16 l 0,-44.7812 c 0,-8.864 -7.136,-16 -16,-16 l -82.25,0 z"
-       id="rect3095-4-6-6-7-1"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccsssssssscc" />
     <text
        xml:space="preserve"
        style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Purisa;-inkscape-font-specification:Purisa"
@@ -138,184 +127,250 @@
          id="tspan4136"
          x="100.03666"
          y="123.24843" /></text>
-    <path
-       style="opacity:0.65;color:#000000;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 486.02285,260.13106 c -8.864,0 -16,7.136 -16,16 l 0,56.9375 c 0,8.864 7.136,16 16,16 l 78.28125,0 -1.125,29.5625 22.03125,-29.5625 113.28125,0 c 8.864,0 16,-7.136 16,-16 l 0,-56.9375 c 0,-8.864 -7.136,-16 -16,-16 z"
-       id="rect3095-4-6-5"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sssscccsssss" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot2996"
-       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-251.02461,-79.538867)"><flowRegion
-         id="flowRegion2998"><rect
-           id="rect3000"
-           width="219.39673"
-           height="86.841232"
-           x="733.84808"
-           y="350.10251"
-           style="font-size:16px" /></flowRegion><flowPara
-         id="flowPara3002"
-         style="font-size:16px;text-align:center;text-anchor:middle"><flowSpan
-   id="flowSpan3423"
-   style="font-size:16px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">Casco y protección</flowSpan> </flowPara><flowPara
-         id="flowPara3425"
-         style="font-size:16px;text-align:center;text-anchor:middle">para la bici y protegerse </flowPara><flowPara
-         id="flowPara3427"
-         style="font-size:16px;text-align:center;text-anchor:middle">de la represión</flowPara></flowRoot>    <path
-       style="opacity:0.65;color:#000000;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 676.53125,440.625 c -8.864,0 -16,7.136 -16,16 l 0,39.125 -34.875,9.96875 34.875,8.5625 0,18.375 c 0,8.864 7.136,16 16,16 l 206.9375,0 c 8.864,0 16,-7.136 16,-16 l 0,-76.03125 c 0,-8.864 -7.136,-16 -16,-16 l -206.9375,0 z"
-       id="rect3095-4-6-1"
-       inkscape:connector-curvature="0" />
-    <flowRoot
-       transform="translate(-60.425285,100.83762)"
-       xml:space="preserve"
-       id="flowRoot2996-8"
-       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-         id="flowRegion2998-7"><rect
-           id="rect3000-4"
-           width="215.49365"
-           height="88.120163"
-           x="733.84808"
-           y="350.10251"
-           style="font-size:16px" /></flowRegion><flowPara
-         id="flowPara3002-4"
-         style="font-size:16px"><flowSpan
-   id="flowSpan3362"
-   style="font-size:16px;font-weight:bold;-inkscape-font-specification:Sans Bold">Pañuelo en la cara o pasa montaña</flowSpan></flowPara><flowPara
-         id="flowPara3364"
-         style="font-size:16px">contra el gas lacrimógeno y el reconocimiento facial</flowPara></flowRoot>    <path
-       style="opacity:0.65;color:#000000;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 783.96875,745.40625 c -8.864,0 -16,7.136 -16,16 l 0,54.8125 -25.53125,23.9375 30.1875,-8.40625 c 2.89441,2.91049 6.89572,4.71875 11.34375,4.71875 l 212.71875,0 c 8.864,0 16,-7.136 16,-16 l 0,-59.0625 c 0,-8.864 -7.136,-16 -16,-16 l -212.71875,0 z"
-       id="rect3095-4-6"
-       inkscape:connector-curvature="0" />
-    <flowRoot
-       transform="translate(43.428343,407.93875)"
-       xml:space="preserve"
-       id="flowRoot2996-8-9"
-       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-         id="flowRegion2998-7-4"><rect
-           id="rect3000-4-4"
-           width="222.99954"
-           height="95.495438"
-           x="733.84808"
-           y="350.10251"
-           style="font-size:16px" /></flowRegion><flowPara
-         style="font-size:16px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
-         id="flowPara3339">Guante de cuero curtido</flowPara><flowPara
-         style="font-size:16px;text-align:center;text-anchor:middle"
-         id="flowPara3345">para sostener las bombas de gas lacrimógeno</flowPara></flowRoot>    <flowRoot
-       transform="translate(-252.00396,560.08427)"
-       xml:space="preserve"
-       id="flowRoot2996-8-9-6"
-       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-         id="flowRegion2998-7-4-9"><rect
-           id="rect3000-4-4-5"
-           width="201.49727"
-           height="103.23626"
-           x="733.84808"
-           y="350.10251"
-           style="font-size:16px" /></flowRegion><flowPara
-         id="flowPara3002-4-3-7"
-         style="font-size:16px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">Botella con vinagre o jugo de limón</flowPara><flowPara
-         style="font-size:16px;text-align:center;text-anchor:middle"
-         id="flowPara3360">para protegerse del gas lacrimógeno</flowPara></flowRoot>    <path
-       style="opacity:0.65;color:#000000;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 115.0625,549.6875 c -8.864,0 -16,7.136 -16,16 l 0,76 c 0,8.864 7.136,16 16,16 l 206.96875,0 c 8.71473,0 15.73396,-6.9065 15.96875,-15.5625 l 35.40625,10.125 -35.375,-25.15625 0,-61.40625 c 0,-8.864 -7.136,-16 -16,-16 l -206.96875,0 z"
-       id="rect3095-4-6-1-3"
-       inkscape:connector-curvature="0" />
-    <flowRoot
-       transform="translate(-620.40418,208.49506)"
-       xml:space="preserve"
-       id="flowRoot2996-8-9-6-1"
-       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-         id="flowRegion2998-7-4-9-6"><rect
-           id="rect3000-4-4-5-1"
-           width="201.49727"
-           height="103.23626"
-           x="733.84808"
-           y="350.10251"
-           style="font-size:16px" /></flowRegion><flowPara
-         id="flowPara3002-4-3-7-4"
-         style="font-size:16px;text-align:center;text-anchor:middle"><flowSpan
-   id="flowSpan3413"
-   style="font-size:16px;font-weight:bold;-inkscape-font-specification:Sans Bold">Ropa de la gratisferia</flowSpan> para que no te identifiquen con ella y taparte la cara</flowPara></flowRoot>    <path
-       style="opacity:0.65;color:#000000;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 673.15625,599.3125 c -8.864,0 -16,7.136 -16,16 l 0,6 -46.71875,16.46875 46.71875,7.09375 0,13.21875 c 0,8.864 7.136,16 16,16 l 204.84375,0 c 8.864,0 16,-7.136 16,-16 l 0,-42.78125 c 0,-8.864 -7.136,-16 -16,-16 l -204.84375,0 z"
-       id="rect3095-4-6-6-7-7-3"
-       inkscape:connector-curvature="0" />
-    <flowRoot
-       transform="translate(-61.424413,262.78905)"
-       xml:space="preserve"
-       id="flowRoot2996-8-9-6-1-9"
-       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-         id="flowRegion2998-7-4-9-6-3"><rect
-           id="rect3000-4-4-5-1-4"
-           width="203.4192"
-           height="43.65604"
-           x="733.84808"
-           y="350.10251"
-           style="font-size:16px" /></flowRegion><flowPara
-         id="flowPara3002-4-3-7-4-5"
-         style="font-size:16px;text-align:center;text-anchor:middle">Cámara grabando y transmitiendo en vivo</flowPara></flowRoot>    <path
-       style="opacity:0.65;color:#000000;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 317.6875,911.46875 -30.15625,30.15625 -170.3125,0 c -8.864,0 -16,7.136 -16,16 l 0,90.4375 c 0,8.864 7.136,16 16,16 l 261.78125,0 c 8.864,0 16,-7.136 16,-16 l 0,-90.4375 c 0,-8.864 -7.136,-16 -16,-16 l -68.84375,0 7.53125,-30.15625 z"
-       id="rect3095-4-6-6"
-       inkscape:connector-curvature="0" />
-    <flowRoot
-       transform="translate(-613.77727,606.84345)"
-       xml:space="preserve"
-       id="flowRoot2996-8-9-6-1-3"
-       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-         id="flowRegion2998-7-4-9-6-4"><rect
-           id="rect3000-4-4-5-1-7"
-           width="261.63092"
-           height="88.783592"
-           x="733.84808"
-           y="350.10251"
-           style="font-size:16px" /></flowRegion><flowPara
-         id="flowPara3002-4-3-7-4-7"
-         style="font-size:16px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">Teléfono con ManifestDroid</flowPara><flowPara
-         style="font-size:16px;text-align:center;text-anchor:middle"
-         id="flowPara3380">comunicación criptográfica, publicar fotos sin exponer a los manifestantes, redes libres, etc.</flowPara></flowRoot>    <path
-       style="opacity:0.65;color:#000000;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 145.15625,402.3125 c -8.864,0 -16,7.136 -16,16 l 0,62.875 c 0,8.864 7.136,16 16,16 l 223.6875,0 51.25,43.5 -26.1875,-46 c 4.44553,-2.83638 7.375,-7.81378 7.375,-13.5 l 0,-62.875 c 0,-8.864 -7.136,-16 -16,-16 l -240.125,0 z"
-       id="rect3095-4-6-6-7-0"
-       inkscape:connector-curvature="0" />
-    <flowRoot
-       transform="translate(-583.15621,67.26531)"
-       xml:space="preserve"
-       id="flowRoot2996-8-9-6-1-4"
-       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-         id="flowRegion2998-7-4-9-6-5"><rect
-           id="rect3000-4-4-5-1-9"
-           width="236.1743"
-           height="78.962334"
-           x="733.84808"
-           y="350.10251"
-           style="font-size:16px" /></flowRegion><flowPara
-         id="flowPara3002-4-3-7-4-4"
-         style="font-size:16px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">Mochila con router wifi </flowPara><flowPara
-         style="font-size:16px;text-align:center;text-anchor:middle"
-         id="flowPara3400">para mejorar </flowPara><flowPara
-         id="flowPara3429"
-         style="font-size:16px;text-align:center;text-anchor:middle">el acceso a la red</flowPara></flowRoot>    <flowRoot
-       transform="translate(-58.712824,849.48921)"
-       xml:space="preserve"
-       id="flowRoot2996-8-9-6-8"
-       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-         id="flowRegion2998-7-4-9-61"><rect
-           id="rect3000-4-4-5-2"
-           width="245.60707"
-           height="55.644093"
-           x="733.84808"
-           y="350.10251"
-           style="font-size:16px" /></flowRegion><flowPara
-         id="flowPara3002-4-3-7-1"
-         style="font-size:16px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">Linterna estroboscopico</flowPara><flowPara
-         style="font-size:16px;text-align:center;text-anchor:middle"
-         id="flowPara3398">para calmar a las fieras</flowPara></flowRoot>    <text
+    <g
+       id="g3106"
+       transform="translate(0,-32)">
+      <path
+         sodipodi:nodetypes="sssscccsssss"
+         inkscape:connector-curvature="0"
+         id="rect3095-4-6-5"
+         d="m 486.02285,260.13106 c -8.864,0 -16,7.136 -16,16 l 0,56.9375 c 0,8.864 7.136,16 16,16 l 78.28125,0 -1.125,29.5625 22.03125,-29.5625 113.28125,0 c 8.864,0 16,-7.136 16,-16 l 0,-56.9375 c 0,-8.864 -7.136,-16 -16,-16 z"
+         style="opacity:0.65;color:#000000;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <flowRoot
+         transform="translate(-251.02461,-79.538867)"
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot2996"
+         xml:space="preserve"><flowRegion
+           id="flowRegion2998"><rect
+             style="font-size:16px"
+             y="350.10251"
+             x="733.84808"
+             height="86.841232"
+             width="219.39673"
+             id="rect3000" /></flowRegion><flowPara
+           style="font-size:16px;text-align:center;text-anchor:middle"
+           id="flowPara3002"><flowSpan
+   style="font-size:16px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+   id="flowSpan3423">Casco y protección</flowSpan> </flowPara><flowPara
+           style="font-size:16px;text-align:center;text-anchor:middle"
+           id="flowPara3425">para la bici y protegerse </flowPara><flowPara
+           style="font-size:16px;text-align:center;text-anchor:middle"
+           id="flowPara3427">de la represión</flowPara></flowRoot>    </g>
+    <a
+       id="a3179"
+       xlink:href="#gas-lacrimgeno"
+       transform="translate(0,-32)">
+      <g
+         id="g3097">
+        <path
+           style="opacity:0.65;color:#000000;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 676.53125,440.625 c -8.864,0 -16,7.136 -16,16 l 0,39.125 -34.875,9.96875 34.875,8.5625 0,18.375 c 0,8.864 7.136,16 16,16 l 206.9375,0 c 8.864,0 16,-7.136 16,-16 l 0,-76.03125 c 0,-8.864 -7.136,-16 -16,-16 l -206.9375,0 z"
+           id="rect3095-4-6-1"
+           inkscape:connector-curvature="0" />
+        <flowRoot
+           transform="translate(-60.425285,100.83762)"
+           xml:space="preserve"
+           id="flowRoot2996-8"
+           style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+             id="flowRegion2998-7"><rect
+               id="rect3000-4"
+               width="215.49365"
+               height="88.120163"
+               x="733.84808"
+               y="350.10251"
+               style="font-size:16px" /></flowRegion><flowPara
+             id="flowPara3002-4"
+             style="font-size:16px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">Pañuelo en la cara o pasa montaña</flowPara><flowPara
+             id="flowPara3364"
+             style="font-size:16px;text-align:center;text-anchor:middle">contra el gas lacrimógeno y el reconocimiento facial</flowPara></flowRoot>      </g>
+    </a>
+    <a
+       id="a3189"
+       xlink:href="#gas-lacrimgeno"
+       transform="translate(0,-32)">
+      <g
+         id="g3148">
+        <path
+           style="opacity:0.65;color:#000000;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 783.96875,745.40625 c -8.864,0 -16,7.136 -16,16 l 0,54.8125 -25.53125,23.9375 30.1875,-8.40625 c 2.89441,2.91049 6.89572,4.71875 11.34375,4.71875 l 212.71875,0 c 8.864,0 16,-7.136 16,-16 l 0,-59.0625 c 0,-8.864 -7.136,-16 -16,-16 l -212.71875,0 z"
+           id="rect3095-4-6"
+           inkscape:connector-curvature="0" />
+        <flowRoot
+           transform="translate(43.428343,407.93875)"
+           xml:space="preserve"
+           id="flowRoot2996-8-9"
+           style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+             id="flowRegion2998-7-4"><rect
+               id="rect3000-4-4"
+               width="222.99954"
+               height="95.495438"
+               x="733.84808"
+               y="350.10251"
+               style="font-size:16px" /></flowRegion><flowPara
+             style="font-size:16px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+             id="flowPara3339">Guante de cuero curtido</flowPara><flowPara
+             style="font-size:16px;text-align:center;text-anchor:middle"
+             id="flowPara3345">para sostener las bombas de gas lacrimógeno</flowPara></flowRoot>      </g>
+    </a>
+    <a
+       id="a3198"
+       xlink:href="#gas-lacrimgeno"
+       transform="translate(0,-32)">
+      <g
+         id="g3140">
+        <path
+           style="opacity:0.65;color:#000000;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 440.96875,877 25.625,39.53125 0,77.28125 c 0,8.864 7.136,16 16,16 l 200.75,0 c 8.864,0 16,-7.136 16,-16 l 0,-79.1875 c 0,-8.864 -7.136,-16 -16,-16 l -200.75,0 c -2.14592,0 -4.19587,0.42776 -6.0625,1.1875 L 440.96875,877 z"
+           id="rect3095-4-6-6-7"
+           inkscape:connector-curvature="0" />
+        <flowRoot
+           transform="translate(-252.00396,560.08427)"
+           xml:space="preserve"
+           id="flowRoot2996-8-9-6"
+           style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+             id="flowRegion2998-7-4-9"><rect
+               id="rect3000-4-4-5"
+               width="201.49727"
+               height="103.23626"
+               x="733.84808"
+               y="350.10251"
+               style="font-size:16px" /></flowRegion><flowPara
+             id="flowPara3002-4-3-7"
+             style="font-size:16px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">Botella con vinagre o jugo de limón</flowPara><flowPara
+             style="font-size:16px;text-align:center;text-anchor:middle"
+             id="flowPara3360">para protegerse del gas lacrimógeno</flowPara></flowRoot>      </g>
+    </a>
+    <g
+       id="g3125"
+       transform="translate(0,-32)">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect3095-4-6-1-3"
+         d="m 147.0625,453.6875 c -8.864,0 -16,7.136 -16,16 l 0,76 c 0,8.864 7.136,16 16,16 l 206.96875,0 c 8.71473,0 15.73396,-6.9065 15.96875,-15.5625 l 35.40625,10.125 -35.375,-25.15625 0,-61.40625 c 0,-8.864 -7.136,-16 -16,-16 l -206.96875,0 z"
+         style="opacity:0.65;color:#000000;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <flowRoot
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot2996-8-9-6-1"
+         xml:space="preserve"
+         transform="translate(-588.40418,112.49506)"><flowRegion
+           id="flowRegion2998-7-4-9-6"><rect
+             style="font-size:16px"
+             y="350.10251"
+             x="733.84808"
+             height="103.23626"
+             width="201.49727"
+             id="rect3000-4-4-5-1" /></flowRegion><flowPara
+           style="font-size:16px;text-align:center;text-anchor:middle"
+           id="flowPara3002-4-3-7-4"><flowSpan
+   style="font-size:16px;font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="flowSpan3413">Ropa de la gratisferia</flowSpan> para que no te identifiquen con ella y taparte la cara</flowPara></flowRoot>    </g>
+    <g
+       id="g3172"
+       transform="translate(0,-32)">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect3095-4-6-6-7-7-3"
+         d="m 673.15625,599.3125 c -8.864,0 -16,7.136 -16,16 l 0,6 -46.71875,16.46875 46.71875,7.09375 0,13.21875 c 0,8.864 7.136,16 16,16 l 204.84375,0 c 8.864,0 16,-7.136 16,-16 l 0,-42.78125 c 0,-8.864 -7.136,-16 -16,-16 l -204.84375,0 z"
+         style="opacity:0.65;color:#000000;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <flowRoot
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot2996-8-9-6-1-9"
+         xml:space="preserve"
+         transform="translate(-61.424413,262.78905)"><flowRegion
+           id="flowRegion2998-7-4-9-6-3"><rect
+             style="font-size:16px"
+             y="350.10251"
+             x="733.84808"
+             height="43.65604"
+             width="203.4192"
+             id="rect3000-4-4-5-1-4" /></flowRegion><flowPara
+           style="font-size:16px;text-align:center;text-anchor:middle"
+           id="flowPara3002-4-3-7-4-5">Cámara grabando y transmitiendo en vivo</flowPara></flowRoot>    </g>
+    <a
+       id="a3215"
+       xlink:href="#manifestdroid"
+       transform="translate(0,-32)">
+      <g
+         id="g3164">
+        <path
+           style="opacity:0.65;color:#000000;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 317.6875,911.46875 -30.15625,30.15625 -170.3125,0 c -8.864,0 -16,7.136 -16,16 l 0,78.4375 c 0,8.864 7.136,16 16,16 l 261.78125,0 c 8.864,0 16,-7.136 16,-16 l 0,-78.4375 c 0,-8.864 -7.136,-16 -16,-16 l -68.84375,0 z"
+           id="rect3095-4-6-6"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccsssssssscc" />
+        <flowRoot
+           transform="translate(-613.77727,604.84345)"
+           xml:space="preserve"
+           id="flowRoot2996-8-9-6-1-3"
+           style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+             id="flowRegion2998-7-4-9-6-4"><rect
+               id="rect3000-4-4-5-1-7"
+               width="261.63092"
+               height="88.783592"
+               x="733.84808"
+               y="350.10251"
+               style="font-size:16px" /></flowRegion><flowPara
+             id="flowPara3002-4-3-7-4-7"
+             style="font-size:16px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">Teléfono con ManifestDroid</flowPara><flowPara
+             style="font-size:16px;text-align:center;text-anchor:middle"
+             id="flowPara3380">comunicación criptográfica, publicar fotos sin exponer a los manifestantes, redes libres</flowPara></flowRoot>      </g>
+    </a>
+    <g
+       id="g3116"
+       transform="translate(0,-32)">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect3095-4-6-6-7-0"
+         d="m 145.15625,298.3125 c -8.864,0 -16,7.136 -16,16 l 0,62.875 c 0,8.864 7.136,16 16,16 l 223.6875,0 51.25,43.5 -26.1875,-46 c 4.44553,-2.83638 7.375,-7.81378 7.375,-13.5 l 0,-62.875 c 0,-8.864 -7.136,-16 -16,-16 l -240.125,0 z"
+         style="opacity:0.65;color:#000000;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <flowRoot
+         style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot2996-8-9-6-1-4"
+         xml:space="preserve"
+         transform="translate(-583.15621,-36.73469)"><flowRegion
+           id="flowRegion2998-7-4-9-6-5"><rect
+             style="font-size:16px"
+             y="350.10251"
+             x="733.84808"
+             height="78.962334"
+             width="236.1743"
+             id="rect3000-4-4-5-1-9" /></flowRegion><flowPara
+           style="font-size:16px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+           id="flowPara3002-4-3-7-4-4">Mochila con router wifi </flowPara><flowPara
+           id="flowPara3400"
+           style="font-size:16px;text-align:center;text-anchor:middle">para mejorar </flowPara><flowPara
+           style="font-size:16px;text-align:center;text-anchor:middle"
+           id="flowPara3429">el acceso a la red</flowPara></flowRoot>    </g>
+    <a
+       id="a3224"
+       xlink:href="#linterna-estroboscopica"
+       transform="translate(0,-32)">
+      <g
+         id="g3156">
+        <path
+           style="opacity:0.65;color:#000000;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 810.5,1162.75 8.375,22.75 -140.625,0 c -8.864,0 -16,7.136 -16,16 l 0,44.7812 c 0,8.8641 7.136,16 16,16 l 243.28125,0 c 8.864,0 16,-7.1359 16,-16 l 0,-44.7812 c 0,-8.864 -7.136,-16 -16,-16 l -82.25,0 z"
+           id="rect3095-4-6-6-7-1"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccsssssssscc" />
+        <flowRoot
+           transform="translate(-58.712824,849.48921)"
+           xml:space="preserve"
+           id="flowRoot2996-8-9-6-8"
+           style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+             id="flowRegion2998-7-4-9-61"><rect
+               id="rect3000-4-4-5-2"
+               width="245.60707"
+               height="55.644093"
+               x="733.84808"
+               y="350.10251"
+               style="font-size:16px" /></flowRegion><flowPara
+             id="flowPara3002-4-3-7-1"
+             style="font-size:16px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">Linterna estroboscopico</flowPara><flowPara
+             style="font-size:16px;text-align:center;text-anchor:middle"
+             id="flowPara3398">para calmar a las fieras</flowPara></flowRoot>      </g>
+    </a>
+    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="64.955643"
@@ -362,5 +417,32 @@
            height="161.66769"
            x="-1547.3907"
            y="430.42035" /></flowRegion><flowPara
-         id="flowPara3532"></flowPara></flowRoot>  </g>
+         id="flowPara3532" /></flowRoot>    <a
+       id="a3207"
+       xlink:href="#proteccin-para-documentos-con-rfid"
+       transform="translate(0,-32)">
+      <g
+         id="g3133">
+        <path
+           style="opacity:0.65;color:#000000;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 405.97688,615.60008 c 8.864,0 16,7.136 16,16 l 0,6 56.71875,8.46875 -56.71875,15.09375 0,13.21875 c 0,8.864 -7.136,16 -16,16 l -204.84375,0 c -8.864,0 -16,-7.136 -16,-16 l 0,-42.78125 c 0,-8.864 7.136,-16 16,-16 z"
+           id="rect3095-4-6-6-7-7-3-2"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="sscccsssssss" />
+        <flowRoot
+           transform="translate(-530.72879,281.07663)"
+           xml:space="preserve"
+           id="flowRoot2996-8-9-6-1-9-3"
+           style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+             id="flowRegion2998-7-4-9-6-3-1"><rect
+               id="rect3000-4-4-5-1-4-2"
+               width="203.4192"
+               height="43.65604"
+               x="733.84808"
+               y="350.10251"
+               style="font-size:16px" /></flowRegion><flowPara
+             id="flowPara3002-4-3-7-4-5-4"
+             style="font-size:16px;text-align:center;text-anchor:middle">Protección para identificaciones con RFID</flowPara></flowRoot>      </g>
+    </a>
+  </g>
 </svg>

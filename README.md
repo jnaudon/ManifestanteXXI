@@ -3,7 +3,7 @@
 ![Póster](poster/poster_revolucionario_de_accion_chico.png)
 
 > * Casco y protección para la bici para protegerse de la represión
-> * Pañuelo en la cara o pasa montaña: contra el [gas lacrimógeno](#gas-lacrimógeno) y el [reconocimiento facial](#reconocimiento-fcial)
+> * Pañuelo en la cara o pasa montaña: contra el [gas lacrimógeno](#gas-lacrimógeno) y el [reconocimiento facial](#reconocimiento-facial)
 > * Guante de cuero curtido, para sostener las bombas de gas lacrimógeno
 > * Ropa de la [gratisferia](textos/Gratiferia.md) para que no te identifiquen con ella y taparte la cara
 > * Cámara grabando y transmitiendo en vivo
@@ -22,12 +22,13 @@ En una situación de verse afectado de forma real o potencial por este tipo de a
 - Prepare un neutralizador en un roseador con agua potable con 5% de bicarbonato de sodio debe rosearse en ojos y boca, sin frotar.
 - Antes de que el gas se aproxime, protegerse la nariz y la boca con un trapo empapado de vinagre, neutralizante o jugo de limón.
 - Generalmente, la bomba se puede agarra y lanzar a otra dirección, aunque hay que protegerse las manos con un paño húmedo grueso o guantes de protección, ya que la bomba se calienta hasta alcanzar altas temperaturas, además, hay que considerar que, quien la tome se verá rodeado de gas momentáneamente.
+- No llevar lentes de contacto o usar protección.
 
-## Reconocimiento fácil
+## Reconocimiento facial
 
 En el 2011 Cristina Fernández de Kirchner emitió un Decreto ordenando la creación del Sistema Federal de Identificación Biométrica ([SIBIOS](textos/SIBIOS.md)), un servicio de identificación biométrica centralizado, con cobertura nacional, que permitirá a las agencias de seguridad hacer "referencias cruzadas" de información con datos biométricos, con la posibilidad de vincular el sistema de registro facial obtenido a través de las cámaras de vigilancia en la vía pública con las imágenes obtenidas a través de sistema SIBIOS.
 
-El reconocimiento de rostros es cada más simple y barato, por ejemplo en la Ciudad de Buenos Aires las [cámaras de seguridad](http://camaras.buenosaires.gob.ar/) superan las mil y las redes sociales con reconocimiento fácil: facebook, google+, flickr, etc, son cada vez más populares y la actualización permanentemente por parte de sus usuarios mejora las bases de datos constantemente.
+El reconocimiento de rostros es cada más simple y barato, por ejemplo en la Ciudad de Buenos Aires las [cámaras de seguridad](http://camaras.buenosaires.gob.ar/) superan las mil y las redes sociales con reconocimiento facial: facebook, google+, flickr, etc, son cada vez más populares y la actualización permanentemente por parte de sus usuarios mejora las bases de datos constantemente.
 
 ### ¿Que podemos hacer?
 
@@ -82,28 +83,24 @@ Es recomendable **no usar** la red telefónica convencional, pero en caso de nec
 
 #### Red libre con Android
 
-Muchos dispositivos con Android no son celulares, así que no tienen acceso a internet permanente y en el caso de los celulares internet puede ser interrumpida, limitada o bloqueada. Por eso es preferible armar nuestra propia red de modo de chatear con Bounjour, compartir archivos y conectarse con diversos equipos. Además muchos dispositivos permite compatir internet dentro de la misma red libre usando el 3G.
+Muchos dispositivos con Android no son celulares, así que no tienen acceso a internet permanente y en el caso de los celulares internet puede ser interrumpida, limitada o bloqueada, por eso es preferible armar nuestra propia red así podremos chatear con Bounjour, compartir archivos y conectarnos con diversos equipos. Además muchos dispositivos permite compartir internet dentro de la misma red libre usando el 3G.
 
-* [Barnacle Wifi Tether](https://f-droid.org/repository/browse/?fdfilter=Barnacle%20Wifi%20Tether&fdid=net.szym.barnacle) arma tu propia red en malla con Android.
+* [Barnacle Wifi Tether](https://f-droid.org/repository/browse/?fdfilter=Barnacle%20Wifi%20Tether&fdid=net.szym.barnacle) arma tu propia red libre en malla con Android.
 * [Share via http](https://f-droid.org/repository/browse/?fdfilter=share%20via%20http&fdid=com.MarcosDiez.shareviahttp) comparte archivos en la red.
 
 ## Linterna estroboscopica
 
 Estas luces se usa para control mental, inducir al sueño o poner en estado de trance en las velocidades adecuadas producen estado de calma, somnolencia o la sensación de falta de tiempo. 
-En las frecuencias entre 5hz a 7hz produce un estado de calma, eso es lo que intenta generar el este circuito. Podemos modificar una linterna que use entre 5v a 12v con este circuito.
+En las frecuencias entre 5hz a 7hz produce un estado de calma, eso es lo que intenta generar el este circuito. Podemos modificar una linterna que use entre 5v a 12v con este circuito, y reutilizar su lamparas LED y baterías.
 
 ![circuito](planos/555_Estroboscopica.png)
 
-> * Uno o más led (de la linterna)
-> * Circuito integrado 555
-> * Resistencias de 47k, 82k y 1k
-> * Capacitor electrolítico 1mf
-> * Capacitor cerámico 1mf
-> * Batería o pilas de entre 5v a 12v (baterías de la linterna)
+> Uno o más LED, circuito integrado 555, resistencias de 47k, 82k y 1k, capacitor electrolítico 1mf, capacitor cerámico 1mf, pilas.
+>
 > _Estos componentes se pueden comprar en cualquier casa de electrónica_
 
 Además podes mejorar el efecto con sonidos binaureal amplificado con un megáfono o amplificador. Se puede reproducirlo "debajo" de música o cuando alguien habla en los posible este sonido tiene que ser escuchado inconscientemente.
-Hay un generador para Android, [binauralbeat](https://f-droid.org/repository/browse/?fdfilter=binaural&fdid=com.ihunda.android.binauralbeat)
+Hay un generador para Android llamado [binauralbeat](https://f-droid.org/repository/browse/?fdfilter=binaural&fdid=com.ihunda.android.binauralbeat).
 
 
 #Licencia
@@ -125,7 +122,6 @@ Se permite el uso comercial de la obra y de las posibles obras derivadas, la dis
 # Quehaceres
 
 * Hacer svg interactivo
- * exportar en pixelar
  * traducir
 * [barricada un hosteable](html/barricada.html)
 * Referencia a los italiano que se protegían de los policías
