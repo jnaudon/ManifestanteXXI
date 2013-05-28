@@ -26,7 +26,7 @@ En una situación de verse afectado de forma real o potencial por este tipo de a
 
 ### Reconocimiento fácil
 
-En el 2011 Cristina Fernández de Kirchner emitió un Decreto ordenando la creación del Sistema Federal de Identificación Biométrica (SIBIOS), un servicio de identificación biométrica centralizado, con cobertura nacional, que permitirá a las agencias de seguridad hacer “referencias cruzadas” de información con datos biométricos, con la posibilidad de vincular el sistema de registro facial obtenido a través de las cámaras de vigilancia en la vía pública con las imágenes obtenidas a través de sistema SIBIOS.
+En el 2011 Cristina Fernández de Kirchner emitió un Decreto ordenando la creación del Sistema Federal de Identificación Biométrica ([SIBIOS](textos/SIBIOS.md)), un servicio de identificación biométrica centralizado, con cobertura nacional, que permitirá a las agencias de seguridad hacer “referencias cruzadas” de información con datos biométricos, con la posibilidad de vincular el sistema de registro facial obtenido a través de las cámaras de vigilancia en la vía pública con las imágenes obtenidas a través de sistema SIBIOS.
 
 Ya en la Ciudad de Buenos Aires las [cámaras de seguridad](http://camaras.buenosaires.gob.ar/) superan las mil y el reconocimiento de rostros es cada más simple y barato. Además las redes sociales con reconocimiento fácil (facebook, google+, flickr, etc) son cada vez más populares y la actualización permanente por parte de sus usuarios mejora las bases de datos permanentemente.
 
@@ -37,17 +37,11 @@ Ya en la Ciudad de Buenos Aires las [cámaras de seguridad](http://camaras.bueno
 * Solo compartir fotos de manifestaciones con rostro borrados
 * Borrar datos de localización y metadatos de las fotos.
 
-En Android  podemos usar el programas [ObscuraCam](https://guardianproject.info/apps/obscuracam/) que tapa las caras de forma automática.
-
-##### Falta
-
-* Programa para tapar caras en html5
-
-[Leer más](textos/SIBIOS.md)
+En Android podemos usar el programas [ObscuraCam](https://guardianproject.info/apps/obscuracam/) que tapa las caras de forma automática.
 
 ### Protección para documentos con RFID
 
-Los sistemas SUBE, AFA plus y los nuevos DNI dan la posibilidad identificar a personas a distancia. 
+Los sistemas [SUBE](textos/SUBE.md), [AFA plus](textos/AFA.md) y los nuevos DNI dan la posibilidad identificar a personas a distancia. 
 Y en la SUBE genera un registro de todos los viajes que realiza y los guarda en una base de datos controlada por la Secretaría de Transporte. 
 
 Este sistema viola el derecho a la privacidad y al anonimato, el Estado no debería recabar este tipo de información por la sensibilidad de dichos datos, por el exceso en el ámbito de recolección y por la posibilidad real de implementar numerosos esquemas que no impliquen el control sobre los ciudadanos.
@@ -59,7 +53,7 @@ En algunos países ya se a usado este sistema para identificar manifestantes, ya
 * No usar este tipo de identificaciones
 * No renovar el DNI
 * Intercambiar tarjetas SUBE
-* Funda de aluminio, se pueden hacer unas muy fácilmente con tetra pak
+* Estuche de aluminio, se pueden hacer unas muy fácilmente con tetra pak
 
 ##### Estuche para la SUBE
 
@@ -67,11 +61,9 @@ Este porta SUBE bloquea la tarjeta así no es detectable a larga distancia. Para
 	
 ![porta sube](planos/porta_sube.png)
 
-[Leer más](textos/SUBE.md)
+### [ManifestDroid](apk/)
 
-### ManifestDroid
-
-Tanto en las computadoras como los dispositivos portátiles (celulares, pad, tablet, etc) estamos muy mal acostumbrados a comunicarnos de modo inseguro, conectándonos a cualquier red disponible, comunicarnos y navegar sin criptografía, pudiendo cualquier persona cercana a nosotros interceptar lo que estamos haciendo, y además la compañía de celular o internet pueden hacerlo todo el tiempo. 
+Tanto en las computadoras como los dispositivos portátiles (celulares, pad, tablet, etc) estamos muy mal acostumbrados a comunicarnos de modo inseguro, conectándonos a cualquier red disponible, comunicarnos y navegar sin criptografía, pudiendo cualquier persona cercana a nosotros interceptar lo que estamos haciendo, y además la compañía de celular o internet pueden hacerlo todo el tiempo.
 
 Para solucionar este problema se pueden usar varias tecnologías de criptografía, túneles y proxys en particular para dispositivos que usan **Android** solamente usando software libre muy fáciles de instalar y usar.
 
@@ -98,7 +90,7 @@ Los proxys nos permite pasar por la red sin que nadie pueda ver que estamos haci
 
 #### Red libre con Android
 
-Si no tenes acceso a internet, o no queres tenerlo :P podes armar un red propia, compartir archivos, chatear con bounjour, etc. A la vez a esta red pueden conectarse computadoras y otros dispositivos.
+Si no tenes acceso a internet o no queres tenerlo podes armar un red propia, compartir archivos, chatear con bounjour, etc. A la vez a esta red pueden conectarse computadoras y otros dispositivos.
 
 * [Barnacle Wifi Tether](https://f-droid.org/repository/browse/?fdfilter=Barnacle%20Wifi%20Tether&fdid=net.szym.barnacle) arma tu propia red en malla con Android.
 * [Share via http](https://f-droid.org/repository/browse/?fdfilter=share%20via%20http&fdid=com.MarcosDiez.shareviahttp) comparte archivos en la red.
@@ -109,8 +101,6 @@ Estos métodos de comunicación pueden usarse tanto en internet como en redes li
 
 * [Gibberbot](https://guardianproject.info/apps/gibber/) chatea en bounjour, jabber, facebook, googletalk de modo [criptografico](http://wiki.partidopirata.com.ar/Gibberbot_con_OTR) y seguro.
 * [CsipSimple](https://code.google.com/p/csipsimple/) telefonía por internet (VOIP) criptográfico, podes crear un cuenta local para la red libre y una cuenta en [ekiga.org](https://www.ekiga.net/?page=register) para acceso desde internet.
-
-[Leer más](apk/)
 
 ### Linterna estroboscopica
 
@@ -143,12 +133,12 @@ Hay un generador para Android, [binauralbeat](https://f-droid.org/repository/bro
 * [barricada un hosteable](barricada.html)
 * Referencia a los italiano que se protegían de los policías
 * Corregir el color de la acuarela
+* Programa para tapar caras en html5
+
 
 #Licencia
 
 Se permite el uso comercial de la obra y de las posibles obras derivadas, la distribución de las cuales se debe hacer con una licencia igual a la que regula la obra original.
 
-![GFDL](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/GFDL_Logo.svg/128px-GFDL_Logo.svg.png)  
+![GFDL](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/GFDL_Logo.svg/128px-GFDL_Logo.svg.png)
 ![Creado para la comunidad compartir con la misma licencia](http://creativecommons.org.ar/media/uploads/licencias/by-sa-125px.png)
-
-
