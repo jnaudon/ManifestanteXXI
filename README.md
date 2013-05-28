@@ -7,7 +7,7 @@
 > * Guante de cuero curtido, para sostener las bombas de gas lacrimógeno
 > * Ropa de la [gratisferia](textos/Gratiferia.md) para que no te identifiquen con ella y taparte la cara
 > * Cámara grabando y transmitiendo en vivo
-> * Teléfono con [ManifestDroid](#manifestdroid): comunicación criptográfica (SMS, llamadas, chat y voip), publicar fotos sin exponer a los manifestantes, etc.
+> * Teléfono con [ManifestDroid](#manifestdroid): comunicación criptográfica (SMS, llamadas, chat, etc), publicar fotos sin exponer a los manifestantes, etc.
 > * Botella con vinagre o jugo de limón: para protegerse del [gas lacrimógeno](#gas-lacrimgeno)
 > * Mochila con [router wifi](/b4zz4/NodoDeGuerrilla/) para mejorar el acceso a la red
 > * Antenas para transmitir con mayor potencia
@@ -58,7 +58,7 @@ Tanto en las computadoras como los dispositivos portátiles (celulares, pad, tab
 
 Para solucionar este problema se pueden usar varias tecnologías de criptografía, filtros y proxys en particular para dispositivos que usan Android solamente usando [software libre](https://www.gnu.org/philosophy/free-sw.es.html) fáciles de instalar y usar.
 
-La criptografía es como si inventáramos nuestro propio idioma para hablar con una persona, aun así para nosotros sigue siendo totalmente legible. Esto sirve para que nadie pueda interceptar la conversación. Algo muy sencillo que se puede hacer es navegar en paginas con **https://** en lugar de **http://**, esto funciona en muchas paginas populares.
+La criptografía es como si inventáramos nuestro propio idioma para hablar con una persona, aun así para nosotros sigue siendo totalmente legible. Esto sirve para que nadie pueda interceptar la conversación. Algo muy sencillo que se puede hacer es navegar en paginas con _https://_ en lugar de _http://_, esto funciona en muchas paginas populares.
 
 Los proxys nos permite pasar por internet sin que nadie pueda ver que estamos haciendo. Uno de los mas populares es Tor que su particularidad es que esta compuesto por miles de computadoras que se coordinan de modo descentralizado, haciéndolo muy seguro y confiable. La versión para Android se llama [Orbot](https://f-droid.org/repository/browse/?fdfilter=browser&fdid=org.torproject.android), nos permite navegar con [Orweb](https://f-droid.org/repository/browse/?fdfilter=browser&fdid=info.guardianproject.browser) y chatear de anónimo y seguro con [Gibberbot](https://guardianproject.info/apps/gibber/)
 
@@ -68,10 +68,10 @@ Los filtros más simple que podemos usar son los de publicidad como [Adblock](ht
 
 Una de las grandes ventajas de los policías en una manifestación, es que se encuentran organizados, pueden comunicarse en tiempo real, modificar sus movimientos y planificar en base a lo ocurrido. Para esto cuentan con un grupo dedicado a esta función que esta fuera y dentro de la acción.
 
-Lo mismo podemos hacer los manifestantes, organizandonos con herramientas similares, libres y seguras. Lo mejor es que un grupo en particular se dedique a la coordinación, utilizando con Bounjour, Jabber o VOIP. Al igual que los policías, puede coordinarse la inteligencia por fuera de la manifestación, las personas calmadas piensan mejor, en este caso el grupo de acción debe pasar reportes precisos de lo que ocurre. La mayoría de la comunicación (a nivel inteligencia) debe hacerse por chat, en medio de una manifestación hablar se tornarse complicado e inseguro. Además escribiendo de modo preciso se puede logran mejores resultados, sobre todo en grandes grupos. **Es sumamente necesario que se usen métodos criptográficos**, el más común y seguro es el OTR.
+Lo mismo podemos hacer los manifestantes, organizandonos con herramientas similares, libres y seguras. Lo mejor es que un grupo en particular se dedique a la coordinación, utilizando con Bounjour, Jabber o telefonía sobre internet. Al igual que los policías, puede coordinarse la inteligencia por fuera de la manifestación, las personas calmadas piensan mejor, en este caso el grupo de acción debe pasar reportes precisos de lo que ocurre. La mayoría de la comunicación (a nivel inteligencia) debe hacerse por chat, en medio de una manifestación hablar se tornarse complicado e inseguro. Además escribiendo de modo preciso se puede logran mejores resultados, sobre todo en grandes grupos. **Es sumamente necesario que se usen métodos criptográficos**, el más común y seguro es el OTR.
 
 * [Gibberbot](https://guardianproject.info/apps/gibber/) chatea de modo [criptográfico](http://wiki.partidopirata.com.ar/Gibberbot_con_OTR) y seguro en bounjour, jabber, facebook, googletalk, etc.
-* [CsipSimple](https://code.google.com/p/csipsimple/) telefonía por internet (VOIP) criptográfico, podes crear un cuenta local para la red libre y una cuenta en [ekiga.org](https://www.ekiga.net/?page=register) para acceso desde internet.
+* [CsipSimple](https://code.google.com/p/csipsimple/) telefonía por internet con criptográfia, podes crear un cuenta local para la red libre y una cuenta en [ekiga.org](https://www.ekiga.net/?page=register) para acceso desde internet.
 * [c:geo](https://f-droid.org/repository/browse/?fdfilter=osm&fdid=cgeo.geocaching) mapas para coordinar se en las calles.
 * [ObscuraCam](https://guardianproject.info/apps/obscuracam/) protege a los manifestantes borrando sus caras y quita los datos de GPS y modelo de celular cuando compartís sus fotos internet.
 
@@ -91,7 +91,7 @@ Muchos dispositivos con Android no son celulares, así que no tienen acceso a in
 ## Linterna estroboscopica
 
 Estas luces se usa para control mental, inducir al sueño o poner en estado de trance en las velocidades adecuadas producen estado de calma, somnolencia o la sensación de falta de tiempo. 
-En las frecuencias entre 5hz a 7hz produce un estado de calma, eso es lo que intenta generar el este circuito. Podemos modificar una linterna que use entre 5v a 12v con este circuito, y reutilizar su lamparas LED y baterías.
+En las frecuencias entre _5hz_ a _7hz_ produce un estado de calma, eso es lo que intenta generar el este circuito. Podemos modificar una linterna que use entre 5v a 12v con este circuito, y reutilizar su lamparas LED y baterías.
 
 ![circuito](planos/555_Estroboscopica.png)
 
@@ -102,7 +102,6 @@ En las frecuencias entre 5hz a 7hz produce un estado de calma, eso es lo que int
 Además podes mejorar el efecto con sonidos binaureal amplificado con un megáfono o amplificador. Se puede reproducirlo "debajo" de música o cuando alguien habla en los posible este sonido tiene que ser escuchado inconscientemente.
 Hay un generador para Android llamado [binauralbeat](https://f-droid.org/repository/browse/?fdfilter=binaural&fdid=com.ihunda.android.binauralbeat).
 
-
 #Licencia
 
 Se permite el uso comercial de la obra y de las posibles obras derivadas, la distribución de las cuales se debe hacer con una licencia igual a la que regula la obra original.
@@ -110,7 +109,6 @@ Se permite el uso comercial de la obra y de las posibles obras derivadas, la dis
 ![GFDL](img/128px-GFDL_Logo.svg.png)
 
 ![Creado para la comunidad compartir con la misma licencia](img/by-sa-125px.png)
-
 
 # Sitios web para visitar
 

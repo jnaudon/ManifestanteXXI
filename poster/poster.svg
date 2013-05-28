@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="poster.svg">
+   sodipodi:docname="poster.svg"
+   inkscape:export-filename="/home/moteado/ManifestanteXXI/poster/poster_revolucionario_de_accion_chico.png"
+   inkscape:export-xdpi="48.380951"
+   inkscape:export-ydpi="48.380951">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24497723"
-     inkscape:cx="546.35073"
-     inkscape:cy="729.1932"
+     inkscape:zoom="0.64047944"
+     inkscape:cx="563.34598"
+     inkscape:cy="681.6515"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -71,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
