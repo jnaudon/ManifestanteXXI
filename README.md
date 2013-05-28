@@ -141,7 +141,7 @@ Hay un generador para Android, [binauralbeat](https://f-droid.org/repository/bro
 * Hacer svg interactivo
  * exportar en pixelar
  * traducir
-* barricada un hosteable
+* [barricada un hosteable](barricada.html)
 * Referencia a los italiano que se protegían de los policías
 * Corregir el color de la acuarela
 
