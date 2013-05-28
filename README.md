@@ -35,9 +35,7 @@ Ya en la Ciudad de Buenos Aires las [cámaras de seguridad](http://camaras.bueno
 * No etiquetar fotos
 * Bloquear o deshabilitar las cámaras de seguridad
 * Solo compartir fotos de manifestaciones con rostro borrados
-* Borrar datos de localización y metadatos de las fotos.
-
-En Android podemos usar el programas [ObscuraCam](https://guardianproject.info/apps/obscuracam/) que tapa las caras de forma automática.
+* Borrar datos de localización y metadatos de las fotos. En Android podemos usar el programas [ObscuraCam](https://guardianproject.info/apps/obscuracam/) que oculta las caras de forma automática.
 
 ### Protección para documentos con RFID
 
@@ -65,7 +63,7 @@ Este porta SUBE bloquea la tarjeta así no es detectable a larga distancia. Para
 
 Tanto en las computadoras como los dispositivos portátiles (celulares, pad, tablet, etc) estamos muy mal acostumbrados a comunicarnos de modo inseguro, conectándonos a cualquier red disponible, comunicarnos y navegar sin criptografía, pudiendo cualquier persona cercana a nosotros interceptar lo que estamos haciendo, y además la compañía de celular o internet pueden hacerlo todo el tiempo.
 
-Para solucionar este problema se pueden usar varias tecnologías de criptografía, túneles y proxys en particular para dispositivos que usan **Android** solamente usando software libre muy fáciles de instalar y usar.
+Para solucionar este problema se pueden usar varias tecnologías de criptografía, túneles y proxys en particular para dispositivos que usan Android solamente usando software libre muy fáciles de instalar y usar.
 
 La criptografía es como si inventáramos nuestro propio idioma para hablar con una persona el particular, aun así para nosotros sigue siendo totalmente legible. Esto sirve para que nadie pueda interceptar la conversación. Algo muy simple que se puede hacer es navegar en paginas con _https_ en lugar de _http_, esto funciona en muchas paginas populares.
 
@@ -105,13 +103,9 @@ Estos métodos de comunicación pueden usarse tanto en internet como en redes li
 ### Linterna estroboscopica
 
 Estas luces se usa para control mental, inducir al sueño o poner en estado de trance en las velocidades adecuadas producen estado de calma, somnolencia o la sensación de falta de tiempo. 
-En las frecuencias entre 5hz a 7hz produce un estado de calma, eso es lo que intenta generar el este circuito.
-
-Estas luces son usadas popularmente para generar efecto optico en ilumnación, aunque las frecuencias que usan son mayores.
+En las frecuencias entre 5hz a 7hz produce un estado de calma, eso es lo que intenta generar el este circuito. Podemos modificar una linterna que use entre 5v a 12v con este circuito.
 
 ![circuito](planos/555_Estroboscopica.png)
-
-Podemos modificar una linterna que use entre 5v a 12v con este circuito.
 
 * Uno o más led (de la linterna)
 * Circuito integrado 555
@@ -141,4 +135,5 @@ Hay un generador para Android, [binauralbeat](https://f-droid.org/repository/bro
 Se permite el uso comercial de la obra y de las posibles obras derivadas, la distribución de las cuales se debe hacer con una licencia igual a la que regula la obra original.
 
 ![GFDL](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/GFDL_Logo.svg/128px-GFDL_Logo.svg.png)
+
 ![Creado para la comunidad compartir con la misma licencia](http://creativecommons.org.ar/media/uploads/licencias/by-sa-125px.png)
