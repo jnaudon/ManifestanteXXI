@@ -1,5 +1,4 @@
-# Póster del manifestante del siglo XXI
-Lo que necesita un activista del siglo XXI
+# Poster
 
 ![Póster](poster/poster_revolucionario_de_accion_chico.png)
 
