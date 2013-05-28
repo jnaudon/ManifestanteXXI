@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<link rel="stylesheet" href="http://leaflet.github.com/Leaflet.draw/lib/leaflet/leaflet.css" />
+<link rel="stylesheet" href="http://leaflet.github.com/Leaflet.draw/leaflet.draw.css" />
+
+<link rel="stylesheet" href="https://raw.github.com/smeijer/L.GeoSearch/master/src/css/l.geosearch.css" />
+
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+<!-- mapa http://leafletjs.com/ -->
+
+<script src="http://leaflet.github.com/Leaflet.draw/lib/leaflet/leaflet.js"></script>
+
+<!-- buscador https://github.com/smeijer/L.GeoSearch -->
+<script src="https://raw.github.com/smeijer/L.GeoSearch/master/src/js/l.control.geosearch.js"></script>
+<script src="https://raw.github.com/smeijer/L.GeoSearch/master/src/js/l.geosearch.provider.openstreetmap.js"></script>
+
+<!-- dibujo https://github.com/Leaflet/Leaflet.draw/ -->
+<script src="https://raw.github.com/Leaflet/Leaflet.draw/master/dist/leaflet.draw.js"></script>
+<!-- enlace en la posicon del mapa 
+<script src="https://raw.github.com/mlevans/leaflet-hash/master/leaflet-hash.js"></script>
+-->
+<!-- GeoCSV https://github.com/joker-x/Leaflet.geoCSV -->
+<script src="http://joker-x.github.com/Leaflet.geoCSV/leaflet.geocsv-src.js"></script>
+<!-- Enlaces permanentes -->
+<script src="https://raw.github.com/shramov/leaflet-plugins/master/control/Permalink.js"></script>
+<script src="https://raw.github.com/shramov/leaflet-plugins/master/control/Permalink.Marker.js"></script>
+<!--<script src="https://raw.github.com/shramov/leaflet-plugins/master/control/Permalink.Layer.js"></script> -->
+<style>
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.leaflet-control-geosearch {
+	position: fixed;
+	right: 50%;
+	top: 0;
+}
+/*
+.jm_starter {
+	display: none;
+}
+*/
+</style>
+</head>
+<body>
+	<div id="map" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></div>
+<script>
+	
+		var cloudmadeUrl = 'http://{s}.tile.cloudmade.com/BC9A493B41014CAABB98F0471D759707/997/256/{z}/{x}/{y}.png',
+			cloudmade = new L.TileLayer(cloudmadeUrl, {maxZoom: 18}),
+			map = new L.Map('map', {layers: [cloudmade], center: new L.LatLng(-37.7772, 175.2756), zoom: 15 });
+
+		var drawnItems = new L.FeatureGroup();
+		map.addLayer(drawnItems);
+var PoliciaIcono = L.Icon.extend({
+    options: {
+        shadowUrl: null,
+        iconAnchor: new L.Point(12, 12),
+        iconSize: new L.Point(24, 24),
+        iconUrl: 'http://barricada.esfriki.com/assets/img/policia.png'
+    }
+});
+var ManifestanteIcono = L.Icon.extend({
+    options: {
+        shadowUrl: null,
+        iconAnchor: new L.Point(12, 12),
+        iconSize: new L.Point(24, 24),
+        iconUrl: 'http://barricada.esfriki.com/assets/img/barricada.png'
+    }
+});
+
+
+
+		var drawControl = new L.Control.Draw({
+			draw: {
+				polygon: false,
+				circle: false,
+				rectangle: false,
+				position: 'topleft',
+				polyline: {
+					title: '¿Cal es el recorrido?'	
+				},
+				marker: {
+					title: '¿Donde ocurre la manifestación?'
+				}
+			}
+		});
+		map.addControl(drawControl);
+		var drawControl = new L.Control.Draw({
+			draw: {
+				polygon: false,
+				polyline: false,
+				circle: false,
+				rectangle: false,
+				position: 'topleft',
+				marker: {
+					title: '¿Donde hay policias?'					
+				}
+			},
+			edit: {
+				featureGroup: drawnItems
+			}
+		});
+		map.addControl(drawControl);
+
+		map.on('draw:created', function (e) {
+			var type = e.layerType, layer = e.layer;
+			if (type === 'marker') {
+				layer.bindPopup('Manifestacion');
+			}
+			drawnItems.addLayer(layer);
+		});
+		new L.Control.GeoSearch({
+    			provider: new L.GeoSearch.Provider.OpenStreetMap()
+		}).addTo(map);
+	
+
+//devuelve el parámetro csv de la URL
+function getFromURL() {
+  var csv = window.location.href.slice(window.location.href.indexOf('?') + 1);
+  if (csv.indexOf('#') > -1) csv = csv.slice(0, csv.indexOf('#'));
+  csv = csv.split('csv=');
+  if (csv.length != 2) {
+    csv = '';
+  } else {
+    csv = csv[1];
+  }
+
+  return decodeURIComponent(csv);
+}
+
+//configuración del GeoCSV, cambiamos el separador de líneas y el de campos
+//por otros más apropiados para las URL
+var capaGeoCSV = L.geoCsv (getFromURL(), {
+  onEachFeature:function(f,l) {
+    var popup = f.properties.popup;
+    l.bindPopup(popup);
+  },
+  lineSeparator: '||',
+  fieldSeparator: ';;'
+});
+
+//lo añadimos al mapa
+
+//var hash = new L.Hash(map);
+
+
+map.addLayer(capaGeoCSV);
+map.addControl(new L.Control.Permalink({text: 'Ссылка', useMarker: true }));
+
+</script>
+<script type="text/javascript">
+   jQuery.ajaxSetup({cache: true});   
+   jQuery.getScript("https://static.jappix.com/php/get.php?l=es&t=js&g=mini.xml", function() {
+      MINI_GROUPCHATS = ["barricada@muc.jappix.com"];
+      MINI_ANIMATE = true;
+      launchMini(false, true, "anonymous.jappix.com");
+   });
+</script>
+</body>
+</html>
