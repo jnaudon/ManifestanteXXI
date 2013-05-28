@@ -149,6 +149,7 @@ Hay un generador para Android, [binauralbeat](https://f-droid.org/repository/bro
 
 Se permite el uso comercial de la obra y de las posibles obras derivadas, la distribución de las cuales se debe hacer con una licencia igual a la que regula la obra original.
 
-![GFDL](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/GFDL_Logo.svg/100px-GFDL_Logo.svg.png) ![Creado para la comunidad compartir con la misma licencia](http://creativecommons.org.ar/media/uploads/licencias/by-sa-125px.png)
+![GFDL](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/GFDL_Logo.svg/128px-GFDL_Logo.svg.png)  
+![Creado para la comunidad compartir con la misma licencia](http://creativecommons.org.ar/media/uploads/licencias/by-sa-125px.png)
 
 
