@@ -94,17 +94,16 @@ En las frecuencias entre 5hz a 7hz produce un estado de calma, eso es lo que int
 
 ![circuito](planos/555_Estroboscopica.png)
 
-* Uno o más led (de la linterna)
-* Circuito integrado 555
-* Resistencias de 47k, 82k y 1k
-* Capacitor electrolítico 1mf
-* Capacitor cerámico 1mf
-* Batería o pilas de entre 5v a 12v (baterías de la linterna)
+> * Uno o más led (de la linterna)
+> * Circuito integrado 555
+> * Resistencias de 47k, 82k y 1k
+> * Capacitor electrolítico 1mf
+> * Capacitor cerámico 1mf
+> * Batería o pilas de entre 5v a 12v (baterías de la linterna)
+> _Estos componentes se pueden comprar en cualquier casa de electrónica_
 
-_Estos componentes se pueden comprar en cualquier casa de electrónica_
-
-Además podes mejorar el efecto con sonidos binaureal amplificado con un megáfono. Se puede reproducirlo "debajo" de música o cuando alguien habla en los posible este sonido tiene que ser escuchado inconscientemente.
-Hay un generador para Android, [binauralbeat](https://f-droid.org/repository/browse/?fdfilter=binaural&fdid=com.ihunda.android.binauralbeat), que esta disponible en [f-droid](https://f-droid.org/)
+Además podes mejorar el efecto con sonidos binaureal amplificado con un megáfono o amplificador. Se puede reproducirlo "debajo" de música o cuando alguien habla en los posible este sonido tiene que ser escuchado inconscientemente.
+Hay un generador para Android, [binauralbeat](https://f-droid.org/repository/browse/?fdfilter=binaural&fdid=com.ihunda.android.binauralbeat)
 
 
 #Licencia
