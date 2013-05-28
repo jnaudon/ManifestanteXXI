@@ -1,4 +1,4 @@
-# Poster
+# Póster
 
 ![Póster](poster/poster_revolucionario_de_accion_chico.png)
 
@@ -20,8 +20,9 @@
 
 En una situación de verse afectado de forma real o potencial por este tipo de armas, es necesario conocer las medidas utilizadas para mantener el control de la situación.
 
-- Antes de que el gas se aproxime, protegerse la nariz y la boca con un trapo empapado de vinagre o jugo de limón.
-- Evitar que el gas alcance los ojos, para ello se pueden llevar preparadas gafas de buceo o en todo caso cerrarlos y llevarlos hacia el suelo, ya que el gas se disipa hacia arriba. 
+- Evitar que el gas alcance los ojos, para ello se pueden llevar preparadas gafas de buceo o en todo caso cerrarlos y llevarlos hacia el suelo, ya que el gas se disipa hacia arriba.
+- Prepare un neutralizador en un "spray" con agua potable con 5% de bicarbonato de sodio debe rosearse en ojos y boca, sin frotar.
+- Antes de que el gas se aproxime, protegerse la nariz y la boca con un trapo empapado de vinagre, neutralizante o jugo de limón.
 - Generalmente, la bomba se puede agarra y lanzar a otra dirección, aunque hay que protegerse las manos con un paño húmedo grueso o guantes de protección, ya que la bomba se calienta hasta alcanzar altas temperaturas, además, hay que considerar que, quien la tome se verá rodeado de gas momentáneamente.
 
 ### Reconocimiento fácil
@@ -32,8 +33,8 @@ Ya en la Ciudad de Buenos Aires las [cámaras de seguridad](http://camaras.bueno
 
 #### ¿Que podemos hacer?
 
-* No etiquetar fotos
 * Bloquear o deshabilitar las cámaras de seguridad
+* No etiquetar fotos
 * Solo compartir fotos de manifestaciones con rostro borrados
 * Borrar datos de localización y metadatos de las fotos. En Android podemos usar el programas [ObscuraCam](https://guardianproject.info/apps/obscuracam/) que oculta las caras de forma automática.
 
@@ -53,9 +54,9 @@ En algunos países ya se a usado este sistema para identificar manifestantes, ya
 * Intercambiar tarjetas SUBE
 * Estuche de aluminio, se pueden hacer unas muy fácilmente con tetra pak
 
-##### Estuche para la SUBE
+##### Estuche anti-RFID
 
-Este porta SUBE bloquea la tarjeta así no es detectable a larga distancia. Para sacar el boleto hay que sacarla de su estuche. Podes hacerlo cortando un tetra pak y pegándolo con cinta.
+Este porta tarjetas, armado con un tetra pak, bloquea el RFID así no es detectable a larga distancia. Para utilizarla la tarjeta hay que sacarla de su estuche. 
 	
 ![porta sube](planos/porta_sube.png)
 
@@ -63,42 +64,49 @@ Este porta SUBE bloquea la tarjeta así no es detectable a larga distancia. Para
 
 Tanto en las computadoras como los dispositivos portátiles (celulares, pad, tablet, etc) estamos muy mal acostumbrados a comunicarnos de modo inseguro, conectándonos a cualquier red disponible, comunicarnos y navegar sin criptografía, pudiendo cualquier persona cercana a nosotros interceptar lo que estamos haciendo, y además la compañía de celular o internet pueden hacerlo todo el tiempo.
 
-Para solucionar este problema se pueden usar varias tecnologías de criptografía, túneles y proxys en particular para dispositivos que usan Android solamente usando software libre muy fáciles de instalar y usar.
+Para solucionar este problema se pueden usar varias tecnologías de criptografía, filtros y proxys en particular para dispositivos que usan Android solamente usando [software libre](https://www.gnu.org/philosophy/free-sw.es.html) fáciles de instalar y usar.
 
-La criptografía es como si inventáramos nuestro propio idioma para hablar con una persona el particular, aun así para nosotros sigue siendo totalmente legible. Esto sirve para que nadie pueda interceptar la conversación. Algo muy simple que se puede hacer es navegar en paginas con _https_ en lugar de _http_, esto funciona en muchas paginas populares.
+La criptografía es como si inventáramos nuestro propio idioma para hablar con una persona, aun así para nosotros sigue siendo totalmente legible. Esto sirve para que nadie pueda interceptar la conversación. Algo muy sencillo que se puede hacer es navegar en paginas con **https://** en lugar de **http://**, esto funciona en muchas paginas populares.
 
-Los proxys nos permite pasar por la red sin que nadie pueda ver que estamos haciendo. Uno de los mas populares es TOR que su particularidad es que esta compuesto por miles de computadoras que se coordinan de modo descentralizado, haciéndolo muy seguro y confiable.
+Los proxys nos permite pasar por la red sin que nadie pueda ver que estamos haciendo. Uno de los mas populares es Tor que su particularidad es que esta compuesto por miles de computadoras que se coordinan de modo descentralizado, haciéndolo muy seguro y confiable.
 
-#### Internet
+#### Navegar en internet
 
-* [Orbot](https://f-droid.org/repository/browse/?fdfilter=browser&fdid=org.torproject.android) TOR para android
-* [Orweb](https://f-droid.org/repository/browse/?fdfilter=browser&fdid=info.guardianproject.browser) navegar usando TOR
-* [Adblock](https://f-droid.org/repository/browse/?fdfilter=adblock&fdid=org.adblockplus.android) quita la publicidad de las paginas web.
+* [Orbot](https://f-droid.org/repository/browse/?fdfilter=browser&fdid=org.torproject.android) Tor para android
+* [Orweb](https://f-droid.org/repository/browse/?fdfilter=browser&fdid=info.guardianproject.browser) navegar usando Tor
+* [Adblock](https://f-droid.org/repository/browse/?fdfilter=adblock&fdid=org.adblockplus.android) quita la publicidad de las paginas web
 
-#### Telefonía convencional
+#### Comunicación segura y coordinación
 
+Una de las grandes ventajas de los policías en una manifestación, es que se encuentran organizados, pueden comunicarse en tiempo real, modificar sus movimientos y planificar en base a lo ocurrido. Para esto cuentan con un grupo dedicado a esta función que esta fuera y dentro de la acción.
+
+Lo mismo podemos hacer los manifestantes, organizandonos con herramientas similares, libres y seguras. Lo mejor es que un grupo en particular se dedique a la coordinación, utilizando con Bounjour, Jabber o VOIP. Al igual que los policías, puede coordinarse la inteligencia por fuera de la manifestación, las personas calmadas piensan mejor, en este caso el grupo de acción debe pasar reportes precisos de lo que ocurre. La mayoría de la comunicación (a nivel inteligencia) debe hacerse por chat, en medio de una manifestación hablar se tornarse complicado e inseguro. Además escribiendo de modo preciso se puede logran mejores resultados, sobre todo en grandes grupos. **Es sumamente necesario que se usen métodos criptográficos**, el más común y seguro es el OTR.
+
+* [Gibberbot](https://guardianproject.info/apps/gibber/) chatea de modo [criptográfico](http://wiki.partidopirata.com.ar/Gibberbot_con_OTR) y seguro en bounjour, jabber, facebook, googletalk.
+* [CsipSimple](https://code.google.com/p/csipsimple/) telefonía por internet (VOIP) criptográfico, podes crear un cuenta local para la red libre y una cuenta en [ekiga.org](https://www.ekiga.net/?page=register) para acceso desde internet.
+* [c:geo](https://f-droid.org/repository/browse/?fdfilter=osm&fdid=cgeo.geocaching) mapas para coordinar se en las calles.
+* [ObscuraCam](https://guardianproject.info/apps/obscuracam/) protege a los manifestantes y borra la data de GPS, modelo de celular cuando compartís sus fotos internet.
+
+##### Telefonía convencional
+
+Es recomendable **no usar** la red telefónica convencional pero en caso de necesitarse estos programas resultan muy útiles.
+
+* [Multi Sms](http://f-droid.org/repository/browse/?fdfilter=sms&fdid=com.hectorone.multismssender) enviar SMS en cadena, puede usarse para la difusión previa o comunicarse con teléfonos sin Android.
 * [RedPhone](http://www.whispersystems.org/) Llamadas con criptografía sobre telefonía móvil.
 * [TextSecure](http://www.whispersystems.org/) SMS con criptografía.
 
-#### Difusión y coordinación
+##### Red libre con Android
 
-* [ObscuraCam](https://guardianproject.info/apps/obscuracam/) protege a los manifestantes y borra la data de GPS, modelo de celular cuando compartís sus fotos internet.
-* [c:geo](https://f-droid.org/repository/browse/?fdfilter=osm&fdid=cgeo.geocaching) mapas para coordinar se en las calles.
-* [Multi Sms](http://f-droid.org/repository/browse/?fdfilter=sms&fdid=com.hectorone.multismssender) enviar SMS en cadena.
-
-#### Red libre con Android
-
-Si no tenes acceso a internet o no queres tenerlo podes armar un red propia, compartir archivos, chatear con bounjour, etc. A la vez a esta red pueden conectarse computadoras y otros dispositivos.
+Muchos dispositivos con Android no son celulares, así que no tienen acceso a internet permanente y en el caso de los celulares internet puede ser interrumpida, limitada o bloqueada. Por eso es preferible armar nuestra propia red de modo de chatear con Bounjour, compartir archivos y conectarse con diversos equipos. Además muchos dispositivos permite compatir internet dentro de la misma red libre usando el 3G.
 
 * [Barnacle Wifi Tether](https://f-droid.org/repository/browse/?fdfilter=Barnacle%20Wifi%20Tether&fdid=net.szym.barnacle) arma tu propia red en malla con Android.
 * [Share via http](https://f-droid.org/repository/browse/?fdfilter=share%20via%20http&fdid=com.MarcosDiez.shareviahttp) comparte archivos en la red.
 
-#### Comunicación segura
+#### Sitios web para visitar
 
-Estos métodos de comunicación pueden usarse tanto en internet como en redes libres
-
-* [Gibberbot](https://guardianproject.info/apps/gibber/) chatea en bounjour, jabber, facebook, googletalk de modo [criptografico](http://wiki.partidopirata.com.ar/Gibberbot_con_OTR) y seguro.
-* [CsipSimple](https://code.google.com/p/csipsimple/) telefonía por internet (VOIP) criptográfico, podes crear un cuenta local para la red libre y una cuenta en [ekiga.org](https://www.ekiga.net/?page=register) para acceso desde internet.
+* https://f-droid.org/
+* https://guardianproject.info/
+* http://www.whispersystems.org/
 
 ### Linterna estroboscopica
 
@@ -119,21 +127,23 @@ _Estos componentes se pueden comprar en cualquier casa de electrónica_
 Además podes mejorar el efecto con sonidos binaureal amplificado con un megáfono. Se puede reproducirlo "debajo" de música o cuando alguien habla en los posible este sonido tiene que ser escuchado inconscientemente.
 Hay un generador para Android, [binauralbeat](https://f-droid.org/repository/browse/?fdfilter=binaural&fdid=com.ihunda.android.binauralbeat), que esta disponible en [f-droid](https://f-droid.org/)
 
-## Quehaceres
-
-* Hacer svg interactivo
- * exportar en pixelar
- * traducir
-* [barricada un hosteable](barricada.html)
-* Referencia a los italiano que se protegían de los policías
-* Corregir el color de la acuarela
-* Programa para tapar caras en html5
-
 
 #Licencia
 
 Se permite el uso comercial de la obra y de las posibles obras derivadas, la distribución de las cuales se debe hacer con una licencia igual a la que regula la obra original.
 
-![GFDL](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/GFDL_Logo.svg/128px-GFDL_Logo.svg.png)
+![GFDL](img/128px-GFDL_Logo.svg.png)
 
-![Creado para la comunidad compartir con la misma licencia](http://creativecommons.org.ar/media/uploads/licencias/by-sa-125px.png)
+![Creado para la comunidad compartir con la misma licencia](img/by-sa-125px.png)
+
+
+## Quehaceres
+
+* Hacer svg interactivo
+ * exportar en pixelar
+ * traducir
+* [barricada un hosteable](html/barricada.html)
+* Referencia a los italiano que se protegían de los policías
+* Corregir el color de la acuarela
+* Programa para tapar caras en HTML5
+
