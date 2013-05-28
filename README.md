@@ -2,7 +2,6 @@
 
 ![Póster](poster/poster_revolucionario_de_accion_chico.png)
 
-> ## Detalles
 > * Casco y protección para la bici para protegerse de la represión
 > * Pañuelo en la cara o pasa montaña: contra el [gas lacrimógeno](#gas-lacrimógeno) y el [reconocimiento facial](#reconocimiento-fcial)
 > * Guante de cuero curtido, para sostener las bombas de gas lacrimógeno
@@ -15,7 +14,7 @@
 > * Linterna [estroboscopico](#linterna-estroboscopica) para calmar a las fieras
 > * Protección para [identificaciones con RFID](#proteccin-para-documentos-con-rfid)
 
-### Gas lacrimógeno
+## Gas lacrimógeno
 
 En una situación de verse afectado de forma real o potencial por este tipo de armas, es necesario conocer las medidas utilizadas para mantener el control de la situación.
 
@@ -24,37 +23,35 @@ En una situación de verse afectado de forma real o potencial por este tipo de a
 - Antes de que el gas se aproxime, protegerse la nariz y la boca con un trapo empapado de vinagre, neutralizante o jugo de limón.
 - Generalmente, la bomba se puede agarra y lanzar a otra dirección, aunque hay que protegerse las manos con un paño húmedo grueso o guantes de protección, ya que la bomba se calienta hasta alcanzar altas temperaturas, además, hay que considerar que, quien la tome se verá rodeado de gas momentáneamente.
 
-### Reconocimiento fácil
+## Reconocimiento fácil
 
 En el 2011 Cristina Fernández de Kirchner emitió un Decreto ordenando la creación del Sistema Federal de Identificación Biométrica ([SIBIOS](textos/SIBIOS.md)), un servicio de identificación biométrica centralizado, con cobertura nacional, que permitirá a las agencias de seguridad hacer "referencias cruzadas" de información con datos biométricos, con la posibilidad de vincular el sistema de registro facial obtenido a través de las cámaras de vigilancia en la vía pública con las imágenes obtenidas a través de sistema SIBIOS.
 
 El reconocimiento de rostros es cada más simple y barato, por ejemplo en la Ciudad de Buenos Aires las [cámaras de seguridad](http://camaras.buenosaires.gob.ar/) superan las mil y las redes sociales con reconocimiento fácil: facebook, google+, flickr, etc, son cada vez más populares y la actualización permanentemente por parte de sus usuarios mejora las bases de datos constantemente.
 
-#### ¿Que podemos hacer?
+### ¿Que podemos hacer?
 
 * Bloquear o deshabilitar las cámaras de seguridad
 * No etiquetar fotos
 * Solo compartir fotos de manifestaciones con rostro borrados
 * Borrar datos de localización y metadatos de las fotos. En Android podemos usar el programas [ObscuraCam](https://guardianproject.info/apps/obscuracam/) que oculta las caras de forma automática
 
-### Protección para documentos con RFID
+## Protección para documentos con RFID
 
-Los sistemas [SUBE](textos/SUBE.md), [AFA plus](textos/AFA.md) y los nuevos DNI dan la posibilidad identificar a personas a distancia. La tarjeta SUBE genera un registro de todos los viajes que realiza y los guarda en una base de datos controlada por la Secretaría de Transporte. Este sistema viola el derecho a la privacidad y al anonimato.
+Los sistemas [SUBE](textos/SUBE.md), [AFA plus](textos/AFA.md) y los nuevos DNI dan la posibilidad identificar a personas a distancia. La tarjeta SUBE genera un registro de todos los viajes que realiza, violando el derecho a la privacidad, y los guarda en una base de datos controlada por la Secretaría de Transporte. En algunos países ya se a usado este sistema para identificar manifestantes, ya que los lectores de RFID pueden ser leídos a la distancia, como puede verse en el documental "[La Police Totale](http://websuterfuge.free.fr/rfid.html)"
 
-En algunos países ya se a usado este sistema para identificar manifestantes, ya que los lectores de RFID pueden ser leídos a la distancia, como puede verse en el documental "[La Police Totale](http://websuterfuge.free.fr/rfid.html)"
+![Estuche anti-RFID](planos/porta_sube.png)
 
-#### ¿Que podemos hacer?
+> Estuche **anti-RFID**, armado con un tetra pak, bloquea las ondas de radio así no es detectable a larga distancia. En el caso de la tarjeta SUBE para utilizarla hay que sacarla de su estuche. 
+
+### ¿Que podemos hacer?
 
 * No usarlos
 * No renovar el DNI
 * Intercambiar tarjetas SUBE
-* Usar un estuche
+* Usar el estuche
 
-Estuche anti-RFID, armado con un tetra pak, bloquea el RFID así no es detectable a larga distancia. En el caso de la tarjeta SUBE para utilizarla hay que sacarla de su estuche. 
-
-![Estuche anti-RFID](planos/porta_sube.png)
-
-### [ManifestDroid](apk/)
+## [ManifestDroid](apk/)
 
 Tanto en las computadoras como los dispositivos portátiles (celulares, pad, tablet, etc) estamos muy mal acostumbrados a comunicarnos de modo inseguro, conectándonos a cualquier red disponible, comunicarnos y navegar sin criptografía, pudiendo cualquier persona cercana a nosotros interceptar lo que estamos haciendo, y además la compañía de celular o internet pueden hacerlo todo el tiempo.
 
@@ -66,7 +63,7 @@ Los proxys nos permite pasar por internet sin que nadie pueda ver que estamos ha
 
 Los filtros más simple que podemos usar son los de publicidad como [Adblock](https://f-droid.org/repository/browse/?fdfilter=adblock&fdid=org.adblockplus.android) quita la publicidad de las paginas web, aunque parezca algo trivial mejora muchísimo la velocidad de navegación.
 
-#### Comunicación segura y coordinación
+### Comunicación segura y coordinación
 
 Una de las grandes ventajas de los policías en una manifestación, es que se encuentran organizados, pueden comunicarse en tiempo real, modificar sus movimientos y planificar en base a lo ocurrido. Para esto cuentan con un grupo dedicado a esta función que esta fuera y dentro de la acción.
 
@@ -83,14 +80,14 @@ Es recomendable **no usar** la red telefónica convencional, pero en caso de nec
 * [RedPhone](http://www.whispersystems.org/) Llamadas con criptografía sobre telefonía móvil.
 * [TextSecure](http://www.whispersystems.org/) SMS con criptografía.
 
-##### Red libre con Android
+#### Red libre con Android
 
 Muchos dispositivos con Android no son celulares, así que no tienen acceso a internet permanente y en el caso de los celulares internet puede ser interrumpida, limitada o bloqueada. Por eso es preferible armar nuestra propia red de modo de chatear con Bounjour, compartir archivos y conectarse con diversos equipos. Además muchos dispositivos permite compatir internet dentro de la misma red libre usando el 3G.
 
 * [Barnacle Wifi Tether](https://f-droid.org/repository/browse/?fdfilter=Barnacle%20Wifi%20Tether&fdid=net.szym.barnacle) arma tu propia red en malla con Android.
 * [Share via http](https://f-droid.org/repository/browse/?fdfilter=share%20via%20http&fdid=com.MarcosDiez.shareviahttp) comparte archivos en la red.
 
-### Linterna estroboscopica
+## Linterna estroboscopica
 
 Estas luces se usa para control mental, inducir al sueño o poner en estado de trance en las velocidades adecuadas producen estado de calma, somnolencia o la sensación de falta de tiempo. 
 En las frecuencias entre 5hz a 7hz produce un estado de calma, eso es lo que intenta generar el este circuito. Podemos modificar una linterna que use entre 5v a 12v con este circuito.
@@ -119,14 +116,14 @@ Se permite el uso comercial de la obra y de las posibles obras derivadas, la dis
 ![Creado para la comunidad compartir con la misma licencia](img/by-sa-125px.png)
 
 
-#### Sitios web para visitar
+# Sitios web para visitar
 
 * https://f-droid.org/
 * https://guardianproject.info/
 * http://www.whispersystems.org/
 * http://websuterfuge.free.fr/rfid.html
 
-## Quehaceres
+# Quehaceres
 
 * Hacer svg interactivo
  * exportar en pixelar
@@ -136,4 +133,4 @@ Se permite el uso comercial de la obra y de las posibles obras derivadas, la dis
 * Corregir el color de la acuarela
 * Programa para tapar caras en HTML5
 * P2P
-* QR
+* codigos QR
