@@ -11,7 +11,7 @@
 > * Botella con vinagre o jugo de limón: para protegerse del [gas lacrimógeno](#gas-lacrimgeno)
 > * [Mochila con router wifi](#mochila-wifi) para mejorar el acceso a la red
 > * Antenas para transmitir con mayor potencia
-> * Linterna [estroboscopico](#linterna-estroboscopica) para calmar a las fieras
+> * [Linterna estroboscopico](#linterna-estroboscopica) para calmar a las fieras
 > * Protección para [identificaciones con RFID](#proteccin-para-documentos-con-rfid)
 
 ## Reconocimiento facial
@@ -58,7 +58,7 @@ Los filtros más simple que podemos usar son los de publicidad como [Adblock](ht
 
 Una de las grandes ventajas de los policías en una manifestación, es que se encuentran organizados, pueden comunicarse en tiempo real, modificar sus movimientos y planificar en base a lo ocurrido. Para esto cuentan con un grupo dedicado a esta función que esta fuera y dentro de la acción.
 
-Lo mismo podemos hacer los manifestantes, organizandonos con herramientas similares, libres y seguras. Lo mejor es que un grupo en particular se dedique a la coordinación, utilizando con Bounjour, Jabber o telefonía sobre internet. Al igual que los policías, puede coordinarse la inteligencia por fuera de la manifestación, las personas calmadas piensan mejor, en este caso el grupo de acción debe pasar reportes precisos de lo que ocurre. La mayoría de la comunicación (a nivel inteligencia) debe hacerse por chat, en medio de una manifestación hablar se tornarse complicado e inseguro. Además escribiendo de modo preciso se puede logran mejores resultados, sobre todo en grandes grupos. **Es sumamente necesario que se usen métodos criptográficos**, el más común y seguro es el OTR.
+Lo mismo podemos hacer los manifestantes, organizándonos con herramientas similares, libres y seguras. Lo mejor es que un grupo en particular se dedique a la coordinación, utilizando con Bounjour, Jabber o telefonía sobre internet. Al igual que los policías, puede coordinarse la inteligencia por fuera de la manifestación, las personas calmadas piensan mejor, en este caso el grupo de acción debe pasar reportes precisos de lo que ocurre. La mayoría de la comunicación (a nivel inteligencia) debe hacerse por chat, en medio de una manifestación hablar se tornarse complicado e inseguro. Además escribiendo de modo preciso se puede logran mejores resultados, sobre todo en grandes grupos. **Es sumamente necesario que se usen métodos criptográficos**, el más común y seguro es el OTR.
 
 * [Gibberbot](https://guardianproject.info/apps/gibber/) chatea de modo [criptográfico](http://wiki.partidopirata.com.ar/Gibberbot_con_OTR) y seguro en bounjour, jabber, facebook, googletalk, etc.
 * [CsipSimple](https://code.google.com/p/csipsimple/) telefonía por internet con criptográfia, podes crear un cuenta local para la red libre y una cuenta en [ekiga.org](https://www.ekiga.net/?page=register) para acceso desde internet.
@@ -83,12 +83,16 @@ Muchos dispositivos con Android no son celulares, así que no tienen acceso a in
 En una situación de verse afectado de forma real o potencial por este tipo de armas, es necesario conocer las medidas utilizadas para mantener el control de la situación.
 
 - Evitar que el gas alcance los ojos, para ello se pueden llevar preparadas gafas de buceo o en todo caso cerrarlos y llevarlos hacia el suelo, ya que el gas se disipa hacia arriba.
-- Prepare un neutralizador en un roseador con agua potable con 5% de bicarbonato de sodio debe rosearse en ojos y boca, sin frotar.
+- rosearse neutralizante en ojos y boca, sin frotar.
 - Antes de que el gas se aproxime, protegerse la nariz y la boca con un trapo empapado de vinagre, neutralizante o jugo de limón.
 - Generalmente, la bomba se puede agarra y lanzar a otra dirección, aunque hay que protegerse las manos con un paño húmedo grueso o guantes de protección, ya que la bomba se calienta hasta alcanzar altas temperaturas, además, hay que considerar que, quien la tome se verá rodeado de gas momentáneamente.
 - No llevar lentes de contacto o usar protección.
 
-## Linterna estroboscopica
+![neutralizante](planos/lacrimogeno_neutralizante.png)
+
+> Prepare un neutralizador en un roseador con agua potable con 5% de bicarbonato de sodio. 
+
+## Linterna estroboscópica
 
 Estas luces se usa para control mental, inducir al sueño o poner en estado de trance en las velocidades adecuadas producen estado de calma, somnolencia o la sensación de falta de tiempo. 
 En las frecuencias entre _5hz_ a _7hz_ produce un estado de calma, eso es lo que intenta generar el este circuito. Podemos modificar una linterna que use entre 5v a 12v con este circuito, y reutilizar su lamparas LED y baterías.
@@ -103,7 +107,7 @@ Hay un generador para Android llamado [binauralbeat](https://f-droid.org/reposit
 
 # Mochila WIFI
 
-Es un router dentro de una mochila con baterias para sostener su funcionamiento por horas. 
+Es un router dentro de una mochila con baterías para sostener su funcionamiento por horas. 
 Sirve para mejorar el acceso a la red, compartir contenido, difundir lo que ocurre, transmitir con una webcam permanentemente lo que esta ocurriendo y mucho más.
 
 ![camara wifi sola](img/media/PIC_0041.jpg)
@@ -131,13 +135,11 @@ Se permite el uso comercial de la obra y de las posibles obras derivadas, la dis
 * http://www.whispersystems.org/
 * http://websuterfuge.free.fr/rfid.html
 
-# 
-
 # Quehaceres
 
 * Hacer svg interactivo
  * traducir
-* [barricada un hosteable](html/barricada.html)
+* [barricada unhosteable](html/barricada.html)
 * Referencia a los italiano que se protegían de los policías
 * Corregir el color de la acuarela
 * Programa para tapar caras en HTML5
