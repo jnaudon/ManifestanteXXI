@@ -82,15 +82,15 @@ Muchos dispositivos con Android no son celulares, así que no tienen acceso a in
 
 En una situación de verse afectado de forma real o potencial por este tipo de armas, es necesario conocer las medidas utilizadas para mantener el control de la situación.
 
+![neutralizante](planos/lacrimogeno_neutralizante.png)
+
+> Prepare un neutralizador en un roseador con agua potable con 5% de bicarbonato de sodio. 
+
 - Evitar que el gas alcance los ojos, para ello se pueden llevar preparadas gafas de buceo o en todo caso cerrarlos y llevarlos hacia el suelo, ya que el gas se disipa hacia arriba.
 - rosearse neutralizante en ojos y boca, sin frotar.
 - Antes de que el gas se aproxime, protegerse la nariz y la boca con un trapo empapado de vinagre, neutralizante o jugo de limón.
 - Generalmente, la bomba se puede agarra y lanzar a otra dirección, aunque hay que protegerse las manos con un paño húmedo grueso o guantes de protección, ya que la bomba se calienta hasta alcanzar altas temperaturas, además, hay que considerar que, quien la tome se verá rodeado de gas momentáneamente.
 - No llevar lentes de contacto o usar protección.
-
-![neutralizante](planos/lacrimogeno_neutralizante.png)
-
-> Prepare un neutralizador en un roseador con agua potable con 5% de bicarbonato de sodio. 
 
 ## Linterna estroboscópica
 
