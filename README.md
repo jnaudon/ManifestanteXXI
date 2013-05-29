@@ -9,7 +9,7 @@
 > * Cámara grabando y transmitiendo en vivo
 > * Teléfono con [ManifestDroid](#manifestdroid): comunicación criptográfica (SMS, llamadas, chat, etc), publicar fotos sin exponer a los manifestantes, etc.
 > * Botella con vinagre o jugo de limón: para protegerse del [gas lacrimógeno](#gas-lacrimgeno)
-> * Mochila con [router wifi](/b4zz4/NodoDeGuerrilla/) para mejorar el acceso a la red
+> * [Mochila con router wifi](#mochila-wifi) para mejorar el acceso a la red
 > * Antenas para transmitir con mayor potencia
 > * Linterna [estroboscopico](#linterna-estroboscopica) para calmar a las fieras
 > * Protección para [identificaciones con RFID](#proteccin-para-documentos-con-rfid)
@@ -104,10 +104,14 @@ Hay un generador para Android llamado [binauralbeat](https://f-droid.org/reposit
 
 # Mochila WIFI
 
-Es un router dentro de una mochila, con baterias para sostener su funcionamiento por horas. 
+Es un router dentro de una mochila con baterias para sostener su funcionamiento por horas. 
 Sirve para mejorar el acceso a la red, compartir contenido, difundir lo que ocurre, transmitir con una webcam permanentemente lo que esta ocurriendo y mucho más.
 
 Por ahora falta la documentación, podes leer la experiencia del [Nodo de Guerrilla](/b4zz4/NodoDeGuerrilla/).
+
+## Edison Carter
+
+Cámara para transmitir, grabar y publicar lo que ocurren en el momento en vivo y en directo, basada en un router wifi, una webcam y un router wifi.
 
 #Licencia
 
