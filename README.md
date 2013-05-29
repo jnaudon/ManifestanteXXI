@@ -6,7 +6,7 @@
 > * Pañuelo en la cara o pasa montaña: contra el [gas lacrimógeno](#gas-lacrimógeno) y el [reconocimiento facial](#reconocimiento-facial)
 > * Guante de cuero curtido, para sostener las bombas de gas lacrimógeno
 > * Ropa de la [gratisferia](textos/Gratiferia.md) para que no te identifiquen con ella y taparte la cara
-> * Cámara grabando y transmitiendo en vivo
+> * [Edison Carter](#edison-carter): cámara grabando y transmitiendo en vivo
 > * Teléfono con [ManifestDroid](#manifestdroid): comunicación criptográfica (SMS, llamadas, chat, etc), publicar fotos sin exponer a los manifestantes, etc.
 > * Botella con vinagre o jugo de limón: para protegerse del [gas lacrimógeno](#gas-lacrimgeno)
 > * [Mochila con router wifi](#mochila-wifi) para mejorar el acceso a la red
@@ -130,6 +130,8 @@ Se permite el uso comercial de la obra y de las posibles obras derivadas, la dis
 * https://guardianproject.info/
 * http://www.whispersystems.org/
 * http://websuterfuge.free.fr/rfid.html
+
+# 
 
 # Quehaceres
 
