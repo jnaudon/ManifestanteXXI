@@ -107,7 +107,7 @@ Hay un generador para Android llamado [binauralbeat](https://f-droid.org/reposit
 Es un router dentro de una mochila con baterias para sostener su funcionamiento por horas. 
 Sirve para mejorar el acceso a la red, compartir contenido, difundir lo que ocurre, transmitir con una webcam permanentemente lo que esta ocurriendo y mucho más.
 
-![camara wifi sola](img/PIC_041.jpg)
+![camara wifi sola](img/media/PIC_0041.jpg)
 
 Por ahora falta la documentación, podes leer la experiencia del [Nodo de Guerrilla](/b4zz4/NodoDeGuerrilla/).
 
@@ -115,7 +115,7 @@ Por ahora falta la documentación, podes leer la experiencia del [Nodo de Guerri
 
 Cámara para transmitir, grabar y publicar lo que ocurren en el momento en vivo y en directo, basada en un router wifi, una webcam y un router wifi.
 
-![camara wifi sola](img/PIC_0175.jpg) ![camara wifi con panel](img/PIC_0176.jpg)
+![camara wifi sola](img/media/PIC_0175.jpg) ![camara wifi con panel](img/media/PIC_0176.jpg)
 
 #Licencia
 
