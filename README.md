@@ -102,6 +102,13 @@ En las frecuencias entre _5hz_ a _7hz_ produce un estado de calma, eso es lo que
 Además podes mejorar el efecto con sonidos binaureal amplificado con un megáfono o amplificador. Se puede reproducirlo "debajo" de música o cuando alguien habla en los posible este sonido tiene que ser escuchado inconscientemente.
 Hay un generador para Android llamado [binauralbeat](https://f-droid.org/repository/browse/?fdfilter=binaural&fdid=com.ihunda.android.binauralbeat).
 
+# Mochila WIFI
+
+Es un router dentro de una mochila, con baterias para sostener su funcionamiento por horas. 
+Sirve para mejorar el acceso a la red, compartir contenido, difundir lo que ocurre, transmitir con una webcam permanentemente lo que esta ocurriendo y mucho más.
+
+Por ahora falta la documentación, podes leer la experiencia del [Nodo de Guerrilla](/b4zz4/NodoDeGuerrilla/).
+
 #Licencia
 
 Se permite el uso comercial de la obra y de las posibles obras derivadas, la distribución de las cuales se debe hacer con una licencia igual a la que regula la obra original.
