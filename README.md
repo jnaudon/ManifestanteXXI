@@ -96,7 +96,6 @@ En las frecuencias entre _5hz_ a _7hz_ produce un estado de calma, eso es lo que
 ![circuito](planos/555_Estroboscopica.png)
 
 > Uno o más LED, circuito integrado 555, resistencias de 47k, 82k y 1k, capacitor electrolítico 1mf, capacitor cerámico 1mf, pilas.
->
 > _Estos componentes se pueden comprar en cualquier casa de electrónica_
 
 Además podes mejorar el efecto con sonidos binaureal amplificado con un megáfono o amplificador. Se puede reproducirlo "debajo" de música o cuando alguien habla en los posible este sonido tiene que ser escuchado inconscientemente.
@@ -109,7 +108,7 @@ Sirve para mejorar el acceso a la red, compartir contenido, difundir lo que ocur
 
 ![camara wifi sola](img/media/PIC_0041.jpg)
 
-Por ahora falta la documentación, podes leer la experiencia del [Nodo de Guerrilla](/b4zz4/NodoDeGuerrilla/).
+_Por ahora falta la documentación, podes leer la experiencia del [Nodo de Guerrilla](/b4zz4/NodoDeGuerrilla/)._
 
 ## Edison Carter
 
