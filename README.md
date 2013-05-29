@@ -87,7 +87,7 @@ En una situación de verse afectado de forma real o potencial por este tipo de a
 > Prepare un neutralizador en un roseador con agua potable con 5% de bicarbonato de sodio. 
 
 - Evitar que el gas alcance los ojos, para ello se pueden llevar preparadas gafas de buceo o en todo caso cerrarlos y llevarlos hacia el suelo, ya que el gas se disipa hacia arriba.
-- rosearse neutralizante en ojos y boca, sin frotar.
+- Rosearse neutralizante en ojos y boca, sin frotar.
 - Antes de que el gas se aproxime, protegerse la nariz y la boca con un trapo empapado de vinagre, neutralizante o jugo de limón.
 - Generalmente, la bomba se puede agarra y lanzar a otra dirección, aunque hay que protegerse las manos con un paño húmedo grueso o guantes de protección, ya que la bomba se calienta hasta alcanzar altas temperaturas, además, hay que considerar que, quien la tome se verá rodeado de gas momentáneamente.
 - No llevar lentes de contacto o usar protección.
@@ -112,13 +112,13 @@ Sirve para mejorar el acceso a la red, compartir contenido, difundir lo que ocur
 
 ![camara wifi sola](img/media/PIC_0041.jpg)
 
-_Por ahora falta la documentación, podes leer la experiencia del [Nodo de Guerrilla](/b4zz4/NodoDeGuerrilla/)._
+_Por ahora falta la documentación, podes leer la experiencia del [Nodo de Guerrilla](https://github.com/b4zz4/NodoDeGuerrilla/)._
 
 ## Edison Carter
 
 Cámara para transmitir, grabar y publicar lo que ocurren en el momento en vivo y en directo, basada en un router wifi, una webcam y un router wifi.
 
-![camara wifi sola](img/media/PIC_0175.jpg) ![camara wifi con panel](img/media/PIC_0176.jpg)
+![camara wifi sola](img/media/PIC_0175.jpg)  ![camara wifi con panel](img/media/PIC_0176.jpg)
 
 #Licencia
 

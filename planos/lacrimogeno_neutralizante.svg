@@ -18,7 +18,7 @@
    inkscape:export-filename="C:\Documents and Settings\Flia Gomez\Escritorio\bitmap.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   sodipodi:docname="1344386626.svg">
+   sodipodi:docname="lacrimogeno_neutralizante.svg">
   <defs
      id="defs4">
     <marker
@@ -472,11 +472,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.2192248"
-     inkscape:cx="203.38866"
-     inkscape:cy="560.92339"
+     inkscape:zoom="0.17177134"
+     inkscape:cx="331.46093"
+     inkscape:cy="535.01466"
      inkscape:document-units="px"
-     inkscape:current-layer="g4665"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1024"
      inkscape:window-height="552"
@@ -489,7 +489,10 @@
      id="layer1">
     <g
        id="g4665"
-       transform="matrix(0.96218396,0,0,1.1390274,40.765546,-128.24685)">
+       transform="matrix(0.96218396,0,0,1.1390274,40.765546,-128.24685)"
+       inkscape:export-filename="/home/moteado/ManifestanteXXI/planos/lacrimogeno_neutralizante.png"
+       inkscape:export-xdpi="29.947117"
+       inkscape:export-ydpi="29.947117">
       <path
          style="color:#000000;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.04536533;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="m 424.58698,828.56517 c -59.08179,0 -106.98548,5.4579 -106.98548,12.17072 -2.57728,10.58903 -1.32952,30.38691 -1.32952,44.28218 l 3.71722,0 c 11.94033,5.23162 55.82733,11.2826 105.60716,11.2826 49.77983,0 89.55881,-6.05098 101.49915,-11.2826 l 5.12814,0 0,-42.90695 -1.35665,0 c 0.45249,-0.45391 0.67832,-0.90757 0.67832,-1.37523 0,-6.71282 -47.87656,-12.17072 -106.95834,-12.17072 z"
@@ -581,7 +584,10 @@
     </g>
     <g
        id="g3011"
-       transform="matrix(1.0069338,0,0,1.1390274,123.51759,-17.229304)">
+       transform="matrix(1.0069338,0,0,1.1390274,123.51759,-17.229304)"
+       inkscape:export-filename="/home/moteado/ManifestanteXXI/planos/lacrimogeno_neutralizante.png"
+       inkscape:export-xdpi="29.947117"
+       inkscape:export-ydpi="29.947117">
       <g
          id="g4073"
          transform="translate(-52.283929,14.142136)"
@@ -694,7 +700,10 @@
        sodipodi:rx="106.91877"
        sodipodi:ry="15.69839"
        d="m 470.9517,379.87708 a 106.91877,15.69839 0 1 1 -213.83754,0 106.91877,15.69839 0 1 1 213.83754,0 z"
-       transform="matrix(0.83542247,0,0,0.83542247,145.62026,85.143808)" />
+       transform="matrix(0.83542247,0,0,0.83542247,145.62026,85.143808)"
+       inkscape:export-filename="/home/moteado/ManifestanteXXI/planos/lacrimogeno_neutralizante.png"
+       inkscape:export-xdpi="29.947117"
+       inkscape:export-ydpi="29.947117" />
     <path
        transform="matrix(0.97327888,0,0,0.83542247,94.871618,512.8639)"
        sodipodi:type="arc"
@@ -704,7 +713,10 @@
        sodipodi:cy="379.87708"
        sodipodi:rx="106.91877"
        sodipodi:ry="15.69839"
-       d="m 470.9517,379.87708 a 106.91877,15.69839 0 1 1 -213.83754,0 106.91877,15.69839 0 1 1 213.83754,0 z" />
+       d="m 470.9517,379.87708 a 106.91877,15.69839 0 1 1 -213.83754,0 106.91877,15.69839 0 1 1 213.83754,0 z"
+       inkscape:export-filename="/home/moteado/ManifestanteXXI/planos/lacrimogeno_neutralizante.png"
+       inkscape:export-xdpi="29.947117"
+       inkscape:export-ydpi="29.947117" />
   </g>
   <metadata
      id="metadata145">
