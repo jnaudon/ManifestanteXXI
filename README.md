@@ -2,6 +2,8 @@
 
 ![Póster](poster/poster_revolucionario_de_accion_chico.png)
 
+[Descargar versión para imprimir](poster/poster.png)
+
 > * Casco y protección para la bici para protegerse de la represión
 > * Pañuelo en la cara o pasa montaña: contra el [gas lacrimógeno](#gas-lacrimógeno) y el [reconocimiento facial](#reconocimiento-facial)
 > * Guante de cuero curtido, para sostener las bombas de gas lacrimógeno

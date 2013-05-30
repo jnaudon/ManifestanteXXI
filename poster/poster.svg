@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.77697342"
-     inkscape:cx="426.44911"
-     inkscape:cy="987.60847"
+     inkscape:zoom="0.38848671"
+     inkscape:cx="594.67319"
+     inkscape:cy="950.78066"
      inkscape:document-units="px"
-     inkscape:current-layer="g3116"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1024"
      inkscape:window-height="552"
@@ -86,11 +86,11 @@
     <image
        sodipodi:absref="/home/moteado/ManifestanteXXI/poster/poster_revolucionario_de_accion.png"
        xlink:href="poster_revolucionario_de_accion.png"
-       width="918.23132"
-       height="1282"
-       id="image3066"
+       y="-248.35208"
        x="70.027382"
-       y="-248.35208" />
+       id="image3066"
+       height="1282"
+       width="918.23132" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -427,16 +427,21 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-size:50.30859375px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="711.46844"
-       y="1406.3552"
+       style="font-size:50.30859375000000000px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;text-anchor:end;text-align:end"
+       x="980.76251"
+       y="1404.3552"
        id="text3237"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3239"
-         x="711.46844"
-         y="1406.3552"
-         style="font-size:17.6080246px">bazza © licencia cc-by-sa / gfdl</tspan></text>
+         x="707.46844"
+         y="1404.3552"
+         style="font-size:17.60802460000000025px;text-anchor:end;text-align:end">bazza © licencia cc-by-sa / gfdl</tspan><tspan
+         sodipodi:role="line"
+         x="707.46844"
+         y="1426.3652"
+         style="font-size:17.60802460000000025px;text-anchor:end;text-align:end"
+         id="tspan3087">http://ur1.ca/e3iqv</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
