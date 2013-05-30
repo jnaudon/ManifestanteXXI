@@ -133,7 +133,6 @@ Se permite el uso comercial de la obra y de las posibles obras derivadas, la dis
 
 * Hacer svg interactivo
  * traducir
-* [barricada unhosteable](html/barricada.html)
 * Referencia a los italiano que se protegían de los policías
 * Corregir el color de la acuarela
 * Programa para tapar caras en HTML5
