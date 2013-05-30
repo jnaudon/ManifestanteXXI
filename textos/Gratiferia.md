@@ -1,10 +1,8 @@
 # [Gratiferias](http://es.wikipedia.org/wiki/Tienda_gratis)
 
-Una **Tienda gratis** es una tienda donde todas las cosas son gratuitas. Son similares a las tiendas de caridad, la 
-diferencia es que en las tiendas gratis, todos los artículos están disponibles sin costo alguno. Sea que se trate de 
-un libro, un mueble o un utensilio doméstico, todos están disponibles sin costo. La idea de algo gratuito todavía se 
-relaciona con la caridad, de manera que quienes vienen a estas tiendas lo hacen sea por necesidad o por convicción 
-anticapitalista.
+Es una tienda donde todas las cosas son gratuitas. Sea que se trate de un libro, un mueble o un utensilio doméstico, 
+todos están disponibles sin costo. La idea de algo gratuito todavía se relaciona con la caridad, de manera que 
+quienes vienen a estas tiendas lo hacen sea por necesidad o por convicción anticapitalista.
 
 > Hay suficiente para las necesidades de todos, pero no para la avaricia de cada uno.
 > 
