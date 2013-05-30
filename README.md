@@ -53,7 +53,7 @@ Para solucionar este problema se pueden usar varias tecnologías de criptografí
 La **criptografía** es como si inventáramos nuestro propio idioma para hablar con una persona, aun así para nosotros sigue siendo totalmente legible. 
 Esto sirve para que nadie pueda interceptar la conversación.
 Algo muy sencillo que se puede hacer es navegar en paginas con _https://_ en lugar de _http://_, esto funciona en muchas paginas populares. 
-Lo mejor es usar [HTTPS Everywhere](https://www.eff.org/https-everywhere) en firefox que lo hace automáticamente.
+Lo mejor es usar [HTTPS Everywhere](https://www.eff.org/https-everywhere) en Firefox que lo hace automáticamente.
 
 Los **proxys** nos permite pasar por internet sin que nadie pueda ver que estamos haciendo. Uno de los mas populares es Tor que su particularidad es que esta compuesto por miles de computadoras que se coordinan de modo descentralizado, haciéndolo muy seguro y confiable. 
 La versión para Android se llama [Orbot](https://f-droid.org/repository/browse/?fdfilter=browser&fdid=org.torproject.android), nos permite navegar con [Orweb](https://f-droid.org/repository/browse/?fdfilter=browser&fdid=info.guardianproject.browser) y chatear de anónimo y seguro con [Gibberbot](https://guardianproject.info/apps/gibber/)
@@ -64,7 +64,7 @@ Podemos usar la VPN de Riseup descargando [Open VPN setting](http://f-droid.org/
 
 Los **filtros** más simple que podemos usar son los de publicidad como [Adblock](https://f-droid.org/repository/browse/?fdfilter=adblock&fdid=org.adblockplus.android) quita la publicidad de las paginas web, aunque parezca algo trivial mejora muchísimo la velocidad de navegación.
 
-Hay que tener en cuenta que cuantos más seamos usando estos servicios (cifrado, proxys, túneles, etc) **todo el tiempo** (no solo para hacktivismos), **más seguro** se tornan, por que generamos tráfico cifrado todo el tiempo y más complicado se vuelve encontrar los grupos de activistas.
+Hay que tener en cuenta que cuantos más seamos usando estos recursos (cifrado, proxys, túneles, etc) **todo el tiempo**, no solo para hacktivismos, **más seguro** se tornan, por que generamos tráfico cifrado todo el tiempo y más complicado se vuelve encontrar los grupos de activistas.
 
 ### Comunicación segura y coordinación
 
@@ -141,10 +141,9 @@ Se permite el uso comercial de la obra y de las posibles obras derivadas, la dis
 
 # Quehaceres
 
-* Hacer svg interactivo
+* Hacer svg interactivo (1/2)
  * traducir
 * Referencia a los italiano que se protegían de los policías
-* Corregir el color de la acuarela
 * Programa para tapar caras en HTML5
 * P2P
 * codigos QR
