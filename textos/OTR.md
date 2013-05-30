@@ -1,23 +1,16 @@
 # [Gibberbot con OTR](http://wiki.partidopirata.com.ar/Gibberbot\_con\_OTR)
 
-Introducción
+Esta guía tiene dos partes, por un lado la configuración de las cuentas de Jabber (mensajería instantánea) del 
+Partido Pirata en el cliente libre Gibberbot para Android y por otro, la configuración y uso de Off-The-Record 
+(OTR), el complemento de conversación criptográfica.
 
-Esta guía tiene dos partes, por un lado la configuración de las
-cuentas de Jabber (mensajería instantánea) del Partido Pirata en el
-cliente libre Gibberbot para Android y por otro, la configuración y
-uso de Off-The-Record (OTR), el complemento de conversación
-criptográfica.
+OTR asegura que las conversaciones no pueden ser interceptadas ni leídas por terceros (el PPAr, el ISP, Google, la 
+SIDE, el FBI, la CIA, etc.) y que realmente hablamos con quien creemos que estamos hablando.
 
-OTR asegura que las conversaciones no pueden ser interceptadas ni
-leídas por terceros (el PPAr, el ISP, Google, la SIDE, el FBI, la
-CIA, etc.) y que realmente hablamos con quien creemos que estamos
-hablando.
+##Instalación
 
-Instalación
-
-[Gibberbot](https://guardianproject.info/apps/gibber/) es un
-cliente de mensajería instántanea multicuenta para Jabber (GTalk,
-Facebook, etc) disponible para Android.
+[Gibberbot](https://guardianproject.info/apps/gibber/) es un cliente de mensajería instántanea multicuenta para 
+Jabber (GTalk, Facebook, etc) disponible para Android.
 
 
 ## Configuración de la cuenta
@@ -25,36 +18,39 @@ Facebook, etc) disponible para Android.
 Al abrir Gibberbot por primera vez, veremos algo como esto:
 
 [![image](http://wiki.partidopirata.com.ar/images/5/52/Gibberbot_01.png)](http://wiki.partidopirata.com.ar/Archivo:Gibberbot_01.png)
-Pantalla de inicio
-Luego de seleccionar el idioma (inglés en este caso), continúa una
-seguidilla de pantallas de bienvenida:
+
+> Pantalla de inicio.
+> Luego de seleccionar el idioma (inglés en este caso), continúa una seguidilla de pantallas de bienvenida:
 
 [![Gibberbot 02.png](http://wiki.partidopirata.com.ar/images/9/9a/Gibberbot_02.png)](http://wiki.partidopirata.com.ar/Archivo:Gibberbot_02.png)
 [![Gibberbot 03.png](http://wiki.partidopirata.com.ar/images/e/e7/Gibberbot_03.png)](http://wiki.partidopirata.com.ar/Archivo:Gibberbot_03.png)
 [![Gibberbot 04.png](http://wiki.partidopirata.com.ar/images/b/b9/Gibberbot_04.png)](http://wiki.partidopirata.com.ar/Archivo:Gibberbot_04.png)
 [![Gibberbot 05.png](http://wiki.partidopirata.com.ar/images/f/f1/Gibberbot_05.png)](http://wiki.partidopirata.com.ar/Archivo:Gibberbot_05.png)
-Listo con la bienvenida :) Ahora llegamos a la pantalla de
-configuración de cuenta:
+
+> Listo con la bienvenida :) Ahora llegamos a la pantalla de configuración de cuenta:
 
 [![Gibberbot 06.png](http://wiki.partidopirata.com.ar/images/5/5c/Gibberbot_06.png)](http://wiki.partidopirata.com.ar/Archivo:Gibberbot_06.png)
-Ponemos los datos requeridos...
+
+> Ponemos los datos requeridos...
 
 [![Gibberbot 07.png](http://wiki.partidopirata.com.ar/images/3/38/Gibberbot_07.png)](http://wiki.partidopirata.com.ar/Archivo:Gibberbot_07.png)
-Y no hay que olvidarse de ir a Advanced Account Settings, para
-destildar la verificación del certificado del servidor (a mi
-personalmente no me funcionó sin destildar eso):
+
+Y no hay que olvidarse de ir a Advanced Account Settings, para destildar la verificación del certificado del servidor (a mi personalmente no me funcionó sin destildar eso):
 
 [![Gibberbot 08.png](http://wiki.partidopirata.com.ar/images/4/49/Gibberbot_08.png)](http://wiki.partidopirata.com.ar/Archivo:Gibberbot_08.png)
-Listo con la cuenta! Normalmente la pantalla de inicio está en
-blanco, en este caso un fauno me habló y por eso aparece ese
-mensaje pendiente en la siguiente pantalla:
+
+**¡Listo con la cuenta!**
+
+Normalmente la pantalla de inicio está en blanco, en este caso un fauno me habló y por eso aparece ese mensaje 
+pendiente en la siguiente pantalla:
 
 [![Gibberbot 09.png](http://wiki.partidopirata.com.ar/images/e/e9/Gibberbot_09.png)](http://wiki.partidopirata.com.ar/Archivo:Gibberbot_09.png)
+
 al abrir el mensaje:
 
 [![Gibberbot 10.png](http://wiki.partidopirata.com.ar/images/7/7b/Gibberbot_10.png)](http://wiki.partidopirata.com.ar/Archivo:Gibberbot_10.png)
 
-> Notar la barra roja arriba, por lo cual proseguimos a configurar
+Notar la barra roja arriba, por lo cual proseguimos a configurar
 
 #OTR
 
@@ -88,9 +84,10 @@ nuestra pregunta y ellos deberán dar la misma respuesta que nosotros, y vicever
 pregunta, que debemos responder tal cual especificó nuestro contacto):
 
 [![Gibberbot 16.png](http://wiki.partidopirata.com.ar/images/2/26/Gibberbot_16.png)](http://wiki.partidopirata.com.ar/Archivo:Gibberbot_16.png)
-### [[editar](http://wiki.partidopirata.com.ar/index.php?title=Gibberbot_con_OTR&action=edit&section=6 "Editar sección: Conversación privada!")] Conversación privada!
 
-Todos verdes! A partir de ahora las conversaciones son 100% privadas.
+### ¡Conversación privada!
+
+¡Todos verdes! A partir de ahora las conversaciones son 100% privadas.
 
 [![Gibberbot 17.png](http://wiki.partidopirata.com.ar/images/2/2b/Gibberbot_17.png)](http://wiki.partidopirata.com.ar/Archivo:Gibberbot_17.png)
 
