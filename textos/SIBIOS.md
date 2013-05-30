@@ -88,9 +88,7 @@ el futuro. (vean [aqui](http://www.heinz.cmu.edu/~acquisti/face-recognition-stud
 [aquí](http://online.wsj.com/article/SB10001424052702303678704576440253307985070.html) para conocer más sobre 
 sistemas de reconocimiento facial).
 
-EFF 
-
-[viene advirtiendo](https://www.eff.org/wp/biometrics-whos-watching-you) desde hace tiempo que el seguimiento 
+La EFF [viene advirtiendo](https://www.eff.org/wp/biometrics-whos-watching-you) desde hace tiempo que el seguimiento 
 perfecto es dañino para una sociedad libre y democrática. Los ciudadanos tienen una expectativa razonable de 
 mantener su privacidad y anonimato, en particular en relación a la construcción de perfiles. Una combinación de 
 sistemas de ID biométricos manejados por el gobierno con sistemas generalizados de reconocimiento facial viola 
