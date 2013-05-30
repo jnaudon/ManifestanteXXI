@@ -37,15 +37,13 @@ al abrir el mensaje:
 
 [![Gibberbot 10.png](http://wiki.partidopirata.com.ar/images/7/7b/Gibberbot_10.png)](http://wiki.partidopirata.com.ar/Archivo:Gibberbot_10.png)
 
-Notar la barra roja arriba, por lo cual proseguimos a configurar
+Notar la barra roja arriba, por lo cual proseguimos a configurar.
 
-#OTR
+=====
 
-## Activación de OTR
+# Activación de OTR
 
-OTR viene integrado en Gibberbot:
-
-## Iniciar una conversación privada
+OTR viene integrado en Gibberbot, iniciar una conversación privada.
 
 [![Gibberbot 11.png](http://wiki.partidopirata.com.ar/images/8/89/Gibberbot_11.png)](http://wiki.partidopirata.com.ar/Archivo:Gibberbot_11.png)
 
@@ -78,4 +76,3 @@ pregunta, que debemos responder tal cual especificó nuestro contacto):
 ¡Todos verdes! A partir de ahora las conversaciones son 100% privadas.
 
 [![Gibberbot 17.png](http://wiki.partidopirata.com.ar/images/2/2b/Gibberbot_17.png)](http://wiki.partidopirata.com.ar/Archivo:Gibberbot_17.png)
-
