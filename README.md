@@ -129,9 +129,12 @@ _Por ahora falta la documentación, podes leer la experiencia del [Nodo de Guerr
 
 ## Edison Carter
 
-Cámara para transmitir, grabar y publicar lo que ocurren en el momento en vivo y en directo, basada en un router wifi, una webcam y un router wifi.
+Cámara para transmitir lo que ocurren en el momento en vivo y en directo, a la vez sirve para grabar y publicar.
 
 ![camara wifi sola](img/media/PIC_0175.jpg)  ![camara wifi con panel](img/media/PIC_0176.jpg)
+> Esta basada en un router wifi, una webcam. Puede alimentarse con pilas, baterías y panel solar.
+
+Como esta pensada apra salir a la calle y transmitir del modo más economico, usa las redes disponibles, transmite en baja resolucion, en formatos muy simples (JPG, MJPG), y siempre esta disponible en un portal cautivo.
 
 #Licencia
 
