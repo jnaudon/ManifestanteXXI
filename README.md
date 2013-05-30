@@ -150,3 +150,7 @@ Se permite el uso comercial de la obra y de las posibles obras derivadas, la dis
 * Programa para tapar caras en HTML5
 * P2P
 * codigos QR
+
+# Donaciones
+
+* [Dinero Mail](https://argentina.dineromail.com/Shop/Shop_Ingreso.asp?NombreItem=Donativo&TipoMoneda=1&PrecioItem=50%2E00&E_Comercio=205889&NroItem=-&image_url=http%3A%2F%2F&DireccionExito=http%3A%2F%2F&DireccionFracaso=http%3A%2F%2F&DireccionEnvio=1&Mensaje=1)
