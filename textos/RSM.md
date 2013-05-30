@@ -17,8 +17,8 @@ Luego supe que, por el momento, SIBIOS sólo funciona en Buenos Aires. Reconocí
 entrando por otra ciudad, y la aproveché. Así estoy aquí, pero la oportunidad no va a durar.
 
 La injusticia de exigir datos biométricos a los visitantes se originó, como tanto mal, en los Estados Unidos. Con vergüenza por mi 
-país, recomiendo que todos los no estadounidenses rehusen visitarlo. Pero esto no justifica que otros países lo hagan. “No somos peores 
-que los EEUU” no excusa nada.
+país, recomiendo que todos los no estadounidenses rehusen visitarlo. Pero esto no justifica que otros países lo hagan. _"No somos peores 
+que los EEUU"_ no excusa nada.
 
 Hay mucha tendencia a la vigilancia en la Argentina actual. Por ejemplo, la [tarjeta SUBE](SUBE.md)(como las parecidas en otras 
 ciudades) registra todo uso de los transportes.
@@ -26,5 +26,5 @@ ciudades) registra todo uso de los transportes.
 En mis sueños, los argentinos eliminarían SIBIOS, y la vigilancia de SUBE. Si sucede, puedo volver a visitar este país en el que cuento 
 con mucha amistad. Pero no tengo la fuerza de lanzar esta lucha. Les toca a los argentinos.
 
-Siendo ateo, no digo “adiós”. ¿Qué decir?  
-Hasta el milagro, Argentina.
+> Siendo ateo, no digo "adiós". ¿Qué decir?
+> Hasta el milagro, Argentina.

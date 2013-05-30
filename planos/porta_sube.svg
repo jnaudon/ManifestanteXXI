@@ -122,8 +122,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.82103316"
-     inkscape:cx="471.73723"
+     inkscape:zoom="0.14513953"
+     inkscape:cx="403.11156"
      inkscape:cy="788.08687"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
@@ -185,7 +185,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -195,8 +195,17 @@
      id="layer1"
      transform="translate(0,0.00130762)">
     <path
+       style="fill:#ffffff;stroke:none"
+       d="m 146.49546,228.33692 0.69204,247.75551 33.09375,31.90625 31.40625,31.46875 142.34375,0 30.59375,-31.6875 0.0312,-0.0312 208.25,-1.5 0,-278.46874 -83.71875,0 c -0.61005,11.47934 -9.82635,20.5937 -21.0937,20.5937 -11.26735,0 -20.48365,-9.11436 -21.09375,-20.59375 l -81.28125,0 -87.34375,0 c 0.005,0.19751 0.0312,0.39497 0.0312,0.59375 0,12.0443 -9.46306,21.8125 -21.125,21.8125 -11.66194,0 -21.125,-9.7682 -21.125,-21.8125 0,-0.19878 0.0261,-0.39624 0.0312,-0.59375 -36.56955,-0.20141 -109.69194,0.55698 -109.69194,0.55698 z"
+       id="rect2985-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccscccssscc"
+       inkscape:export-filename="/home/moteado/ManifestanteXXI/planos/porta_sube.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
        style="fill:#f2f2f2;stroke:none"
-       d="m 593.58127,361.77357 -1.38106,-278.417106 -35.06664,0.18724 0.42505,246.368896 -141.93751,0 -31.40625,31.46875"
+       d="m 593.58127,505.77357 -1.38106,-278.41711 -35.06664,0.18724 0.42505,246.3689 -141.93751,0 -31.40625,31.46875"
        id="rect2985-7-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc"
@@ -204,9 +213,8 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.54330707000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 146.49546,84.33823 147.1875,332.09375 180.28125,364 l 31.40625,31.46875 142.34375,0 30.59375,-31.6875 0.0312,-0.0312 208.25,-1.5 0,-278.46875 -83.71875,0 C 508.5774,95.260638 499.3611,104.375 488.09375,104.375 476.8264,104.375 467.6101,95.260638 467,83.78125 l -81.28125,0 -87.34375,0 c 0.005,0.197508 0.0312,0.394966 0.0312,0.59375 0,12.044302 -9.46306,21.8125 -21.125,21.8125 -11.66194,0 -21.125,-9.768198 -21.125,-21.8125 0,-0.198784 0.0261,-0.396242 0.0312,-0.59375 -36.56955,-0.201412 -109.69194,0.55698 -109.69194,0.55698 z"
-       transform="translate(0,-0.00130762)"
+       style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 146.49546,228.33692 0.69204,247.75552 33.09375,31.90625 31.40625,31.46875 142.34375,0 30.59375,-31.6875 0.0312,-0.0312 208.25,-1.5 0,-278.46875 -83.71875,0 c -0.61005,11.47934 -9.82635,20.5937 -21.0937,20.5937 -11.26735,0 -20.48365,-9.11436 -21.09375,-20.59375 l -81.28125,0 -87.34375,0 c 0.005,0.19751 0.0312,0.39497 0.0312,0.59375 0,12.0443 -9.46306,21.8125 -21.125,21.8125 -11.66194,0 -21.125,-9.7682 -21.125,-21.8125 0,-0.19878 0.0261,-0.39624 0.0312,-0.59375 -36.56955,-0.20141 -109.69194,0.55698 -109.69194,0.55698 z"
        id="rect2985"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccscccssscc"
@@ -214,8 +222,8 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.06299213;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:8.50393701,8.50393701;stroke-dashoffset:0"
-       d="m 380.65999,85.979309 0,276.916411 -199.99519,0 0,-276.916411"
+       style="fill:none;stroke:#000000;stroke-width:1.0629921;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:8.50393701, 8.50393701;stroke-dashoffset:0"
+       d="m 380.65999,229.97931 0,276.91641 -199.99519,0 0,-276.91641"
        id="rect3139"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -226,7 +234,7 @@
        xml:space="preserve"
        style="font-size:21px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="276.2493"
-       y="387.66254"
+       y="531.66254"
        id="text5608"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/moteado/ManifestanteXXI/planos/porta_sube.png"
@@ -235,12 +243,12 @@
          sodipodi:role="line"
          id="tspan5610"
          x="276.2493"
-         y="387.66254">B</tspan></text>
+         y="531.66254">B</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:21px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="155.22388"
-       y="237.19144"
+       y="381.19144"
        id="text5608-0"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/moteado/ManifestanteXXI/planos/porta_sube.png"
@@ -249,12 +257,12 @@
          sodipodi:role="line"
          id="tspan5610-6"
          x="155.22388"
-         y="237.19144">A</tspan></text>
+         y="381.19144">A</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:21px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="485.34085"
-       y="354.67584"
+       y="498.67584"
        id="text5608-6"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/moteado/ManifestanteXXI/planos/porta_sube.png"
@@ -263,12 +271,12 @@
          sodipodi:role="line"
          id="tspan5610-5"
          x="485.34085"
-         y="354.67584">B</tspan></text>
+         y="498.67584">B</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:21px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="566.03345"
-       y="237.68878"
+       y="381.68878"
        id="text5608-0-3"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/moteado/ManifestanteXXI/planos/porta_sube.png"
@@ -277,12 +285,12 @@
          sodipodi:role="line"
          id="tspan5610-6-6"
          x="566.03345"
-         y="237.68878">A</tspan></text>
+         y="381.68878">A</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="243.68375"
-       y="61.495453"
+       y="205.49545"
        id="text5672"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/moteado/ManifestanteXXI/planos/porta_sube.png"
@@ -291,11 +299,11 @@
          sodipodi:role="line"
          id="tspan5674"
          x="243.68375"
-         y="61.495453">5,8 cm</tspan></text>
+         y="205.49545">5,8 cm</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="191.04343"
+       x="335.04343"
        y="-616.08002"
        id="text5672-3"
        sodipodi:linespacing="125%"
@@ -307,13 +315,13 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan5674-0"
-         x="191.04343"
+         x="335.04343"
          y="-616.08002">8,6 cm</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="403.86566"
-       y="390.88702"
+       y="534.88702"
        id="text5672-4"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/moteado/ManifestanteXXI/planos/porta_sube.png"
@@ -322,10 +330,10 @@
          sodipodi:role="line"
          id="tspan5674-01"
          x="403.86566"
-         y="390.88702">0,7 cm</tspan></text>
+         y="534.88702">0,7 cm</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.99212599;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#StopL);marker-end:url(#StopL)"
-       d="m 182.79053,70.751979 198.2209,0"
+       d="m 182.79053,214.75198 198.2209,0"
        id="path5720"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/moteado/ManifestanteXXI/planos/porta_sube.png"
@@ -333,7 +341,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.99212599;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#StopL);marker-end:url(#StopL)"
-       d="m 605.34527,82.841064 0,280.120546"
+       d="m 605.34527,226.84106 0,280.12055"
        id="path5720-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
@@ -342,7 +350,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.99212599;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#StopL);marker-end:url(#StopL)"
-       d="m 391.694,369.86376 0,27.29988"
+       d="m 391.694,513.86376 0,27.29988"
        id="path5720-7-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
@@ -353,7 +361,7 @@
        xml:space="preserve"
        style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="459.9743"
-       y="61.281677"
+       y="205.28168"
        id="text5672-0"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/moteado/ManifestanteXXI/planos/porta_sube.png"
@@ -362,10 +370,10 @@
          sodipodi:role="line"
          id="tspan5674-7"
          x="459.9743"
-         y="61.281677">1 cm</tspan></text>
+         y="205.28168">1 cm</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.99212599;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#StopL);marker-end:url(#StopL)"
-       d="m 467.08105,70.538206 42.2209,0"
+       d="m 467.08105,214.53821 42.2209,0"
        id="path5720-1"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/moteado/ManifestanteXXI/planos/porta_sube.png"

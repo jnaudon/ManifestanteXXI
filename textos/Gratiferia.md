@@ -1,4 +1,4 @@
-# Gratiferias
+# [Gratiferias](http://es.wikipedia.org/wiki/Tienda_gratis)
 
 Una **Tienda gratis** es una tienda donde todas las cosas son gratuitas. Son similares a las tiendas de caridad, la 
 diferencia es que en las tiendas gratis, todos los artículos están disponibles sin costo alguno. Sea que se trate de 

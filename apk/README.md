@@ -27,7 +27,7 @@ En caso de pad, minipad, tablet, muchos de los programas para SMS y telefonia co
 
 ====
 
-#Quehaceres
+# Quehaceres
 
 Los túneles nos permite pasar por la red sin que nadie pueda ver que estamos haciendo, por que como su nombre lo 
 dice generamos un túnel dentro de la red y salimos de modo anónimo por otro.
@@ -46,7 +46,7 @@ Mapa para manifestantes
 ## Quehaceres
 
 * Un paquete mágico
-* Cosas para bloquear
+* Cosas para bloquear (Tutoriales)
  * Servicio de [DRM](http://www.defectivebydesign.org/)
  * Servicios de google
 * Tutorial de [tincgui](http://tinc-vpn.org/)
