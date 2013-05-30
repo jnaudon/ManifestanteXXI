@@ -12,7 +12,7 @@ SIDE, el FBI, la CIA, etc.)_ y que realmente hablamos con quien creemos que esta
 Al abrir **Gibberbot** por primera vez, veremos algo como esto:
 
 
-[![image](../img/337px-Gibberbot_01.png)](http://wiki.partidopirata.com.ar/Archivo:Gibberbot_01.png)
+[![image](img/337px-Gibberbot_01.png)](http://wiki.partidopirata.com.ar/Archivo:Gibberbot_01.png)
 
 > Pantalla de inicio.
 
