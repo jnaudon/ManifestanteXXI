@@ -120,8 +120,8 @@ Hay un generador para Android llamado [binauralbeat](https://f-droid.org/reposit
 
 # Mochila WIFI
 
-Es un router dentro de una mochila con baterías para sostener su funcionamiento por horas. 
-Sirve para mejorar el acceso a la red, compartir contenido, difundir lo que ocurre, transmitir con una webcam permanentemente lo que esta ocurriendo y mucho más.
+Es un router dentro de una mochila (bolso, cartera, etc) con baterías para sostener su funcionamiento por horas.
+Sirve para mejorar el acceso a la red, compartir contenido, difundir lo que ocurre, tanto con una webcam todo el tiempo y un [portal cautivo](https://es.wikipedia.org/wiki/Portal_cautivo) para los vecinos.
 
 ![camara wifi sola](img/media/PIC_0041.jpg)
 
