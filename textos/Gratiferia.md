@@ -51,12 +51,3 @@ es similar: acabar con el consumismo masivo, y con la dependencia de dinero-trab
 Este tipo de tienda de generalizarse ayudaría a disminuir la producción y el consumo de objetos y, por ende de potencial basura, 
 apoyando el reciclado y la reutilización. Además, el sistema de estas tiendas hace una crítica al afán de comprar objetos con poco o 
 nada de uso por moda y al hecho de tirar objetos en buen estado y con muchos años de vida útil por delante.
-
-## Inconvenientes 
-
-Dado que el sistema de comercio que emplean estas tiendas apela exclusivamente a civismo y la buena voluntad de los clientes y a evitar 
-que sea codiciosos, muchas de ellas cierran antes de cumplir su primer mes. Esto es principalmente debido a que las personas que las 
-frecuentan suelen llevarse muchos artículos, sin dar nada a cambio y vaciando los locales, ignorando la regla fundamental de llevar 
-solo lo que se necesite. De esta manera en muchos casos las tiendas gratis fallan en su objetivo de evitar el consumismo y estimular un 
-estilo de vida más sencillo. Asimismo, el fenómeno de este tipo de tiendas hasta el momento solo se ha 
-podido expandir a países europeos.

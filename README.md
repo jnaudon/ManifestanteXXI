@@ -82,7 +82,10 @@ Muchos dispositivos con Android no son celulares, así que no tienen acceso a in
 
 En una situación de verse afectado de forma real o potencial por este tipo de armas, es necesario conocer las medidas utilizadas para mantener el control de la situación.
 
-![neutralizante](planos/lacrimogeno_neutralizante.png) Prepare un neutralizador en un roseador con agua potable con 5% de bicarbonato de sodio. 
+![neutralizante](planos/lacrimogeno_neutralizante.png)
+> Prepare un neutralizador en un roseador con agua potable con 5% de bicarbonato de sodio. 
+
+### ¿Que podemos hacer?
 
 - Evitar que el gas alcance los ojos, para ello se pueden llevar preparadas gafas de buceo o en todo caso cerrarlos y llevarlos hacia el suelo, ya que el gas se disipa hacia arriba.
 - Rosearse neutralizante en ojos y boca, sin frotar.
