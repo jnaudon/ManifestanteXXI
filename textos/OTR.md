@@ -1,28 +1,31 @@
 # [Gibberbot con OTR](http://wiki.partidopirata.com.ar/Gibberbot\_con\_OTR)
 
 [Gibberbot](https://guardianproject.info/apps/gibber/) es un cliente de mensajería instántanea multicuenta para 
-Jabber (GTalk, Facebook, etc) disponible para Android. Esta guía tiene dos partes, por un lado la configuración de 
-las cuentas de Jabber (mensajería instantánea) del Partido Pirata en el cliente libre Gibberbot para Android y por 
+Jabber _(GTalk, Facebook, etc)_ disponible para Android. Esta guía tiene dos partes, por un lado la configuración de 
+las cuentas de Jabber (mensajería instantánea) del **Partido Pirata** en el cliente libre Gibberbot para Android y por 
 otro, la configuración y uso de **Off-The-Record (OTR)**, el complemento de conversación criptográfica. **OTR** 
-asegura que las conversaciones no pueden ser interceptadas ni leídas por terceros (_el PPAr, el ISP, Google, la 
-SIDE, el FBI, la CIA, etc._) y que realmente hablamos con quien creemos que estamos hablando.
+asegura que las conversaciones no pueden ser interceptadas ni leídas por terceros _(el PPAr, el ISP, Google, la 
+SIDE, el FBI, la CIA, etc.)_ y que realmente hablamos con quien creemos que estamos hablando.
 
 ## Configuración de la cuenta
 
-Al abrir Gibberbot por primera vez, veremos algo como esto:
+Al abrir **Gibberbot** por primera vez, veremos algo como esto:
 
 [![image](http://wiki.partidopirata.com.ar/images/5/52/Gibberbot_01.png)](http://wiki.partidopirata.com.ar/Archivo:Gibberbot_01.png)
 
-Pantalla de inicio. Luego de seleccionar el idioma (inglés en este caso), continúa una seguidilla de pantallas de 
-bienvenida:
+> Pantalla de inicio.
+
+Luego de seleccionar el idioma (inglés en este caso), continúa una seguidilla de pantallas de bienvenida:
 
 [![Gibberbot 02.png](http://wiki.partidopirata.com.ar/images/9/9a/Gibberbot_02.png)](http://wiki.partidopirata.com.ar/Archivo:Gibberbot_02.png)
 
-Listo con la bienvenida :) Ahora llegamos a la pantalla de configuración de cuenta:
+> Listo con la bienvenida :) 
+
+Ahora llegamos a la pantalla de configuración de cuenta:
 
 [![Gibberbot 07.png](http://wiki.partidopirata.com.ar/images/3/38/Gibberbot_07.png)](http://wiki.partidopirata.com.ar/Archivo:Gibberbot_07.png)
 
-Ponemos los datos requeridos... y no hay que olvidarse de ir a Advanced Account Settings, para destildar la verificación del certificado del servidor (a mi personalmente no me funcionó sin destildar eso):
+Ponemos los datos requeridos... y no hay que olvidarse de ir a **Advanced Account Settings**, para destildar la verificación del certificado del servidor (a mi personalmente no me funcionó sin destildar eso):
 
 [![Gibberbot 08.png](http://wiki.partidopirata.com.ar/images/4/49/Gibberbot_08.png)](http://wiki.partidopirata.com.ar/Archivo:Gibberbot_08.png)
 
@@ -37,9 +40,7 @@ al abrir el mensaje:
 
 [![Gibberbot 10.png](http://wiki.partidopirata.com.ar/images/7/7b/Gibberbot_10.png)](http://wiki.partidopirata.com.ar/Archivo:Gibberbot_10.png)
 
-Notar la barra roja arriba, por lo cual proseguimos a configurar.
-
-=====
+> Notar la barra roja arriba, por lo cual proseguimos a configurar.
 
 # Activación de OTR
 
@@ -65,14 +66,14 @@ pregunta y respuesta (tocamos en el ícono "?"):
 
 [![Gibberbot 14.png](http://wiki.partidopirata.com.ar/images/e/e0/Gibberbot_14.png)](http://wiki.partidopirata.com.ar/Archivo:Gibberbot_14.png) 
 
-Nuestro camarada fauno nos envía también una pregunta y respuesta (recuerden que siempre al contacto le llegará 
+Nuestro camarada fauno nos envía también una pregunta y respuesta. Recuerden que siempre al contacto le llegará 
 nuestra pregunta y ellos deberán dar la misma respuesta que nosotros, y viceversa; nuestro contacto nos envía una 
-pregunta, que debemos responder tal cual especificó nuestro contacto):
+pregunta, que debemos responder tal cual especificó nuestro contacto:
 
 [![Gibberbot 16.png](http://wiki.partidopirata.com.ar/images/2/26/Gibberbot_16.png)](http://wiki.partidopirata.com.ar/Archivo:Gibberbot_16.png)
 
 ### ¡Conversación privada!
 
-¡Todos verdes! A partir de ahora las conversaciones son 100% privadas.
+¡Todos verdes! A partir de ahora las conversaciones son **100% privadas**.
 
 [![Gibberbot 17.png](http://wiki.partidopirata.com.ar/images/2/2b/Gibberbot_17.png)](http://wiki.partidopirata.com.ar/Archivo:Gibberbot_17.png)
