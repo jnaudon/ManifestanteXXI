@@ -25,9 +25,11 @@ El reconocimiento de rostros es cada más simple y barato, por ejemplo en la Ciu
 ### ¿Que podemos hacer?
 
 * Bloquear o deshabilitar las cámaras de seguridad
-* No etiquetar fotos
+* No etiquetar fotos en redes sociales
 * Solo compartir fotos de manifestaciones con rostro borrados
-* Borrar datos de localización y metadatos de las fotos. En Android podemos usar el programas [ObscuraCam](https://guardianproject.info/apps/obscuracam/) que oculta las caras de forma automática
+* Borrar datos de localización y metadatos de las fotos. 
+
+En Android podemos usar el programas [ObscuraCam](https://guardianproject.info/apps/obscuracam/) que oculta las caras de forma automática.
 
 ## Protección para documentos con RFID
 
@@ -50,13 +52,13 @@ Tanto en las computadoras como los dispositivos portátiles (celulares, pad, tab
 
 Para solucionar este problema se pueden usar varias tecnologías de criptografía, tuneles, filtros y proxys en particular para dispositivos que usan Android solamente usando [software libre](https://www.gnu.org/philosophy/free-sw.es.html) fáciles de instalar y usar.
 
-La **criptografía** es como si inventáramos nuestro propio idioma para hablar con una persona, aun así para nosotros sigue siendo totalmente legible. 
+La **criptografía** es como si inventáramos nuestro propio idioma para hablar con una persona, aun así para nosotros sigue siendo totalmente legible.
 Esto sirve para que nadie pueda interceptar la conversación.
-Algo muy sencillo que se puede hacer es navegar en paginas con _https://_ en lugar de _http://_, esto funciona en muchas paginas populares. 
+Algo muy sencillo que se puede hacer es navegar en paginas con _https://_ en lugar de _http://_, esto funciona en muchas paginas populares.
 Lo mejor es usar [HTTPS Everywhere](https://www.eff.org/https-everywhere) en Firefox que lo hace automáticamente.
 
 Los **proxys** nos permite pasar por internet sin que nadie pueda ver que estamos haciendo. Uno de los mas populares es Tor que su particularidad es que esta compuesto por miles de computadoras que se coordinan de modo descentralizado, haciéndolo muy seguro y confiable. 
-La versión para Android se llama [Orbot](https://f-droid.org/repository/browse/?fdfilter=browser&fdid=org.torproject.android), nos permite navegar con [Orweb](https://f-droid.org/repository/browse/?fdfilter=browser&fdid=info.guardianproject.browser) y chatear de anónimo y seguro con [Gibberbot](https://guardianproject.info/apps/gibber/)
+La versión para Android se llama [Orbot](https://f-droid.org/repository/browse/?fdfilter=browser&fdid=org.torproject.android), nos permite navegar con [Orweb](https://f-droid.org/repository/browse/?fdfilter=browser&fdid=info.guardianproject.browser), chatear de anónimo y seguro con [Gibberbot](https://guardianproject.info/apps/gibber/) y buscar en [Duck Duck GO](https://duckduckgo.org).
 
 Los **túneles** nos permite pasar por la red sin que se pueda ver que estamos haciendo, como su nombre lo dice, generamos un _"túnel"_ dentro de la red y salimos por otro de modo anónimo. 
 Hay que tener en cuenta que la maquina de salida a diferencia de **Tor** conoce el lugar de procedencia, siendo que nuestra conección es directa, por ende tenemos que confiar en él.
@@ -123,7 +125,7 @@ Hay un generador para Android llamado [binauralbeat](https://f-droid.org/reposit
 Es un router dentro de una mochila (bolso, cartera, etc) con baterías para sostener su funcionamiento por horas.
 Sirve para mejorar el acceso a la red, compartir contenido, difundir lo que ocurre, tanto con una webcam todo el tiempo y un [portal cautivo](https://es.wikipedia.org/wiki/Portal_cautivo) para los vecinos.
 
-![camara wifi sola](img/media/PIC_0041.jpg)
+![mochila wifi](img/media/PIC_0041.jpg)
 
 _Por ahora falta la documentación, podes leer la experiencia del [Nodo de Guerrilla](https://github.com/b4zz4/NodoDeGuerrilla/)._
 
@@ -131,7 +133,7 @@ _Por ahora falta la documentación, podes leer la experiencia del [Nodo de Guerr
 
 Cámara para transmitir lo que ocurren en el momento en vivo y en directo, a la vez sirve para grabar y publicar.
 
-![camara wifi sola](img/media/PIC_0175.jpg)  ![camara wifi con panel](img/media/PIC_0176.jpg)
+![cámara wifi con el panel solar](img/media/PIC_0175.jpg)  ![cámara wifi con panel solar](img/media/PIC_0176.jpg)
 > Esta basada en un router wifi, una webcam. Puede alimentarse con pilas, baterías y panel solar.
 
 Como esta pensada apra salir a la calle y transmitir del modo más economico, usa las redes disponibles, transmite en baja resolucion, en formatos muy simples (JPG, MJPG), y siempre esta disponible en un portal cautivo.
@@ -153,4 +155,5 @@ Se permite el uso comercial de la obra y de las posibles obras derivadas, la dis
 
 # Donaciones
 
-* [Dinero Mail](https://argentina.dineromail.com/Shop/Shop_Ingreso.asp?NombreItem=Donativo&TipoMoneda=1&PrecioItem=50%2E00&E_Comercio=205889&NroItem=-&image_url=http%3A%2F%2F&DireccionExito=http%3A%2F%2F&DireccionFracaso=http%3A%2F%2F&DireccionEnvio=1&Mensaje=1)
+* [Dinero Mail](https://argentina.dineromail.com/Shop/Shop_Ingreso.asp?NombreItem=Donativo&TipoMoneda=1&PrecioItem=50%2E00&E_Comercio=205889&NroItem=-&image_url=http%3A%2F%2F&DireccionExito=http%3A%2F%2F&DireccionFracaso=http%3A%2F%2F&DireccionEnvio=1&Mensaje=1) (Argentina, Brasil, Chile, México)
+* [PayPal]()
