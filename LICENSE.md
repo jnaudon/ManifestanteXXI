@@ -2,33 +2,24 @@
 
 Versión 1.2, Noviembre 2002
 
-> This is an unofficial translation of the GNU Free Documentation
-> License into Spanish. It was not published by the Free Software
-> Foundation, and does not legally state the distribution terms for
-> documentation that uses the GNU FDL -- only the original English
-> text of the GNU FDL does that. However, we hope that this
-> translation will help Spanish speakers understand the GNU FDL
-> better.
+> This is an unofficial translation of the GNU Free Documentation License into Spanish. It was not published by the 
+> Free Software Foundation, and does not legally state the distribution terms for documentation that uses the GNU FDL 
+> -- only the original English text of the GNU FDL does that. However, we hope that this translation will help 
+> Spanish speakers understand the GNU FDL better.
 > 
-> ésta es una traducción no oficial de la GNU Free Document License
-> a Español (Castellano). No ha sido publicada por la Free Software
-> Foundation y no establece legalmente los términos de distribución
-> para trabajos que usen la GFDL (sólo el texto de la versión
-> original en Inglés de la GFDL lo hace). Sin embargo, esperamos que
-> esta traducción ayude los hispanohablantes a entender mejor la
-> GFDL. La versión original de la GFDL esta disponible en la
-> [Free Software Foundation](http://www.gnu.org/copyleft/fdl.html) .
+> ésta es una traducción no oficial de la GNU Free Document License a Español (Castellano). No ha sido publicada por 
+> la Free Software Foundation y no establece legalmente los términos de distribución para trabajos que usen la GFDL 
+> (sólo el texto de la versión original en Inglés de la GFDL lo hace). Sin embargo, esperamos que esta traducción 
+> ayude los hispanohablantes a entender mejor la GFDL. La versión original de la GFDL esta disponible en la [Free 
+> Software Foundation](http://www.gnu.org/copyleft/fdl.html) .
 > 
-> Esta traducción está basada en una de la versión 1.1 de Igor
-> Támara y Pablo Reyes. Sin embargo la responsabilidad de su
-> interpretación es de Joaquín Seoane.
+> Esta traducción está basada en una de la versión 1.1 de Igor Támara y Pablo Reyes. Sin embargo la responsabilidad 
+> de su interpretación es de Joaquín Seoane.
 
 
-
-> Copyright (C) 2000, 2001, 2002 Free Software Foundation, Inc. 59
-> Temple Place, Suite 330, Boston, MA 02111-1307 USA. Se permite la
-> copia y distribución de copias literales de este documento de
-> licencia, pero no se permiten cambios [[1]](#FTN.AEN11) .
+> Copyright (C) 2000, 2001, 2002 Free Software Foundation, Inc. 59 Temple Place, Suite 330, Boston, MA 02111-1307 
+> USA. Se permite la copia y distribución de copias literales de este documento de licencia, pero no se permiten 
+> cambios [[1]](#FTN.AEN11) .
 
 
 ======
