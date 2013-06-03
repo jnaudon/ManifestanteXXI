@@ -41,19 +41,19 @@ Si creen que han ganado, este Manual quiere demostrar que no pueden ganar. Nos o
 
 I. Posibles métodos de censura El gobierno dispone de cinco métodos para cerrar una web. A continuación explicamos cómo se pueden sortear con facilidad, atendiendo al diferente repertorio de acciones a tu disposición en caso de que seas usuaria o *webmaster*. He aquí los cinco métodos y las páginas a las que debes remitirte.
 
-#. Bloqueo DNS. Método más utilizado hasta ahora, a pesar de su inefectividad. Para evitarlo, se debe configurar el DNS en un servidor extranjero (p. 12) y/o crear una Red Privada Virtual (p. 39). 
-#. Bloqueo IP. Para evitarlo, los usuarios pueden consultar los apartados sobre proxy (p. 21), Tor (p. 32) y VPN (p. 39). Los *webmasters*, el apartado «Alojamiento compartido» (p. 51)
-#. Bloqueo de URL. Es muy improbable que se aplique este tipo de bloqueo. Para evitarlo, los usuarios pueden consultar los apartados sobre Tor (p. 32) y VPN (p. 39)
-#. Orden contra el proveedor de alojamiento, en caso de que éste sea español. Para evitarlo, los *webmasters* pueden consultar «Alojamiento fuera de España» (p. 52)
-#. Orden contra el registrador (proveedor de dominios). Para evitarlo, los *webmasters *pueden consultar «Registro de dominios fuera de España» (p. 53)
+1. Bloqueo DNS. Método más utilizado hasta ahora, a pesar de su inefectividad. Para evitarlo, se debe configurar el DNS en un servidor extranjero (p. 12) y/o crear una Red Privada Virtual (p. 39). 
+2. Bloqueo IP. Para evitarlo, los usuarios pueden consultar los apartados sobre proxy (p. 21), Tor (p. 32) y VPN (p. 39). Los *webmasters*, el apartado «Alojamiento compartido» (p. 51)
+3. Bloqueo de URL. Es muy improbable que se aplique este tipo de bloqueo. Para evitarlo, los usuarios pueden consultar los apartados sobre Tor (p. 32) y VPN (p. 39)
+4. Orden contra el proveedor de alojamiento, en caso de que éste sea español. Para evitarlo, los *webmasters* pueden consultar «Alojamiento fuera de España» (p. 52)
+5. Orden contra el registrador (proveedor de dominios). Para evitarlo, los *webmasters *pueden consultar «Registro de dominios fuera de España» (p. 53)
 
 ![background image](img/manual_desobediencia012.png)
 
 II. Usuarios En esta sección encontrarás todos los pasos que como internauta deberías dar para asegurarte de que no te afectará la Ley Sinde. Las posibilidades son las siguientes: 1. ¿Por qué y cómo debes cambiarte los DNS? 2. ¿Por qué y cómo configurar un proxy? 3. ¿Por qué usar Tor y cómo configurarlo? 4. ¿Por qué puedes necesitar una VPN y cómo configurarla? 5. ¿Cómo puedes hacer una copia de seguridad de tus webs de enlaces favoritas mediante Httrack? 1. ¿Por qué y cómo debes cambiarte un DNS? ¿Qué es un DNS? DNS son las siglas de *Domain Name System* o *Sistema de * *Nombres de Dominio*. Los servidores DNS se encargan de traducir los nombres del dominio de cada web *—* por ejemplo, * hacktivistas.net* *—*, en su dirección IP, que es el número que identifica al servidor al que se manda la petición. Dicho de forma sencilla, el DNS es como un listín telefónico. Si buscas el apellido de una persona ( *hacktivistas.net*), obtenemos su número de teléfono (82.144.4.26). El reglamento de la Ley Sinde podría obligar a los DNS que estén alojados en el Estado español a borrar de sus listas aquellas páginas web que decida la comisión administrativa. Para evitar este bloqueo, la solución más sencilla es utilizar un DNS que no se encuentre alojado dentro de sus fronteras. Recomendamos los siguientes, ya que éstos son independientes, no comerciales y respetuosos con la privacidad de sus usuarios: 
 
-#.Telecomix Censorship-proof DNS 2 
-#.German Privacy Foundation 3 
-#.OpenNIC Project 4 También es posible utilizar el servicio de DNS de Google. 
+1.Telecomix Censorship-proof DNS 2 
+2.German Privacy Foundation 3 
+3.OpenNIC Project 4 También es posible utilizar el servicio de DNS de Google. 
 
 * [ http://dns.telecomix.org/](http://dns.telecomix.org/) 3 [ http://server.privacyfoundation.de/index\_en.html](http://server.privacyfoundation.de/index_en.html)  
 * [ http://www.opennicproject.org/index.php/start-here/51-migrate-to-opennic/75-public-dns](http://www.opennicproject.org/index.php/start-here/51-migrate-to-opennic/75-public-dns)  
@@ -61,23 +61,23 @@ II. Usuarios En esta sección encontrarás todos los pasos que como internauta d
 
 ## Cómo utilizar un DNS no alojado en el Estado español En Windows 7 y Vista 
 
-#. Panel de control **\>** «Ver el estado y las tareas de red». 
-#. En la parte izquierda **\>** «Cambiar configuración del adaptador». 
-#. Seleccionamos la tarjeta de red que queremos cambiar. Si usamos wifi, será una conexión de red inalámbrica; si no, una conexión de área local. Con el botón derecho del ratón ** \>** «Propiedades». 
-#. En «Protocolo de internet versión 4» **\>** «Propiedades». 
-#. Elegimos las siguientes direcciones de servidor DNS e introducimos las opciones del apartado anterior que hayamos elegido (Telecomix Censorship-proof DNS, German Privacy Foundation, OpenNIC Project o Google DNS).
-#. Aceptamos y cerramos.
+1. Panel de control **\>** «Ver el estado y las tareas de red». 
+2. En la parte izquierda **\>** «Cambiar configuración del adaptador». 
+3. Seleccionamos la tarjeta de red que queremos cambiar. Si usamos wifi, será una conexión de red inalámbrica; si no, una conexión de área local. Con el botón derecho del ratón ** \>** «Propiedades». 
+4. En «Protocolo de internet versión 4» **\>** «Propiedades». 
+5. Elegimos las siguientes direcciones de servidor DNS e introducimos las opciones del apartado anterior que hayamos elegido (Telecomix Censorship-proof DNS, German Privacy Foundation, OpenNIC Project o Google DNS).
+6. Aceptamos y cerramos.
 
  ![background image](img/manual_desobediencia015.png)
 
 ### En Windows XP 
 
-#. Ir a «Panel de control» **\>** «Conexiones de red». 
-#. Abrir la conexión de red que quieres modificar. 
-#. Pulsar el botón «Propiedades». 
-#. Doble click sobre «Internet Protocol (TCP/IP)». 
-#. Selecciona «Usar las siguientes DNS» e introducimos las seleccionadas previamente. 
-#. Pulsar «Aceptar».
+1. Ir a «Panel de control» **\>** «Conexiones de red». 
+2. Abrir la conexión de red que quieres modificar. 
+3. Pulsar el botón «Propiedades». 
+4. Doble click sobre «Internet Protocol (TCP/IP)». 
+5. Selecciona «Usar las siguientes DNS» e introducimos las seleccionadas previamente. 
+6. Pulsar «Aceptar».
 
 *  [ http://www.internetsegunyo.com/2009/12/configurar-google-open-dns-en-windows.html](http://www.internetsegunyo.com/2009/12/configurar-google-open-dns-en-windows.html)
  
@@ -99,10 +99,10 @@ II. Usuarios En esta sección encontrarás todos los pasos que como internauta d
 ### MacOSX 10.5.8 (Leopard)
  
 
-#. Vamos a: «Preferencias del Sistema» **\>** «Red». 
-#. Click en «Avanzado» **\>** pestaña «DNS». 
-#. Si tenemos añadido algún DNS en el apartado de «Servidores DNS», lo borramos pulsando «-». Después pulsamos «+» y añadimos nuestros nuevos servidores. 
-#. Click en «ok» y aplicamos los cambios.
+1. Vamos a: «Preferencias del Sistema» **\>** «Red». 
+2. Click en «Avanzado» **\>** pestaña «DNS». 
+3. Si tenemos añadido algún DNS en el apartado de «Servidores DNS», lo borramos pulsando «-». Después pulsamos «+» y añadimos nuestros nuevos servidores. 
+4. Click en «ok» y aplicamos los cambios.
 
 ![background image](img/manual_desobediencia020.png)
 
@@ -137,16 +137,13 @@ Una vez configurado, el tráfico del navegador (y no otro tipo de tráfico)se en
 
 ### Cómo configurar el navegador para que use un proxy Internet Explorer 7 y 8 
 
-#. En la parte de arriba y a la derecha de este navegador, pulsamos en «Herramientas» **\>** «Opciones de Internet» 
-
-
-usas esta opción para visitar frecuentemente una web, hay [un pequeño truco que consiste en guardar un marcador de la forma «http://anonymouse.org/cgi- bin/anon-www.cgi/http://slashdot.org/» cambiando «http://slashdot.com» por la web que queramos 
-visitar. 13 [ http://www.phpmyproxy.com/index.php](http://www.phpmyproxy.com/index.php)
- 14 [ http://hidemyass.com/](http://hidemyass.com/)
+1. En la parte de arriba y a la derecha de este navegador, pulsamos en «Herramientas» **\>** «Opciones de Internet» usas esta opción para visitar frecuentemente una web, hay [un pequeño truco que consiste en guardar un marcador de la forma «http://anonymouse.org/cgi- bin/anon-www.cgi/http://slashdot.org/» cambiando «http://slashdot.com» por la web que queramos 
+visitar. 
+* [ http://www.phpmyproxy.com/index.php](http://www.phpmyproxy.com/index.php)
+* [ http://hidemyass.com/](http://hidemyass.com/)
 
  ![background image](img/manual_desobediencia025.png)
 
- 
 2. En la pestaña «Conexiones», debemos pulsar en «Configuración de Lan» (en la parte inferior)
 3. En la sección «Servidor Proxy» marcamos la opción para «Usar un servidor proxy para la LAN», y rellenamos los datos de «Dirección» y «Puerto». Aceptamos todo.
  ![background image](img/manual_desobediencia026.png)
@@ -157,10 +154,10 @@ visitar. 13 [ http://www.phpmyproxy.com/index.php](http://www.phpmyproxy.com/ind
 
 ### Firefox 
 
-#. En el menú del Firefox: «Editar» ** \>** «Preferencias» 
-#. En la ventana de preferencias ir a «Avanzado» y ahí a la pestaña de «Red» 
-#. Dentro de «Red», en el apartado de «Conexión», apretar «Configuración». 
-#. Ventana de «Configuración de Conexión»: - Marcar la opción «Configuración manual del Proxy». - Escribir la dirección (en «Proxy HTTP»). 
+1. En el menú del Firefox: «Editar» ** \>** «Preferencias» 
+2. En la ventana de preferencias ir a «Avanzado» y ahí a la pestaña de «Red» 
+3. Dentro de «Red», en el apartado de «Conexión», apretar «Configuración». 
+4. Ventana de «Configuración de Conexión»: - Marcar la opción «Configuración manual del Proxy». - Escribir la dirección (en «Proxy HTTP»). 
 * Escribir el número de puerto (en «Puerto»)
 * Marcar la opción «Usar el mismo proxy para todo»
 * «Aceptar»
@@ -169,12 +166,12 @@ visitar. 13 [ http://www.phpmyproxy.com/index.php](http://www.phpmyproxy.com/ind
 
 ### Chrome en Linux 
 
-#. Ir al Menú del Chrome (icono de llave inglesa a la derecha de la barra de direcciones) **\>** «Preferencias» 
-#. En la ventana de «Preferencias» **\>** «Avanzadas» 
-#. En la sección «Red», seleccionamos «Cambiar la configuración del Proxy». 
-#. En la ventana que se abrirá («Preferencias del Proxy de la red»)
+1. Ir al Menú del Chrome (icono de llave inglesa a la derecha de la barra de direcciones) **\>** «Preferencias» 
+2. En la ventana de «Preferencias» **\>** «Avanzadas» 
+3. En la sección «Red», seleccionamos «Cambiar la configuración del Proxy». 
+4. En la ventana que se abrirá («Preferencias del Proxy de la red»)
  debemos marcar las opciones: - «Configuración manual del proxy» - «Usar el mismo proxy para todos los protocolos» 
-#. Escribir la dirección del proxy (en «Proxy para HTTP:») y el número de Puerto (en «Puerto:») y «Cerrar»
+5. Escribir la dirección del proxy (en «Proxy para HTTP:») y el número de Puerto (en «Puerto:») y «Cerrar»
 
 ![background image](img/manual_desobediencia029.png)
 
@@ -182,25 +179,25 @@ visitar. 13 [ http://www.phpmyproxy.com/index.php](http://www.phpmyproxy.com/ind
 
 ![background image](img/manual_desobediencia030.png)
 
-#. Ir a «Menú» **\>** «Configuración» **\>** «Opciones» 
-#. Seleccionar la pestaña «Avanzado» 
-#. En el menú lateral de opciones hay que seleccionar «Redes»
-#. Pulsar sobre el botón «Servidores proxy» 
-#. Marcar todos los protocolos, HTTP, HTTPS, FTP, GOPHER y WAIS y desmarcar todas las demás opciones. 
-#. Poner en cada protocolo el nombre o IP del servidor proxy y su puerto. 
-#. Pulsamos en «Aceptar» y ya tenemos configurado el proxy.
+1. Ir a «Menú» **\>** «Configuración» **\>** «Opciones» 
+2. Seleccionar la pestaña «Avanzado» 
+3. En el menú lateral de opciones hay que seleccionar «Redes»
+4. Pulsar sobre el botón «Servidores proxy» 
+5. Marcar todos los protocolos, HTTP, HTTPS, FTP, GOPHER y WAIS y desmarcar todas las demás opciones. 
+6. Poner en cada protocolo el nombre o IP del servidor proxy y su puerto. 
+7. Pulsamos en «Aceptar» y ya tenemos configurado el proxy.
 
  ![background image](img/manual_desobediencia031.png)
  
 
 ### Safari Safari 5.0.3 (MacOsX 5.0.8 Leopard)
 
-#. Safari **\>** «Preferencias». 
-#. Pestaña «Avanzado» **\>** «Proxies» **\>** «Cambiar ajustes». 
-#. «Configurar proxies» **\>** «Manualmente». 
-#. Activamos las casillas de los protocolos que queremos configurar. 
-#. Introducimos la IP y el puerto en «Servidor proxy de ...». Repetimos este apartado con cada protocolo. 
-#. Pulsamos «ok» y aplicamos los cambios.
+1. Safari **\>** «Preferencias». 
+2. Pestaña «Avanzado» **\>** «Proxies» **\>** «Cambiar ajustes». 
+3. «Configurar proxies» **\>** «Manualmente». 
+4. Activamos las casillas de los protocolos que queremos configurar. 
+5. Introducimos la IP y el puerto en «Servidor proxy de ...». Repetimos este apartado con cada protocolo. 
+6. Pulsamos «ok» y aplicamos los cambios.
 
 ![background image](img/manual_desobediencia032.png)
 
@@ -219,11 +216,11 @@ Sigue estas instrucciones 16 detalladamente para instalar TOR en Debian o Ubuntu
 
  ![background image](img/manual_desobediencia035.png)
 
-#. Instálate TOR y habilita las fuentes (apt-sources)
+1. Instálate TOR y habilita las fuentes (apt-sources)
  de Ubuntu/ Debian que existen específicas para TOR. 
-#. Instala y configura Polipo o Privoxy (así se puede redirigir cierto tráfico; por ejemplo derivar el navegador a un puerto específico)
-#. Instala la extensión de Firefox Torbutton. 18
-#. Una vez instalado, comprueba que TOR funciona. Para ello, tienes que entrar a la web[ https://check.torproject.org. ](https://check.torproject.org)
+2. Instala y configura Polipo o Privoxy (así se puede redirigir cierto tráfico; por ejemplo derivar el navegador a un puerto específico)
+3. Instala la extensión de Firefox Torbutton. 18
+4. Una vez instalado, comprueba que TOR funciona. Para ello, tienes que entrar a la web[ https://check.torproject.org. ](https://check.torproject.org)
  Todo esto te servirá para navegar con Firefox a través de TOR, pero no para otros programas, como la mensajería instantánea o los programas para acceder a ordenadores a remoto (SSH). Para ello, tendrás que «torificar», 19 es decir, redirigir el tráfico de cada programa a la red TOR. Por ejemplo, para «torificar» tu cliente de IRC debes seguir las instrucciones de la propia web de Torproject.
 A la hora de utilizar TOR es muy importante ser consciente de que esta red de proxies no va a hacer anónimo todo tu tráfico de forma automática: hay que usar y configurar programas que estén preparados para ello. Para conseguir el máximo anonimato con TOR tendrás que tomar algunas medidas adicionales de seguridad y renunciar a algunas cosas como Java, Flash, ActiveX, RealPlayer, Quicktime o los *pluggins *de PDF de Adobe. Todos estos* pluggins* pueden revelar información que te identifica.
 
@@ -231,11 +228,11 @@ También debes tener cuidado con las *cookies*, ya que pueden revelar informaci�
 
 ###  Windows 
 
-#. Descarga Tor Browser Bundle.
-#. Haz doble click en el .exe y elige un directorio donde descomprimirlo. 
-#. Se creará una carpeta llamada «Tor Browser» con todos los componentes necesarios
-#. Entra en «Tor Browser» y haz click en el icono «Start Tor Browser»
-#. Se abrirá el panel de control y a continuación el navegador Firefox mostrará la confirmación de que Tor está funcionando correctamente 
+1. Descarga Tor Browser Bundle.
+2. Haz doble click en el .exe y elige un directorio donde descomprimirlo. 
+3. Se creará una carpeta llamada «Tor Browser» con todos los componentes necesarios
+4. Entra en «Tor Browser» y haz click en el icono «Start Tor Browser»
+5. Se abrirá el panel de control y a continuación el navegador Firefox mostrará la confirmación de que Tor está funcionando correctamente 
 
 * [https://addons.mozilla.org/es-ES/firefox/addon/torbutton/](https://addons.mozilla.org/es-ES/firefox/addon/torbutton/)
 * [https://trac.torproject.org/projects/tor/wiki/TheOnionRouter/TorifyHOWTO](https://trac.torproject.org/projects/tor/wiki/TheOnionRouter/TorifyHOWTO)
@@ -251,10 +248,10 @@ También debes tener cuidado con las *cookies*, ya que pueden revelar informaci�
 
 ### MacOs 
 
-#. Descarga el Tor Browser Bundle 24 apropiado para tu CPU (Intel o PowerPC). 
-#. Una vez descargado, haz click en el icono de TOR. 
-#. Automáticamente se abrirá el panel de control de la aplicación y el navegador Firefox. 
-#. Firefox te mostrara una página para confirmarte que estás navegando a través de TOR. 
+1. Descarga el Tor Browser Bundle 24 apropiado para tu CPU (Intel o PowerPC). 
+2. Una vez descargado, haz click en el icono de TOR. 
+3. Automáticamente se abrirá el panel de control de la aplicación y el navegador Firefox. 
+4. Firefox te mostrara una página para confirmarte que estás navegando a través de TOR. 
 
 24 [ https://www.torproject.org/download/download.html.en\#mac](https://www.torproject.org/download/download.html.en#mac)
 
@@ -264,9 +261,9 @@ También debes tener cuidado con las *cookies*, ya que pueden revelar informaci�
 
 ### GNU/Linux 
 
-#. Descárgate el software; 25 será un fichero tar.gz. 
-#. A continuación, descomprime el fichero tar.gz. 
-#. Ejecuta el *script *start-tor-browser que se encuentra dentro del directorio tor-browser\_en-US. Cuando ejecutes este *script *arrancará un nave- gador, Namoroka, a través del cual puedes navegar anónimamente. *TOR relay*: conviértete en un nodo de la red Tor Puedes participar en la red Tor y convertirte en uno de los nodos intermedios. 
+1. Descárgate el software; 25 será un fichero tar.gz. 
+2. A continuación, descomprime el fichero tar.gz. 
+3. Ejecuta el *script *start-tor-browser que se encuentra dentro del directorio tor-browser\_en-US. Cuando ejecutes este *script *arrancará un nave- gador, Namoroka, a través del cual puedes navegar anónimamente. *TOR relay*: conviértete en un nodo de la red Tor Puedes participar en la red Tor y convertirte en uno de los nodos intermedios. 
 
 26 Para configurar tu ordenador como relay (nodo intermediario de TOR) puedes usar el programa Vidalia. 
 27 De esta forma, ayudas a mejorar la calidad y la velocidad de la red. Si te encuentras con dificultades para configurar de forma automática la redirección de puertos en tu router, consulta la web portforward.com. Aquí encontrarás mucha información de todo tipo de routers. Busca el tuyo y encontrarás la información necesaria para realizar el redireccionamiento. Además ponen a disposición la herramienta Portcheck que ayuda a comprobar y asegurarte de que realmente has configurado bien el router. También te servirá para saber a ciencia cierta si la configuración es correcta y si desde la red Tor van a poder conectar a tu nodo.
