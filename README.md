@@ -136,7 +136,8 @@ Cámara para transmitir lo que ocurren en el momento en vivo y en directo, a la 
 ![cámara wifi con el panel solar](img/media/PIC_0175.jpg)  ![cámara wifi con panel solar](img/media/PIC_0176.jpg)
 > Esta basada en un router wifi, una webcam. Puede alimentarse con pilas, baterías y panel solar.
 
-Como esta pensada apra salir a la calle y transmitir del modo más economico, usa las redes disponibles, transmite en baja resolucion, en formatos muy simples (JPG, MJPG), y siempre esta disponible en un portal cautivo.
+Como esta pensada apra salir a la calle y transmitir del modo más economico, usa las redes disponibles, transmite en baja resolucion, en formatos muy simples (JPG, MJPG), y siempre esta disponible en un portal cautivo. 
+Tiene la posibilidad de contectarlo a 3G pero todavia no ha sido probado.
 
 #Licencia
 
@@ -147,13 +148,14 @@ Se permite el uso comercial de la obra y de las posibles obras derivadas, la dis
 # Quehaceres
 
 * Hacer svg interactivo (1/2)
- * traducir
+ * Traducir
 * Referencia a los italiano que se protegían de los policías
 * Programa para tapar caras en HTML5
+* GNU/Manifest: GNU para manifestante
+ * ManifestWRT: versión de OpenWRT para manifestante
 * P2P
 * codigos QR
 
-# Donaciones
+# Donaciones ❤ 
 
-* [Dinero Mail](https://argentina.dineromail.com/Shop/Shop_Ingreso.asp?NombreItem=Donativo&TipoMoneda=1&PrecioItem=50%2E00&E_Comercio=205889&NroItem=-&image_url=http%3A%2F%2F&DireccionExito=http%3A%2F%2F&DireccionFracaso=http%3A%2F%2F&DireccionEnvio=1&Mensaje=1) (Argentina, Brasil, Chile, México)
-* [PayPal]()
+* [Dinero Mail](https://argentina.dineromail.com/Shop/Shop_Ingreso.asp?NombreItem=Donativo&TipoMoneda=1&PrecioItem=50%2E00&E_Comercio=205889&NroItem=-&image_url=http%3A%2F%2F&DireccionExito=http%3A%2F%2F&DireccionFracaso=http%3A%2F%2F&DireccionEnvio=1&Mensaje=1) (Argentina, Brasil, Chile y México)
