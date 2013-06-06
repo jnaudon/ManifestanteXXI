@@ -11,7 +11,7 @@
 > * [Edison Carter](#edison-carter): cámara grabando y transmitiendo en vivo
 > * Teléfono con [ManifestDroid](#manifestdroid): comunicación criptográfica (SMS, llamadas, chat, etc), publicar fotos sin exponer a los manifestantes, etc.
 > * Botella con vinagre o jugo de limón: para protegerse del [gas lacrimógeno](#gas-lacrimgeno)
-> * [Mochila con router wifi](#mochila-wifi) para mejorar el acceso a la red
+> * [Mochila con router WIFI](#mochila-wifi) para mejorar el acceso a la red
 > * Antenas para transmitir con mayor potencia
 > * [Linterna estroboscópico](#linterna-estroboscopica) para calmar a las fieras
 > * Protección para [identificaciones con RFID](#proteccin-para-documentos-con-rfid)
@@ -125,7 +125,7 @@ Hay un generador para Android llamado [binauralbeat](https://f-droid.org/reposit
 Es un router dentro de una mochila (bolso, cartera, etc) con baterías para sostener su funcionamiento por horas.
 Sirve para mejorar el acceso a la red, compartir contenido, difundir lo que ocurre, tanto con una webcam todo el tiempo y un [portal cautivo](https://es.wikipedia.org/wiki/Portal_cautivo) para los vecinos.
 
-![mochila wifi](img/media/PIC_0041.jpg)
+![mochila WIFI](img/media/PIC_0041.jpg)
 
 _Por ahora falta la documentación, podes leer la experiencia del [Nodo de Guerrilla](https://github.com/b4zz4/NodoDeGuerrilla/)._
 
@@ -133,15 +133,15 @@ _Por ahora falta la documentación, podes leer la experiencia del [Nodo de Guerr
 
 Cámara para transmitir lo que ocurren en el momento en vivo y en directo, a la vez sirve para grabar y publicar.
 
-![cámara wifi con el panel solar](img/media/PIC_0175.jpg)  ![cámara wifi con panel solar](img/media/PIC_0176.jpg)
-> Esta basada en un router wifi, una webcam. Puede alimentarse con pilas, baterías y panel solar.
+![cámara WIFI con el panel solar](img/media/PIC_0175.jpg)  ![cámara wifi con panel solar](img/media/PIC_0176.jpg)
+> Esta basada en un router WIFI, una webcam. Puede alimentarse con pilas, baterías y panel solar.
 
 Como esta pensada apra salir a la calle y transmitir del modo más economico, usa las redes disponibles, transmite en baja resolucion, en formatos muy simples (JPG, MJPG), y siempre esta disponible en un portal cautivo. 
 Tiene la posibilidad de contectarlo a 3G pero todavia no ha sido probado.
 
-## Experiencias
+### Experiencias
 
-En la **primera experiencia** con una webcam ZX30.., se conectaba a cualquier red abierta o cerrada, de la que conociera la clave, tomando en cuenta la calidad de la señal y salida a internet. 
+**Primera experiencia** con una webcam ZX30.., se conectaba a cualquier red abierta o cerrada, de la que conociera la clave, tomando en cuenta la calidad de la señal y salida a internet. 
 Y con punto de acceso para que los vecinos conozcan la problemática a difundir.
 Para transmitir desde cualquier locación usaba [librevpn](http://librevpn.org).
 
