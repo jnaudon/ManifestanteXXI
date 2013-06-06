@@ -464,6 +464,34 @@
        id="linearGradient4768"
        xlink:href="#linearGradient4224-5-6-3"
        inkscape:collect="always" />
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lstart-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4001-0"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lstart-2"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4001-07"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -472,9 +500,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.17177134"
-     inkscape:cx="331.46093"
-     inkscape:cy="535.01466"
+     inkscape:zoom="0.28709756"
+     inkscape:cx="498.70433"
+     inkscape:cy="381.05225"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -487,104 +515,178 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <g
-       id="g4665"
-       transform="matrix(0.96218396,0,0,1.1390274,40.765546,-128.24685)"
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:0.40000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 425.04345,346.57851 1.80777,2.81958 c 65.70241,49.52685 43.18276,146.27727 42.49808,214.65848 -0.11795,13.79519 0.0447,26.23491 1.03484,36.87511 0.99016,10.64019 2.21647,19.36302 7.17104,27.27264 8.11083,12.94836 23.00541,20.26462 38.3231,18.22507 6.48942,-0.86407 12.80426,-3.6076 18.38186,-8.02966 C 572.25668,595.32164 531.68725,502.6683 515.776,460.02229 495.76865,407.51691 466.69602,362.16077 425.04345,346.57851 z m 72.75852,108.49585 c 36.01794,80.27628 36.54802,128.22524 30.2806,149.56822 -4.01097,13.65893 -10.07678,16.84041 -15.42841,17.55297 -5.35162,0.71257 -11.37288,-2.17889 -14.38295,-6.98426 -0.60589,-0.96726 -2.69453,-7.41908 -3.54253,-16.53173 -0.848,-9.11266 -1.05192,-20.97333 -0.93703,-34.41068 -3.28228,-39.44172 4.61017,-74.63166 4.01032,-109.19452 z"
+       id="path3098"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccsssccccsssscc"
        inkscape:export-filename="/home/moteado/ManifestanteXXI/planos/lacrimogeno_neutralizante.png"
-       inkscape:export-xdpi="29.947117"
-       inkscape:export-ydpi="29.947117">
+       inkscape:export-xdpi="29"
+       inkscape:export-ydpi="29" />
+    <path
+       sodipodi:nodetypes="scccsccccss"
+       inkscape:connector-curvature="0"
+       id="rect3124"
+       d="m 399.29633,837.51158 c -56.84755,0 -102.93972,6.2167 -102.93972,13.86278 -2.47981,12.0612 -1.27924,34.61153 -1.27924,50.43862 l 3.57665,0 c 11.4888,5.95896 53.71616,12.85119 101.61352,12.85119 47.89735,0 86.17205,-6.89223 97.66085,-12.85119 l 4.93422,0 0,-48.87219 -1.30535,0 c 0.43538,-0.51702 0.65267,-1.03375 0.65267,-1.56643 0,-7.64608 -46.06606,-13.86278 -102.9136,-13.86278 z"
+       style="color:#000000;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.04536533;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/moteado/ManifestanteXXI/planos/lacrimogeno_neutralizante.png"
+       inkscape:export-xdpi="29"
+       inkscape:export-ydpi="29" />
+    <g
+       id="g3805"
+       style="fill:#ffffff;fill-opacity:0.73369565"
+       transform="matrix(1.1246236,0,0,1.1390274,34.591034,-102.99249)"
+       inkscape:export-filename="/home/moteado/ManifestanteXXI/planos/lacrimogeno_neutralizante.png"
+       inkscape:export-xdpi="29"
+       inkscape:export-ydpi="29">
       <path
-         style="color:#000000;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.04536533;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 424.58698,828.56517 c -59.08179,0 -106.98548,5.4579 -106.98548,12.17072 -2.57728,10.58903 -1.32952,30.38691 -1.32952,44.28218 l 3.71722,0 c 11.94033,5.23162 55.82733,11.2826 105.60716,11.2826 49.77983,0 89.55881,-6.05098 101.49915,-11.2826 l 5.12814,0 0,-42.90695 -1.35665,0 c 0.45249,-0.45391 0.67832,-0.90757 0.67832,-1.37523 0,-6.71282 -47.87656,-12.17072 -106.95834,-12.17072 z"
-         id="rect3124"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="scccsccccss" />
-      <g
-         transform="matrix(1.1688239,0,0,1,45.54793,2.8571429)"
-         style="fill:#ffffff;fill-opacity:0.73369565"
-         id="g3805">
-        <path
-           style="fill:none;stroke:#000000;stroke-width:1.7439537px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 298.1875,238.625 0,59.59375 c -6.79862,1.37683 -12.37772,4.77689 0,8.21875 -38.11631,43.20558 -58.37716,90.20675 -58.5625,151.46875 l -1.09375,184.65625 0,21.09375 0,204.03125 0,7.25 0.0312,8.1875 -0.0625,8.53125 -0.0312,9.46875 -0.0312,6.9375 -0.0625,8.8125 -0.15625,33.4375 c 93.70555,21.35366 140.72343,20.73488 249.59375,0.125 l 0.125,0.65625 0.0312,-0.15625 -0.5,-35.625 -0.0312,-8.84375 -0.0625,-6.9375 -0.0312,-9.46875 -0.0625,-8.53125 0.0312,-8.15625 0,-7.25 0,-204.0625 0,-21.09375 -1.25,-184.65625 c -0.20642,-61.262 -22.73232,-108.26316 -65.1875,-151.46875 13.7867,-3.44185 7.57252,-6.81068 0,-8.1875 l -0.4375,-57.75 -57.71875,-0.0312 -0.0312,-0.15625 -64.5,-0.0937 z"
-           transform="matrix(0.74284628,0,0,0.73345224,54.266365,184.48741)"
-           id="path3017"
-           inkscape:connector-curvature="0" />
-      </g>
-      <path
-         style="fill:none;stroke:#000000;stroke-width:4.80000019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 418.87009,398.32518 c 9.57085,128.71649 45.92895,232.24163 -1.08188,441.72066"
-         id="path4947"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <g
-         transform="matrix(1.1611236,0,0,0.99458894,-42.369306,5.8094761)"
-         style="fill:#ffffff;fill-opacity:0.47282607;stroke:none"
-         id="g3805-5" />
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:none;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="path3954"
-         sodipodi:cx="356.82016"
-         sodipodi:cy="402.78824"
-         sodipodi:rx="112.43442"
-         sodipodi:ry="19.941198"
-         d="m 469.25458,402.78824 c 0,11.01322 -50.33861,19.9412 -112.43442,19.9412 -62.09581,0 -112.43442,-8.92798 -112.43442,-19.9412 0,-11.01322 50.33861,-19.9412 112.43442,-19.9412 60.49798,0 110.15011,8.4903 112.35942,19.21297 l -112.35942,0.72823 z"
-         transform="matrix(0.86825649,0,0,0.73345224,108.97575,187.34455)"
-         sodipodi:start="0"
-         sodipodi:end="6.2466584" />
-      <text
-         xml:space="preserve"
-         style="font-size:23.94038773px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="188.60341"
-         y="632.96179"
-         id="text4788"
-         sodipodi:linespacing="125%"
-         transform="scale(1.0880231,0.91909814)"><tspan
-           sodipodi:role="line"
-           id="tspan4790"
-           x="188.60341"
-           y="632.96179"
-           style="font-size:28.65662956px;text-align:center;text-anchor:middle">agua</tspan><tspan
-           sodipodi:role="line"
-           x="188.60341"
-           y="668.78259"
-           id="tspan4792"
-           style="font-size:28.65662956px;text-align:center;text-anchor:middle">95%</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:28.65662956px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="151.35966"
-         y="915.8515"
-         id="text4788-1"
-         sodipodi:linespacing="125%"
-         transform="scale(1.0880231,0.91909814)"><tspan
-           sodipodi:role="line"
-           x="155.92122"
-           y="915.8515"
-           style="font-size:28.65662956px;text-align:center;text-anchor:middle"
-           id="tspan4894">bicarbonato </tspan><tspan
-           sodipodi:role="line"
-           x="155.92122"
-           y="951.6723"
-           style="font-size:28.65662956px;text-align:center;text-anchor:middle"
-           id="tspan4892">de sodio 5% </tspan></text>
-      <path
-         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Lstart)"
-         d="m 376.32604,536.90955 -98.07285,9.12306"
-         id="path4898"
-         inkscape:connector-curvature="0"
-         transform="matrix(1.0393023,0,0,0.87794201,-42.367726,112.5933)"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.955221px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Lstart)"
-         d="M 341.63759,867.32049 258.67347,851.30146"
-         id="path4900"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
+         id="path3017"
+         transform="matrix(0.74284628,0,0,0.73345224,54.266365,184.48741)"
+         d="m 298.1875,238.625 0,59.59375 c -6.79862,1.37683 -12.37772,4.77689 0,8.21875 -38.11631,43.20558 -58.37716,90.20675 -58.5625,151.46875 l -1.09375,184.65625 0,21.09375 0,204.03125 0,7.25 0.0312,8.1875 -0.0625,8.53125 -0.0312,9.46875 -0.0312,6.9375 -0.0625,8.8125 -0.15625,33.4375 c 93.70555,21.35366 140.72343,20.73488 249.59375,0.125 l 0.125,0.65625 0.0312,-0.15625 -0.5,-35.625 -0.0312,-8.84375 -0.0625,-6.9375 -0.0312,-9.46875 -0.0625,-8.53125 0.0312,-8.15625 0,-7.25 0,-204.0625 0,-21.09375 -1.25,-184.65625 c -0.20642,-61.262 -22.73232,-108.26316 -65.1875,-151.46875 13.7867,-3.44185 7.57252,-6.81068 0,-8.1875 l -0.4375,-57.75 -57.71875,-0.0312 -0.0312,-0.15625 -64.5,-0.0937 z"
+         style="fill:none;stroke:#000000;stroke-width:1.7439537px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4947"
+       d="m 393.79563,347.45644 c 9.20892,146.61161 44.1921,264.52958 -1.04097,503.13194"
+       style="fill:none;stroke:#000000;stroke-width:5.02501535;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/moteado/ManifestanteXXI/planos/lacrimogeno_neutralizante.png"
+       inkscape:export-xdpi="29"
+       inkscape:export-ydpi="29" />
+    <g
+       id="g3805-5"
+       style="fill:#ffffff;fill-opacity:0.47282607;stroke:none"
+       transform="matrix(1.1172145,0,0,1.1328641,-50.001521,-99.629698)"
+       inkscape:export-filename="/home/moteado/ManifestanteXXI/planos/lacrimogeno_neutralizante.png"
+       inkscape:export-xdpi="29"
+       inkscape:export-ydpi="29" />
+    <path
+       sodipodi:end="6.2466584"
+       sodipodi:start="0"
+       transform="matrix(0.83542247,0,0,0.8354222,95.620265,107.14373)"
+       d="m 469.25458,402.78824 a 112.43442,19.941198 0 1 1 -0.075,-0.72823 l -112.35942,0.72823 z"
+       sodipodi:ry="19.941198"
+       sodipodi:rx="112.43442"
+       sodipodi:cy="402.78824"
+       sodipodi:cx="356.82016"
+       id="path3954"
+       style="color:#000000;fill:none;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/moteado/ManifestanteXXI/planos/lacrimogeno_neutralizante.png"
+       inkscape:export-xdpi="29"
+       inkscape:export-ydpi="29" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4788"
+       y="556.38702"
+       x="188.21034"
+       style="font-size:25.06266975px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/moteado/ManifestanteXXI/planos/lacrimogeno_neutralizante.png"
+       inkscape:export-xdpi="29"
+       inkscape:export-ydpi="29"><tspan
+         style="font-size:30px;text-align:center;text-anchor:middle"
+         y="556.38702"
+         x="188.21034"
+         id="tspan4790"
+         sodipodi:role="line">agua</tspan><tspan
+         style="font-size:30px;text-align:center;text-anchor:middle"
+         id="tspan4792"
+         y="593.88702"
+         x="188.21034"
+         sodipodi:role="line">95%</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4788-1"
+       y="852.53809"
+       x="149.22069"
+       style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/moteado/ManifestanteXXI/planos/lacrimogeno_neutralizante.png"
+       inkscape:export-xdpi="29"
+       inkscape:export-ydpi="29"><tspan
+         id="tspan4894"
+         style="font-size:30px;text-align:center;text-anchor:middle"
+         y="852.53809"
+         x="153.99608"
+         sodipodi:role="line">bicarbonato </tspan><tspan
+         id="tspan4892"
+         style="font-size:30px;text-align:center;text-anchor:middle"
+         y="890.03815"
+         x="153.99608"
+         sodipodi:role="line">de sodio 5% </tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4898"
+       d="m 326.32604,558.90955 -98.07285,9.12306"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Lstart)"
+       inkscape:export-filename="/home/moteado/ManifestanteXXI/planos/lacrimogeno_neutralizante.png"
+       inkscape:export-xdpi="29"
+       inkscape:export-ydpi="29" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4900"
+       d="M 319.48376,881.65495 239.65701,863.40884"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Lstart)"
+       inkscape:export-filename="/home/moteado/ManifestanteXXI/planos/lacrimogeno_neutralizante.png"
+       inkscape:export-xdpi="29"
+       inkscape:export-ydpi="29" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4788-6"
+       y="283.03677"
+       x="569.82349"
+       style="font-size:25.06266975px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/moteado/ManifestanteXXI/planos/lacrimogeno_neutralizante.png"
+       inkscape:export-xdpi="29"
+       inkscape:export-ydpi="29"><tspan
+         style="font-size:30px;text-align:center;text-anchor:middle"
+         id="tspan4792-9"
+         y="283.03677"
+         x="569.82349"
+         sodipodi:role="line">correa</tspan><tspan
+         id="tspan3925"
+         style="font-size:30px;text-align:center;text-anchor:middle"
+         y="320.53677"
+         x="574.59888"
+         sodipodi:role="line">para </tspan><tspan
+         id="tspan3935"
+         style="font-size:30px;text-align:center;text-anchor:middle"
+         y="358.03677"
+         x="569.82349"
+         sodipodi:role="line">colgarlo</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4898-3"
+       d="m 524.47557,558.48058 27.38782,-189.9776"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Lstart)"
+       inkscape:export-filename="/home/moteado/ManifestanteXXI/planos/lacrimogeno_neutralizante.png"
+       inkscape:export-xdpi="29"
+       inkscape:export-ydpi="29" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3927"
+       y="354.32697"
+       x="555.48413"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/moteado/ManifestanteXXI/planos/lacrimogeno_neutralizante.png"
+       inkscape:export-xdpi="29"
+       inkscape:export-ydpi="29"><tspan
+         y="354.32697"
+         x="555.48413"
+         id="tspan3931"
+         sodipodi:role="line" /></text>
     <g
        id="g3011"
-       transform="matrix(1.0069338,0,0,1.1390274,123.51759,-17.229304)"
+       transform="matrix(1.0069338,0,0,1.1390274,73.51759,4.770696)"
        inkscape:export-filename="/home/moteado/ManifestanteXXI/planos/lacrimogeno_neutralizante.png"
        inkscape:export-xdpi="29.947117"
        inkscape:export-ydpi="29.947117">
@@ -693,21 +795,21 @@
     </g>
     <path
        sodipodi:type="arc"
-       style="color:#000000;fill:none;stroke:#000000;stroke-width:1.19699917;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:14.36398999,14.36398999;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1.19699919;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:14.36398999, 14.36398999;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path3958"
        sodipodi:cx="364.03293"
        sodipodi:cy="379.87708"
        sodipodi:rx="106.91877"
        sodipodi:ry="15.69839"
        d="m 470.9517,379.87708 a 106.91877,15.69839 0 1 1 -213.83754,0 106.91877,15.69839 0 1 1 213.83754,0 z"
-       transform="matrix(0.83542247,0,0,0.83542247,145.62026,85.143808)"
+       transform="matrix(0.83542247,0,0,0.83542247,95.62026,107.14381)"
        inkscape:export-filename="/home/moteado/ManifestanteXXI/planos/lacrimogeno_neutralizante.png"
        inkscape:export-xdpi="29.947117"
        inkscape:export-ydpi="29.947117" />
     <path
-       transform="matrix(0.97327888,0,0,0.83542247,94.871618,512.8639)"
+       transform="matrix(0.97327888,0,0,0.83542247,44.871618,534.8639)"
        sodipodi:type="arc"
-       style="color:#000000;fill:none;stroke:#000000;stroke-width:1.10899165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:13.30789974,13.30789974;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1.10899162;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:13.30789974, 13.30789974;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="path3958-7"
        sodipodi:cx="364.03293"
        sodipodi:cy="379.87708"
