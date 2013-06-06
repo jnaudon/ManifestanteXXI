@@ -97,7 +97,8 @@ Muchos dispositivos con Android no son celulares, así que no tienen acceso a in
 En una situación de verse afectado de forma real o potencial por este tipo de armas, es necesario conocer las medidas utilizadas para mantener el control de la situación.
 
 ![neutralizante](planos/lacrimogeno_neutralizante.png)
-> Prepare un neutralizador en un roseador con agua potable con 5% de bicarbonato de sodio. 
+> Prepare un neutralizador en un roseador con agua potable con 5% de bicarbonato de sodio.
+> El roseador no tiene que ser mayor que 500cm3 (medio litro) por que se vuelve pesado, dificil de manejar o llevar colgado.
 
 ### ¿Que podemos hacer?
 
@@ -136,7 +137,7 @@ Cámara para transmitir lo que ocurren en el momento en vivo y en directo, a la 
 ![cámara WIFI con el panel solar](img/media/PIC_0175.jpg)  ![cámara wifi con panel solar](img/media/PIC_0176.jpg)
 > Esta basada en un router WIFI, una webcam. Puede alimentarse con pilas, baterías y panel solar.
 
-Como esta pensada apra salir a la calle y transmitir del modo más economico, usa las redes disponibles, transmite en baja resolucion, en formatos muy simples (JPG, MJPG), y siempre esta disponible en un portal cautivo. 
+Como esta pensada apra salir a la calle y transmitir del modo más economico, usa las redes disponibles, transmite en baja resolucion, en formatos muy simples (JPG, [MJPEG](https://es.wikipedia.org/wiki/MJPEG)), y siempre esta disponible en un portal cautivo. 
 Tiene la posibilidad de contectarlo a 3G pero todavia no ha sido probado.
 
 ### Experiencias
@@ -145,13 +146,13 @@ Tiene la posibilidad de contectarlo a 3G pero todavia no ha sido probado.
 Y con punto de acceso para que los vecinos conozcan la problemática a difundir.
 Para transmitir desde cualquier locación usaba [librevpn](http://librevpn.org).
 
-* En pruebas locales funciono perfectamente.
-* En la calle no se pudieron hacer demasiadas pruebas. Aun así filmaba perfectamente, escaneaba redes y conecta.
+* En pruebas locales funcionó perfectamente.
+* En la calle no se pudieron hacer demasiadas pruebas. Aun así filmó perfectamente, escaneó redes y conectó.
 
-_En los intentos por ponerles batería incorporada termino quemándose la camara por conectarla al revéz._
+_En los intentos por ponerles batería incorporada, y contactarla al revéz, termino quemándose la camara._
 
 **Segundo experiencia** con una webcam Datavision no fue muy buena, la imagen tenia muchos problemas de calidad o tan solo aparecía en gris.
-Termino quemándose por el calor dentro del dispositivo.
+Termino quemándose, seguramente, por el calor dentro del dispositivo.
 
 # Notas relacionadas
 
