@@ -166,7 +166,7 @@ Algunas experiencias relacionadas.
 
 Se permite el uso comercial de la obra y de las posibles obras derivadas, la distribución de las cuales se debe hacer con una licencia igual a la que regula la obra original.
 
-![GFDL](img/128px-GFDL_Logo.svg.png) ![Creado para la comunidad compartir con la misma licencia](img/by-sa-125px.png)
+![GFDL](img/128px-GFDL_Logo.svg.png)\ ![Creado para la comunidad compartir con la misma licencia](img/by-sa-125px.png)
 
 # Quehaceres
 
