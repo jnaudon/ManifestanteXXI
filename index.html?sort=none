@@ -1,0 +1,485 @@
+<!DOCTYPE HTML SYSTEM "about:legacy-compat">
+
+  <html xmlns="http://www.w3.org/1999/xhtml">
+
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# ibles-production: http://ogp.me/ns/fb/ibles-production#"><title>How to Make   Instructables</title><meta property="fb:app_id" content="140028286058792" /><meta property="og:site_name" content="Instructables.com" /><meta http-equiv="content-type" content="text/html; charset=utf-8" /><meta name="viewport" content="width=1036" />
+    <meta name="title" content="exploring"/>
+    <meta name="description" content="How to Make   Instructables    - Explore the Biggest How To and DIY community where people make and share inspiring, entertaining, and useful projects, recipes, and hacks."/>
+    <link rel="shortcut icon" href="/favicon.ico" /><link rel="apple-touch-icon-precomposed" href="/app-icon.png" /><link rel="alternate" type="application/rss+xml" title="Instructables : featured " href="/tag/type-id/featured-true/rss.xml" /><link rel="search" type="application/opensearchdescription+xml" title="Instructables" href="/openSearch.xml" /><link href="/static/bootstrap/css/bootstrap.min.css?6ea692c" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/static/css/instructables.base.css?6ea692c" /><link rel="stylesheet" type="text/css" href="/static/css/instructables.css?6ea692c" /><link rel="stylesheet" type="text/css" href="/static/css/instructabot.css?6ea692c" /><script type="text/javascript" src="/static/js/jquery-1.9.0.min.js"></script><script type="text/javascript" src="/static/js/jquery-migrate-1.0.0.min.js"></script><script type="text/javascript" src="/static/js/head.min.js"></script><script type="text/javascript" src="/static/bootstrap/js/bootstrap.min.js"></script><script type="text/javascript">___saveJQFromPrototype = $; function ___loadFeedback(cb) {if (typeof feedBack === "undefined"){head.js("/static/js/feedback.jq.js"); head.ready(cb);} else {cb();}}</script><script type="text/deferscript" defersrc="/static/js/instruct_jq.js" class="tier1"></script><meta name="application-name" content="Instructables, Share What You Make" /><meta name="msapplication-TileImage" content="www.instructables.com/files/orig/F1E/URE9/H8FOFT3D/F1EURE9H8FOFT3D.png" /><meta name="msapplication-TileColor" content="#ff5200" /><meta name="msapplication-task" content="name=Browse All;action-uri=http://www.instructables.com/tag/type-id/;icon-uri=http://www.instructables.com/favicon.ico" /><meta name="msapplication-task" content="name=Tech;action-uri=http://www.instructables.com/tag/type-id/category-technology/;icon-uri=http://www.instructables.com/favicon.ico" /><meta name="msapplication-task" content="name=Workshop;action-uri=http://www.instructables.com/tag/type-id/category-workshop/;icon-uri=http://www.instructables.com/favicon.ico" /><meta name="msapplication-task" content="name=Living;action-uri=http://www.instructables.com/tag/type-id/category-living/;icon-uri=http://www.instructables.com/favicon.ico" /><meta name="msapplication-task" content="name=Food;action-uri=http://www.instructables.com/tag/type-id/category-food/;icon-uri=http://www.instructables.com/favicon.ico" /><meta name="msapplication-task" content="name=Outside;action-uri=http://www.instructables.com/tag/type-id/category-outside/;icon-uri=http://www.instructables.com/favicon.ico" /><meta name="msapplication-task" content="name=Play;action-uri=http://www.instructables.com/tag/type-id/category-play/;icon-uri=http://www.instructables.com/favicon.ico" />
+
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-306473-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+	
+<script type="text/javascript">
+  //This is a set of JS that absolutely, positively must be loaded synchronously before the page loads.
+  //If something is here, that means it's probably a candidate for reengineering.
+  (function() {
+      var $ = jQuery;
+      LogHit = function( entryId, entryType, authorId ) {
+        var data = {'id':entryId, 'type':entryType, 'authorId':authorId};
+        if (document.referrer&&document.referrer!=""){
+            data['referrer']=document.referrer;
+        }
+        // turn off global events triggering just for this call (prevents loading indicator)
+        $.ajaxSettings.global = false;
+        $.ajax({
+            type: 'POST',
+            url:'/counter',
+            'data': data,
+            success: function(){}
+        });
+        // turn back on global events triggering
+        $.ajaxSettings.global = true;
+      }
+    })();
+</script><script type="text/deferscript" class="tier1">
+  var _comscore = _comscore || [];
+  _comscore.push({c1:"2", c2:"7732561", c3:"", c4:"", c5:"", c6:"", c15:"",
+    options: {
+      url_append:"comscorekw="
+    }
+  });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=7732561&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1" /></noscript><script type="text/javascript">
+_qoptions={
+qacct:"p-d6RKK49nWAdvA",
+labels:"."
+};
+</script><script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script><noscript><a href="http://www.quantcast.com/p-d6RKK49nWAdvA" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-d6RKK49nWAdvA.gif?labels=." border="0" height="1" width="1" alt="Quantcast" class="quantcast_img_0" /></a></noscript><script type="text/javascript">_gaq.push(['_trackPageview', '/event/browse///']);</script><script class="tier1" type="text/deferscript" defersrc="http://partner.googleadservices.com/gampad/google_service.js"></script><script class="tier1" type="text/deferscript">
+  GS_googleAddAdSenseService("ca-pub-1783560022203827");
+  GS_googleEnableAllServices();
+</script><script class="tier1" type="text/deferscript">
+  GA_googleAddAttr("content", "browse");
+  GA_googleAddAttr("category", "");
+  GA_googleAddAttr("channel", "");
+  GA_googleAddAttr("sort", "none");
+  GA_googleAddAttr("offset", "0");
+  GA_googleAddAttr("adtest", "");
+  GA_googleAddAttr("loggedin", "false");
+</script><script class="tier1" type="text/deferscript">
+  GA_googleAddSlot("ca-pub-1783560022203827", "_leaderboard");
+  GA_googleAddSlot("ca-pub-1783560022203827", "_browse_med_rectangle");
+  </script><script class="tier1" type="text/deferscript">
+  GA_googleUseSyncSRARendering();
+  GA_googleFetchAds();
+</script><script>head.feature("loggedin", false);</script></head><body id="" class="explore"><div id="gbl-header"><div class="top-bar"><div class="container"><a id="header-robot" href="/"><img src="/static/img/header/header-robot.png" /></a><a id="header-logo" href="/"><img alt="Instructables" src="/static/img/header/instructables-logo.png" /></a><div id="header-nav-container"><ul id="header-nav" class="clearfix"><li id="explore" class="header-nav"><a href="/tag/type-id/">Explore <span class="caret"></span></a></li><li id="create" class="header-nav"><a href="/about/submit.jsp">Create <span class="caret"></span></a></li><li id="contests" class="header-nav"><a href="/contest/">Contests <span class="caret"></span></a></li><li id="community" class="header-nav"><a href="/community/">Community <span class="caret"></span></a></li></ul><div class="header-menu" id="create-menu"><div class="menu-content clearfix"><div class="fl share-ways"><div class="base-share"><h4>3 Simple Ways to Share What You Make</h4><p>With Instructables you can share what you make with the world and tap into an ever-growing community of creative experts.</p></div><div class="mobile-share"><h4>Create on the go:</h4><div class="clearfix"><img class="fl" alt="mobile" src="/static/img/header/phones.png" /><div class="fl downloads"><a class="btn" title="Download the iOS app" href="https://itunes.apple.com/app/instructables/id586765571"><img src="/static/img/header/apple.png" /></a><a class="btn" title="Download the Android pp" href="https://play.google.com/store/apps/details?id=com.adsk.instructables"><img src="/static/img/header/android.png" /></a></div></div></div></div><div class="fl ible-types"><ul><li><a class="type shaded-menu-item" href="/account/register?sourcea=submit_i&nxtPgName=Submit+Step+by+Step&nxtPg=%2Fid%2Fedit&skipPro=true"><div class="image"><img src="/static/img/header/share-menu-steps.png" alt="step-by-step instructables" /></div><div class="info"><span>step-by-step</span><p>share step-by-step photos with text instructions</p></div></a></li><li><a class="type shaded-menu-item" href="/account/register?sourcea=submit_s&nxtPgName=Submit+Photos&nxtPg=%2Fid%2Fedit%3Ftype%3Dphotos&skipPro=true"><div class="image"><img src="/static/img/header/share-menu-photos.png" alt="photo instructables" /></div><div class="info"><span>photos</span><p>share one or more photos in one step quickly and easily</p></div></a></li><li><a class="type shaded-menu-item" href="/account/register?sourcea=submit_v&nxtPgName=Submit+Video&nxtPg=%2Fid%2Fedit%3Ftype%3Dvideo&skipPro=true"><div class="image"><img src="/static/img/header/share-menu-videos.png" alt="video instructables" /></div><div class="info"><span>video</span><p>share your how-to video</p></div></a></li></ul></div></div></div><div class="header-menu" id="explore-menu"><img class="menu-loading" src="/static/img/lb_loading.gif" /></div><div class="header-menu" id="contests-menu"><img class="menu-loading" src="/static/img/lb_loading.gif" /></div><div class="header-menu" id="community-menu"><div class="menu-content">
+<style>
+#community-menu .btn {width:123px}
+#community-menu .bg-icon.groups {margin-top:0}
+</style>  
+<!-- arrow » -->
+<div class="btn-group">
+  <a class="btn" href="/groups/"><i class="bg-icon groups active"></i>  Groups &#187;</a>
+</div>
+<div class="btn-group">
+  <a class="btn" href="/community/"><i class="bg-icon forums selected"></i> Forums &#187;</a>
+</div>
+<div class="btn-group">
+  <a class="btn" href="/tag/type-question/?sort=RECENT"><i class="bg-icon questions selected"></i> Answers &#187;</a>
+</div>
+<div class="groups">
+  <h3>Featured Groups</h3>
+  <ul class="h-list clearfix">
+    <li><a class="shaded-menu-item" href="/group/bareconductive/" title="Bare Conductive"><img src="/files/orig/FLK/6JK2/HGH6XFOC/FLK6JK2HGH6XFOC.png" alt="Bare Conductive"></a></li>
+    <li><a class="shaded-menu-item" href="/group/drawingandart" title="Drawing and Art"><img src="/static/img/promos/featured-group-art.png" alt="Drawing and Art"></a></li>
+    <li><a class="shaded-menu-item" href="/group/sustainability/" title="Sustainability"><img src="/files/orig/FKS/5U69/HFSH4WUF/FKS5U69HFSH4WUF.jpg" alt="Sustainability"></a></li> 
+    <li><a class="shaded-menu-item" href="/group/123d" title="123D"><img src="/static/img/promos/featured-group-123d.png" alt="123D"></a></li>                
+    <li><a class="shaded-menu-item" href="/group/readyset" title="Fenix Intl, Ready Set Off The Grid"><img src="/static/img/promos/featured-group-fenix.png" alt="Fenix Intl, Ready Set Off The Grid"></a></li>
+    <li><a class="shaded-menu-item" href="/group/kollabora" title="Kollabora"><img src="/static/img/promos/featured-group-kollabora.png" alt="Kollabora"></a></li>                      
+  </ul>
+</div>
+</div></div></div><div id="header-search"><form id="header-search-form" class="form-horizontal" action="/tag/type-id/" method="get"><div class="control-group"><label class="control-label" for="q">let's make</label><div class="controls"><input type="hidden" name="sort" value="none" /><div class="input-append"><input class="input-medium" type="text" name="q" id="q" value="" /><button class="btn" type="button" id="header-search-btn"><i class="bg-icon search selected"></i></button></div></div></div></form></div><script type="text/javascript">
+        (function($){
+          $(function() {
+            $('#header-search-btn').click(function(e){
+              e.preventDefault();
+              $('#header-search-form').submit();
+            });        
+          });
+        })(jQuery);
+        </script><div id="you-menu" class="dropdown"><a class="account-link" href="/you/" data-toggle="dropdown">Login <b class="caret"></b></a><ul class="dropdown-menu pull-right"><li><a href="/account/gopro?sourcea=nav&nxtPgName=How+to+Make+++Instructables&nxtPg=/tag/type-id/?sort=none">Sign Up</a></li><li><a id="logintoggle" href="/account/login?nxtPgName=How+to+Make+++Instructables&nxtPg=/tag/type-id/?sort=none">Log In</a></li><li><a class="facebook-login"><img src="/static/img/facebook-login.png" alt="Login with Facebook" /></a></li></ul></div></div></div><div class="bottom-bar"><div class="container main"><a class="share-motto" href="/about/submit.jsp">share what you make &gt</a><ul id="promo-tabs" class="clearfix">
+<style>
+#one23d-promo-tab {width:44px; height:30px; background:url(/files/orig/FAC/AR9X/HEI4FPWK/FACAR9XHEI4FPWK.png) no-repeat 0 -80px}
+#one23d-promo-tab:hover {background-position:0 0}
+#radioshack-promo-tab {width:98px; height:30px; background:url(/files/orig/F8R/DBYW/HHJO6SS3/F8RDBYWHHJO6SS3.png) no-repeat 0 -40px}
+#radioshack-promo-tab:hover {background-position:0 0}
+#hub3dp-promo-tab {width:117px; height:30px; background:url(/files/orig/FVG/9TM9/HHJO6SS4/FVG9TM9HHJO6SS4.png) no-repeat 0 -40px}
+#hub3dp-promo-tab:hover {background-position:0 0}
+
+body.topic {background-color:#d44400 !important}
+div#propricing label {vertical-align:top}
+</style>
+
+<li><div class="first"><a id="hub3dp-promo-tab" href="/3Dprinting/" title="3D Printing">3D Printing</a></div></li>
+<li><div><a id="radioshack-promo-tab" href="/group/radioshack/" title="Techshop">RadioShack</a></div></li>
+<li><div><a id="one23d-promo-tab" href="/group/123d/" title="123D">123D</a></div></li>
+</ul></div></div></div><div class="aspace-wrap"><div class="aspace container"><div id="aplace">
+          
+            <script class="tier2" type="text/deferscript">
+            if (typeof GA_googleFillSlot != "undefined") {
+              GA_googleFillSlot("_leaderboard");
+            }
+            </script>
+          
+          </div></div></div><script type="text/javascript">
+    (function($) {
+      var onMenu = false;
+      var onButton = false;
+      var onMenuContent = false;
+      
+      function clearMenus() {
+        $(".header-nav").each(function(){
+          var navElem = $(this),
+              menuElem = $('#'+this.id+'-menu');
+          navElem.removeClass('selected');
+          menuElem.hide();
+        });
+      }
+
+      function getMenuContent(menuContainer, navId) {
+        menuContainer.innerHTML = '<div class="menu-load">Loading...</div>';
+        $.ajax("/dynjsp/nav_"+navId+".jsp", {
+          success: function(data, textStatus, jqXHR) {
+            menuContainer.html(data);
+          },
+          error: function() {
+            menuContainer.html('<div class="menu-load-error">An error occurred while loading this content.</div>');
+          }
+        });        
+      }             
+      
+      $(function() {
+          $(".header-nav").each(function() {
+              (function(that) {
+                  var navElem = $(that);
+                  var menuTop = navElem.height()+1;
+                  var menuLeft = navElem.position().left;
+                  var menuElem = $("#"+that.id+"-menu");
+                  var loaded = (that.id == "create" || that.id == "community");
+                  var onThisButton = false;
+                  var onThisMenuContent = false;
+                  var delay = 10;
+                                    
+                  navElem.on('click.nav-menu', function(e){
+                    if (!onMenu) {
+                      e.preventDefault();                    
+                      clearMenus();
+                      if (!loaded) {
+                        loaded = true;
+                        getMenuContent(menuElem, that.id);                      
+                      }
+                      if (!menuElem.is(":visible")) {
+                        menuElem.css({top: menuTop+'px', left: menuLeft+'px'});
+                        navElem.addClass('selected');
+                        menuElem.show();
+                        onThisButton = true;
+                        onButton = true;
+                        onMenu = true;
+                      }
+                      return false;
+                    }
+                  });
+                  
+                  navElem.hover(
+                    function() {
+                      onThisButton = true;         
+                      onButton = true;             
+                      if (onMenu) {
+                        if (!loaded) {
+                          loaded = true;
+                          getMenuContent(menuElem, that.id);
+                        }
+                        setTimeout(function() {
+                          if (onThisButton) {
+                            menuElem.css({top: menuTop+'px', left: menuLeft+'px'});
+                            navElem.addClass('selected');
+                            menuElem.show();
+                            onMenu = true;
+                          }
+                        }, delay);
+                      }
+                    },
+                    function() {
+                      onThisButton = false;
+                      onButton = false;
+                      setTimeout(function() {
+                        if(!onThisMenuContent) {
+                            navElem.removeClass('selected');
+                            menuElem.hide();
+                        }
+                      }, delay);
+                      
+                      setTimeout(function() {
+                        if (!onButton && !onMenuContent) {
+                          onMenu = false; 
+                        }
+                      }, delay+2000);
+                    }
+                  );
+                
+                  menuElem.hover(
+                    function() {
+                        onMenu = true;
+                        onThisMenuContent = true;
+                        onMenuContent = true;
+                        navElem.addClass('selected');
+                    },
+                    function() {
+                        onThisMenuContent = false;
+                        onMenuContent = false;
+                        setTimeout(function() {
+                            if (!onThisButton && !onThisMenuContent) {
+                                menuElem.hide();
+                                navElem.removeClass('selected');
+                            }
+                        }, delay);
+                        
+                        setTimeout(function() {
+                          if (!onButton && !onMenuContent) {
+                            onMenu = false;
+                          }
+                        }, delay+2000);                        
+                    }
+                  );                  
+              })(this);
+          });
+      });
+    })(jQuery);
+
+    function makeHelpBubbleLoginHTML(loginContinueParams, doRedirectLocation, source, fb) {
+    
+        var loginHTML = '<form method="post" action="/account/login?' + loginContinueParams + '">';
+        loginHTML += '<input id="RememberME_hb" type="hidden" name="RememberME" />';
+        loginHTML += '<table style="margin-top:5px;">';
+        loginHTML += '<tr style="margin-top:5px;"><td>Username </td>';
+        loginHTML += '<td><input id="username_hb" type="text" style="width:100px;" name="u"/></td></tr>';
+        loginHTML += '<tr><td>Password </td>';
+        loginHTML += '<td><input id="password_hb" type="password" style="width:67px;" name="p"/>';
+        loginHTML += '<input class="ml5" class="button" type="submit" value="go" name="Submit"/></td></tr>';
+        loginHTML += '<tr><td colspan="2" class="center">';
+        loginHTML += '<a class="fs-1" href="/account/forgot?' + loginContinueParams + '">(forgot username/password?)</a></td></tr>';
+        if (typeof fb === "undefined" || fb !== false) {
+            loginHTML += '<tr><td colspan="2" class="center"> OR </td></tr>';
+            loginHTML += '<tr><td colspan="2" class="center">';
+            if (typeof doRedirectLocation === "undefined" || doRedirectLocation === "") {
+                loginHTML += '<fb:login-button size="medium" scope="email,user_birthday,publish_stream" onlogin="doRedirect(\'' + loginContinueParams + '\', \'' + source + '\');">';
+            } else {
+                loginHTML += '<fb:login-button size="medium" scope="email,user_birthday,publish_stream" onlogin="doRedirect(\'' + doRedirectLocation + '\', \'' + source + '\');">';
+            }
+            loginHTML += 'Log In with Facebook</fb:login-button></td></tr>';
+        }
+        loginHTML += '</table></form>';
+
+        return loginHTML;
+    
+    }
+
+    function focusOnHelpBubbleLogin() {
+        if (typeof FB !== "undefined") {
+            FB.XFBML.parse(document.getElementById("login5"));
+        }
+        setTimeout(function() {
+            $( "username_hb" ).focus();
+        }, 10 );
+    }
+</script><div id="feedback" class="feedback" style="display:none;"></div><div id="omni" class="clearfix"><style type="text/css">
+    #explore-drawer > .drawer-inner:after {background:none}
+    #explore-drawer-pull {display:none}
+  </style><div id="explore-header" class="header-bar"><div class="header-bar-inner"><div class="container"><div class="fl"><a href="/tag/type-id/"><img alt="explore everything" src="/static/img/explore/category-all.png" /><span class="fr header-title category-title">everything</span></a></div><div class="fr"><ul class="h-list explore-icons clearfix"><li><a class="explore-all selected" title="Everything" href="/tag/type-id/">Everything</a></li><li><a class="explore-tech" title="Technology" href="/tag/type-id/category-technology/">Technology</a></li><li><a class="explore-workshop" title="Workshop" href="/tag/type-id/category-workshop/">Workshop</a></li><li><a class="explore-living" title="Living" href="/tag/type-id/category-living/">Living</a></li><li><a class="explore-food" title="Food" href="/tag/type-id/category-food/">Food</a></li><li><a class="explore-play" title="Play" href="/tag/type-id/category-play/">Play</a></li><li><a class="explore-outside" title="Outside" href="/tag/type-id/category-outside/">Outside</a></li></ul></div></div></div><div id="explore-drawer" class="drawer expanded featured-editor-content">
+ <div class="drawer-inner">
+ <div class="drawer-content">
+   <div class="container row-fluid featured">
+     <div class="span4">
+       <div class="editor">
+         <h3>From the Editor</h3>
+         <div class="featured-author"> <!-- This section has what's being featured for this category; could be an author, instructable, etc -->
+           <a href="http://www.instructables.com/contest/epilogv/"><img src="http://www.instructables.com/files/deriv/FRX/BEXL/HF23RLRV/FRXBEXLHF23RLRV.SMALL.jpg"></a>
+           <span class="heading strong"><u><a href="http://www.instructables.com/contest/epilogv/">Laser Cutter Contest</a></u></span>
+           <p>Let's face it, laser cutters are useful but expensive. Why not win one in our fifth Epilog Laser Cutter Contest?</p>
+         </div>
+       </div>
+     </div>
+     <div class="span4">
+       <div class="features">
+         <h3>Highlights</h3>
+         <ul class="featured-list"> <!-- This section list things (instructables, forum links, etc) you want to highlight for your category. You can put in as many links as you want. The titles can be at most 25 characters in length (including spaces). Add '...' if you need to shorten it. -->
+           <li><a href="http://www.instructables.com/contest/">Check out all of our contests</a></li>
+           <li><a href="http://www.instructables.com/contest/drones2013/">DIY Drones Contest</a></li>
+<li><a href="http://www.instructables.com/community/Maker-Faire-2013-Slide-Show/">Maker Faire Slide Show</a></li>
+
+         </ul>
+       </div>
+     </div>
+     <div class="span4">
+       <div class="popular-channels">
+         <h3>Popular Channels</h3> <!-- This section list popular channels in your category that you want to feature. You can put in as many links as you want -->
+         <div class="channels">
+           <a href="http://www.instructables.com/tag/type-id/ebook-true/" class="btn btn-small">Ebooks</a>
+<a href="http://www.instructables.com/tag/type-id/category-technology/channel-arduino/" class="btn btn-small">Arduino</a>
+           <a href="http://www.instructables.com/tag/category-living/channel-yarn/" class="btn btn-small">Yarn</a>
+<a href="http://www.instructables.com/tag/category-workshop/channel-woodworking/" class="btn btn-small">Woodworking</a>
+<a href="http://www.instructables.com/tag/category-outside/channel-survival/" class="btn btn-small">Survival</a>
+<a href="http://www.instructables.com/tag/category-play/channel-toys/" class="btn btn-small">Toys</a>
+           <a href="http://www.instructables.com/tag/category-workshop/channel-gardening/" class="btn btn-small">Gardening</a>
+<a href="http://www.instructables.com/tag/category-play/channel-minecraft/" class="btn btn-small">Minecraft</a>
+<a href="http://www.instructables.com/tag/category-food/channel-pie/" class="btn btn-small">Pies</a>
+<a href="http://www.instructables.com/tag/category-technology/channel-photography/" class="btn btn-small">Photography</a>
+<a href="http://www.instructables.com/tag/category-living/channel-life-hacks/" class="btn btn-small">Life Hacks</a>                        
+         </div>
+       </div>
+     </div>  
+   </div>    
+ </div>
+ <div id="explore-drawer-pull" class="drawer-pull"></div>
+</div>
+</div></div><script>
+$(function() {
+  $(".explore-icons a").tooltip();
+  
+  $("#explore-header .drawer-pull").click(function(e){
+    var drawer = $('#explore-drawer'),
+        content = drawer.find('.drawer-content');
+        
+    if (drawer.hasClass('expanded')) {
+      content.slideUp('slow', function(){
+        drawer.removeClass('expanded').addClass('collapsed');
+      });    
+      document.cookie="exploreHeaderDrawerClosed=1; path=/";        
+    } else {
+      content.slideDown('slow', function() {
+        drawer.removeClass('collapsed').addClass('expanded');
+      });
+      document.cookie='exploreHeaderDrawerClosed=0; path=/';      
+    }
+  });
+});
+</script><div class="container"><div class="explore-content"><div class="explore-menubar"><div class="btn-toolbar clearfix"><div class="types-toolbar fl"><div class="btn-group categories-menu"><a data-toggle="dropdown" class="btn btn-small dropdown-toggle"><i class="bg-icon category-all"></i>&nbsp;Everything&nbsp;<span class="caret"></span></a><ul class="dropdown-menu"><li class="active"><a href="/tag/type-id/"><i class="icon-category-all"></i>Everything</a></li><li><a href="/tag/type-id/category-food/?sort=none"><i class="icon-category-food"></i>Food</a></li><li><a href="/tag/type-id/category-living/?sort=none"><i class="icon-category-living"></i>Living</a></li><li><a href="/tag/type-id/category-outside/?sort=none"><i class="icon-category-outside"></i>Outside</a></li><li><a href="/tag/type-id/category-play/?sort=none"><i class="icon-category-play"></i>Play</a></li><li><a href="/tag/type-id/category-technology/?sort=none"><i class="icon-category-technology"></i>Technology</a></li><li><a href="/tag/type-id/category-workshop/?sort=none"><i class="icon-category-workshop"></i>Workshop</a></li></ul></div><div class="btn-group channels-menu"><a data-toggle="dropdown" class="btn btn-small dropdown-toggle">All Channels&nbsp;<span class="caret"></span></a><ul class="dropdown-menu dropdown-scroll"><li><a href="/tag/type-id/category-technology/channel-3D-Printing/?sort=none">3D Printing</a></li><li><a href="/tag/type-id/category-outside/channel-Birding/?sort=none">Birding</a></li><li><a href="/tag/type-id/category-play/channel-airsoft/?sort=none">Airsoft</a></li><li><a href="/tag/type-id/category-technology/channel-apple/?sort=none">Apple</a></li><li><a href="/tag/type-id/category-technology/channel-arduino/?sort=none">Arduino</a></li><li><a href="/tag/type-id/category-living/channel-art/?sort=none">Art (living)</a></li><li><a href="/tag/type-id/category-technology/channel-art/?sort=none">Art (technology)</a></li><li><a href="/tag/type-id/category-technology/channel-assistive-technology/?sort=none">Assistive Tech</a></li><li><a href="/tag/type-id/category-technology/channel-audio/?sort=none">Audio</a></li><li><a href="/tag/type-id/category-food/channel-bacon/?sort=none">Bacon </a></li><li><a href="/tag/type-id/category-food/channel-bbq-and-grilling/?sort=none">BBQ & Grilling</a></li><li><a href="/tag/type-id/category-living/channel-beauty/?sort=none">Beauty</a></li><li><a href="/tag/type-id/category-food/channel-beverages/?sort=none">Beverages</a></li><li><a href="/tag/type-id/category-outside/channel-bikes/?sort=none">Bikes</a></li><li><a href="/tag/type-id/category-technology/channel-biotech/?sort=none">Biotech</a></li><li><a href="/tag/type-id/category-outside/channel-boats/?sort=none">Boats</a></li><li><a href="/tag/type-id/category-workshop/channel-bookshelves/?sort=none">Bookshelves</a></li><li><a href="/tag/type-id/category-food/channel-bread/?sort=none">Bread</a></li><li><a href="/tag/type-id/category-food/channel-breakfast/?sort=none">Breakfast</a></li><li><a href="/tag/type-id/category-food/channel-cake/?sort=none">Cake</a></li><li><a href="/tag/type-id/category-food/channel-cake-decorating/?sort=none">Cake Decorating</a></li><li><a href="/tag/type-id/category-outside/channel-camping/?sort=none">Camping</a></li><li><a href="/tag/type-id/category-food/channel-candy/?sort=none">Candy</a></li><li><a href="/tag/type-id/category-food/channel-canning-and-preserves/?sort=none">Canning and Preserves</a></li><li><a href="/tag/type-id/category-play/channel-card-games/?sort=none">Card Games</a></li><li><a href="/tag/type-id/category-workshop/channel-cardboard/?sort=none">Cardboard</a></li><li><a href="/tag/type-id/category-workshop/channel-cars/?sort=none">Cars</a></li><li><a href="/tag/type-id/category-technology/channel-cell-phones/?sort=none">Cell Phones</a></li><li><a href="/tag/type-id/category-living/channel-christmas/?sort=none">Christmas</a></li><li><a href="/tag/type-id/category-living/channel-cleaning/?sort=none">Cleaning</a></li><li><a href="/tag/type-id/category-technology/channel-clocks/?sort=none">Clocks</a></li><li><a href="/tag/type-id/category-technology/channel-cnc/?sort=none">CNC</a></li><li><a href="/tag/type-id/category-food/channel-cocktails-and-mocktails/?sort=none">Cocktails and Mocktails</a></li><li><a href="/tag/type-id/category-workshop/channel-compost/?sort=none">Compost</a></li><li><a href="/tag/type-id/category-technology/channel-computers/?sort=none">Computers</a></li><li><a href="/tag/type-id/category-food/channel-cookies/?sort=none">Cookies</a></li><li><a href="/tag/type-id/category-play/channel-costumes/?sort=none">Costumes</a></li><li><a href="/tag/type-id/category-living/channel-craft/?sort=none">Craft</a></li><li><a href="/tag/type-id/category-food/channel-cupcakes/?sort=none">Cupcakes</a></li><li><a href="/tag/type-id/category-living/channel-decorating/?sort=none">Decorating</a></li><li><a href="/tag/type-id/category-food/channel-dessert/?sort=none">Dessert</a></li><li><a href="/tag/type-id/category-technology/channel-digital-graphics/?sort=none">Digital Graphics</a></li><li><a href="/tag/type-id/category-living/channel-duct-tape/?sort=none">Duct Tape</a></li><li><a href="/tag/type-id/category-living/channel-education/?sort=none">Education</a></li><li><a href="/tag/type-id/category-technology/channel-el-wire/?sort=none">EL Wire</a></li><li><a href="/tag/type-id/category-workshop/channel-electric-vehicles/?sort=none">Electric Vehicles</a></li><li><a href="/tag/type-id/category-technology/channel-electronics/?sort=none">Electronics</a></li><li><a href="/tag/type-id/category-workshop/channel-energy/?sort=none">Energy</a></li><li><a href="/tag/type-id/category-living/channel-fashion/?sort=none">Fashion</a></li><li><a href="/tag/type-id/category-living/channel-finances/?sort=none">Finances</a></li><li><a href="/tag/type-id/category-outside/channel-fishing/?sort=none">Fishing</a></li><li><a href="/tag/type-id/category-workshop/channel-flatpack/?sort=none">Flatpack</a></li><li><a href="/tag/type-id/category-living/channel-furnishing/?sort=none">Furnishing</a></li><li><a href="/tag/type-id/category-workshop/channel-furniture/?sort=none">Furniture</a></li><li><a href="/tag/type-id/category-technology/channel-gadgets/?sort=none">Gadgets</a></li><li><a href="/tag/type-id/category-workshop/channel-gardening/?sort=none">Gardening</a></li><li><a href="/tag/type-id/category-living/channel-green/?sort=none">Green</a></li><li><a href="/tag/type-id/category-play/channel-guitars/?sort=none">Guitars</a></li><li><a href="/tag/type-id/category-living/channel-halloween/?sort=none">Halloween</a></li><li><a href="/tag/type-id/category-living/channel-health/?sort=none">Health</a></li><li><a href="/tag/type-id/category-living/channel-holidays/?sort=none">Holidays</a></li><li><a href="/tag/type-id/category-workshop/channel-home-renovation/?sort=none">Home Renovation</a></li><li><a href="/tag/type-id/category-workshop/channel-home-theater/?sort=none">Home Theater</a></li><li><a href="/tag/type-id/category-food/channel-homebrew/?sort=none">Homebrew</a></li><li><a href="/tag/type-id/category-workshop/channel-hydroponics/?sort=none">Hydroponics</a></li><li><a href="/tag/type-id/category-play/channel-instruments/?sort=none">Instruments</a></li><li><a href="/tag/type-id/category-living/channel-jewelry/?sort=none">Jewelry</a></li><li><a href="/tag/type-id/category-living/channel-kids/?sort=none">Kids</a></li><li><a href="/tag/type-id/category-living/channel-kitchen/?sort=none">Kitchen</a></li><li><a href="/tag/type-id/category-outside/channel-kites/?sort=none">Kites</a></li><li><a href="/tag/type-id/category-technology/channel-kits/?sort=none">Kits</a></li><li><a href="/tag/type-id/category-play/channel-knex/?sort=none">K'NEX</a></li><li><a href="/tag/type-id/category-outside/channel-knives/?sort=none">Knives</a></li><li><a href="/tag/type-id/category-outside/channel-knots/?sort=none">Knots</a></li><li><a href="/tag/type-id/category-workshop/channel-lamps/?sort=none">Lamps</a></li><li><a href="/tag/type-id/category-technology/channel-laptops/?sort=none">Laptops</a></li><li><a href="/tag/type-id/category-technology/channel-lasers/?sort=none">Lasers</a></li><li><a href="/tag/type-id/category-technology/channel-leds/?sort=none">LEDs</a></li><li><a href="/tag/type-id/category-play/channel-lego/?sort=none">Lego</a></li><li><a href="/tag/type-id/category-living/channel-life-hacks/?sort=none">Life Hacks</a></li><li><a href="/tag/type-id/category-living/channel-life-skills/?sort=none">Life Skills</a></li><li><a href="/tag/type-id/category-workshop/channel-lighting/?sort=none">Lighting</a></li><li><a href="/tag/type-id/category-technology/channel-linux/?sort=none">Linux</a></li><li><a href="/tag/type-id/category-play/channel-magic-tricks/?sort=none">Magic Tricks</a></li><li><a href="/tag/type-id/category-food/channel-main-course/?sort=none">Main Course</a></li><li><a href="/tag/type-id/category-workshop/channel-metalworking/?sort=none">Metalworking</a></li><li><a href="/tag/type-id/category-technology/channel-microcontrollers/?sort=none">Microcontrollers</a></li><li><a href="/tag/type-id/category-technology/channel-microsoft/?sort=none">Microsoft</a></li><li><a href="/tag/type-id/category-play/channel-minecraft/?sort=none">Minecraft</a></li><li><a href="/tag/type-id/category-workshop/channel-motorcycles/?sort=none">Motorcycles</a></li><li><a href="/tag/type-id/category-play/channel-music/?sort=none">Music</a></li><li><a href="/tag/type-id/category-play/channel-nerf/?sort=none">Nerf</a></li><li><a href="/tag/type-id/category-play/channel-nintendo/?sort=none">Nintendo</a></li><li><a href="/tag/type-id/category-play/channel-offbeat/?sort=none">Offbeat</a></li><li><a href="/tag/type-id/category-play/channel-office-supplies/?sort=none">Office Supplies</a></li><li><a href="/tag/type-id/category-living/channel-organizing/?sort=none">Organizing (living)</a></li><li><a href="/tag/type-id/category-workshop/channel-organizing/?sort=none">Organizing (workshop)</a></li><li><a href="/tag/type-id/category-play/channel-paintball/?sort=none">Paintball</a></li><li><a href="/tag/type-id/category-workshop/channel-pallets/?sort=none">Pallets</a></li><li><a href="/tag/type-id/category-living/channel-paper/?sort=none">Paper</a></li><li><a href="/tag/type-id/category-play/channel-paper-airplanes/?sort=none">Paper Airplanes</a></li><li><a href="/tag/type-id/category-living/channel-parenting/?sort=none">Parenting</a></li><li><a href="/tag/type-id/category-play/channel-party-tricks/?sort=none">Party Tricks</a></li><li><a href="/tag/type-id/category-food/channel-pasta/?sort=none">Pasta</a></li><li><a href="/tag/type-id/category-workshop/channel-pest-control/?sort=none">Pest Control</a></li><li><a href="/tag/type-id/category-living/channel-pets/?sort=none">Pets</a></li><li><a href="/tag/type-id/category-technology/channel-photography/?sort=none">Photography</a></li><li><a href="/tag/type-id/category-food/channel-pie/?sort=none">Pie</a></li><li><a href="/tag/type-id/category-food/channel-pizza/?sort=none">Pizza</a></li><li><a href="/tag/type-id/category-play/channel-playstation/?sort=none">PlayStation</a></li><li><a href="/tag/type-id/category-play/channel-pranks-and-humor/?sort=none">Pranks and Humor</a></li><li><a href="/tag/type-id/category-living/channel-print making/?sort=none">Print Making</a></li><li><a href="/tag/type-id/category-play/channel-props/?sort=none">Props</a></li><li><a href="/tag/type-id/category-play/channel-puzzles/?sort=none">Puzzles</a></li><li><a href="/tag/type-id/category-workshop/channel-rain-barrels/?sort=none">Rain Barrels</a></li><li><a href="/tag/type-id/category-technology/channel-raspberry-pi/?sort=none">Raspberry Pi</a></li><li><a href="/tag/type-id/category-living/channel-relationships/?sort=none">Relationships</a></li><li><a href="/tag/type-id/category-technology/channel-remote-control/?sort=none">Remote Control</a></li><li><a href="/tag/type-id/category-workshop/channel-repair/?sort=none">Repair</a></li><li><a href="/tag/type-id/category-living/channel-reuse/?sort=none">Reuse (living)</a></li><li><a href="/tag/type-id/category-technology/channel-reuse/?sort=none">Reuse (technology)</a></li><li><a href="/tag/type-id/category-technology/channel-robots/?sort=none">Robots</a></li><li><a href="/tag/type-id/category-play/channel-rockets/?sort=none">Rockets</a></li><li><a href="/tag/type-id/category-food/channel-salad/?sort=none">Salad</a></li><li><a href="/tag/type-id/category-food/channel-sandwiches/?sort=none">Sandwiches</a></li><li><a href="/tag/type-id/category-technology/channel-science/?sort=none">Science</a></li><li><a href="/tag/type-id/category-technology/channel-sensors/?sort=none">Sensors</a></li><li><a href="/tag/type-id/category-living/channel-sewing/?sort=none">Sewing</a></li><li><a href="/tag/type-id/category-play/channel-siege-engines/?sort=none">Siege Engines</a></li><li><a href="/tag/type-id/category-outside/channel-skateboarding/?sort=none">Skateboarding</a></li><li><a href="/tag/type-id/category-food/channel-snacks-and-appetizers/?sort=none">Snacks and Appetizers</a></li><li><a href="/tag/type-id/category-outside/channel-snow/?sort=none">Snow</a></li><li><a href="/tag/type-id/category-technology/channel-soft-circuits/?sort=none">Soft Circuits</a></li><li><a href="/tag/type-id/category-technology/channel-software/?sort=none">Software</a></li><li><a href="/tag/type-id/category-workshop/channel-solar/?sort=none">Solar</a></li><li><a href="/tag/type-id/category-technology/channel-soldering/?sort=none">Soldering</a></li><li><a href="/tag/type-id/category-food/channel-soups-and-stews/?sort=none">Soups and Stews</a></li><li><a href="/tag/type-id/category-technology/channel-speakers/?sort=none">Speakers</a></li><li><a href="/tag/type-id/category-play/channel-sports/?sort=none">Sports</a></li><li><a href="/tag/type-id/category-technology/channel-steampunk/?sort=none">Steampunk</a></li><li><a href="/tag/type-id/category-outside/channel-survival/?sort=none">Survival</a></li><li><a href="/tag/type-id/category-play/channel-table-top/?sort=none">Table Top</a></li><li><a href="/tag/type-id/category-technology/channel-tools/?sort=none">Tools (technology)</a></li><li><a href="/tag/type-id/category-workshop/channel-tools/?sort=none">Tools (workshop)</a></li><li><a href="/tag/type-id/category-play/channel-toys/?sort=none">Toys</a></li><li><a href="/tag/type-id/category-living/channel-travel/?sort=none">Travel</a></li><li><a href="/tag/type-id/category-technology/channel-usb/?sort=none">USB</a></li><li><a href="/tag/type-id/category-food/channel-vegetarian-and-vegan/?sort=none">Vegetarian and Vegan</a></li><li><a href="/tag/type-id/category-play/channel-video-games/?sort=none">Video Games</a></li><li><a href="/tag/type-id/category-play/channel-wallets/?sort=none">Wallets</a></li><li><a href="/tag/type-id/category-outside/channel-water/?sort=none">Water</a></li><li><a href="/tag/type-id/category-technology/channel-websites/?sort=none">Websites</a></li><li><a href="/tag/type-id/category-play/channel-wii/?sort=none">Wii</a></li><li><a href="/tag/type-id/category-technology/channel-wireless/?sort=none">Wireless</a></li><li><a href="/tag/type-id/category-workshop/channel-woodworking/?sort=none">Woodworking</a></li><li><a href="/tag/type-id/category-play/channel-xbox/?sort=none">Xbox</a></li><li><a href="/tag/type-id/category-living/channel-yarn/?sort=none">Yarn</a></li><li><a href="/tag/type-id/category-play/channel-yo-yo/?sort=none">Yo-Yo</a></li></ul></div><div class="btn-group types-menu"><a data-toggle="dropdown" class="btn btn-small dropdown-toggle"><i class="bg-icon ible-all"></i>&nbsp;All Types&nbsp;<span class="caret"></span></a><ul class="dropdown-menu"><li class="active"><a href="/tag/type-id/?sort=none"><i class="icon-type-all"></i>All Types</a></li><li class=""><a href="/tag/type-id/stepbystep-true/?sort=none"><i class="icon-type-step"></i>Step-by-Step</a></li><li class=""><a href="/tag/type-id/photos-true/?sort=none"><i class="icon-type-photos"></i>Photos</a></li><li class=""><a href="/tag/type-id/video-true/?sort=none"><i class="icon-type-video"></i>Video</a></li><li class=""><a href="/tag/type-id/ebook-true/?sort=none"><i class="icon-type-ebooks"></i>eBooks</a></li><li class=""><a href="/tag/type-id/guide-true/?sort=none"><i class="icon-type-guides"></i>Guides</a></li></ul></div><div id="tags-menu" class="btn-group tags-menu"><a data-toggle="dropdown" class="btn btn-small dropdown-toggle"><i class="bg-icon tag"></i> Tags <span class="caret"></span></a><ul class="dropdown-menu dropdown-scroll"><li><a href="/tag/type-id/keyword-Easy/?sort=none" title="Easy (4704)"><span class="tag-select clearfix"><span class="rich-checkbox" style="width:210.0px"><i class="bg-icon checkmark"></i>Easy</span><span class="stat">4704</span></span></a></li><li><a href="/tag/type-id/keyword-Led/?sort=none" title="Led (3363)"><span class="tag-select clearfix"><span class="rich-checkbox" style="width:175.7908163265306px"><i class="bg-icon checkmark"></i>Led</span><span class="stat">3363</span></span></a></li><li><a href="/tag/type-id/keyword-Halloween/?sort=none" title="Halloween (2768)"><span class="tag-select clearfix"><span class="rich-checkbox" style="width:160.6122448979592px"><i class="bg-icon checkmark"></i>Halloween</span><span class="stat">2768</span></span></a></li><li><a href="/tag/type-id/keyword-Fun/?sort=none" title="Fun (2672)"><span class="tag-select clearfix"><span class="rich-checkbox" style="width:158.16326530612247px"><i class="bg-icon checkmark"></i>Fun</span><span class="stat">2672</span></span></a></li><li><a href="/tag/type-id/keyword-Cheap/?sort=none" title="Cheap (2501)"><span class="tag-select clearfix"><span class="rich-checkbox" style="width:153.80102040816325px"><i class="bg-icon checkmark"></i>Cheap</span><span class="stat">2501</span></span></a></li><li><a href="/tag/type-id/keyword-Paper/?sort=none" title="Paper (2430)"><span class="tag-select clearfix"><span class="rich-checkbox" style="width:151.98979591836735px"><i class="bg-icon checkmark"></i>Paper</span><span class="stat">2430</span></span></a></li><li><a href="/tag/type-id/keyword-Arduino/?sort=none" title="Arduino (2313)"><span class="tag-select clearfix"><span class="rich-checkbox" style="width:149.00510204081633px"><i class="bg-icon checkmark"></i>Arduino</span><span class="stat">2313</span></span></a></li><li><a href="/tag/type-id/keyword-Light/?sort=none" title="Light (1945)"><span class="tag-select clearfix"><span class="rich-checkbox" style="width:139.6173469387755px"><i class="bg-icon checkmark"></i>Light</span><span class="stat">1945</span></span></a></li><li><a href="/tag/type-id/keyword-Cool/?sort=none" title="Cool (1926)"><span class="tag-select clearfix"><span class="rich-checkbox" style="width:139.1326530612245px"><i class="bg-icon checkmark"></i>Cool</span><span class="stat">1926</span></span></a></li><li><a href="/tag/type-id/keyword-Art/?sort=none" title="Art (1632)"><span class="tag-select clearfix"><span class="rich-checkbox" style="width:131.6326530612245px"><i class="bg-icon checkmark"></i>Art</span><span class="stat">1632</span></span></a></li><li><a href="/tag/type-id/keyword-Craft/?sort=none" title="Craft (1588)"><span class="tag-select clearfix"><span class="rich-checkbox" style="width:130.51020408163265px"><i class="bg-icon checkmark"></i>Craft</span><span class="stat">1588</span></span></a></li><li><a href="/tag/type-id/keyword-Costume/?sort=none" title="Costume (1561)"><span class="tag-select clearfix"><span class="rich-checkbox" style="width:129.82142857142856px"><i class="bg-icon checkmark"></i>Costume</span><span class="stat">1561</span></span></a></li><li><a href="/tag/type-id/keyword-Wood/?sort=none" title="Wood (1513)"><span class="tag-select clearfix"><span class="rich-checkbox" style="width:128.5969387755102px"><i class="bg-icon checkmark"></i>Wood</span><span class="stat">1513</span></span></a></li><li><a href="/tag/type-id/keyword-Recycle/?sort=none" title="Recycle (1508)"><span class="tag-select clearfix"><span class="rich-checkbox" style="width:128.46938775510205px"><i class="bg-icon checkmark"></i>Recycle</span><span class="stat">1508</span></span></a></li><li><a href="/tag/type-id/keyword-Simple/?sort=none" title="Simple (1444)"><span class="tag-select clearfix"><span class="rich-checkbox" style="width:126.83673469387756px"><i class="bg-icon checkmark"></i>Simple</span><span class="stat">1444</span></span></a></li><li><a href="/tag/type-id/keyword-Computer/?sort=none" title="Computer (1396)"><span class="tag-select clearfix"><span class="rich-checkbox" style="width:125.61224489795919px"><i class="bg-icon checkmark"></i>Computer</span><span class="stat">1396</span></span></a></li><li><a href="/tag/type-id/keyword-Green/?sort=none" title="Green (1358)"><span class="tag-select clearfix"><span class="rich-checkbox" style="width:124.64285714285714px"><i class="bg-icon checkmark"></i>Green</span><span class="stat">1358</span></span></a></li><li><a href="/tag/type-id/keyword-Bike/?sort=none" title="Bike (1306)"><span class="tag-select clearfix"><span class="rich-checkbox" style="width:123.31632653061224px"><i class="bg-icon checkmark"></i>Bike</span><span class="stat">1306</span></span></a></li><li><a href="/tag/type-id/keyword-Usb/?sort=none" title="Usb (1266)"><span class="tag-select clearfix"><span class="rich-checkbox" style="width:122.29591836734693px"><i class="bg-icon checkmark"></i>Usb</span><span class="stat">1266</span></span></a></li><li><a href="/tag/type-id/keyword-Hack/?sort=none" title="Hack (1153)"><span class="tag-select clearfix"><span class="rich-checkbox" style="width:119.41326530612244px"><i class="bg-icon checkmark"></i>Hack</span><span class="stat">1153</span></span></a></li><li><a href="/tag/type-id/keyword-Robot/?sort=none" title="Robot (1152)"><span class="tag-select clearfix"><span class="rich-checkbox" style="width:119.38775510204081px"><i class="bg-icon checkmark"></i>Robot</span><span class="stat">1152</span></span></a></li><li><a href="/tag/type-id/keyword-Awesome/?sort=none" title="Awesome (1134)"><span class="tag-select clearfix"><span class="rich-checkbox" style="width:118.92857142857143px"><i class="bg-icon checkmark"></i>Awesome</span><span class="stat">1134</span></span></a></li><li><a href="/tag/type-id/keyword-Electronics/?sort=none" title="Electronics (1122)"><span class="tag-select clearfix"><span class="rich-checkbox" style="width:118.62244897959184px"><i class="bg-icon checkmark"></i>Electronics</span><span class="stat">1122</span></span></a></li><li><a href="/tag/type-id/keyword-Sewing/?sort=none" title="Sewing (1118)"><span class="tag-select clearfix"><span class="rich-checkbox" style="width:118.5204081632653px"><i class="bg-icon checkmark"></i>Sewing</span><span class="stat">1118</span></span></a></li></ul></div></div><div class="sort-toolbar fr"><div class="btn-group"><a class="btn btn-small" href="/tag/type-id/?sort=RECENT"><i class="bg-icon recent"></i>&nbsp;Recent</a><a class="btn btn-small" href="/tag/type-id/?sort=FEATURED"><i class="bg-icon featured"></i>&nbsp;Featured</a><a class="btn btn-small" href="/tag/type-id/?sort=POPULAR"><i class="bg-icon popular"></i>&nbsp;Popular</a><a class="btn btn-small" href="/tag/type-id/?sort=VIEWS"><i class="bg-icon views"></i>&nbsp;Views</a></div></div></div><div class="btn-toolbar activetags-toolbar"></div></div><div class="projects"><div class="explore-ad"><script type="text/deferscript">
+          GA_googleFillSlot("_browse_med_rectangle");
+        </script></div><ul class="h-list explore-covers-list clearfix"><li class=""><div class="cover-item"><a class="cover-image" href="/id/How-To-Position-Your-Self-For-The-Splits/"><img src="http://www.instructables.com/files/deriv/F0A/KPUX/HELX6QH5/F0AKPUXHELX6QH5.RECTANGLE1.jpg" alt="" /></a><div class="cover-info "><span class="title"><a href="/id/How-To-Position-Your-Self-For-The-Splits/">How To Position Your Self For The Splits</a></span><span class="author"> by <a href="/member/%C3%A2%C2%9C%C2%8CJadeOrr%C3%A2%C2%9C%C2%8C/">✌JadeOrr✌</a></span></div><div class="cover-stats"><span class="bg-icon ible-stepbystep"></span><span class="views"><i class="bg-icon views"></i>17</span></div></div></li><li class=""><div class="cover-item"><a class="cover-image" href="/id/The-most-Eco-Friendly-lampshade/"><img src="http://www.instructables.com/files/deriv/FOM/4YH3/HEI3WN4B/FOM4YH3HEI3WN4B.RECTANGLE1.jpg" alt="" /></a><div class="cover-info "><span class="title"><a href="/id/The-most-Eco-Friendly-lampshade/">The most Eco-Friendly lampshade!</a></span><span class="author"> by <a href="/member/sathyanaarayanan/">sathyanaarayanan</a></span></div><div class="cover-stats"><span class="bg-icon featured"></span><span class="bg-icon ible-stepbystep"></span><span class="views"><i class="bg-icon views"></i>9,714</span></div></div></li><li class=""><div class="cover-item"><a class="cover-image" href="/id/Dreamweaver-Tutorial/"><img src="http://www.instructables.com/files/deriv/FFB/3L5V/HERLLQQP/FFB3L5VHERLLQQP.RECTANGLE1.jpg" alt="" /></a><div class="cover-info "><span class="title"><a href="/id/Dreamweaver-Tutorial/">Dreamweaver Tutorial</a></span><span class="author"> by <a href="/member/promote99/">promote99</a></span></div><div class="cover-stats"><span class="bg-icon ible-videos"></span><span class="views"><i class="bg-icon views"></i>37</span></div></div></li><li class=""><div class="cover-item"><a class="cover-image" href="/id/COPY-ANY-CD%5cDVD-COMPUTER-GAME/"><img src="http://cdn.instructables.com/FW8/9ARS/F0KDWBK9/FW89ARSF0KDWBK9.RECTANGLE1.jpg" alt="" /></a><div class="cover-info "><span class="title"><a href="/id/COPY-ANY-CD%5cDVD-COMPUTER-GAME/">COPY ANY CD\DVD COMPUTER GAME</a></span><span class="author"> by <a href="/member/Jmraub86/">Jmraub86</a></span></div><div class="cover-stats"><span class="bg-icon ible-stepbystep"></span><span class="views"><i class="bg-icon views"></i>18,117</span></div></div></li><li class="line-end"><div class="cover-item"><a class="cover-image" href="/id/Stand-up-Pouches-Polypropylene-Pouches-Retort-V/"><img src="http://www.instructables.com/files/deriv/FK7/914L/HF23MXER/FK7914LHF23MXER.RECTANGLE1.jpg" alt="" /></a><div class="cover-info "><span class="title"><a href="/id/Stand-up-Pouches-Polypropylene-Pouches-Retort-V/">Stand up Pouches, Polypropylene Pouches, Retort, Vacuum</a></span><span class="author"> by <a href="/member/bagplastics/">bagplastics</a></span></div><div class="cover-stats"><span class="bg-icon ible-photos"></span><span class="views"><i class="bg-icon views"></i>88</span></div></div></li><li class=""><div class="cover-item"><a class="cover-image" href="/id/How-to-Sew-a-Primitive-Halloween-Stocking/"><img src="http://www.instructables.com/files/deriv/FY0/5BDW/H1Y0CFDH/FY05BDWH1Y0CFDH.RECTANGLE1.jpg" alt="" /></a><div class="cover-info "><span class="title"><a href="/id/How-to-Sew-a-Primitive-Halloween-Stocking/">How to Sew a Primitive Halloween Stocking</a></span><span class="author"> by <a href="/member/Love+to+Sew+Studio/">Love to Sew Studio</a></span></div><div class="cover-stats"><span class="bg-icon ible-stepbystep"></span><span class="views"><i class="bg-icon views"></i>200</span></div></div></li><li class=""><div class="cover-item"><a class="cover-image" href="/id/How-To-Update-Super-Card-Dswo-For-3DS-V500-11-Wi/"><img src="http://www.instructables.com/files/deriv/FF0/ZDB5/HF23XACL/FF0ZDB5HF23XACL.RECTANGLE1.jpg" alt="" /></a><div class="cover-info "><span class="title"><a href="/id/How-To-Update-Super-Card-Dswo-For-3DS-V500-11-Wi/">How To Update Super Card Dswo For 3DS V5.0.0-11 With Firm&hellip;</a></span><span class="author"> by <a href="/member/nintendolover/">nintendolover</a></span></div><div class="cover-stats"><span class="bg-icon ible-stepbystep"></span><span class="views"><i class="bg-icon views"></i>153</span></div></div></li><li class="line-end"><div class="cover-item"><a class="cover-image" href="/id/How-To-Use-R4i-Gold-3DS-RTS-Flashcart-For-3DS-V51/"><img src="http://www.instructables.com/files/deriv/FFT/TXGH/HFD16K6C/FFTTXGHHFD16K6C.RECTANGLE1.jpg" alt="" /></a><div class="cover-info "><span class="title"><a href="/id/How-To-Use-R4i-Gold-3DS-RTS-Flashcart-For-3DS-V51/">How To Use R4i Gold 3DS RTS Flashcart For 3DS V5.1.0-11</a></span><span class="author"> by <a href="/member/nintendolover/">nintendolover</a></span></div><div class="cover-stats"><span class="bg-icon ible-stepbystep"></span><span class="views"><i class="bg-icon views"></i>55</span></div></div></li><li class=""><div class="cover-item"><a class="cover-image" href="/id/usa-crop-top/"><img src="http://www.instructables.com/files/deriv/F03/I85G/HFD1CX1K/F03I85GHFD1CX1K.RECTANGLE1.jpg" alt="" /></a><div class="cover-info "><span class="title"><a href="/id/usa-crop-top/">usa crop top</a></span><span class="author"> by <a href="/member/stephanieech/">stephanieech</a></span></div><div class="cover-stats"><span class="bg-icon ible-stepbystep"></span><span class="views"><i class="bg-icon views"></i>260</span></div></div></li><li class=""><div class="cover-item"><a class="cover-image" href="/id/How-to-Light-a-Fire-with-your-PEE/"><img src="http://www.instructables.com/files/deriv/F0H/HZ56/H5F2YZDE/F0HHZ56H5F2YZDE.RECTANGLE1.jpg" alt="" /></a><div class="cover-info "><span class="title"><a href="/id/How-to-Light-a-Fire-with-your-PEE/">How to Light a Fire with your PEE!</a></span><span class="author"> by <a href="/member/The+King+of+Random/">The King of Random</a></span></div><div class="cover-stats"><span class="bg-icon featured"></span><span class="bg-icon ible-videos"></span><span class="views"><i class="bg-icon views"></i>34,092</span></div></div></li><li class="line-end"><div class="cover-item"><a class="cover-image" href="/id/Easy-card-through-table-Tutorial/"><img src="http://www.instructables.com/files/deriv/FLE/BMDU/GH8AGCWY/FLEBMDUGH8AGCWY.RECTANGLE1.jpg" alt="" /></a><div class="cover-info "><span class="title"><a href="/id/Easy-card-through-table-Tutorial/">Easy card through table (Tutorial)</a></span><span class="author"> by <a href="/member/kilemc/">kilemc</a></span></div><div class="cover-stats"><span class="bg-icon ible-videos"></span><span class="views"><i class="bg-icon views"></i>114</span></div></div></li><li class=""><div class="cover-item"><a class="cover-image" href="/id/My-first-true-trigger-knex-gun/"><img src="http://www.instructables.com/files/deriv/FF6/P00F/G68HEFUH/FF6P00FG68HEFUH.RECTANGLE1.jpg" alt="" /></a><div class="cover-info "><span class="title"><a href="/id/My-first-true-trigger-knex-gun/">Knex gun (My first)</a></span><span class="author"> by <a href="/member/Brad+G/">Brad G</a></span></div><div class="cover-stats"><span class="bg-icon ible-photos"></span><span class="views"><i class="bg-icon views"></i>136</span></div></div></li><li class=""><div class="cover-item"><a class="cover-image" href="/id/Hidden-Candy-Cupcakes-Secret-Recipe-Icing/"><img src="http://www.instructables.com/files/deriv/F0M/SIPP/HFD1JXXY/F0MSIPPHFD1JXXY.RECTANGLE1.jpg" alt="" /></a><div class="cover-info "><span class="title"><a href="/id/Hidden-Candy-Cupcakes-Secret-Recipe-Icing/">Hidden Candy Cupcakes &amp; Secret Recipe Icing</a></span><span class="author"> by <a href="/member/rachellehcar/">rachellehcar</a></span></div><div class="cover-stats"><span class="bg-icon ible-photos"></span><span class="views"><i class="bg-icon views"></i>13</span></div></div></li><li class="line-end"><div class="cover-item"><a class="cover-image" href="/id/Upcoming-knex-guns-I-made/"><img src="http://cdn.instructables.com/FXY/6UG3/GFA43NZ9/FXY6UG3GFA43NZ9.RECTANGLE1.jpg" alt="" /></a><div class="cover-info "><span class="title"><a href="/id/Upcoming-knex-guns-I-made/">Upcoming knex guns I made.</a></span><span class="author"> by <a href="/member/lorzhenk/">lorzhenk</a></span></div><div class="cover-stats"><span class="bg-icon ible-photos"></span><span class="views"><i class="bg-icon views"></i>143</span></div></div></li><li class=""><div class="cover-item"><a class="cover-image" href="/id/My-daughters-sweater/"><img src="http://cdn.instructables.com/F8F/P1BI/FB11U0YU/F8FP1BIFB11U0YU.RECTANGLE1.jpg" alt="" /></a><div class="cover-info "><span class="title"><a href="/id/My-daughters-sweater/">My daughters sweater</a></span><span class="author"> by <a href="/member/babakers5/">babakers5</a></span></div><div class="cover-stats"><span class="bg-icon ible-photos"></span><span class="views"><i class="bg-icon views"></i>446</span></div></div></li><li class=""><div class="cover-item"><a class="cover-image" href="/id/%5bblog-2006-04-05%5d-Maker-Faire/"><img src="http://www.instructables.com/static/defaultIMG/default.RECTANGLE1.png" alt="" /></a><div class="cover-info "><span class="title"><a href="/id/%5bblog-2006-04-05%5d-Maker-Faire/">[blog 2006-04-05] Maker Faire</a></span><span class="author"> by <a href="/member/instructables-dan/">instructables-dan</a></span></div><div class="cover-stats"><span class="bg-icon ible-stepbystep"></span><span class="views"><i class="bg-icon views"></i>222</span></div></div></li><li class="line-end"><div class="cover-item"><a class="cover-image" href="/id/quotPatchesquot-the-Digital-Pumpkin/"><img src="http://www.instructables.com/files/deriv/F85/2L82/FMMCVTV5/F852L82FMMCVTV5.RECTANGLE1.jpg" alt="" /></a><div class="cover-info award-winner"><span class="title"><a href="/id/quotPatchesquot-the-Digital-Pumpkin/">&quot;Patches&quot; the Digital Pumpkin</a></span><span class="author"> by <a href="/member/tmallos/">tmallos</a></span></div><div class="cover-stats"><span class="bg-icon ible-videos"></span><span class="views"><i class="bg-icon views"></i>1,243</span></div></div></li><li class=""><div class="cover-item"><a class="cover-image" href="/id/Fiberfads-spring-collection-of-fiber-gifts/"><img src="http://www.instructables.com/files/deriv/FEU/GMZV/FUI0RYU9/FEUGMZVFUI0RYU9.RECTANGLE1.jpg" alt="" /></a><div class="cover-info "><span class="title"><a href="/id/Fiberfads-spring-collection-of-fiber-gifts/">Fiberfads! spring collection of fiber gifts</a></span><span class="author"> by <a href="/member/fiberfads/">fiberfads</a></span></div><div class="cover-stats"><span class="bg-icon ible-photos"></span><span class="views"><i class="bg-icon views"></i>688</span></div></div></li><li class=""><div class="cover-item"><a class="cover-image" href="/id/how-to-stop-squeeking-door-hinges/"><img src="http://www.instructables.com/static/defaultIMG/default.RECTANGLE1.png" alt="" /></a><div class="cover-info "><span class="title"><a href="/id/how-to-stop-squeeking-door-hinges/">how to stop squeeking door hinges</a></span><span class="author"> by <a href="/member/Huray4Insanity/">Huray4Insanity</a></span></div><div class="cover-stats"><span class="bg-icon ible-stepbystep"></span><span class="views"><i class="bg-icon views"></i>1,519</span></div></div></li><li class="line-end"><div class="cover-item"><a class="cover-image" href="/id/Gingerbread-village/"><img src="http://www.instructables.com/files/deriv/FML/O7IN/G30U0SDF/FMLO7ING30U0SDF.RECTANGLE1.jpg" alt="" /></a><div class="cover-info "><span class="title"><a href="/id/Gingerbread-village/">Gingerbread village</a></span><span class="author"> by <a href="/member/vdf176/">vdf176</a></span></div><div class="cover-stats"><span class="bg-icon ible-photos"></span><span class="views"><i class="bg-icon views"></i>222</span></div></div></li><li class=""><div class="cover-item"><a class="cover-image" href="/id/CGK-crazys-gypsies-killer/"><img src="http://www.instructables.com/files/deriv/F84/GB2V/GQB4Y9CE/F84GB2VGQB4Y9CE.RECTANGLE1.jpg" alt="" /></a><div class="cover-info "><span class="title"><a href="/id/CGK-crazys-gypsies-killer/">C.G.K crazy's gypsies killer</a></span><span class="author"> by <a href="/member/crazykiddo/">crazykiddo</a></span></div><div class="cover-stats"><span class="bg-icon ible-photos"></span><span class="views"><i class="bg-icon views"></i>75</span></div></div></li><li class=""><div class="cover-item"><a class="cover-image" href="/id/Compass-Pi-on-Looseleaf/"><img src="http://www.instructables.com/files/deriv/FX3/0E9M/GL4Z6NQ7/FX30E9MGL4Z6NQ7.RECTANGLE1.jpg" alt="" /></a><div class="cover-info "><span class="title"><a href="/id/Compass-Pi-on-Looseleaf/">Compass Pi on Looseleaf</a></span><span class="author"> by <a href="/member/LittleGirlBigAppetite.com/">LittleGirlBigAppetite.com</a></span></div><div class="cover-stats"><span class="bg-icon ible-stepbystep"></span><span class="views"><i class="bg-icon views"></i>692</span></div></div></li><li class="line-end"><div class="cover-item"><a class="cover-image" href="/id/false-pumpkin-carving/"><img src="http://www.instructables.com/files/deriv/FZS/OBIH/GS3BDTSN/FZSOBIHGS3BDTSN.RECTANGLE1.jpg" alt="" /></a><div class="cover-info "><span class="title"><a href="/id/false-pumpkin-carving/">false pumpkin carving</a></span><span class="author"> by <a href="/member/hat_box_ghost/">hat_box_ghost</a></span></div><div class="cover-stats"><span class="bg-icon ible-stepbystep"></span><span class="views"><i class="bg-icon views"></i>176</span></div></div></li><li class=""><div class="cover-item"><a class="cover-image" href="/id/little-octupus-stuffie-instructions/"><img src="http://www.instructables.com/files/deriv/FVQ/G6UX/H7W4SVBX/FVQG6UXH7W4SVBX.RECTANGLE1.jpg" alt="" /></a><div class="cover-info "><span class="title"><a href="/id/little-octupus-stuffie-instructions/">little octupus stuffie instructions</a></span><span class="author"> by <a href="/member/redpepper237/">redpepper237</a></span></div><div class="cover-stats"><span class="bg-icon ible-photos"></span><span class="views"><i class="bg-icon views"></i>8</span></div></div></li><li class=""><div class="cover-item"><a class="cover-image" href="/id/CCOAR25/"><img src="http://www.instructables.com/files/deriv/FC3/QEWP/H6MEZY6V/FC3QEWPH6MEZY6V.RECTANGLE1.jpg" alt="" /></a><div class="cover-info "><span class="title"><a href="/id/CCOAR25/">CCOAR2.5</a></span><span class="author"> by <a href="/member/chaosbuilder244/">chaosbuilder244</a></span></div><div class="cover-stats"><span class="bg-icon ible-photos"></span><span class="views"><i class="bg-icon views"></i>79</span></div></div></li><li class="line-end"><div class="cover-item"><a class="cover-image" href="/id/Cheese-Cake-Pie/"><img src="http://www.instructables.com/files/deriv/FWY/JW5I/GLHRZ60E/FWYJW5IGLHRZ60E.RECTANGLE1.jpg" alt="" /></a><div class="cover-info "><span class="title"><a href="/id/Cheese-Cake-Pie/">Cheese Cake Pie</a></span><span class="author"> by <a href="/member/Esprit9/">Esprit9</a></span></div><div class="cover-stats"><span class="bg-icon ible-stepbystep"></span><span class="views"><i class="bg-icon views"></i>175</span></div></div></li><li class=""><div class="cover-item"><a class="cover-image" href="/id/Lil-Luv-Monster/"><img src="http://www.instructables.com/files/deriv/FJ2/1MB8/HCB8T8DT/FJ21MB8HCB8T8DT.RECTANGLE1.jpg" alt="" /></a><div class="cover-info "><span class="title"><a href="/id/Lil-Luv-Monster/">Lil Luv Monster</a></span><span class="author"> by <a href="/member/butterflylisa/">butterflylisa</a></span></div><div class="cover-stats"><span class="bg-icon ible-stepbystep"></span><span class="views"><i class="bg-icon views"></i>57</span></div></div></li><li class=""><div class="cover-item"><a class="cover-image" href="/id/Interconnecting-Clothes-Pegs/"><img src="http://www.instructables.com/files/deriv/FTS/I6Q1/GYQFMRR6/FTSI6Q1GYQFMRR6.RECTANGLE1.jpg" alt="" /></a><div class="cover-info "><span class="title"><a href="/id/Interconnecting-Clothes-Pegs/">Interconnecting Clothes Pegs</a></span><span class="author"> by <a href="/member/PegoAC/">PegoAC</a></span></div><div class="cover-stats"><span class="bg-icon ible-videos"></span><span class="views"><i class="bg-icon views"></i>109</span></div></div></li><li class="line-end"><div class="cover-item"><a class="cover-image" href="/id/mods-for-the-bbkwg/"><img src="http://www.instructables.com/files/deriv/FET/4OJK/FN84RAPI/FET4OJKFN84RAPI.RECTANGLE1.jpg" alt="" /></a><div class="cover-info "><span class="title"><a href="/id/mods-for-the-bbkwg/">mods for the bbkwg</a></span><span class="author"> by <a href="/member/tomm0505/">tomm0505</a></span></div><div class="cover-stats"><span class="bg-icon ible-stepbystep"></span><span class="views"><i class="bg-icon views"></i>494</span></div></div></li></ul><div class="explore-pagination clearfix"><div class="btn-group rss"><a class="btn btn-small dropdown-toggle" data-toggle="dropdown"><i class="bg-icon rss"></i></a><ul class="dropdown-menu"><li><a class="heading strong">RSS Feed</a></li><li><a href="featured-true/rss.xml">Featured</a></li><li><a href="popular-true/rss.xml">Popular</a></li><li><a href="rss.xml">Recent</a></li></ul></div><div class="pagination fr"><ul><li class="disabled"><a href="#">&laquo</a></li><li class="active"><a href="#">1</a></li><li><a href="/tag/type-id/?sort=none&offset=29">2</a></li><li><a href="/tag/type-id/?sort=none&offset=58">3</a></li><li><a href="/tag/type-id/?sort=none&offset=87">4</a></li><li class="disabled"><a href="#">&hellip;</a></li><li><a href="/tag/type-id/?sort=none&offset=100630">3471</a></li><li><a href="/tag/type-id/?sort=none&offset=100659">3472</a></li><li><a href="/tag/type-id/?sort=none&offset=29">&raquo</a></li></ul></div></div></div></div><script type="text/deferscript" class="tier1">
+$(function(){
+  $('.btn-close').click(function(e){
+    e.preventDefault();
+    var url = window.location.href;
+    
+    if ($(this).hasClass('tag-remove')) {
+      var urlKeywordToken = $(this).data('url-keyword-token');
+      url = url.replace('/'+urlKeywordToken+'/', '/');
+      window.location = url;
+    }
+    
+    if ($(this).hasClass('search-remove')) {
+      window.location = window.location.pathname;
+    }  
+  });
+  
+  $('.items-per-page-link').click(function(e){
+    e.preventDefault();
+    var href = $(this).attr('href'),
+        numberPerPage = $(this).data('count');
+    document.cookie = 'ibleItemsPerPage='+numberPerPage+';';
+    window.location.reload(true);
+  });
+});
+</script></div></div><div id="gbl-footer"><div class="top"><div class="container"><div id="footer-aboutus" class="col"><h3>About Us</h3><ul><li><a href="/about/">Who We Are</a></li><li><a href="/advertise/">Advertise</a></li><li><a href="/about/contact.jsp">Contact</a></li><li><a href="/community?categoryGroup=marketplace&category=jobs_internships">Jobs</a></li><li><a href="/community?categoryGroup=Help">Help</a></li></ul></div><div id="footer-findus" class="col"><h3>Find Us</h3><ul><li><a class="facebook" title="Facebook" href="http://www.facebook.com/instructables">Facebook</a></li><li><a class="youtube" title="Youtube" href="http://www.youtube.com/user/instructablestv">Youtube</a></li><li><a class="twitter" title="Twitter" href="http://www.twitter.com/instructables">Twitter</a></li><li><a class="pinterest" title="Pinterest" href="http://www.pinterest.com/instructables">Pinterest</a></li></ul></div><div id="footer-resources" class="col"><h3>Resources</h3><ul><li><a href="/teachers/">For Teachers</a></li><li><a href="/group/air/">Artists in Residence</a></li><li><a href="/sponsorship/">Sponsorships</a></li><li><a href="/community/">Forums</a></li><li><a href="/tag/type-question/?sort=RECENT">Answers</a></li></ul></div><div id="footer-mobile" class="col"><img src="/static/img/footer/mobile.png" alt="mobile" /><div class="downloads"><h3>Mobile</h3><p>Download our new apps for iOS and android!</p><a class="btn" href="https://play.google.com/store/apps/details?id=com.adsk.instructables"><i class="bg-icon downarrow"></i> Android</a><a class="btn" href="https://itunes.apple.com/app/instructables/id586765571"><i class="bg-icon downarrow"></i> iOS</a></div></div><div id="footer-store" class="col"><a class="btn" href="http://store.instructables.com/"><img src="/static/img/footer/store.png" alt="Instructables Store" /> Visit Our Store &raquo;</a><a class="btn" href="/account/gopro?sourcea=footer"><img src="/static/img/footer/gopro.png" alt="Go Pro" /> Go Pro Today &raquo;</a></div></div></div><div class="bottom"><div class="container"><img id="footer-robot" src="/static/img/footer/footer-robot.png" /><div id="footer-search"><form id="footer-search-form" class="form-horizontal" action="/tag/type-id/" method="get"><div class="control-group"><label class="control-label" for="q2">let's make</label><div class="controls"><input type="hidden" name="sort" value="none" /><div class="input-append"><input class="input-large" type="text" name="q" id="q2" value="" /><button class="btn" type="button" id="footer-search-btn"><i class="bg-icon search selected"></i></button></div></div></div></form></div><script type="text/javascript">
+          (function($){
+            $(function() {
+              $('#footer-search-btn').click(function(e){
+                e.preventDefault();
+                $('#footer-search-form').submit();
+              });        
+            });
+          })(jQuery);
+          </script><div id="footer-terms">
+         	&copy; Copyright 2013 Autodesk Inc. All rights reserved &nbsp;
+          <a title="Autodesk" target="blank" href="http://usa.autodesk.com/adsk/servlet/pc/index?id=20781545&siteID=123112"><img src="/static/img/footer/autodesk-logo.png" /></a><br /><a onclick="window.open('/tos.html','TOS','status=yes,scrollbars=yes,resizable=yes,width=600,height=480'); return false;" href="/tos.html">Terms of service</a> |
+          <a target="blank" href="http://usa.autodesk.com/privacy/">Privacy</a> |
+          <a target="blank" href="http://usa.autodesk.com/legal-notices-trademarks/">Legal Notices & Trademarks</a> |          
+          <a id="mobile-site-link" href="http://m.instructables.com">Mobile Site</a></div><script type="text/javascript">
+          jQuery('#mobile-site-link').click(function(e){
+            e.preventDefault();
+            var that = this;
+            document.cookie = 'Iblefullsite=0;domain=.instructables.com;path=/;expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+            setTimeout(function(){window.location = that.href;},50);
+          });
+        </script></div></div></div><div class="promodal" id="login-modal"><div class="promodal-inner"><div class="promodal-top"><img class="promodal-proburst" src="/static/img/promodal-proburst.png" alt="Pro" /><h3>Get More Out of Instructables</h3><h3 id="login-account-h">Already have an Account?</h3><a class="promodal-close" href="#"><img src="/static/img/promodal-close.png" alt="close" /></a></div><div id="upgrade-features"><img id="login-upgrade-img" src="/static/defaultIMG/file/PDF.gif" /><p><strong>PDF Downloads</strong><br />As a Pro member, you will gain access to download any Instructable in the PDF format. 
+          You also have the ability to customize your PDF download.</p><a id="login-upgrade" href="/account/gopro?sourcea=login"><span>Upgrade to Pro today!</span></a></div><div class="login loginform" id="loginform"><form id="login" method="post" action="/account/login?nxtPgName=How+to+Make+++Instructables&nxtPg=/tag/type-id/?sort=none"><div class="username"><label for="username_nav" id="username_label">Username</label><input id="username_nav" type="text" name="u" /></div><div class="password"><label for="password_nav" id="password_label">Password</label><input id="password_nav" type="password" name="p" /></div><div class="loginbutton"><input type="hidden" name="RememberME" value="checked" /><input type="submit" class="login-btn" value="Login" /></div><p class="forgot"><a href="/account/forgot?nxtPgName=How+to+Make+++Instructables&nxtPg=/tag/type-id/?sort=none">(forgot username/password?)</a></p></form></div></div></div><script class="tier1" type="text/deferscript" defersrc="/static/js/nav.js"></script><div id="fb-root"></div><script type="text/javascript">
+    head.js({facebook: "//connect.facebook.net/en_US/all.js"},
+       function() {
+         FB.init({
+           appId: '140028286058792',
+           cookie: false,
+           xfbml: false,
+           oauth: true
+         });
+         (function($) {
+           $(document).on('click.facebook-login', '.facebook-login', function(evt){
+               evt.preventDefault();
+               FB.getLoginStatus(function(response) {
+                   if (response.status === 'connected') {
+                       if (response.authResponse) {
+                           var expirationDate = new Date;
+                           expirationDate.setMonth(expirationDate.getMonth()+6);
+                           document.cookie = 'fbat_140028286058792=' + response.authResponse.accessToken + '; domain=.instructables.com; expires=' + expirationDate + '; path=/';
+                           window.location.reload(true);
+                       }
+                   } else {
+                       // not logged into Facebook or not authorized
+                       FB.login(function(response) {
+                           if (response.authResponse) {
+                               var expirationDate = new Date;
+                               expirationDate.setMonth(expirationDate.getMonth()+6);
+                               document.cookie = 'fbat_140028286058792=' + response.authResponse.accessToken + '; domain=.instructables.com; expires=' + expirationDate + '; path=/';
+                               window.location.reload(true);
+                           }
+                       }, {
+                           scope: "email,user_birthday,publish_stream",
+                           redirect_url: "http://www.instructables.com/tag/type-id/"
+                       });
+                   };
+               })
+            });           
+         })(jQuery);           
+       }
+    );      
+    
+        doRedirect = function (params, source) {
+            var o = {};
+            o.location = window.location.href;
+            o.host = window.location.host;
+            o.protocol = window.location.protocol;
+            o.doit = function(){
+                if (typeof params === "undefined") { // no params, redirect to current page
+                    window.location = o.location;
+                    return; // we don't bother processing the rest of this, just immediately redirect
+                } else if (params.indexOf("/account/gopro") !== -1) { // found "/account/gopro" in params, so redirect there
+                    o.nextHref = o.protocol + "//" + o.host + params;
+                } else if (params.indexOf("nxtPg=") === -1) { // we have a URL declared as a string
+                    o.nextHref = params;
+                } else { // a string of query parameters, we need to parse out the values
+                    o.nextPage = params.substring(params.indexOf("nxtPg=") + 6);
+                    o.nextHref = o.protocol + "//" + o.host + o.nextPage;
+                }
+                window.location = o.nextHref;
+            }();
+            if (typeof source !== "undefined" && source !== "" && typeof _gaq !== "undefined") {
+                _gaq.push(['_trackPageview', '/event/fb_login/' + source + '/']);
+            }
+            return o.doit;
+        };
+          
+  </script><script type="text/javascript" src="/static/js/gw-12.4.4/lib/gw.min.js"></script><script type="text/javascript">setTimeout(ghostwriter.loadscripts,950);</script></body>
+</html>

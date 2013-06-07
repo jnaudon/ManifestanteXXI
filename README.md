@@ -118,7 +118,7 @@ En las frecuencias entre _5hz_ a _7hz_ produce un estado de calma, eso es lo que
 > Uno o más LED, circuito integrado 555, resistencias de 47k, 82k y 1k, capacitor electrolítico 1mf, capacitor cerámico 1mf, pilas.
 > _Estos componentes se pueden comprar en cualquier casa de electrónica_
 
-Además podes mejorar el efecto con sonidos binaureal amplificado con un megáfono o amplificador. Se puede reproducirlo "debajo" de música o cuando alguien habla en los posible este sonido tiene que ser escuchado inconscientemente.
+Además podes mejorar el efecto con sonidos binaural amplificado con un megáfono o amplificador. Se puede reproducirlo "debajo" de música o cuando alguien habla en los posible este sonido tiene que ser escuchado inconscientemente.
 Hay un generador para Android llamado [binauralbeat](https://f-droid.org/repository/browse/?fdfilter=binaural&fdid=com.ihunda.android.binauralbeat).
 
 # Mochila WIFI
@@ -128,7 +128,7 @@ Sirve para mejorar el acceso a la red, compartir contenido, difundir lo que ocur
 
 ![mochila WIFI](img/media/PIC_0041.jpg)
 
-_Por ahora falta la documentación, podes leer la experiencia del [Nodo de Guerrilla](https://github.com/b4zz4/NodoDeGuerrilla/)._
+_Por ahora falta la documentación, podes leer la experiencia del [Nodo de Guerrilla](https://github.com/b4zz4/NodoDeGuerrilla/) y el 'satelite' hogareño [Mogul](https://github.com/b4zz4/mogul/)._
 
 ## Edison Carter
 
@@ -158,6 +158,7 @@ Termino quemándose, seguramente, por el calor dentro del dispositivo.
 
 Algunas experiencias relacionadas.
 
+* Experiencias de los [movimientos anti-globalizadores](https://es.wikipedia.org/wiki/Contracumbre_del_G8_en_G%C3%A9nova) en 2001 como el "Tute Bianchi"
 * Mapa con el [movimientos de la Policía en Estambul](http://www.microsiervos.com/archivo/tecnologia/manifestantes-turquia-controlar-policia.html), como los manifestantes turcos vigilan a la policía.
 * Los manifestantes españoles tiene un [helicoptero](https://www.youtube.com/watch?v=h-oO8I5vR5s) para ver lo que hace la policía.
 
