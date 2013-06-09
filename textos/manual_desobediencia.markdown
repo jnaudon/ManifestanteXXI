@@ -14,7 +14,7 @@
 
 Aviso: Al reutilizar o distribuir la obra, se tienen que dejar bien claro los términos de la licencia de esta obra.
 
-##Introducción
+## Introducción
 
 Existen leyes injustas. ¿Nos contentaremos con obedecerlas? ¿Nos esforzaremos en enmendarlas, obedeciéndolas mientras tanto? ¿O las transgredimos de una vez?. Si la injusticia requiere de tu colaboración, rompe la ley. Sé una contrafricción para detener la máquina. (H. D. Thoreau, *La desobediencia civil*, 1866).
 
@@ -22,9 +22,7 @@ El 15 de febrero de 2011 se aprobó en el Congreso la Ley de Economía Sostenibl
 
 La Ley Sinde nació a finales de 2009 y fue deliberadamente incluida en un paquete de medidas legales diversas, entre las que no llamara la atención y siempre dentro de un proceso nada transparente ni participativo, en el que se legisló a escondidas de la ciudadanía. La Ley quiso justificarse en el argumento de que las páginas de intercambio de archivos perjudicaban el derecho de creadoras y artistas a disfrutar de los beneficios de sus obras. Esta línea de pensamiento viene, no obstante, desarticulada y desacreditada en razón a dos significativas cuestiones.
 
-##Manual de desobediencia a la Ley Sinde
-
-![background image](img/manual_desobediencia007.png)
+## Manual de desobediencia a la Ley Sinde
 
 La primera es de carácter económico: la Ley intenta perpetuar un esquema económico que ha sido superado por los recursos tecnológicos. La mejor prueba son las artistas y creadoras que desde hace tiempo ponen en práctica otros sistemas de financiación adaptados al contexto actual. La segunda es una cuestión política *—* aunque curiosamente la economía tiene mucho que ver. Las filtraciones en Wikileaks sacaron a la luz las presiones sufridas por el gobierno y la oposición por parte de representantes de las industrias extranjeras en defensa de unos intereses que nada tienen que ver con la cultura. Al conjunto de esas filtraciones se le llamó *[Sindegate](http://sindegate.net/)*.
 
@@ -38,7 +36,6 @@ Si creen que han ganado, este Manual quiere demostrar que no pueden ganar. Nos o
 
  ![background image](img/manual_desobediencia010.png)
 
-
 I. Posibles métodos de censura El gobierno dispone de cinco métodos para cerrar una web. A continuación explicamos cómo se pueden sortear con facilidad, atendiendo al diferente repertorio de acciones a tu disposición en caso de que seas usuaria o *webmaster*. He aquí los cinco métodos y las páginas a las que debes remitirte.
 
 1. Bloqueo DNS. Método más utilizado hasta ahora, a pesar de su inefectividad. Para evitarlo, se debe configurar el DNS en un servidor extranjero (p. 12) y/o crear una Red Privada Virtual (p. 39). 
@@ -49,15 +46,21 @@ I. Posibles métodos de censura El gobierno dispone de cinco métodos para cerra
 
 ![background image](img/manual_desobediencia012.png)
 
-II. Usuarios En esta sección encontrarás todos los pasos que como internauta deberías dar para asegurarte de que no te afectará la Ley Sinde. Las posibilidades son las siguientes: 1. ¿Por qué y cómo debes cambiarte los DNS? 2. ¿Por qué y cómo configurar un proxy? 3. ¿Por qué usar Tor y cómo configurarlo? 4. ¿Por qué puedes necesitar una VPN y cómo configurarla? 5. ¿Cómo puedes hacer una copia de seguridad de tus webs de enlaces favoritas mediante Httrack? 1. ¿Por qué y cómo debes cambiarte un DNS? ¿Qué es un DNS? DNS son las siglas de *Domain Name System* o *Sistema de * *Nombres de Dominio*. Los servidores DNS se encargan de traducir los nombres del dominio de cada web *—* por ejemplo, * hacktivistas.net* *—*, en su dirección IP, que es el número que identifica al servidor al que se manda la petición. Dicho de forma sencilla, el DNS es como un listín telefónico. Si buscas el apellido de una persona ( *hacktivistas.net*), obtenemos su número de teléfono (82.144.4.26). El reglamento de la Ley Sinde podría obligar a los DNS que estén alojados en el Estado español a borrar de sus listas aquellas páginas web que decida la comisión administrativa. Para evitar este bloqueo, la solución más sencilla es utilizar un DNS que no se encuentre alojado dentro de sus fronteras. Recomendamos los siguientes, ya que éstos son independientes, no comerciales y respetuosos con la privacidad de sus usuarios: 
+II. Usuarios En esta sección encontrarás todos los pasos que como internauta deberías dar para asegurarte de que no te afectará la Ley Sinde. Las posibilidades son las siguientes: 
 
-1.Telecomix Censorship-proof DNS 2 
-2.German Privacy Foundation 3 
-3.OpenNIC Project 4 También es posible utilizar el servicio de DNS de Google. 
+1. ¿Por qué y cómo debes cambiarte los DNS? 
+2. ¿Por qué y cómo configurar un proxy? 
+3. ¿Por qué usar Tor y cómo configurarlo? 
+4. ¿Por qué puedes necesitar una VPN y cómo configurarla? 
+5. ¿Cómo puedes hacer una copia de seguridad de tus webs de enlaces favoritas mediante Httrack? 
 
-* [ http://dns.telecomix.org/](http://dns.telecomix.org/) 3 [ http://server.privacyfoundation.de/index\_en.html](http://server.privacyfoundation.de/index_en.html)  
-* [ http://www.opennicproject.org/index.php/start-here/51-migrate-to-opennic/75-public-dns](http://www.opennicproject.org/index.php/start-here/51-migrate-to-opennic/75-public-dns)  
-* [ http://code.google.com/intl/es-AR/speed/public-dns/](http://code.google.com/intl/es-AR/speed/public-dns/) 
+1. ¿Por qué y cómo debes cambiarte un DNS? ¿Qué es un DNS? DNS son las siglas de *Domain Name System* o *Sistema de Nombres de Dominio*. Los servidores DNS se encargan de traducir los nombres del dominio de cada web *—* por ejemplo, *hacktivistas.net* *—*, en su dirección IP, que es el número que identifica al servidor al que se manda la petición. Dicho de forma sencilla, el DNS es como un listín telefónico. Si buscas el apellido de una persona (*hacktivistas.net*), obtenemos su número de teléfono (82.144.4.26). El reglamento de la Ley Sinde podría obligar a los DNS que estén alojados en el Estado español a borrar de sus listas aquellas páginas web que decida la comisión administrativa. Para evitar este bloqueo, la solución más sencilla es utilizar un DNS que no se encuentre alojado dentro de sus fronteras. Recomendamos los siguientes, ya que éstos son independientes, no comerciales y respetuosos con la privacidad de sus usuarios: 
+
+1.[Telecomix](http://dns.telecomix.org/) Censorship-proof DNS
+2.German Privacy Foundation
+3.[OpenNIC](http://www.opennicproject.org/index.php/start-here/51-migrate-to-opennic/75-public-dns) Project.
+
+* [http://server.privacyfoundation.de/index\_en.html](http://server.privacyfoundation.de/index_en.html)
 
 ## Cómo utilizar un DNS no alojado en el Estado español En Windows 7 y Vista 
 
@@ -65,7 +68,7 @@ II. Usuarios En esta sección encontrarás todos los pasos que como internauta d
 2. En la parte izquierda **\>** «Cambiar configuración del adaptador». 
 3. Seleccionamos la tarjeta de red que queremos cambiar. Si usamos wifi, será una conexión de red inalámbrica; si no, una conexión de área local. Con el botón derecho del ratón ** \>** «Propiedades». 
 4. En «Protocolo de internet versión 4» **\>** «Propiedades». 
-5. Elegimos las siguientes direcciones de servidor DNS e introducimos las opciones del apartado anterior que hayamos elegido (Telecomix Censorship-proof DNS, German Privacy Foundation, OpenNIC Project o Google DNS).
+5. Elegimos las siguientes direcciones de servidor DNS e introducimos las opciones del apartado anterior que hayamos elegido (Telecomix Censorship-proof DNS, German Privacy Foundation, OpenNIC Project).
 6. Aceptamos y cerramos.
 
  ![background image](img/manual_desobediencia015.png)
@@ -78,8 +81,6 @@ II. Usuarios En esta sección encontrarás todos los pasos que como internauta d
 4. Doble click sobre «Internet Protocol (TCP/IP)». 
 5. Selecciona «Usar las siguientes DNS» e introducimos las seleccionadas previamente. 
 6. Pulsar «Aceptar».
-
-*  [ http://www.internetsegunyo.com/2009/12/configurar-google-open-dns-en-windows.html](http://www.internetsegunyo.com/2009/12/configurar-google-open-dns-en-windows.html)
  
  ![background image](img/manual_desobediencia016.png)
 
@@ -108,7 +109,7 @@ II. Usuarios En esta sección encontrarás todos los pasos que como internauta d
 
 ![background image](img/manual_desobediencia021.png)
 
-En un router también es posible configurar un router para que éste realice las peticiones DNS a los servidores recomendados. Para acceder a nuestro router debemos poner la puerta del enlace en el navegador (por ejemplo, [http://192.169.1.1; ex](http://192.169.1.1) listen muchas otras IP en función del proveedor y de la configuración de la red). Cuando estemos dentro, introduciremos nuestro usuario y contraseña de acceso. Una vez dentro, ya podemos acceder a las configuraciones de DNS e introducir nuestros dos servidores favoritos. Una vez guardada la configuración y reiniciado el router, ya podemos configurar todos los ordenadores de nuestra red interna para recibir los DNS automáticamente del router.
+En un router también es posible configurar un router para que éste realice las peticiones DNS a los servidores recomendados. Para acceder a nuestro router debemos poner la puerta del enlace en el navegador (por ejemplo, [http://192.169.1.1](http://192.169.1.1) listen muchas otras IP en función del proveedor y de la configuración de la red). Cuando estemos dentro, introduciremos nuestro usuario y contraseña de acceso. Una vez dentro, ya podemos acceder a las configuraciones de DNS e introducir nuestros dos servidores favoritos. Una vez guardada la configuración y reiniciado el router, ya podemos configurar todos los ordenadores de nuestra red interna para recibir los DNS automáticamente del router.
 
 ![background image](img/manual_desobediencia022.png)
 
@@ -118,7 +119,7 @@ En un router también es posible configurar un router para que éste realice las
 
 Una vez configurado, el tráfico del navegador (y no otro tipo de tráfico)se enviará a través del proxy elegido. Sitios que publican listas de servidores proxy: 1. Xroxy 8 2. Samair.ru 9
 
-3. Proxy-list.org 1
+3. Proxy-list.org
 
 0Coral CDN *The Coral Content Distribution Network* 11 es un proxy cache algo especial. Permite acceder a cualquier web a través de proxy añadiendo *.nyud.net* al final del dominio. Por ejemplo, si censurasen *hacktivistas. net*, se podría acceder a través de* hacktivistas.net.nyud.net*. De esta forma evitamos el bloqueo tanto a nivel de IP como de DNS. Web proxy Estos proxies se utilizan a través de una web. Pueden ser algo lentos pero es la opción más fácil de usar. No requiere configuración previa. Basta con visitar la web proxy e introducir la dirección de la web que deseamos visitar. Algunas web proxy funcionales son: 
 
@@ -129,7 +130,6 @@ Una vez configurado, el tráfico del navegador (y no otro tipo de tráfico)se en
 * [http://anonymouse.org/anonwww.html Si ](http://anonymouse.org/anonwww.html)
 
  ![background image](img/manual_desobediencia024.png)
- 
 
 1. Anonymouse 12 
 2. phpMyProxy 13 
@@ -139,6 +139,7 @@ Una vez configurado, el tráfico del navegador (y no otro tipo de tráfico)se en
 
 1. En la parte de arriba y a la derecha de este navegador, pulsamos en «Herramientas» **\>** «Opciones de Internet» usas esta opción para visitar frecuentemente una web, hay [un pequeño truco que consiste en guardar un marcador de la forma «http://anonymouse.org/cgi- bin/anon-www.cgi/http://slashdot.org/» cambiando «http://slashdot.com» por la web que queramos 
 visitar. 
+
 * [ http://www.phpmyproxy.com/index.php](http://www.phpmyproxy.com/index.php)
 * [ http://hidemyass.com/](http://hidemyass.com/)
 
@@ -146,11 +147,10 @@ visitar.
 
 2. En la pestaña «Conexiones», debemos pulsar en «Configuración de Lan» (en la parte inferior)
 3. En la sección «Servidor Proxy» marcamos la opción para «Usar un servidor proxy para la LAN», y rellenamos los datos de «Dirección» y «Puerto». Aceptamos todo.
- ![background image](img/manual_desobediencia026.png)
- 
 
+![background image](img/manual_desobediencia026.png)
 
- ![background image](img/manual_desobediencia027.png)
+![background image](img/manual_desobediencia027.png)
 
 ### Firefox 
 
@@ -158,9 +158,9 @@ visitar.
 2. En la ventana de preferencias ir a «Avanzado» y ahí a la pestaña de «Red» 
 3. Dentro de «Red», en el apartado de «Conexión», apretar «Configuración». 
 4. Ventana de «Configuración de Conexión»: - Marcar la opción «Configuración manual del Proxy». - Escribir la dirección (en «Proxy HTTP»). 
-* Escribir el número de puerto (en «Puerto»)
-* Marcar la opción «Usar el mismo proxy para todo»
-* «Aceptar»
+ * Escribir el número de puerto (en «Puerto»)
+ * Marcar la opción «Usar el mismo proxy para todo»
+ * «Aceptar»
 
  ![background image](img/manual_desobediencia028.png)
 
@@ -208,9 +208,9 @@ visitar.
 
 Sigue estas instrucciones 16 detalladamente para instalar TOR en Debian o Ubuntu. No te fíes de ninguna otra instalación, configuración o modificación de TOR. A grandes rasgos, lo que tienes que hacer es lo siguiente: 
 
-17 15 [ http://en.wikipedia.org/wiki/.onion.](http://en.wikipedia.org/wiki/.onion)
- 16 [ https://www.torproject.org/docs/debian](https://www.torproject.org/docs/debian)
- 17 Sigue las instrucciones de torproject.org
+* [ http://en.wikipedia.org/wiki/.onion.](http://en.wikipedia.org/wiki/.onion)
+* [ https://www.torproject.org/docs/debian](https://www.torproject.org/docs/debian)
+* Sigue las instrucciones de torproject.org
 
  ![background image](img/manual_desobediencia034.png)
 
@@ -226,7 +226,7 @@ A la hora de utilizar TOR es muy importante ser consciente de que esta red de pr
 
 También debes tener cuidado con las *cookies*, ya que pueden revelar información sensible; por eso es recomendable que las borres cada vez que te desconectes de la red. La lista completa de precauciones a la hora de usar Tor es muy larga. Para que puedas seguir utilizando la red sin ninguna limitación, sería una buena costumbre tener un navegador alternativo u otro perfil de Firefox configurado de forma segura con Torbutton y el resto de extensiones necesarias. De esta forma, mantienes la navegación anónima cuando tú quieres. TOR Bundle: navega con TOR sin instalar nada Si quieres navegar de forma anónima con Tor y no instalar ningún software en la máquina a la que tienes acceso, puedes usar Tor browser bundle. 22 Los pasos que tienes que seguir son los siguientes: 
 
-###  Windows 
+### Windows 
 
 1. Descarga Tor Browser Bundle.
 2. Haz doble click en el .exe y elige un directorio donde descomprimirlo. 
@@ -251,9 +251,8 @@ También debes tener cuidado con las *cookies*, ya que pueden revelar informaci�
 1. Descarga el Tor Browser Bundle 24 apropiado para tu CPU (Intel o PowerPC). 
 2. Una vez descargado, haz click en el icono de TOR. 
 3. Automáticamente se abrirá el panel de control de la aplicación y el navegador Firefox. 
-4. Firefox te mostrara una página para confirmarte que estás navegando a través de TOR. 
-
-24 [ https://www.torproject.org/download/download.html.en\#mac](https://www.torproject.org/download/download.html.en#mac)
+4. Firefox te mostrara una página para confirmarte que estás navegando a través de TOR.
+ * [https://www.torproject.org/download/download.html.en\#mac](https://www.torproject.org/download/download.html.en#mac)
 
  ![background image](img/manual_desobediencia038.png)
 
@@ -265,8 +264,9 @@ También debes tener cuidado con las *cookies*, ya que pueden revelar informaci�
 2. A continuación, descomprime el fichero tar.gz. 
 3. Ejecuta el *script *start-tor-browser que se encuentra dentro del directorio tor-browser\_en-US. Cuando ejecutes este *script *arrancará un nave- gador, Namoroka, a través del cual puedes navegar anónimamente. *TOR relay*: conviértete en un nodo de la red Tor Puedes participar en la red Tor y convertirte en uno de los nodos intermedios. 
 
-26 Para configurar tu ordenador como relay (nodo intermediario de TOR) puedes usar el programa Vidalia. 
-27 De esta forma, ayudas a mejorar la calidad y la velocidad de la red. Si te encuentras con dificultades para configurar de forma automática la redirección de puertos en tu router, consulta la web portforward.com. Aquí encontrarás mucha información de todo tipo de routers. Busca el tuyo y encontrarás la información necesaria para realizar el redireccionamiento. Además ponen a disposición la herramienta Portcheck que ayuda a comprobar y asegurarte de que realmente has configurado bien el router. También te servirá para saber a ciencia cierta si la configuración es correcta y si desde la red Tor van a poder conectar a tu nodo.
+Para configurar tu ordenador como relay (nodo intermediario de TOR) puedes usar el programa Vidalia. 
+
+De esta forma, ayudas a mejorar la calidad y la velocidad de la red. Si te encuentras con dificultades para configurar de forma automática la redirección de puertos en tu router, consulta la web portforward.com. Aquí encontrarás mucha información de todo tipo de routers. Busca el tuyo y encontrarás la información necesaria para realizar el redireccionamiento. Además ponen a disposición la herramienta Portcheck que ayuda a comprobar y asegurarte de que realmente has configurado bien el router. También te servirá para saber a ciencia cierta si la configuración es correcta y si desde la red Tor van a poder conectar a tu nodo.
 
 * [https://www.torproject.org/download/download.html.en\#linux](https://www.torproject.org/download/download.html.en#linux) 
 * [http://www.torproject.org/docs/tor-doc-relay.html.en](http://www.torproject.org/docs/tor-doc-relay.html.en) 
@@ -283,16 +283,14 @@ Para acceder a VPN suele haber dos opciones. La primera es usar servicios gratui
 
 ¿Cómo contratar servicios VPN? Si no dispones de conocimientos técnicos o no te apetece configurar y administrar tu propio servidor, existen diversas compañías que ofrecen servicios VPN. De esta forma, es mucho más sencillo el acceso para el usuario. Te recomendamos este listado de servicios que operan desde el extranjero, ya que el bloqueo de una página web en el Estado español no les afectaría. 
 
-29 [http://openvpn.net/](http://openvpn.net/) 
-30 [http://openvpn.net/index.php/open-source/documentation/howto.html](http://openvpn.net/index.php/open-source/documentation/howto.html) 
-31 [http://cryptoanarchy.org/wiki/OpenVPN](http://cryptoanarchy.org/wiki/OpenVPN)
+* [http://openvpn.net/](http://openvpn.net/) 
+* [http://openvpn.net/index.php/open-source/documentation/howto.html](http://openvpn.net/index.php/open-source/documentation/howto.html) 
+* [http://cryptoanarchy.org/wiki/OpenVPN](http://cryptoanarchy.org/wiki/OpenVPN)
 
  ![background image](img/manual_desobediencia042.png)
 
  - AirVPN. 
-Ofrece cuentas gratuitas y de pago (5-7 /mes). Usa OpenVPN. Es seguro y no guarda logs. - CryptoCloud. Su coste está en torno a 15 /mes, aunque es más barato si se contratan varios meses. Utiliza OpenVPN. - SwissVPN.  Por unos 4,5 /mes. Utiliza OpenVPN y PPTP. Tiene una cuenta de prueba, sólo para visitar su web y comprobar que puedes configurarlo correctamente en tu ordenador sin necesidad de registrarte. - Vpntunnel. 35 5 /mes. Usa OpenVPN. No guarda logs. - PublicVPN. 36 Su coste está en torno a 5 al mes. - UltraVPN. 37 Es un servicio gratuito. - Security Kiss. 38 Tiene versión gratuita con un límite de 300MB diarios. Utiliza OpenVPN, y permite elegir entre unos 15 servidores. Sólo Windows guarda logs de ip/conexión permanentemente. También puedes consultar otros VPN: ChaosVPN.net, 39 YourPrivateVpn, 4
-
-0TuVPN, 41 Ivacy, 42 Dataclub.biz, 43 The Safety. 44
+Ofrece cuentas gratuitas y de pago (5-7 /mes). Usa OpenVPN. Es seguro y no guarda logs. - CryptoCloud. Su coste está en torno a 15 /mes, aunque es más barato si se contratan varios meses. Utiliza OpenVPN. - SwissVPN.  Por unos 4,5 /mes. Utiliza OpenVPN y PPTP. Tiene una cuenta de prueba, sólo para visitar su web y comprobar que puedes configurarlo correctamente en tu ordenador sin necesidad de registrarte. - Vpntunnel. 35 5 /mes. Usa OpenVPN. No guarda logs. - PublicVPN. 36 Su coste está en torno a 5 al mes. - UltraVPN. 37 Es un servicio gratuito. - Security Kiss. 38 Tiene versión gratuita con un límite de 300MB diarios. Utiliza OpenVPN, y permite elegir entre unos 15 servidores. Sólo Windows guarda logs de ip/conexión permanentemente. También puedes consultar otros VPN: ChaosVPN.net, 39 YourPrivateVpn, 4 0TuVPN, 41 Ivacy, 42 Dataclub.biz, 43 The Safety. 44
 
 * [https://airvpn.org/](https://airvpn.org/)
 * [https://www.cryptocloud.com/](https://www.cryptocloud.com/)
@@ -318,7 +316,9 @@ Cada uno de estos servicios tienen distintos niveles de seguridad en lo que a co
 
 ![background image](img/manual_desobediencia044.png)
 
-Es importante dejar claro que Httrack hace una copia tal y como se visualiza esa web desde un navegador en el momento en que se genera la copia. Httrack es como una cámara fotográfica que captura el momento, por eso no veremos algunos datos de webs que muestran datos aleatorios en sus portadas. En resumidas cuentas, Httrack es una herramienta que ofrece la posibilidad de visitar una determinada web, seguir los enlaces que contiene y guardar el resultado en .html. Httrack mantiene la estructura de enlaces original. Descargar Httrack Httrack está disponible para diferentes sistemas operativos entre los que podemos destacar Linux, OSX y Windows. Proceso de copia de una web usando Httrack en Windows: Descargamos de la web oficial el instalador, lo instalamos y, finalmente, lo ejecutamos. Lo primero es darle un nombre al proyecto de copia que queremos generar; introducimos el nombre en el cajetín «New Proyect name». Para que sea más sencillo de entender, ponemos un ejemplo de cómo realizar una copia de seguridad con una web existente en la actualidad, aunque podría ser cualquiera. Hemos elegido [http://www.peliculasyonkis.com](http://www.peliculasyonkis.com). En «New Proyect name» pondremos «Pelis Yonkis mayo de 2011». 48 [http://www.httrack.com/page/2/en/index.html](http://www.httrack.com/page/2/en/index.html)
+Es importante dejar claro que Httrack hace una copia tal y como se visualiza esa web desde un navegador en el momento en que se genera la copia. Httrack es como una cámara fotográfica que captura el momento, por eso no veremos algunos datos de webs que muestran datos aleatorios en sus portadas. En resumidas cuentas, Httrack es una herramienta que ofrece la posibilidad de visitar una determinada web, seguir los enlaces que contiene y guardar el resultado en .html. Httrack mantiene la estructura de enlaces original. Descargar Httrack Httrack está disponible para diferentes sistemas operativos entre los que podemos destacar Linux, OSX y Windows. Proceso de copia de una web usando Httrack en Windows: Descargamos de la web oficial el instalador, lo instalamos y, finalmente, lo ejecutamos. Lo primero es darle un nombre al proyecto de copia que queremos generar; introducimos el nombre en el cajetín «New Proyect name». Para que sea más sencillo de entender, ponemos un ejemplo de cómo realizar una copia de seguridad con una web existente en la actualidad, aunque podría ser cualquiera. Hemos elegido [http://www.peliculasyonkis.com](http://www.peliculasyonkis.com). En «New Proyect name» pondremos «Pelis Yonkis mayo de 2011». 
+
+* [http://www.httrack.com/page/2/en/index.html](http://www.httrack.com/page/2/en/index.html)
 
 ![background image](img/manual_desobediencia045.png)
 
