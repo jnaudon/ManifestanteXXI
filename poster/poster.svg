@@ -14,11 +14,11 @@
    height="1488.189"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="poster.svg"
-   inkscape:export-filename="/home/moteado/ManifestanteXXI/poster/poster_revolucionario_de_accion_chico.png"
-   inkscape:export-xdpi="48.380951"
-   inkscape:export-ydpi="48.380951">
+   inkscape:export-filename="/home/moteado/ManifestanteXXI/poster/poster.png"
+   inkscape:export-xdpi="450.00333"
+   inkscape:export-ydpi="450.00333">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,18 +28,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.38848671"
-     inkscape:cx="594.67319"
+     inkscape:zoom="0.19424336"
+     inkscape:cx="-3.8028811"
      inkscape:cy="950.78066"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1024"
-     inkscape:window-height="552"
-     inkscape:window-x="-1"
+     inkscape:window-height="550"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true">
     <sodipodi:guide
        orientation="1,0"
@@ -74,23 +74,36 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="bg">
+    <rect
+       style="fill:#ffffff;stroke:none"
+       id="rect3877"
+       width="1050.7395"
+       height="1487.2172"
+       x="0.050259568"
+       y="0.97187006" />
+  </g>
+  <g
      inkscape:label="dibujo"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,435.82679)">
+     transform="translate(0,435.82679)"
+     style="display:inline">
     <image
        sodipodi:absref="/home/moteado/ManifestanteXXI/poster/poster_revolucionario_de_accion.png"
        xlink:href="poster_revolucionario_de_accion.png"
-       y="-248.35208"
-       x="70.027382"
-       id="image3066"
+       width="918.23132"
        height="1282"
-       width="918.23132" />
+       id="image3066"
+       x="70.027382"
+       y="-248.35208" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -427,43 +440,43 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-size:50.30859375000000000px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;text-anchor:end;text-align:end"
+       style="font-size:50.30859375px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="980.76251"
        y="1404.3552"
        id="text3237"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3239"
-         x="707.46844"
+         x="980.76251"
          y="1404.3552"
-         style="font-size:17.60802460000000025px;text-anchor:end;text-align:end">bazza © licencia cc-by-sa / gfdl</tspan><tspan
+         style="font-size:17.6080246px;text-align:end;text-anchor:end">bazza © licencia cc-by-sa / gfdl</tspan><tspan
          sodipodi:role="line"
-         x="707.46844"
+         x="980.76251"
          y="1426.3652"
-         style="font-size:17.60802460000000025px;text-anchor:end;text-align:end"
+         style="font-size:17.6080246px;text-align:end;text-anchor:end"
          id="tspan3087">http://ur1.ca/e3iqv</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="64.955627"
+       x="117.82367"
        y="190.38159"
        id="text3476"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3478"
-         x="64.955627"
+         x="117.82367"
          y="190.38159"
          style="font-size:36px">Lo que necesitan los activistas post-moderno</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:46.67562485px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="60.776447"
+       x="112.93257"
        y="142.65739"
        id="text3476-5"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3478-9"
-         x="60.776447"
+         x="112.93257"
          y="142.65739"
          style="font-size:84.01578522px;font-weight:bold;-inkscape-font-specification:Sans Bold">Manifestante DIY</tspan></text>
   </g>

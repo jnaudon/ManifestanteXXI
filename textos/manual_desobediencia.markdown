@@ -1,3 +1,7 @@
+# Quehaceres
+
+- http://www.opendnssec.org
+
 # Manual de desobediencia a la Ley Sinde
 
 **Edición:** abril 2011 
