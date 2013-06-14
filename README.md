@@ -161,6 +161,7 @@ Algunas experiencias relacionadas.
 * Experiencias de los [movimientos anti-globalizadores](https://es.wikipedia.org/wiki/Contracumbre_del_G8_en_G%C3%A9nova) en 2001 como el "Tute Bianchi"
 * Mapa con el [movimientos de la Policía en Estambul](http://www.microsiervos.com/archivo/tecnologia/manifestantes-turquia-controlar-policia.html), como los manifestantes turcos vigilan a la policía.
 * Los manifestantes españoles tiene un [helicoptero](https://www.youtube.com/watch?v=h-oO8I5vR5s) para ver lo que hace la policía.
+* [Prism Break](http://prism-break.org/)
 
 # Licencia
 
@@ -184,3 +185,4 @@ Se permite el uso comercial de la obra y de las posibles obras derivadas, la dis
 # Donaciones ❤ 
 
 * [Dinero Mail](https://argentina.dineromail.com/Shop/Shop_Ingreso.asp?NombreItem=Donativo&TipoMoneda=1&PrecioItem=50%2E00&E_Comercio=205889&NroItem=-&image_url=http%3A%2F%2F&DireccionExito=http%3A%2F%2F&DireccionFracaso=http%3A%2F%2F&DireccionEnvio=1&Mensaje=1) (Argentina, Brasil, Chile y México)
+* Carga credito en *mi 3G*, para transmitir en vivo, (011) en cualquiero lugar que recargen telefonos moviles.
