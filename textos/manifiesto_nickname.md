@@ -74,7 +74,7 @@ usar tu nombre real.
 ![nickname](img/nickname.png)
 
 <pre>
-\<a href="http://nicks.partidopirata.com.ar/?campania"\>
-\<img src="http://nicks.partidopirata.com.ar/vuelveelnick.png" \/\>
-\<\/a\>
+&lt;a href="http://nicks.partidopirata.com.ar/?campania"\&gt;
+&lt;img src="http://nicks.partidopirata.com.ar/vuelveelnick.png" \&gt;
+&lt;/a&gt;
 </pre>
