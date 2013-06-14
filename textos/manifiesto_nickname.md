@@ -72,4 +72,9 @@ usar tu nombre real.
 ### Campaña
 
 ![nickname](img/nickname.png)
-@<a href="http://nicks.partidopirata.com.ar/?campania"><img src="http://nicks.partidopirata.com.ar/vuelveelnick.png" /></a\>@
+
+<pre>
+\<a href="http://nicks.partidopirata.com.ar/?campania"\>
+\<img src="http://nicks.partidopirata.com.ar/vuelveelnick.png" \/\>
+\<\/a\>
+</pre>
