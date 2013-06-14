@@ -71,6 +71,6 @@ usar tu nombre real.
 
 ### Campaña
 
-<pre>
-<a href="http://nicks.partidopirata.com.ar/?campania"><img src="http://nicks.partidopirata.com.ar/vuelveelnick.png" /></a>
+![nickname](img/nickname.png) <pre>
+\<a href="http://nicks.partidopirata.com.ar/?campania"><img src="http://nicks.partidopirata.com.ar/vuelveelnick.png" /\>\</a\>
 </pre>
