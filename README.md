@@ -185,4 +185,4 @@ Se permite el uso comercial de la obra y de las posibles obras derivadas, la dis
 # Donaciones ❤ 
 
 * [Dinero Mail](https://argentina.dineromail.com/Shop/Shop_Ingreso.asp?NombreItem=Donativo&TipoMoneda=1&PrecioItem=50%2E00&E_Comercio=205889&NroItem=-&image_url=http%3A%2F%2F&DireccionExito=http%3A%2F%2F&DireccionFracaso=http%3A%2F%2F&DireccionEnvio=1&Mensaje=1) (Argentina, Brasil, Chile y México)
-* Carga credito en *mi 3G*, para transmitir en vivo, (011) en cualquiero lugar que recargen telefonos moviles.
+* Carga credito en *mi 3G*, para transmitir en vivo: (+5411) 3246-5497 en cualquiero lugar que recargen telefonos moviles "Claro".
