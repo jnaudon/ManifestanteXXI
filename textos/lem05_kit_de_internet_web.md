@@ -1,4 +1,4 @@
-El kit de la lucha en Internet
+#El kit de la lucha en Internet
 
 Traﬁ cantes de Sueños no es una casa editorial, ni siquiera una editorial independiente que contempla la publicación de una colección variable de textos críticos. Es, por el contrario, un proyecto, en el sentido estricto de «apuesta», que se dirige a cartograﬁ ar las líneas constituyentes de otras formas de vida. La construcción teórica y práctica de la caja de herramientas que, con palabras propias, puede componer el ciclo de luchas de las próximas décadas.
 
@@ -6,193 +6,94 @@ Sin complacencias con la arcaica sacralidad del libro, sin concesiones con el na
 
 *Omnia sunt communia!*
 
-creative
-
-commons
-
-cc
-
+creative commons cc
 Licencia Creative Commons
 
 Reconocimiento-CompartirIgual 3.0 Unported (CC BY-SA 3.0)
 
-Usted es libre de:
+## Usted es libre de:
 
-\*
-
-**Compartir**— copiar, distribuir y comunicar públicamente la obra
-
-\*
-
+ **Compartir**— copiar, distribuir y comunicar públicamente la obra
 **Remezclar**— transformar la obra
-
-\*
-
 **Comercial** — hacer un uso comercial de esta obra
 
 Bajo las condiciones siguientes:
 
-\*
+**Reconocimiento** — Debe reconocer los créditos de la obra de la maneraespecifi cada por el autor o el licenciador (pero no de una manera que sugiera que tiene suapoyo o apoyan el uso que hace de su obra).
+**Compartir bajo la misma licencia** — Si altera o transforma esta obra,o genera una obra derivada, sólo puede distribuir la obra generada bajo una licenciaidéntica a ésta.
 
-**Reconocimiento** — Debe reconocer los créditos de la obra de la maneraespecifi cada por el
+## Entendiendo que:
 
-autor o el licenciador (pero no de una manera que sugiera que tiene suapoyo o apoyan el uso que hace de su obra).
+* Renuncia — Alguna de estas condiciones puede no aplicarse si seobtiene el permiso del titular de los derechos de autor
+* Dominio Público — Cuando la obra o alguno de sus elementos se halleen el dominio público según la ley vigente aplicable, esta situación no quedará afectada por la licencia.
+* Otros derechos — Los derechos siguientes no quedan afectados por lalicencia de ninguna manera: 
+ * Los derechos derivados de usos legítimos u otras limitacionesreconocidas por ley no se ven afectados por lo anterior.
+ * Los derechos morales del autor;o Derechos que pueden ostentar otras personas sobre la propia obra o suuso, como por ejemplo derechos de imagen o de privacidad.
 
-\*
+* Aviso — Al reutilizar o distribuir la obra, tiene que dejar muy enclaro los términos de la licencia de esta obra.
 
-**Compartir bajo la misma licencia** — Si altera o transforma esta obra,o genera una obra
-
-derivada, sólo puede distribuir la obra generada bajo una licenciaidéntica a ésta.
-
-Entendiendo que:
-
-\* Renuncia — Alguna de estas condiciones puede no aplicarse si seobtiene el permiso del titular de los derechos de autor
-
-\* Dominio Público — Cuando la obra o alguno de sus elementos se halleen el dominio público según la ley
-
-vigente aplicable, esta situación no quedará afectada por la licencia.
-
-\* Otros derechos — Los derechos siguientes no quedan afectados por lalicencia de ninguna manera:
-
-o Los derechos derivados de usos legítimos u otras limitacionesreconocidas por ley no se ven afectados
-
-por lo anterior.
-
-o Los derechos morales del autor;o Derechos que pueden ostentar otras personas sobre la propia obra o suuso, como por ejemplo derechos de imagen o de privacidad.
-
-\* Aviso — Al reutilizar o distribuir la obra, tiene que dejar muy enclaro los términos de la licencia de esta obra.
-
-© 2012, del texto, Margarita Padilla.© 2012, de la edición, Trafi cantes de Sueños.
+© 2012, del texto, Margarita Padilla. © 2012, de la edición, Traficantes de Sueños.
 
 **Primera edición:** 1000 ejemplares. Diciembre de 2012**Título:**El kit de la lucha en Internet**Autor:**Margarita Padilla**Correción: **Francisco Javier Olmos Sanz**Maquetación y diseño de cubierta:** Traﬁ cantes de Sueños.taller@traﬁ cantes.net**Edición:**Traﬁ cantes de SueñosC/ Embajadores 35, local 628012 Madrid. Tlf: 915320928editorial@traﬁ cantes.net**Producción: **Gráﬁ cas Lizarra948 556410**ISBN: 978-84-96453-74-6Depósito legal: M-37831-2012**
 
 **Dedico este libro a la situación,**
-
 **a la dureza de su filo,**
-
 **a su energía cruda y tierna**
-
 **y a su final abierto.**
-
-<11\>
 
 # A quién va dirigido este libro
 
 Este libro está escrito por una vieja militante del movimiento obrero que se convirtió en nueva activista cuando viajó (virtualmente, claro), allá por los años noventa, al núcleo de Internet y comprendió la potencia de las redes en la lucha social. Está escrito, con todo el cariño, para otros compañeros, otros militantes y activistas a quienes quiero animar a enredar sus luchas (sociales, laborales, barriales, culturales...) con las luchas específicas que están teniendo lugar en Internet.
 
-# Es cierto que Internet presenta dificultades y que no todo el
+Es cierto que Internet presenta dificultades y que no todo el mundo puede ser experto o hábil en este nuevo territorio. Un cambio de paradigma no es poca cosa. Pero me atrevería a afirmar con rotundidad que toda persona o grupo que luche por la transformación social tiene la obligación de comprender la especificidad de Internet en lo que a procesos sociales se refiere, ya que esta especificidad desborda lo técnico y contamina lo social. Y necesariamente, para comprender esa especificidad social, hay que acercarse a algunas nociones técnicas, pues en ellas vamos a encontrar de manera más esencial, es decir, más compacta y clara, el quid de la cuestión.
 
-mundo puede ser experto o hábil en este nuevo territorio. Un cambio de paradigma no es poca cosa. Pero me atrevería a afirmar con rotundidad que toda persona o grupo que luche por la transformación social tiene la obligación de comprender la especificidad de Internet en lo que a procesos sociales se refiere, ya que esta especificidad desborda lo técnico y contamina lo social. Y necesariamente, para comprender esa especificidad social, hay que acercarse a algunas nociones técnicas, pues en ellas vamos a encontrar de manera más esencial, es decir, más compacta y clara, el quid de la cuestión.
-
-# Por eso, pido paciencia si en algún momento parece que me
-
-voy por las ramas. Internet y el hipertexto me han acostumbrado a largas digresiones, ventanas que abren nuevas ventanas para ampliar el horizonte del pensamiento y de la creatividad. Pido paciencia y ánimo para leer y releer hasta el final, en la confianza de que esta lectura ayude a comprender cómo y por qué se está luchando en Internet.
-
-<12\>
+Por eso, pido paciencia si en algún momento parece que me voy por las ramas. Internet y el hipertexto me han acostumbrado a largas digresiones, ventanas que abren nuevas ventanas para ampliar el horizonte del pensamiento y de la creatividad. Pido paciencia y ánimo para leer y releer hasta el final, en la confianza de que esta lectura ayude a comprender cómo y por qué se está luchando en Internet.
 
 # El kit de la lucha en Internet
 
 El hilo conductor de estas líneas va a ser la confección de un kit para la lucha.
 
-Toda lucha tiene su kit: ese conjunto de artefactos materiales,
+Toda lucha tiene su kit: ese conjunto de artefactos materiales, organizativos o simbólicos cuyo manejo es imprescindible para moverse en ella.
 
-organizativos o simbólicos cuyo manejo es imprescindible para moverse en ella.
+Sin duda, el ciclostil y la clandestinidad formaron parte del kit de las luchas en la dictadura franquista. El zapatismo metió en su kit el pasamontañas, el lenguaje poético y los encuentros intercontinentales. El movimiento antiglobalización metió las contracumbres y los Indymedias. ¿Qué es lo que meten en su kit las luchas en Internet? ¿Qué es lo que sacan (aquello heredado con lo que no hay que cargar porque es pesado, ineficiente u obsoleto)? ¿Qué es lo que dejan al fondo, para echar mano de ello por si acaso?
 
-Sin duda, el ciclostil y la clandestinidad formaron parte del
+Como militantes o activistas llevamos una mochila: nuestro kit. Mi intención es, simplemente, abrir esa mochila y mirar qué hay dentro, ver si el peso está bien distribuido, si hay un buen equilibrio entre lo imprescindible, lo necesario y lo que hay que llevar por si acaso o si hay algo nuevo que deberíamos añadir... Es por eso que os propongo escudriñar algunos de esos episodios de la lucha en Internet.
 
-kit de las luchas en la dictadura franquista. El zapatismo metió en su kit el pasamontañas, el lenguaje poético y los encuentros intercontinentales. El movimiento antiglobalización metió las contracumbres y los Indymedias. ¿Qué es lo que meten en su kit las luchas en Internet? ¿Qué es lo que sacan (aquello heredado con lo que no hay que cargar porque es pesado, ineficiente u obsoleto)? ¿Qué es lo que dejan al fondo, para echar mano de ello por si acaso?
+# I. WikiLeaks
 
-Como militantes o activistas llevamos una mochila: nuestro
-
-kit. Mi intención es, simplemente, abrir esa mochila y mirar qué hay dentro, ver si el peso está bien distribuido, si hay un buen equilibrio entre lo imprescindible, lo necesario y lo que hay que llevar por si acaso o si hay algo nuevo que deberíamos añadir... Es por eso que os propongo escudriñar algunos de esos episodios de la lucha en Internet.
-
-I. WikiLeaks
-
-Redeﬁ niendo la historia global
-
-<13\>
+## Redeﬁ niendo la historia global
 
 En noviembre de 2010, WikiLeaks filtró a la prensa internacional una colección de 251.187 comunicaciones entre el Departamento de Estado de Estados Unidos y sus embajadas por todo el mundo. La mayor filtración de documentos secretos diplomáticos de la historia desencadenó una crisis global que será recordada con el nombre de Cablegate.
 
-WikiLeaks es una organización internacional sin ánimo de
+WikiLeaks es una organización internacional sin ánimo de lucro que publica en su web documentos e informes anónimos con contenido sensible en materia de interés público, preservando el anonimato de sus fuentes. En inglés *leak* significa «fuga, goteo, filtración» y *wiki* es un nombre muy común en Internet para designar una web cuyo contenido es informativo y se desarrolla entre muchas personas –como, por ejemplo, Wikipedia. Así que WikiLeaks significa algo parecido a «mucha gente aportando un goteo de información que se fuga de los cauces secretos y se hace pública».
 
-lucro que publica en su web documentos e informes anónimos con contenido sensible en materia de interés público, preservando el anonimato de sus fuentes. En inglés *leak*
+Nadie sabe a ciencia cierta quién ha creado WikiLeaks, aunque se da por bueno que uno de sus fundadores fue Julian Assange. La organización dice de sí misma haber sido fundada por disidentes chinos, así como por periodistas, matemáticos y tecnólogos de empresas punta de Estados Unidos, Taiwán, Europa, Australia y Sudáfrica.
 
-significa «fuga,
+WikiLeaks se presta a recibir filtraciones que desvelen comportamientos no éticos por parte de gobiernos y se centra especialmente en la actividad exterior de Estados Unidos, sobre todo en relación con las guerras de Iraq y Afganistán, y en los países que considera que tienen regímenes totalitarios, aunque también filtra informaciones de empresas privadas y de iglesias u organizaciones religiosas.
 
-goteo, filtración» y *wiki* es un nombre muy común en Internet para designar una web cuyo contenido es informativo y se desarrolla entre muchas personas –como, por ejemplo, Wikipedia. Así que WikiLeaks significa algo parecido a «mucha gente aportando un goteo de información que se fuga de los cauces secretos y se hace pública».
+El procedimiento es lento y arriesgado, pero simple: reciben información, la verifican, la limpian de datos que puedan poner en peligro a personas inocentes por ejemplo, la identidad de informantes del narco o de organizaciones terroristas y la publican, sin importar si esta información es confidencial o privada ni si está protegida por leyes de propiedad intelectual. Y lo más importante: garantizan protección y confidencialidad absoluta a sus informantes. Hasta el momento, nadie ha logrado obligarles a revelar dónde consiguen la información.
 
-Nadie sabe a ciencia cierta quién ha creado WikiLeaks,
+En noviembre de 2011, cuando empezó el goteo de esas 251.187 comunicaciones, no era la primera vez que WikiLeaks filtraba información. En ese mismo año, el día 5 de abril había publicado un vídeo del 12 de julio de 2007 en el que se ve cómo soldados estadounidenses asesinan al reportero de Reuters Namir Noor-Eldeen, a su ayudante y a nueve personas más, algunas de ellas cuando iban a llevarse a los muertos y heridos. La agencia Reuters iba detrás de este material, pero no había podido conseguirlo legalmente hasta que WikiLeaks lo filtró y lo publicó, poniendo en jaque al aparato militar de Estados Unidos.
 
-aunque se da por bueno que uno de sus fundadores fue Julian Assange. La organización dice de sí misma haber sido fundada por disidentes chinos, así como por periodistas, matemáticos y tecnólogos de empresas punta de Estados Unidos, Taiwán, Europa, Australia y Sudáfrica.
+El 25 de julio de 2010 los periódicos *The Guardian*, *The New York Times* y *Der Spiegel* habían tenido acceso a 91.731 documentos sobre la guerra de Afganistán datados entre los años 2004 y 2009. Eran los *Diarios de la guerra de Afganistán* [*Afghanistan War Logs*], entregados gratuitamente a estos periódicos por WikiLeaks. Los documentos informaban de sucesos no revelados hasta ese momento: víctimas civiles provocadas por soldados de Estados Unidos y de los países aliados, fuego amigo, conexiones entre la inteligencia pakistaní y los talibanes insurgentes, etc.
 
-WikiLeaks se presta a recibir filtraciones que desvelen comportamientos no éticos por parte de gobiernos y se centra especialmente en la actividad exterior de Estados Unidos, sobre todo
-
-<14\>
-
-<14\>
-
-en relación con las guerras de Iraq y Afganistán, y en los países que considera que tienen regímenes totalitarios, aunque también filtra informaciones de empresas privadas y de iglesias u organizaciones religiosas.
-
-El procedimiento es lento y arriesgado, pero simple: reciben
-
-información, la verifican, la limpian de datos que puedan poner en peligro a personas inocentes
-
-–
-
-por ejemplo, la identidad de informantes del narco o de organizaciones terroristas
-
-–
-
-y la publican,
-
-sin importar si esta información es confidencial o privada ni si está protegida por leyes de propiedad intelectual. Y lo más importante: garantizan protección y confidencialidad absoluta a sus informantes. Hasta el momento, nadie ha logrado obligarles a revelar dónde consiguen la información.
-
-En noviembre de 2011, cuando empezó el goteo de esas
-
-251.187 comunicaciones, no era la primera vez que WikiLeaks filtraba información. En ese mismo año, el día 5 de abril había publicado un vídeo del 12 de julio de 2007 en el que se ve cómo soldados estadounidenses asesinan al reportero de Reuters Namir Noor-Eldeen, a su ayudante y a nueve personas más, algunas de ellas cuando iban a llevarse a los muertos y heridos. La agencia Reuters iba detrás de este material, pero no había podido conseguirlo legalmente hasta que WikiLeaks lo filtró y lo publicó, poniendo en jaque al aparato militar de Estados Unidos.
-
-El 25 de julio de 2010 los periódicos *The Guardian, The New*
-
-*York Times*y*Der Spiegel*habían tenido acceso a 91.731 documentos sobre la guerra de Afganistán datados entre los años 2004 y 2009. Eran los *Diarios de la guerra de Afganistán* [*Afghanistan War Logs*], entregados gratuitamente a estos periódicos por WikiLeaks. Los documentos informaban de sucesos no revelados hasta ese momento: víctimas civiles provocadas por soldados de Estados Unidos y de los países aliados, fuego amigo, conexiones entre la inteligencia pakistaní y los talibanes insurgentes, etc.
-
-El 22 de octubre de 2010 se habían publicado los *Diarios de la*
-
-*guerra de Iraq* [
-
-Irak War Logs], 391.831 documentos filtrados desde
-
-el Pentágono en los que se revelaba, según WikiLeaks, la verdad de esa guerra: que las autoridades estadounidenses dejaron sin
-
-<15\>
-
-investigar cientos de informes que denunciaban abusos, torturas, violaciones e incluso asesinatos perpetrados sistemáticamente por la policía y el ejército iraquíes. Los informes, apoyados por evidencias médicas, describen la situación de prisioneros con los ojos vendados, maniatados, que reciben golpes, latigazos y soportan descargas eléctricas. Todo ello con el conocimiento del Pentágono y de las autoridades militares y políticas de Estados Unidos y de Gran Bretaña. Como en algunas ocasiones anteriores, WikiLeaks filtró estos documentos en su página web al mismo tiempo que los cedía para que medios de comunicación tan prestigiosos como *The Guardian, The New York Times, Le Monde, Der Spiegel, El País, Al Jazeera* o el *Bureau of Investigative Journalism *los publicaran en sus ediciones digitales.
+El 22 de octubre de 2010 se habían publicado los *Diarios de la guerra de Iraq* [Irak War Logs], 391.831 documentos filtrados desde el Pentágono en los que se revelaba, según WikiLeaks, la verdad de esa guerra: que las autoridades estadounidenses dejaron sin investigar cientos de informes que denunciaban abusos, torturas, violaciones e incluso asesinatos perpetrados sistemáticamente por la policía y el ejército iraquíes. Los informes, apoyados por evidencias médicas, describen la situación de prisioneros con los ojos vendados, maniatados, que reciben golpes, latigazos y soportan descargas eléctricas. Todo ello con el conocimiento del Pentágono y de las autoridades militares y políticas de Estados Unidos y de Gran Bretaña. Como en algunas ocasiones anteriores, WikiLeaks filtró estos documentos en su página web al mismo tiempo que los cedía para que medios de comunicación tan prestigiosos como *The Guardian, The New York Times, Le Monde, Der Spiegel, El País, Al Jazeera* o el *Bureau of Investigative Journalism *los publicaran en sus ediciones digitales.
 
 Estas filtraciones venían a confirmar, con documentos irrefutables, algunos secretos a voces respecto a la política militar de Estados Unidos. No se trataba de nada que todo el mundo no imaginara ya, pero con ellas se pasaba de la suposición a la certidumbre probada, creando una situación por lo menos incómoda para los responsables militares y políticos de los actos denunciados.
 
 Por eso, cuando el 22 de noviembre de 2010 WikiLeaks anunció en las redes sociales que «el próximo mes veremos un nuevo mundo en el que la historia global es redefinida», nadie anticipó que una crisis como la del *Cablegate* fuera a estallar.
 
-Cómo los gigantes pusieron cerco a WikiLeaks
+## Cómo los gigantes pusieron cerco a WikiLeaks
 
-El 28 de noviembre de 2010, WikiLeaks empezó a publicar en su web los primeros documentos de una serie de 251.187 cables o comunicaciones entre el Departamento de Estado estadounidense y sus embajadas por todo el mundo. Como estos documentos en inglés se denominan *United States diplomatic cables leak*
-
-, la
-
-operación tomó el nombre de Cablegate.
-
-<16\>
+El 28 de noviembre de 2010, WikiLeaks empezó a publicar en su web los primeros documentos de una serie de 251.187 cables o comunicaciones entre el Departamento de Estado estadounidense y sus embajadas por todo el mundo. Como estos documentos en inglés se denominan *United States diplomatic cables leak*, la operación tomó el nombre de Cablegate.
 
 ¿Qué contenían esos documentos? De todo. Eran telegramas, informes, solicitudes y cotilleos diplomáticos transmitidos desde 1966 hasta ahora. Algunos eran secretos y confidenciales, y otros solo eran chismes. Por ejemplo, en el cable 242.255 la secretaria de Estado norteamericana Hillary Clinton estaba tan interesada en conocer la personalidad del matrimonio Kirchner (Cristina Kirchner y Néstor Kirchner) que pedía informes sobre el estado mental y de salud [*mental state and health*] de Cristina y sobre los comportamientos emocionales del matrimonio. En el cable 146.148 Estados Unidos mostraba su preocupación por la «actitud condescendiente» del entonces candidato a la presidencia de Chile, Sebastián Piñera, en el tema de los derechos humanos, debido a que había rechazado una solicitud de la Iglesia católica de dar un indulto a presos violadores de derechos humanos. Y así, un poco de todo.
 
 Algunos eran de poca relevancia, pero otros aportaban información necesaria para atar cabos acerca de un sinnúmero de actuaciones sobre las que Estados Unidos nunca había querido hablar, especialmente en lo relativo a presiones y concesiones mutuas, derechos humanos y respeto a la legalidad.
 
-En lo referente al Estado español, los cables salpicaron a la
-
-justicia española en dos casos concretos: la muerte del cámara gallego José Couso en Bagdad el 8 de abril de 2003 por disparos de un tanque estadounidense, con su correspondiente querella presentada el 29 de mayo de 2003; y el traslado ilegal a Guantánamo de supuestos terroristas en aviones que realizaron escala en España, un caso que llegó a la Audiencia Nacional el 12 de junio de 2006.
+En lo referente al Estado español, los cables salpicaron a la justicia española en dos casos concretos: la muerte del cámara gallego José Couso en Bagdad el 8 de abril de 2003 por disparos de un tanque estadounidense, con su correspondiente querella presentada el 29 de mayo de 2003; y el traslado ilegal a Guantánamo de supuestos terroristas en aviones que realizaron escala en España, un caso que llegó a la Audiencia Nacional el 12 de junio de 2006.
 
 En ambas ocasiones, los cables mostraban que la embajada contó con buena información sobre la marcha de las causas judiciales y con la colaboración de autoridades del gobierno, así como del fiscal general del Estado y los fiscales Javier Zaragoza y Vicente González Mota. De ese modo, el embajador y sus colaboradores presionaron a ministros y responsables de Exteriores y Justicia, visitaron a altos cargos de la Audiencia Nacional en sus propios despachos, se reunieron con jueces y utilizaron las visitas de políticos estadounidenses a España para intentar que los procedimientos judiciales naufragaran.
-
-<17\>
 
 Además, como veremos más adelante, confirmaron que hubo presiones por parte de la embajada de Estados Unidos al gobierno de España para impulsar cambios legislativos como la ley Sinde.
 
@@ -202,55 +103,17 @@ Al día siguiente de empezar con el Cablegate, la web de WikiLeaks sufre un ataq
 
 En esencia, el ataque consiste en apuntar a la web y propinarle un cañonazo enorme de información digital que no puede asimilar, con lo que se queda colapsada. WikiLeaks estaba sufriendo un ataque distribuido de denegación de servicio, lo que en el mundillo hacker se conoce con las siglas DDoS.
 
-Para defenderse de este ataque, el día 30 de noviembre WikiLeaks se traslada a los servidores de Amazon EC2, de computación en la nube. La computación en la nube tiene la particularidad de que cuando la carga de trabajo de los servidores aumenta de forma crítica, estos «notan» que se están saturando y, como «saben» engordar automáticamente, aumentan por sí solos su tamaño todo lo que sea necesario para poder asimilar la información que les llega, por grande que esta sea. Hay que tener en cuenta que este tipo de ataques son batallas muy costosas energéticamente, que se libran en tiempo real, y que durante las horas o días que dura la batalla ambos contendientes, atacante y atacado, tienen que combinar estrategias de fuerza y de inteligencia para salir airosos. La estrategia de WikiLeaks fue contratar los servicios EC2 (Elastic Compute Cloud) de Amazon, una gran multinacional estadounidense muy conocida
-
-<18\>
-
-por ser la mayor tienda de libros de Internet, y en principio sobradamente preparada para contener el ataque. Así, la web de WikiLeaks volvió a estar operativa.
+Para defenderse de este ataque, el día 30 de noviembre WikiLeaks se traslada a los servidores de Amazon EC2, de computación en la nube. La computación en la nube tiene la particularidad de que cuando la carga de trabajo de los servidores aumenta de forma crítica, estos «notan» que se están saturando y, como «saben» engordar automáticamente, aumentan por sí solos su tamaño todo lo que sea necesario para poder asimilar la información que les llega, por grande que esta sea. Hay que tener en cuenta que este tipo de ataques son batallas muy costosas energéticamente, que se libran en tiempo real, y que durante las horas o días que dura la batalla ambos contendientes, atacante y atacado, tienen que combinar estrategias de fuerza y de inteligencia para salir airosos. La estrategia de WikiLeaks fue contratar los servicios EC2 (Elastic Compute Cloud) de Amazon, una gran multinacional estadounidense muy conocida por ser la mayor tienda de libros de Internet, y en principio sobradamente preparada para contener el ataque. Así, la web de WikiLeaks volvió a estar operativa.
 
 Pero surgieron nuevos problemas. Al día siguiente, el 1 de diciembre, ante las presiones del senador independiente de Connecticut Joe Lieberman, presidente del Comité de Seguridad y Asuntos Gubernamentales del Senado de Estados Unidos, Amazon rescinde su contrato con WikiLeaks y deja de darle servicio. WikiLeaks vuelve a estar desaparecida del mapa de Internet, ahora ya no por un ataque digital de origen desconocido, sino porque una de las mayores multinacionales se ha plegado a las presiones de un senador que quiere derribar esa web de una vez por todas. En estas circunstancias, se enfrenta al grave problema de encontrar un refugio digital que le permita volver a estar operativa, aunque para esas fechas el Cablegate ya se está difundiendo simultáneamente en la prensa internacional (*The Guardian, The New York Times, Le Monde, El País y Der Spiegel*).
 
 Por si eso fuera poco, el día 2 de diciembre EveryDNS, empresa proveedora de nombres en Internet, rescinde su contrato con WikiLeaks aduciendo que la web de WikiLeaks está tan solicitada que para darle servicio tendría que desatender al resto de sus clientes, cerca de medio millón. La rescisión del contrato por parte de EveryDNS supone borrar de Internet el nombre de WikiLeaks, y en Internet perder el nombre es la muerte segura, ya que nadie podrá llegar a tu web. WikiLeaks es ahora una especie de web «sin papeles», acosada, recluida no se sabe dónde y que no puede circular libremente.
 
-El argumento de EveryDNS para rescindir el contrato es técnicamente sostenible, aunque claramente sospechoso. Resulta que aunque una web esté caída puede seguir habiendo gente que la intente ver, igual que si destruyes tu teléfono móvil puede haber gente que te siga llamando. El sistema que funciona entre poner la dirección de una web
+El argumento de EveryDNS para rescindir el contrato es técnicamente sostenible, aunque claramente sospechoso. Resulta que aunque una web esté caída puede seguir habiendo gente que la intente ver, igual que si destruyes tu teléfono móvil puede haber gente que te siga llamando. El sistema que funciona entre poner la dirección de una web o buscarla en Google y pinchar y la aparición de la web o no, lo cual da un error es algo semejante al sistema telefónico que conecta un teléfono que llama con otro que recibe la llamada. Aunque hayas tirado tu teléfono, como el número sigue existiendo, el sistema que conecta las llamadas se puede saturar si mucha gente te llama a la vez. En Internet, las empresas proveedoras de nombres son las que hacen esa intermediación. Y EveryDNS era una de esas empresas, en concreto la operadora responsable de atender al nombre de la web de WikiLeaks. Primero Amazon había dejado a WikiLeaks «sin teléfono» y ahora EveryDNS la dejaba «sin número».
 
-–
+En esta situación extrema, las redes de solidaridad empiezan a moverse y a las pocas horas el Partido Pirata suizo ofrece «asilo político» digital en sus servidores. El día 3 de diciembre WikiLeaks vuelve a estar en Internet, eso sí, cambiando su nombre original *www.wikileaks.org*por el de *www.wikileaks.ch.* El nuevo nombre también lo ha comprado el Partido Pirata, y ahora la web tendrá el apellido *ch*, como las webs suizas en Internet, en lugar de tener el apellido *org*,el de las organizaciones no gubernamentales. Algo se debía oler Julian Assange, la cara visible de WikiLeaks, cuando, al acudir a Ginebra el 4 de noviembre para anunciar en una rueda de prensa su intención de destapar el Cablegate, mantuvo un encuentro con el dirigente del Partido Pirata suizo Daniel Simonet, según se cuenta con la intención de pedirle contacto con las autoridades suizas, debido a su larga tradición en defensa de los derechos humanos.
 
-o buscarla en Google y pinchar
-
-–
-
-y la
-
-aparición de la web
-
-–
-
-o no, lo cual da un error
-
-–
-
-es algo semejante
-
-al sistema telefónico que conecta un teléfono que llama con otro que recibe la llamada. Aunque hayas tirado tu teléfono, como el número sigue existiendo, el sistema que conecta las llamadas se
-
-<19\>
-
-puede saturar si mucha gente te llama a la vez. En Internet, las empresas proveedoras de nombres son las que hacen esa intermediación. Y EveryDNS era una de esas empresas, en concreto la operadora responsable de atender al nombre de la web de WikiLeaks. Primero Amazon había dejado a WikiLeaks «sin teléfono» y ahora EveryDNS la dejaba «sin número».
-
-En esta situación extrema, las redes de solidaridad empiezan a
-
-moverse y a las pocas horas el Partido Pirata suizo ofrece «asilo político» digital en sus servidores. El día 3 de diciembre WikiLeaks vuelve a estar en Internet, eso sí, cambiando su nombre original *www.wikileaks.org*por el de *www.wikileaks.ch.* El nuevo nombre también lo ha comprado el Partido Pirata, y ahora la web tendrá el apellido *ch*, como las webs suizas en Internet, en lugar de tener el apellido *org*,el de las organizaciones no gubernamentales. Algo se debía oler Julian Assange, la cara visible de WikiLeaks, cuando, al acudir a Ginebra el 4 de noviembre para anunciar en una rueda de prensa su intención de destapar el Cablegate, mantuvo un encuentro con el dirigente del Partido Pirata suizo Daniel Simonet, según se cuenta con la intención de pedirle contacto con las autoridades suizas, debido a su larga tradición en defensa de los derechos humanos.
-
-Cuando parece que la crisis está estabilizada, se abre un nuevo frente. Como los servidores de Internet pueden dar servicio a todo el planeta, independientemente de dónde estén ubicados, es habitual que las empresas de productos y servicios específicos de la Red a su vez subcontraten otros productos y servicios que están localizados vete a saber dónde. Por ejemplo, supongamos una empresa española que alquila servidores a usuarios finales, en una especie de alquiler minorista
-
-–
-
-como la venta al detalle o
-
-al por menor. Aunque la empresa opere con un NIF de España, es posible que a su vez alquile servidores a otra empresa mayorista, que los ofrece al por mayor, en otra parte del mundo. Y así siguiendo una cadena de subcontrataciones que puede ser bastante larga, ya que en definitiva al usuario final le da igual cuántas vueltas dé la información con tal de que esté accesible a una velocidad razonable y a un precio ajustado, y no suele estar muy preocupado por conocer la localización física de los servidores a los que confía su web.
-
-<20\>
+Cuando parece que la crisis está estabilizada, se abre un nuevo frente. Como los servidores de Internet pueden dar servicio a todo el planeta, independientemente de dónde estén ubicados, es habitual que las empresas de productos y servicios específicos de la Red a su vez subcontraten otros productos y servicios que están localizados vete a saber dónde. Por ejemplo, supongamos una empresa española que alquila servidores a usuarios finales, en una especie de alquiler minorista como la venta al detalle o al por menor. Aunque la empresa opere con un NIF de España, es posible que a su vez alquile servidores a otra empresa mayorista, que los ofrece al por mayor, en otra parte del mundo. Y así siguiendo una cadena de subcontrataciones que puede ser bastante larga, ya que en definitiva al usuario final le da igual cuántas vueltas dé la información con tal de que esté accesible a una velocidad razonable y a un precio ajustado, y no suele estar muy preocupado por conocer la localización física de los servidores a los que confía su web.
 
 Por una de esas casualidades, los servidores del Partido Pirata suizo estaban contratados con la empresa OVH y situados físicamente en Francia. El día 3 de diciembre, el ministro francés de Industria, Energía y Economía Digital, Eric Besson, pide a la empresa OVH que corte el servicio que indirectamente está prestando a WikiLeaks. OVH alega que ellos simplemente son el proveedor técnico, pero que WikiLeaks no es su cliente directo, y se dirige a los tribunales para que estos aclaren si la página de WikiLeaks es legal o ilegal, pidiendo que un juez se pronuncie al respecto en territorio francés. Dada la complejidad y globalidad de la situación, ya que se trata de contenidos publicados por una organización internacional, expulsados de Estados Unidos, realojados bajo la tutela de un partido político suizo y almacenados en servidores franceses, los tribunales franceses se lavan las manos y dicen que el asunto no es competencia suya. Todo esto el 3 de diciembre, el mismo día en el que en Estados Unidos se lleva a cabo una reforma legal conocida como el Acta SHIELD (Securing Human Intelligence and Enforcing Lawful Dissemination), una modificación del acta de espionaje que prohíbe la publicación de información clasificada sobre secretos cifrados o comunicaciones internacionales de inteligencia.
 
@@ -260,9 +123,7 @@ WikiLeaks sufre más bloqueos económicos por parte de los mastodontes del diner
 
 Ese mismo día Julian Assange es detenido por la policía metropolitana de Londres, que cumple la orden europea de detención internacional emitida desde Suecia, acusado de delitos de agresión sexual supuestamente cometidos el pasado agosto. Su arresto no está relacionado con las filtraciones de WikiLeaks, pero...
 
-A todo esto, hackers simpatizantes de WikiLeaks, no coordinados entre sí, por su cuenta y riesgo, han estado creando más de mil fotocopias digitales de la página (
-
-mirrors o espejos, como se denominan en el argot hacker), dando lugar a una guerrilla de la información. Con la diseminación de esas copias por todo lo largo y ancho de Internet, cubrieron los lapsos de tiempo en los que la web estuvo fuera de combate para que el mundo conectado mantuviera acceso a la filtración más salvaje de secretos sobre la política exterior estadounidense conocida hasta la fecha: el Cablegate.
+A todo esto, hackers simpatizantes de WikiLeaks, no coordinados entre sí, por su cuenta y riesgo, han estado creando más de mil fotocopias digitales de la página (mirrors o espejos, como se denominan en el argot hacker), dando lugar a una guerrilla de la información. Con la diseminación de esas copias por todo lo largo y ancho de Internet, cubrieron los lapsos de tiempo en los que la web estuvo fuera de combate para que el mundo conectado mantuviera acceso a la filtración más salvaje de secretos sobre la política exterior estadounidense conocida hasta la fecha: el Cablegate.
 
 ## La opinión pública debate 
 
@@ -292,9 +153,7 @@ la luz de lo acontecido unos meses después con el 15M.
 
 2
 
-Lluís Bassets,
-
-El País, 1 de diciembre de 2010.
+Lluís Bassets, El País, 1 de diciembre de 2010.
 
 <23\>
 
@@ -316,133 +175,61 @@ Ante la impotencia de toda reprobación ética, puede que sea la cruda exposici�
 
 Y sobre la paradójica inutilidad de la transparencia:
 
-La gran coartada de los fracasos o errores políticos han sido atribuidosa la falta de transparencia frente a los ciudadanos, pero latransparencia, tal como se urge actualmente a los bancos y a los gobiernos, no aporta otra cosa sino la redundancia de la ya sospechada sorpresa. O, mejor, el
+La gran coartada de los fracasos o errores políticos han sido atribuidosa la falta de transparencia frente a los ciudadanos, pero latransparencia, tal como se urge actualmente a los bancos y a los gobiernos, no aporta otra cosa sino la redundancia de la ya sospechada sorpresa. O, mejor, el rebote de lo visto en el cansancio de lo *dèjá vu*.
 
-rebote de lo visto en el cansancio de lo
-
-*dèjá vu*.
-
-No hay un más allá metafísico y, paralelamente, no hay un más allá
-
-del pecado político o financiero. No hay el pecado nefando del pecado común. El pecado oculto es suficientemente previsible como para que su visibilidad no añada nada.De este modo, el juego del poder actúa con una
-
-impunidad absoluta porque su proceso se desarrolla por los parques de la
-
-corrupción de antemano admitidos como el espacio recreativo y natural del sistema. El sistema funciona merced a la energía emanada de la descomposición, y los políticos y autoridades en general gestionan susaplicaciones para obtener, con su explotación, el alumbramiento más eficiente.
+No hay un más allá metafísico y, paralelamente, no hay un más allá del pecado político o financiero. No hay el pecado nefando del pecado común. El pecado oculto es suficientemente previsible como para que su visibilidad no añada nada.De este modo, el juego del poder actúa con una impunidad absoluta porque su proceso se desarrolla por los parques de la corrupción de antemano admitidos como el espacio recreativo y natural del sistema. El sistema funciona merced a la energía emanada de la descomposición, y los políticos y autoridades en general gestionan susaplicaciones para obtener, con su explotación, el alumbramiento más eficiente.
 
 3
 
-María Virginia Jaua, «Al principio fue el verbo y estará también alfinal: la
-
-verdadera historia de Julian Assange»,
-
-salonkritik.net, 19 de diciembre de 2010.
+María Virginia Jaua, «Al principio fue el verbo y estará también alfinal: la verdadera historia de Julian Assange», salonkritik.net, 19 de diciembre de 2010.
 
 4
 
-Ignacio Echevarría, «La parodia impasible»,
-
-elcultural.es, 17 de diciembre de 2010.
+Ignacio Echevarría, «La parodia impasible», elcultural.es, 17 de diciembre de 2010.
 
 <24\>
 
-El procedimiento, por tanto, de exponer los «sucios» asuntos a la luz no consigue el efecto de desvelarlos, sino de blanquearlos. O dicho de otro modo, su alumbramiento viene a ser equivalente a la garantía de su
-
-continuidad legal.
+El procedimiento, por tanto, de exponer los «sucios» asuntos a la luz no consigue el efecto de desvelarlos, sino de blanquearlos. O dicho de otro modo, su alumbramiento viene a ser equivalente a la garantía de su continuidad legal.
 
 5
 
 Junto a este debate sobre la democracia, otras voces deslegitiman a WikiLeaks y lo sitúan al servicio de la CIA.
 
-Sobre el lado oscuro de WikiLeaks:
+## Sobre el lado oscuro de WikiLeaks:
 
-WikiLeaks es un proyecto profundamente moralista cuyo objetivo es la prometeica labor de llevar la verdad
+WikiLeaks es un proyecto profundamente moralista cuyo objetivo es la prometeica labor de llevar la verdad la luz a una humanidad que vive en tinieblas, «llevar la verdad sin tapujos a la opinión pública». Ellosroban el fuego a los dioses
 
-–
+Estados, corporaciones, crimen organizado... , gracias a su avanzada tecnología, «tecnologías de alto nivel de seguridad» y así ser [se presentan como] garantes de nuestra libertad. La espada de Damocles que pende sobre los cleptócratas...
 
-la luz
+Este deseo de poder y hegemonía no es ocultado en ningún momento, el propio lenguaje mesiánico y carente de autocrítica lo desvela. En su web, WikiLeaks habla la lengua del poder, con igual papagallismo e inconsistencia que un telepredicador o un rostro del telemarketing, nos asegura la infalibilidad de su producto, el jugoso negocio de lasfiltraciones: «WikiLeaks es incensurable», que es como decir «somos el mejor de los mensajeros, confíen únicamente en nosotros».
 
-–
-
-a una humanidad que vive
-
-en tinieblas, «llevar la verdad sin tapujos a la opinión pública». Ellosroban el fuego a los dioses
-
-–
-
-Estados, corporaciones, crimen organizado...
-
-–
-
-,
-
-gracias a su avanzada tecnología, «tecnologías de alto nivel de seguridad» y así ser [se presentan como] garantes de nuestra libertad. La espada de Damocles que pende sobre los cleptócratas...
-
-Este deseo de poder y hegemonía no es ocultado en ningún momento, el propio lenguaje mesiánico y carente de autocrítica lo desvela. En
-
-su web, WikiLeaks habla la lengua del poder, con igual papagallismo e inconsistencia que un telepredicador o un rostro del telemarketing, nos
-
-asegura la infalibilidad de su producto, el jugoso negocio de lasfiltraciones: «WikiLeaks es incensurable», que es como decir «somos el mejor de los mensajeros, confíen únicamente en nosotros».
-
-WikiLeaks quiere la totalidad, hay una dimensión profundamente
-
-autoritaria en su seno: ser el ojo qzue todo lo ve para facilitar la«eterna vigilancia» que complete el proyecto de libertad de los padres fundadores de los Estados Unidos de América.
+WikiLeaks quiere la totalidad, hay una dimensión profundamente autoritaria en su seno: ser el ojo qzue todo lo ve para facilitar la«eterna vigilancia» que complete el proyecto de libertad de los padres fundadores de los Estados Unidos de América.
 
 6
 
 Sobre su relación con la CIA:
 
-Cada vez existen más sospechas sobre el verdadero interés de las filtraciones. En enero de 2007 un miembro importante de WikiLeaks, John Young, quien actualmente encabeza el sitio**cryptome.org, renunció a la organización alegando que se trataba de una operación encubierta de la CIA. Por otro lado algunas fuentes de inteligencia de diversos países asiáticos han sugerido la posibilidad de que «WikiLeaks está operando una campaña de desinformación, alegando persecución de las agencias estadounidenses de inteligencia, pero realmente pertenece a esas
-
-5
-
-Vicente Verdú, «La transparencia de la transparencia», *elpais.com*, 4de diciembre
-
-de 2010.
+Cada vez existen más sospechas sobre el verdadero interés de las filtraciones. En enero de 2007 un miembro importante de WikiLeaks, John Young, quien actualmente encabeza el sitio**cryptome.org, renunció a la organización alegando que se trataba de una operación encubierta de la CIA. Por otro lado algunas fuentes de inteligencia de diversos países asiáticos han sugerido la posibilidad de que «WikiLeaks está operando una campaña de desinformación, alegando persecución de las agencias estadounidenses de inteligencia, pero realmente pertenece a esas Vicente Verdú, «La transparencia de la transparencia», *elpais.com*, 4 de diciembre de 2010.
 
 6
 
-Carlos García de Castro, «Wikileaks o el Prometeo de humo»,*contraindicaciones.*
-
-*net*, 9 de diciembre de 2010.
+Carlos García de Castro, «Wikileaks o el Prometeo de humo»,*contraindicaciones.net*, 9 de diciembre de 2010.
 
 <25\>
 
-mismas agencias». De hecho no deja de llamar la atención que esta organización dedicada a filtrar información confidencial sea respaldada
+mismas agencias». De hecho no deja de llamar la atención que esta organización dedicada a filtrar información confidencial sea respaldada por gente como George Soros, y que haya logrado en tan poco tiempo  convertirse en un protagonista del actual escenario geopolítico, en buena medida con la ayuda de medios informativos del *mainstream*, los cuales parecen proteger y alimentar la presencia de WikiLeaks.
 
-por gente como George Soros, y que haya logrado en tan poco tiempo convertirse en un protagonista del actual escenario geopolítico, en buena medida con la ayuda de medios informativos del*mainstream*, los cuales parecen proteger y alimentar la presencia de WikiLeaks.
-
-Esta hipótesis apunta a que a fin de cuentas los secretos revelados
-
-por la organización están cuidadosamente seleccionados de acuerdo a una compleja agenda, pero que a fin de cuentas los hechos más significativos, que realmente revelarían los intereses de la élitegeopolítica, son simplemente mantenidos en la sombra, por ejemplo la necesidad de Estados Unidos de que Pakistán continúe apoyando a los talibanes para mantener a flote la supuesta guerra de Afganistán, la cual forma partede un mega show bélico destinado a lucrar el tráfico mundial de heroína y a
-
-mantener activa la economía de guerra estadounidense.
+Esta hipótesis apunta a que a fin de cuentas los secretos revelados por la organización están cuidadosamente seleccionados de acuerdo a una compleja agenda, pero que a fin de cuentas los hechos más significativos, que realmente revelarían los intereses de la élitegeopolítica, son simplemente mantenidos en la sombra, por ejemplo la necesidad de Estados Unidos de que Pakistán continúe apoyando a los talibanes para mantener a flote la supuesta guerra de Afganistán, la cual forma partede un mega show bélico destinado a lucrar el tráfico mundial de heroína y a mantener activa la economía de guerra estadounidense.
 
 7
 
 Otra parte de la opinión pública se alarma por el precedente que supone el intento de borrar del mapa digital la página de WikiLeaks, lo cual se identifica como un ataque directo a la libertad de información, y cierra filas en defensa de la libertad y hasta de la propia democracia:
 
-El asunto es grave. No solo está en juego la existencia de WikiLeaks–que seguirá, reaparecerá con otros nombres o (peor para los gobiernos) se multiplicará–, lo que está en juego en esta guerra sin precedentes es la
+El asunto es grave. No solo está en juego la existencia de WikiLeaks–que seguirá, reaparecerá con otros nombres o (peor para los gobiernos) se multiplicará–, lo que está en juego en esta guerra sin precedentes es la libertad de información, la libertad sin adjetivos y la mismademocracia. No es una exageración. Hoy es WikiLeaks quien molesta, mañana será un periódico, una televisión, un blog, una opinión, un dato, un alguien.
 
-libertad de información, la libertad sin adjetivos y la mismademocracia. No es una exageración. Hoy es WikiLeaks quien molesta, mañana será un periódico, una televisión, un blog, una opinión, un dato, un alguien.
+En democracia los límites entre la libertad y la seguridad los marcan los tribunales, no los Ejecutivos ni los ministros de Industria,aunque sean franceses. Es la esencia del sistema, su salud. La diferencia entre la Rusia de Batman-Putin y Anna Politkóvskaya y nosotros.
 
-En democracia los límites entre la libertad y la seguridad los marcan los tribunales, no los Ejecutivos ni los ministros de Industria,aunque sean franceses. Es la esencia del sistema, su salud. La diferencia entre
-
-la Rusia de Batman-Putin y Anna Politkóvskaya y nosotros.
-
-Los gobiernos sellan como secretos los verdaderos secretos de
-
-los Estados, y es su deber protegerlos y conservarlos lejos de la prensa, pero junto a estos están catalogados como secretos las mentiras y las miserias del poder, graves ocultamientos a la opinión pública que
-
-les paga y elige. ¿Es «secreto» la doble moral? ¿Es «secreto» el doble discurso del gobierno socialista español en el caso Couso? ¿Es «secreto»
-
-la corrupción? ¿Lo son las torturas? ¿Gürtel? ¿Los GAL? ¿Es «secreto» el
-
-7
-
-Arkantos, «Más razones para dudar sobre WikiLeaks»,*mysteryplanet.com.ar*, 4
-
-de diciembre de 2010.
+Los gobiernos sellan como secretos los verdaderos secretos de los Estados, y es su deber protegerlos y conservarlos lejos de la prensa, pero junto a estos están catalogados como secretos las mentiras y las miserias del poder, graves ocultamientos a la opinión pública que les paga y elige. ¿Es «secreto» la doble moral? ¿Es «secreto» el doble discurso del gobierno socialista español en el caso Couso? ¿Es «secreto» la corrupción? ¿Lo son las torturas? ¿Gürtel? ¿Los GAL? ¿Es «secreto» el Arkantos, «Más razones para dudar sobre WikiLeaks»,*mysteryplanet.com.ar*, 4 de diciembre de 2010.
 
 <26\>
 
@@ -452,47 +239,24 @@ Las presiones políticas visibles del Congreso estadounidense doblaron la mano d
 
 dejar sin servicio a cerca de medio millón de clientes y se desprendióde WikiLeaks.org. La empresa Everydns.net es norteamericana.
 
-A Estados Unidos le queda una tercera opción. Sería como lanzar
-
-la bomba atómica: atacar el primer nivel de la Red y obligar al ICANN (*Internet Corporation for Assigned Names and Numbers*), entidadindependiente y sin ánimo de lucro encargada de asignar espacio de direcciones
-
-numéricas de protocolo de Internet (IP), a borrar del mapa ciberespacial
-
-a WikiLeaks, sea cual sea su dirección-refugio. Sería demostrar que el ICANN no es independiente, sino que está al servicio de un país.Internet dejaría de ser libre.
+A Estados Unidos le queda una tercera opción. Sería como lanzar la bomba atómica: atacar el primer nivel de la Red y obligar al ICANN (*Internet Corporation for Assigned Names and Numbers*), entidadindependiente y sin ánimo de lucro encargada de asignar espacio de direcciones numéricas de protocolo de Internet (IP), a borrar del mapa ciberespacial a WikiLeaks, sea cual sea su dirección-refugio. Sería demostrar que el ICANN no es independiente, sino que está al servicio de un país.Internet dejaría de ser libre.
 
 El bloqueo se consigue con ataques de concurrencia masivos:
 
-decenas de miles de ordenadores, algunos cargados de virus, tratan de entrar en el mismo segundo en una página determinada hasta bloquearla. Hace años, en Cuba se estrenó la película *Alicia en el pueblo delas maravillas*. Tras prohibirla, las autoridades cubanas tuvieron que ceder
+decenas de miles de ordenadores, algunos cargados de virus, tratan de entrar en el mismo segundo en una página determinada hasta bloquearla. Hace años, en Cuba se estrenó la película *Alicia en el pueblo delas maravillas*. Tras prohibirla, las autoridades cubanas tuvieron que ceder debido a que el filme recibió varios premios en el extranjero. Se pasó apenas una semana en un cine de La Habana. El público estaba compuesto por gente de confianza: policías y miembros del partido para que nadie de fuera del círculo del poder pudiera verla. Eran otros tiempos, otros medios, pero el sistema es el mismo: impedir la visualización delo que se desea ocultar.
 
-debido a que el filme recibió varios premios en el extranjero. Se pasó apenas una semana en un cine de La Habana. El público estaba compuesto por gente de confianza: policías y miembros del partido para que
+Recorro el dial de las radios y de las televisiones y me topo con periodistas que defienden a los gobiernos y su tendencia al secretismo.
 
-nadie de fuera del círculo del poder pudiera verla. Eran otros tiempos,
-
-otros medios, pero el sistema es el mismo: impedir la visualización delo que se desea ocultar.
-
-Recorro el dial de las radios y de las televisiones y me topo con
-
-periodistas que defienden a los gobiernos y su tendencia al secretismo.
-
-Atacan a WikiLeaks. Son los que no tienen los papeles del Cablegate en español. Los periodistas somos en teoría los fiscales de la democracia,
-
-los encargados de vigilar al poder, de defender las leyes y a losciudadanos. Quizá falla todo porque sobre todo fallamos nosotros.
+Atacan a WikiLeaks. Son los que no tienen los papeles del Cablegate en español. Los periodistas somos en teoría los fiscales de la democracia, los encargados de vigilar al poder, de defender las leyes y a losciudadanos. Quizá falla todo porque sobre todo fallamos nosotros.
 
 8
-
-8
-
-Ramón Lobo, «La Primera Guerra Mundial cibernética contra Wikileaks»,*elpais.*
-
-*com*, 3 de diciembre de 2010.
+Ramón Lobo, «La Primera Guerra Mundial cibernética contra Wikileaks»,*elpais.com*, 3 de diciembre de 2010.
 
 <27\>
 
 Y por finalizar este recorrido sobre los grandes rasgos que han conmocionado a la opinión pública, no pocos periodistas se mueven entre la autocrítica y la constatación de los límites del periodismo y expresan su desánimo e impotencia por no poder ejercer como verdaderos fiscales de la democracia:
 
-La visión de una prensa capaz de penetrar en los muros del poder, como ocurrió en el Watergate, pertenece a un pasado ya lejano. Aunque tampoco soy triunfalista sobre el futuro de Internet: nos hace falta tiempo
-
-y perspectiva para calibrar lo que está sucediendo. Aún es pronto para coronar a Assange como a un héroe.
+La visión de una prensa capaz de penetrar en los muros del poder, como ocurrió en el Watergate, pertenece a un pasado ya lejano. Aunque tampoco soy triunfalista sobre el futuro de Internet: nos hace falta tiempo y perspectiva para calibrar lo que está sucediendo. Aún es pronto para coronar a Assange como a un héroe.
 
 9
 
@@ -528,9 +292,7 @@ Por otro lado (y creo que es el aspecto más importante) la elección de estos m
 
 No es una forma de usar los medios poco habitual: la propia ETA usó la BBC para dar mayor importancia a su comunicado de septiembre y Otegi concedió a El País una entrevista consciente de que ello daba muchísima más eficacia al mensaje que querían difundir: ¿ello evidencia que Otegi o ETA se han vuelto agentes del sistema? No, simplemente eligieron una táctica de comunicación que consideraron (acertadamente) la más eficaz.
 
-Estos medios están titulando, efectivamente, como les da la gana y dando y quitando importancia a asuntos según su línea previa apenas hemos vuelto a saber sobre aquella operación de la diplomacia estadounidense para aislar a Chávez a la que no es precisamente ajeno
-
-El País, por ejemplo. Curiosamente, no hay entrevista que haya concedido Julian Assange en que haya desperdiciado la ocasión de poner a caldo a los medios de comunicación dominantes por estar al servicio delsistema. Como quien sabe que está usando un instrumento de su enemigo.
+Estos medios están titulando, efectivamente, como les da la gana y dando y quitando importancia a asuntos según su línea previa apenas hemos vuelto a saber sobre aquella operación de la diplomacia estadounidense para aislar a Chávez a la que no es precisamente ajeno El País, por ejemplo. Curiosamente, no hay entrevista que haya concedido Julian Assange en que haya desperdiciado la ocasión de poner a caldo a los medios de comunicación dominantes por estar al servicio delsistema. Como quien sabe que está usando un instrumento de su enemigo.
 
 11
 
@@ -552,9 +314,7 @@ La diferencia es que los medios de comunicación están inscritos en un contexto
 
 El Cablegate, como toda buena crisis, pone muchas cosas patas arriba. Entre ellas la connivencia de la prensa *mainstream* con la corrupción política globalizada. Como hemos visto más arriba, algunos periodistas reconocen haber quedado ridiculizados en su labor, absolutamente humillados por una banda anónima e ilocalizable de hackers, mientras que otros señalan la distancia entre WikiLeaks y el auténtico periodismo, que sigue siendo necesario y valioso (el primer párrafo de la siguiente cita debe leerse en tono irónico):
 
-El nuevo periodismo de WikiLeaks es la muerte del periodismo, en realidad no es un medio de información, es únicamente un canal a través del que conocemos todos los secretos del mundo, sin filtros. Solo existe el
-
-mensaje –y el mensaje viene de la fuente más fiable, el enemigo que la propia WikiLeaks dice combatir. El periodista ya no es necesario y por tanto ha de ser eliminado, en aras de la transparencia no hay lugar para
+El nuevo periodismo de WikiLeaks es la muerte del periodismo, en realidad no es un medio de información, es únicamente un canal a través del que conocemos todos los secretos del mundo, sin filtros. Solo existe el mensaje –y el mensaje viene de la fuente más fiable, el enemigo que la propia WikiLeaks dice combatir. El periodista ya no es necesario y por tanto ha de ser eliminado, en aras de la transparencia no hay lugar para
 
 12
 
@@ -580,7 +340,7 @@ Pero al incorporar a la prensa popular –y no solo a la «burguesa», inaccesib
 
 13
 
-Carlos García de Castro, «WikiLeaks o el Prometeo dehumo»,*contraindicaciones.* *net,* 9 de diciembre de 2010.
+Carlos García de Castro, «WikiLeaks o el Prometeo de humo»,*contraindicaciones.* *net,* 9 de diciembre de 2010.
 
 14
 
@@ -602,13 +362,11 @@ Los blogs y el «periodismo ciudadano» aparecieron durante un tiempo como el re
 
 Aquí entran en escena dos nuevos asuntos: el periodismo ciudadano, del que hablaremos a continuación, y el declive del espacio público en tanto que arena democrática, que retomaremos más adelante.
 
-Contrainformación a contrapié
+## Contrainformación a contrapié
 
 Si WikiLeaks no es exactamente prensa ni es exactamente un medio de comunicación, entonces... ¿tal vez estamos ante un fenómeno de periodismo ciudadano? ¿O quizás sea algo parecido a un medio de contrainformación digital?
 
-En los propios medios de contrainformación resuenan esas
-
-preguntas:
+## En los propios medios de contrainformación resuenan esas preguntas:
 
 Buenas, me sorprende muchísimo lo poco y en general flojo que están sacando las webs del «canon contrainformativo» (Nodo50, Kaos en la Red, Rebelión, LaHaine, A las Barricadas, Klinamen, Insurgente...) sobre todo lo que está pasando con WikiLeaks por un lado y con la ley Sinde por otro.
 
@@ -626,11 +384,7 @@ hacktivistas por otro, intuyo que porque les ha pillado a contrapié eintentar e
 
 «Clickactivismo» es un término un poco despectivo que se refiere a la práctica de hacer click desde el sofá de casa para apoyar alguna causa justa sin un compromiso vital auténtico, mientras que por hacktivismo se entiende la utilización no violenta de herramientas digitales ilegales o legalmente ambiguas persiguiendo fines políticos (aunque eso de la violencia en Internet es algo sobre lo que hablaremos más adelante). El término «hacktivismo» fue acuñado por el crítico cultural Jason Sack en 1995 y viene de la contracción de las palabras «hacker» y «activista». En la crisis del Cablegate, una de las acciones hacktivistas fue la puesta en funcionamiento de más de mil fotocopias digitales de WikiLeaks (mirrors), acciones que se llevaron a cabo de forma descentralizada, ya que el hacktivismo se mimetiza de tal modo con la Red que no concibe una toma centralizada de decisiones.
 
-Uno de esos colectivos que hace hacktivismo en nuestro terruño y que se implicó en la solidaridad con WikiLeaks es Hacktivistas
-
-17
-
-(siento este lío de nombres, pero hay que distinguir entre el hacktivismo como una actividad genérica y Hacktivistas como un colectivo específico).
+Uno de esos colectivos que hace hacktivismo en nuestro terruño y que se implicó en la solidaridad con WikiLeaks es Hacktivistas (siento este lío de nombres, pero hay que distinguir entre el hacktivismo como una actividad genérica y Hacktivistas como un colectivo específico).
 
 Me puse en contacto con Hacktivistas para preguntarles si creen que WikiLeaks está ocupando el espacio de la contrainformación, a lo cual Txarlie, a título personal, me respondió con un extraordinario análisis. Su explicación está cuajada de referencias técnicas que hemos dejado tal cual, ya que, aunque quizás puedan dificultar la comprensión, expresan ese mimetismo entre activismo social y hacking técnico, cuya frontera es imposible dibujar:
 
@@ -650,9 +404,7 @@ Más o menos en 2006 más de la mitad de los blogs han cerrado.
 
 Es lógico: los blogs son una herramienta para el que escribe, no una necesidad real de la audiencia. Si no tienes nada que escribir, ¿qué sentido tiene tener un blog? Arranca el concepto de periodismo ciudadano: no esperes a que llegue un periódico, cuéntalo tú. Portales como meneame.net surgen para intentar cribar entre tantos contenidos ciudadanos. Ese año nace WikiLeaks, porque saben que hay secretos que no pueden ponerse en un blog. Necesitan un espacio no tan cerrado como cryptome.org (la red de revelación de secretos más antigua) y donde una vez filtrado un material los «periodistas ciudadanos» puedan analizarlo y comentarlo.
 
-Nos vamos a 2008. Los medios llegan tarde y encuentran en los
-
-meneame.net la fuente para rellenar noticias a base de contratar becarios. Además, se hacen muy permeables a las acciones o campañas de los movimientos sociales, aunque con un discurso pobre, infantilizandocualquier contenido. Sin embargo el internauta estaba en otro sitio. Yatiene cuenta en Facebook y experimenta con Twitter. La información corre de boca en boca, o de muro en muro o de twitt en twitt. Para estarinformado solo tienes que mirar tu página, y lo importante es quién es tu «amigo»o a quién «sigues». WikiLeaks comienza a publicar las primerasfiltraciones importantes e incluso recibe su primera orden judicial de cierre, que le hace famoso ante la mayoría de los hacktivistas de todo el mundo.
+Nos vamos a 2008. Los medios llegan tarde y encuentran en los meneame.net la fuente para rellenar noticias a base de contratar becarios. Además, se hacen muy permeables a las acciones o campañas de los movimientos sociales, aunque con un discurso pobre, infantilizandocualquier contenido. Sin embargo el internauta estaba en otro sitio. Yatiene cuenta en Facebook y experimenta con Twitter. La información corre de boca en boca, o de muro en muro o de twitt en twitt. Para estarinformado solo tienes que mirar tu página, y lo importante es quién es tu «amigo»o a quién «sigues». WikiLeaks comienza a publicar las primerasfiltraciones importantes e incluso recibe su primera orden judicial de cierre, que le hace famoso ante la mayoría de los hacktivistas de todo el mundo.
 
 En el año 2010 se abre la era *open disclosure*, un fenómeno basado en dos potencias: la incapacidad de realizar una censura efectiva en un mundo digital y el efecto Streisand. WikiLeaks las conoce y laspotencia. Sabe que Amazon no es un sitio seguro como *hosting*, aunque no tiene pruebas de ello. Por eso lo usa, para que Amazon elija su bando. Los bancos no son simples intermediarios y Suiza es famosa por defender a sus clientes, aunque sean criminales. Por eso la cuenta [bancaria] de Assange tiene que estar ahí. Quiere verificar si le van a cerrar lacuenta, y lo hacen. Ahora Suiza ya no es famosa por defender a sus clientes,sino por defender a criminales.
 
@@ -660,9 +412,7 @@ En el año 2010 se abre la era *open disclosure*, un fenómeno basado en dos pot
 
 La resistencia ante esto tiene que ser doble: por un lado *hosting* con orientación política (o respeto escrupuloso de la ley, que también es política), por el otro cientos de *mirrors* [espejos] semidomésticos. El problema es que los medios de contrainformación tradicional en estos cuatro años no han demostrado que les interese WikiLeaks. Igual que los medios tradicionales.
 
-La contrainformación hoy es publicar aquello que van a querer ocultar y poder analizarlo para que la ciudadanía lo entienda. Loscolectivos no necesitan de un Indymedia para decir lo que hacen. Para eso ya están
-
-los blogs. Como estrategia para ganar visibilidad, el modelo portal está en claro retroceso.
+La contrainformación hoy es publicar aquello que van a querer ocultar y poder analizarlo para que la ciudadanía lo entienda. Loscolectivos no necesitan de un Indymedia para decir lo que hacen. Para eso ya están los blogs. Como estrategia para ganar visibilidad, el modelo portal está en claro retroceso.
 
 La gente no se va a leer los cables enteros, de igual forma que no se va a leer la Ley de Economía Sostenible entera. No es problema. Si nopuedes ser WikiLeaks, tienes que ser un intermediario que sea capaz dedestacar información y llevarla a la ciudadanía. Esa es lacontrainformación del siglo XXI: o revelas secretos o los analizas. WikiLeaks no necesitade los portales de contrainformación. Es al revés. Nodo50, Kaos en la Red, Rebelión, LaHaine, A las Barricadas, Klinamen, Insurgente, etc., tienen que leer los cables, darles contexto y generar discurso. Ya no pueden ser un simple *hub* [concentrador] de todo un movimiento que ni existe ni avanza unido. No necesitamos portales, necesitamos analistas. Y, además, analistas que sean capaces de complejizar y no infantilizar. Mensajes claros pero profundos. Si no tienes información interesante, estás fuera.
 
@@ -706,23 +456,9 @@ Como ya antes nos ha recordado el ciberpunk, tras toda arquitectura informaciona
 
 Sin embargo, a pesar de la belleza de la imagen épica del hacker vengador, las estructuras de poder no se resquebrajan solamente por la acción del hacker vengador, por más heroico que esto sea, sino porque el hacker actúa en el contexto de una nueva esfera público-privada online, es decir, porque actúa de tal manera que otros quisieron y pudieron completar su acción.
 
-Las estructuras de poder no se resquebrajan porque el Cablegate desvele una información privilegiada que solo unas élites intelectuales o tecnócratas pueden interpretar, sino porque un 
-
-20
-
-**
-
-*Ibídem*
-
-.
-
-<38\>
-
-trozo de información aparentemente insignificante, cuando es expuesta ante millones de ojos, puede cobrar relevancia en infinidad de redes de sentido que de repente descubren en ella un valor extraordinario:
+Las estructuras de poder no se resquebrajan porque el Cablegate desvele una información privilegiada que solo unas élites intelectuales o tecnócratas pueden interpretar, sino porque un trozo de información aparentemente insignificante, cuando es expuesta ante millones de ojos, puede cobrar relevancia en infinidad de redes de sentido que de repente descubren en ella un valor extraordinario:
 
 ¿Es importante que todos le den una revisada a Cablegate? Pues sí, es importante. Un trozo de información puede que no sea importante para muchos, pero alguien lo puede amarrar a otro para completar una historia que sí sea relevante. Cuanta más gente revise los Cablegate, más cabos se van a ir atando y más interesante se va a volver lainformación. Así que dense una vuelta y revuelquen papeles un rato. O sigan el tag \#cablegate en Twitter para ver qué encuentran los demás.
-
-21
 
 WikiLeaks ofrece una información en bruto, sin elaborar. Trozos de historias que se irán convirtiendo en información más y más contundente cuanta más gente la revise y cuantos más cabos se aten, en un proceso distribuido en el que varios asociados con modelos económicos diferentes (empresa comercial, asociación sin ánimo de lucro, redes) trabajan juntos para hacer llegar la historia a la esfera pública. Un proceso por el que los medios de contrainformación tradicional en estos cuatro años no han demostrado interés.
 
@@ -732,11 +468,7 @@ En síntesis, tendríamos que allá por el siglo XIX la tecnología del telégra
 
 21
 
-Mario, «Una explicación rápida de WikiLeaks y Cablegate»,
-
-geek.ticoblogger.
-
-com, 6 de diciembre.
+Mario, «Una explicación rápida de WikiLeaks y Cablegate», geek.ticoblogger.com, 6 de diciembre.
 
 <39\>
 
@@ -756,13 +488,7 @@ Así es ahora y así ha sido desde el principio en las redes distribuidas, cuand
 
 Sálvese quien pueda
 
-En un mítico episodio de la historia de Internet,
-
-22
-
-se cuenta que
-
-a principios de los años sesenta la Rand Corporation, un *think tank* [laboratorio de ideas] para asesorar al complejo militar y de defensa de Estados Unidos, puso encima de la mesa el problema de cómo mantener las comunicaciones después de un ataque nuclear.
+En un mítico episodio de la historia de Internet, se cuenta que a principios de los años sesenta la Rand Corporation, un *think tank* [laboratorio de ideas] para asesorar al complejo militar y de defensa de Estados Unidos, puso encima de la mesa el problema de cómo mantener las comunicaciones después de un ataque nuclear.
 
 En respuesta a este insólito problema, los ingenieros creativos propusieron la delirante idea de diseñar una red que funcionara bajo tres principios operativos:
 
@@ -778,7 +504,7 @@ Para que una red «sálvese quien pueda» funcione bien, los nodos tienen que te
 
 22
 
-Sobre la historia de Internet, sugierohttp://www.microsiervos.com/archivo/internet/el-verdadero-origen-de-internet.html
+Sobre la historia de Internet, sugiero http://www.microsiervos.com/archivo/internet/el-verdadero-origen-de-internet.html
 
 <41\>
 
