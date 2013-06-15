@@ -14,8 +14,11 @@
 * **Compartir bajo la misma licencia** - Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licenciaidéntica a ésta.
 
 > © 2012, del texto, Margarita Padilla. 
-> © 2012, de la edición, \[Traficantes de Sueños\]\(editorial@traﬁcantes.net\).
+>
+> © 2012, de la edición, \[Traficantes de Sueños\]\(mailto: editorial@traﬁcantes.net\).
+>
 > creative commons cc - Licencia Creative Commons
+>
 > Reconocimiento-CompartirIgual 3.0 Unported \(CC BY-SA 3.0\)
 
 # A quién va dirigido este libro
