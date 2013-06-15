@@ -2,28 +2,9 @@
 
 > Dedico este libro a la situación, a la dureza de su filo, a su energía cruda y tierna y a su final abierto.
 
-## Usted es libre de:
+Usted es libre de: **Compartir** - copiar, distribuir y comunicar públicamente la obra. **Remezclar** - transformar la obra. **Comercial** - hacer un uso comercial de esta obra
 
-**Compartir** - copiar, distribuir y comunicar públicamente la obra
-
-**Remezclar** - transformar la obra
-
-**Comercial** - hacer un uso comercial de esta obra
-
-## Bajo las condiciones siguientes:
-
-**Reconocimiento** - Debe reconocer los créditos de la obra de la maneraespecifi cada por el autor o el licenciador \(pero no de una manera que sugiera que tiene suapoyo o apoyan el uso que hace de su obra\).
-
-**Compartir bajo la misma licencia** - Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licenciaidéntica a ésta.
-
-## Entendiendo que:
-
-* Renuncia - Alguna de estas condiciones puede no aplicarse si seobtiene el permiso del titular de los derechos de autor
-* Dominio Público - Cuando la obra o alguno de sus elementos se halleen el dominio público según la ley vigente aplicable, esta situación no quedará afectada por la licencia.
-* Otros derechos - Los derechos siguientes no quedan afectados por lalicencia de ninguna manera: 
- * Los derechos derivados de usos legítimos u otras limitacionesreconocidas por ley no se ven afectados por lo anterior.
- * Los derechos morales del autor;o Derechos que pueden ostentar otras personas sobre la propia obra o suuso, como por ejemplo derechos de imagen o de privacidad.
-* Aviso - Al reutilizar o distribuir la obra, tiene que dejar muy enclaro los términos de la licencia de esta obra.
+Bajo las condiciones siguientes: **Reconocimiento** - Debe reconocer los créditos de la obra de la maneraespecifi cada por el autor o el licenciador \(pero no de una manera que sugiera que tiene suapoyo o apoyan el uso que hace de su obra\). **Compartir bajo la misma licencia** - Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licenciaidéntica a ésta.
 
 > © 2012, del texto, Margarita Padilla. 
 >
@@ -32,6 +13,7 @@
 > creative commons cc - Licencia Creative Commons
 >
 > Reconocimiento-CompartirIgual 3.0 Unported \(CC BY-SA 3.0\)
+
 
 # A quién va dirigido este libro
 
