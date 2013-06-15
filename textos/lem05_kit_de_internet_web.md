@@ -139,7 +139,7 @@ A modo de muestra, y para recordar las tonalidades del debate, entresaquemos alg
 
 **2**
 
-Sobre la responsabilidad social colectiva, por mirar hacia otro lado:
+## Sobre la responsabilidad social colectiva, por mirar hacia otro lado:
 
 No me refiero solo al desgaste infinito de las instituciones lleven el barniz del discurso socialista, de centro derecha o cualquier otro en el que Todos perdemos, aunque un «artista de la pureza» se empeñe en afirmar que «el Estado son los otros», bastan dos dedos de frente para comprender que el Estado somos todos y que las instituciones que urden tramas y tejen sus estrategias a base de mentiras y engaños son nuestro reflejo (también el de los artistas que lo denuncian) o, peor,son la herramienta por medio de la cual se sostiene el «Estado de bienestar» que tanto tememos perder.
 
@@ -147,9 +147,7 @@ Pierden las instituciones, su credibilidad y su autoridad moral ya bastante merm
 
 -
 
-Puede ser interesante releer el debate público que desencadenó elCablegate a
-
-la luz de lo acontecido unos meses después con el 15M.
+Puede ser interesante releer el debate público que desencadenó el Cablegate a la luz de lo acontecido unos meses después con el 15M.
 
 2
 
@@ -161,7 +159,7 @@ periodistas, que se ven ridiculizados en su labor, absolutamentehumillados por u
 
 3
 
-Sobre la impotencia de una denuncia que en realidad no consigue cambiar nada:
+## Sobre la impotencia de una denuncia que en realidad no consigue cambiar nada:
 
 El ciudadano común lleva décadas consumiendo regularmente novelas y películas en las que, con mayor o menor grado de ficción, se denuncian tramas corruptas o criminales que señalan y comprometen a las más altas esferas del poder. La consecuencia de ello, sin embargo, es la
 
@@ -172,8 +170,7 @@ aceptación generalizada de que el poder es, en efecto, corrupto ycriminal; y al
 Ante la impotencia de toda reprobación ética, puede que sea la cruda exposición de la estupidez de los agentes del poder lo que, en laofensiva de WikiLeaks, posee mayor capacidad subversiva.
 
 4
-
-Y sobre la paradójica inutilidad de la transparencia:
+## Y sobre la paradójica inutilidad de la transparencia:
 
 La gran coartada de los fracasos o errores políticos han sido atribuidosa la falta de transparencia frente a los ciudadanos, pero latransparencia, tal como se urge actualmente a los bancos y a los gobiernos, no aporta otra cosa sino la redundancia de la ya sospechada sorpresa. O, mejor, el rebote de lo visto en el cansancio de lo *dèjá vu*.
 
@@ -207,7 +204,7 @@ WikiLeaks quiere la totalidad, hay una dimensión profundamente autoritaria en s
 
 6
 
-Sobre su relación con la CIA:
+## Sobre su relación con la CIA:
 
 Cada vez existen más sospechas sobre el verdadero interés de las filtraciones. En enero de 2007 un miembro importante de WikiLeaks, John Young, quien actualmente encabeza el sitio**cryptome.org, renunció a la organización alegando que se trataba de una operación encubierta de la CIA. Por otro lado algunas fuentes de inteligencia de diversos países asiáticos han sugerido la posibilidad de que «WikiLeaks está operando una campaña de desinformación, alegando persecución de las agencias estadounidenses de inteligencia, pero realmente pertenece a esas Vicente Verdú, «La transparencia de la transparencia», *elpais.com*, 4 de diciembre de 2010.
 
@@ -235,19 +232,19 @@ Los gobiernos sellan como secretos los verdaderos secretos de los Estados, y es 
 
 secuestro de ciudadanos y su traslado a un agujero negro legal en Guantánamo? ¿Es «secreto» violar las leyes? ¿Es «secreto» la pederastia de algunos sacerdotes católicos?
 
-Las presiones políticas visibles del Congreso estadounidense doblaron la mano de Amazon, que además de hospedar a WikiLeaks vende libros, discos y demás productos. Era una mano fácil de quebrar, sincapacidad tecnológica ni económica para resistir. Everydns.net [...] pese aestar mejor dotada tecnológicamente tampoco pudo resistir. Adujo que no podía
-
-dejar sin servicio a cerca de medio millón de clientes y se desprendióde WikiLeaks.org. La empresa Everydns.net es norteamericana.
+Las presiones políticas visibles del Congreso estadounidense doblaron la mano de Amazon, que además de hospedar a WikiLeaks vende libros, discos y demás productos. Era una mano fácil de quebrar, sincapacidad tecnológica ni económica para resistir. Everydns.net [...] pese aestar mejor dotada tecnológicamente tampoco pudo resistir. Adujo que no podía dejar sin servicio a cerca de medio millón de clientes y se desprendióde WikiLeaks.org. La empresa Everydns.net es norteamericana.
 
 A Estados Unidos le queda una tercera opción. Sería como lanzar la bomba atómica: atacar el primer nivel de la Red y obligar al ICANN (*Internet Corporation for Assigned Names and Numbers*), entidadindependiente y sin ánimo de lucro encargada de asignar espacio de direcciones numéricas de protocolo de Internet (IP), a borrar del mapa ciberespacial a WikiLeaks, sea cual sea su dirección-refugio. Sería demostrar que el ICANN no es independiente, sino que está al servicio de un país.Internet dejaría de ser libre.
 
-El bloqueo se consigue con ataques de concurrencia masivos:
+## El bloqueo se consigue con ataques de concurrencia masivos:
 
 decenas de miles de ordenadores, algunos cargados de virus, tratan de entrar en el mismo segundo en una página determinada hasta bloquearla. Hace años, en Cuba se estrenó la película *Alicia en el pueblo delas maravillas*. Tras prohibirla, las autoridades cubanas tuvieron que ceder debido a que el filme recibió varios premios en el extranjero. Se pasó apenas una semana en un cine de La Habana. El público estaba compuesto por gente de confianza: policías y miembros del partido para que nadie de fuera del círculo del poder pudiera verla. Eran otros tiempos, otros medios, pero el sistema es el mismo: impedir la visualización delo que se desea ocultar.
 
 Recorro el dial de las radios y de las televisiones y me topo con periodistas que defienden a los gobiernos y su tendencia al secretismo.
 
-Atacan a WikiLeaks. Son los que no tienen los papeles del Cablegate en español. Los periodistas somos en teoría los fiscales de la democracia, los encargados de vigilar al poder, de defender las leyes y a losciudadanos. Quizá falla todo porque sobre todo fallamos nosotros.
+Atacan a WikiLeaks. Son los que no tienen los papeles del Cablegate en español. Los periodistas somos en teoría los fiscales de la democracia, los encargados de vigilar al poder, de defender las leyes y a losciudadanos. 
+
+Quizá falla todo porque sobre todo fallamos nosotros.
 
 8
 Ramón Lobo, «La Primera Guerra Mundial cibernética contra Wikileaks»,*elpais.com*, 3 de diciembre de 2010.
@@ -392,7 +389,7 @@ A finales de los noventa la comunicación pública estaba controlada por los med
 
 16
 
-«¿El “hacktivismo” anuncia la muerte de la “contrainformación”?»,*estoydescentrado.* *blogspot.com*, 21 de diciembre de 2010.
+«¿El “hacktivismo” anuncia la muerte de la “contrainformación”?», *estoydescentrado.* *blogspot.com*, 21 de diciembre de 2010.
 
 17
 
@@ -462,7 +459,7 @@ Las estructuras de poder no se resquebrajan porque el Cablegate desvele una info
 
 WikiLeaks ofrece una información en bruto, sin elaborar. Trozos de historias que se irán convirtiendo en información más y más contundente cuanta más gente la revise y cuantos más cabos se aten, en un proceso distribuido en el que varios asociados con modelos económicos diferentes (empresa comercial, asociación sin ánimo de lucro, redes) trabajan juntos para hacer llegar la historia a la esfera pública. Un proceso por el que los medios de contrainformación tradicional en estos cuatro años no han demostrado interés.
 
-Pero, ¿tiene sentido jugarse el físico por filtrar información en bruto, así en general, y «nada más», solo para que otros la analicen como quieran? ¿Qué grupo de acción política haría algo semejante?Con tantos elementos encima de la mesa, quizás sea bueno hacer una recapitulación.
+Pero, ¿tiene sentido jugarse el físico por filtrar información en bruto, así en general, y «nada más», solo para que otros la analicen como quieran? ¿Qué grupo de acción política haría algo semejante? Con tantos elementos encima de la mesa, quizás sea bueno hacer una recapitulación.
 
 En síntesis, tendríamos que allá por el siglo XIX la tecnología del telégrafo permitió a la prensa poner la política al alcance del ciudadano. Posteriormente, con su desregulación y su concentración ha contribuido al declive del espacio público en tanto que arena democrática. El periodismo de investigación se está reorganizando hacia un modelo en el que las tareas se reparten entre nodos –no necesariamente coordinados– que cooperan para hacer llegar la información a la esfera pública. La gente de a pie no se va a leer los cables enteros. Pero eso no supone ningún
 
@@ -486,7 +483,7 @@ Es natural que WikiLeaks haya encontrado tantos apoyos en Internet, y que desde 
 
 Así es ahora y así ha sido desde el principio en las redes distribuidas, cuando se imaginaron allá por los años sesenta.
 
-Sálvese quien pueda
+## Sálvese quien pueda
 
 En un mítico episodio de la historia de Internet, se cuenta que a principios de los años sesenta la Rand Corporation, un *think tank* [laboratorio de ideas] para asesorar al complejo militar y de defensa de Estados Unidos, puso encima de la mesa el problema de cómo mantener las comunicaciones después de un ataque nuclear.
 
@@ -586,9 +583,9 @@ Un cambio inestable puede replicarse y multiplicarse haciendo crisis o haciendo 
 
 Fidel Moreno, «La lógica borrosa. Una conversación con Antonio Rodríguez de las Heras»,*El estado mental*, 2011 [disponible en Internet, porejemplo, en *El Boomeran(g)*].
 
-<47\>
+====
 
-\II. Anonymous
+#\II. Anonymous
 
 El lunes 6 de diciembre de 2010, en defensa de WikiLeaks, Anonymous reorientó su Operation Payback (\#payback) contra PostFinance y PayPal. PostFinance era el banco suizo que había cerrado la cuenta bancaria de Julian Assange y le había bloqueado 31.000 euros, lo que le dificultaba costear su defensa jurídica, y PayPal era la pasarela de pago para mover dinero por Internet mediante la cual WikiLeaks estaba obteniendo pequeñas o no tan pequeñas donaciones masivas para su financiación, y que también le había bloqueado esa posibilidad. Como resultado de la \#payback, sus webs dejaron de funcionar.
 
@@ -630,11 +627,7 @@ Inesperadamente, el 24 de septiembre, mientras el bufete de
 
 abogados del Reino Unido ACS:Law estaba intentando restaurar su web, tumbada por la \#payback, por descuido dejaron al descubierto un fichero que los activistas cazaron al vuelo. Al abrirlo, comprobaron que se trataba de la copia de seguridad de una base de datos de correos electrónicos intercambiados entre oficinas y personal de la firma con información sobre datos personales de más de 8.000 personas acusadas de intercambio de archivos en el Reino Unido. Los activistas publicaron esos correos y datos personales en varias webs de intercambio de archivos y, debido al escándalo por esa violación masiva de datos personales de personas sospechosas de compartir archivos, que ahora podían pasar de ser acusadas a ser acusadoras y denunciar al gabinete ACS:Law por no haber garantizado la protección de sus datos personales, el Tribunal Superior del Reino Unido concedió una moratoria a ese macropleito contra las descargas.
 
-La moratoria fue valorada por los activistas como una gran
-
-victoria, y el 3 de octubre la \#payback se reactivó contra Ministry of Sound (MOS), el mayor sello de música independiente del Reino Unido. Dos de sus webs, la general de todo el sello y un sitio de pago de entradas para los conciertos, se vieron afectadas por la acción.
-
-<50\>
+La moratoria fue valorada por los activistas como una gran victoria, y el 3 de octubre la \#payback se reactivó contra Ministry of Sound (MOS), el mayor sello de música independiente del Reino Unido. Dos de sus webs, la general de todo el sello y un sitio de pago de entradas para los conciertos, se vieron afectadas por la acción.
 
 Se calcula que hasta el 23 de noviembre de 2010 la \#payback había causado treinta y siete días de inactividad a algunas de las webs más importantes del mundo audiovisual y antidescargas. Y esos eran los ánimos cuando el 6 de diciembre la operación viró y tomó como objetivo a los enemigos de WikiLeaks, con esta argumentación:
 
@@ -644,159 +637,69 @@ Para entonces Anonymous había abierto cuentas en Twitter y en Facebook y los ac
 
 TARGET: WWW.AMAZON.COM !!! INSTRUCTIONS: http://pastehtml.com/view/1c8i33u.html You LOIC will start in 2 hours \#wikileaks\#payback \#ddos
 
-La restricción de Twitter, que solo permite publicar mensajes de hasta 140 caracteres, no es obstáculo para que en mensaje se indiquen: el objetivo (www.amazon.com), el momento (*will start in 2 hours*
+La restricción de Twitter, que solo permite publicar mensajes de hasta 140 caracteres, no es obstáculo para que en mensaje se indiquen: el objetivo (www.amazon.com), el momento (*will start in 2 hours* empezaremos en dos horas), la herramienta (LOIC), el significado es decir, la semántica de la operación (\#wikileaks \#payback \#ddos, lo cual podría leerse como «la operación \#payback va a lanzar un ataque distribuido de denegación de servicio conocido por sus siglas en inglés DDoS, en apoyo a WikiLeaks») y dónde encontrar las instrucciones prácticas para todo ello (http://pastehtml.com/view/1c8i33u.html).
 
-–
+Ese mismo 9 de diciembre Twitter canceló la cuenta de Anonymous y Facebook eliminó la página de la Operation Payback, pero estas cancelaciones no resultaron muy efectivas, ya que, aunque Twitter dio de baja la cuenta @anon\_operation, nuevas cuentas se iban creando al vuelo cambiando ligeramente el nombre, como @anon\_operationn o @anon\_operations, en un juego del ratón y el gato entre Anonymous y Twitter en el que Twitter finalmente tiró la toalla y reconoció que la suspensión de la cuenta había sido un error.
 
-empezaremos en dos horas), la herramienta (LOIC),
+El viernes 10 de diciembre Anonymous anunció un giro en su estrategia de ataque a los enemigos de WikiLeaks y, en su lucha digital para proteger la libertad de información en Internet, decidió centrar sus esfuerzos en divulgar las filtraciones.
 
-el significado
+## Twitter claudica y reabre la cuenta AnonOps.
 
-–
-
-es decir, la semántica de la operación
-
-–
-
-(\#wikileaks \#payback \#ddos, lo cual podría leerse como «la operación \#payback va a lanzar un ataque distribuido de denegación de servicio
-
-–
-
-conocido por sus siglas en inglés DDoS
-
-–
-
-, en apoyo a
-
-WikiLeaks») y dónde encontrar las instrucciones prácticas para todo ello (http://pastehtml.com/view/1c8i33u.html).
-
-Ese mismo 9 de diciembre Twitter canceló la cuenta de Anonymous y Facebook eliminó la página de la Operation Payback, pero estas cancelaciones no resultaron muy efectivas, ya que, aunque Twitter dio de baja la cuenta @anon\_operation, nuevas cuentas se iban creando al vuelo cambiando ligeramente el nombre, como
-
-<51\>
-
-Anonymous
-
-@anon\_operationn o @anon\_operations, en un juego del ratón y el gato entre Anonymous y Twitter en el que Twitter finalmente tiró la toalla y reconoció que la suspensión de la cuenta había sido un error.
-
-El viernes 10 de diciembre Anonymous anunció un giro en su
-
-estrategia de ataque a los enemigos de WikiLeaks y, en su lucha digital para proteger la libertad de información en Internet, decidió centrar sus esfuerzos en divulgar las filtraciones.
-
-Twitter claudica y reabre la cuenta AnonOps.
-
-Discurso genérico
+### Discurso genérico
 
 El programa que organiza las acciones de Anonymous está expuesto en una famosa carta:
 
-Hola a todos. Somos Anonymous. Lo que conozca o no conozca sobre nosotros es irrelevante. Hemos decidido escribirle a usted, a los medios
-
-de comunicación y a todos los ciudadanos del mundo libre en general para informar sobre nuestro mensaje, nuestras intenciones, objetivos potenciales y nuestra actual campaña pacífica por la libertad.
-
-<52\>
+Hola a todos. Somos Anonymous. Lo que conozca o no conozca sobre nosotros es irrelevante. Hemos decidido escribirle a usted, a los medios de comunicación y a todos los ciudadanos del mundo libre en general para informar sobre nuestro mensaje, nuestras intenciones, objetivos potenciales y nuestra actual campaña pacífica por la libertad.
 
 El mensaje es simple: libertad de expresión. Anonymous quiere ser un movimiento pacífico a favor de la libertad de expresión en todas partesy en todas sus formas. Libertad de expresión en Internet, para elperiodismo y los periodistas y los ciudadanos del mundo en general.
 
-Independientemente de lo que usted piense o tenga que decir,
+Independientemente de lo que usted piense o tenga que decir, Anonymous está haciendo campaña a favor de usted.
 
-Anonymous está haciendo campaña a favor de usted.
+Las noticias recientes de nuestras campañas han sido, en el mejor de los casos, mal transmitidas. Anonymous no es siempre el mismo grupo de personas. Se dice que la Constitución de Estados Unidos es un documento vivo, ya que puede ser editado, modificado, cambiado por la voluntad del pueblo para satisfacer las necesidades de los ciudadanos.
 
-Las noticias recientes de nuestras campañas han sido, en el mejor
+En ese mismo sentido, Anonymous es una idea viva. Anonymous es una idea que puede ser editada, actualizada o cambiada a su antojo. No somos una organización terrorista como quieren hacerle creer los gobiernos, los demagogos y los medios de comunicación.
 
-de los casos, mal transmitidas. Anonymous no es siempre el mismo grupo de personas. Se dice que la Constitución de Estados Unidos es un documento vivo, ya que puede ser editado, modificado, cambiado por la voluntad del pueblo para satisfacer las necesidades de los ciudadanos.
+En este momento Anonymous está centrado en una campaña pacífica por la libertad de expresión. Le pedimos al mundo que nos apoye, no por nosotros, sino en su propio beneficio.
 
-En ese mismo sentido, Anonymous es una idea viva. Anonymous
-
-es una idea que puede ser editada, actualizada o cambiada a su antojo. No somos una organización terrorista como quieren hacerle creer los gobiernos, los demagogos y los medios de comunicación.
-
-En este momento Anonymous está centrado en una campaña pacífica por la libertad de expresión. Le pedimos al mundo que nos apoye, no
-
-por nosotros, sino en su propio beneficio.
-
-Cuando los gobiernos controlan la libertad, le están controlando
-
-a usted. Internet es el último bastión de la libertad en este mundo en constante evolución técnica. Internet es capaz de conectar a todos. Cuando estamos conectados somos fuertes. Cuando somos fuertes, tenemos el poder. Cuando tenemos el poder somos capaces de hacer lo imposible.
+Cuando los gobiernos controlan la libertad, le están controlando a usted. Internet es el último bastión de la libertad en este mundo en constante evolución técnica. Internet es capaz de conectar a todos. Cuando estamos conectados somos fuertes. Cuando somos fuertes, tenemos el poder. Cuando tenemos el poder somos capaces de hacer lo imposible.
 
 Es por esto que el gobierno se está movilizando contra WikiLeaks.
 
 Esto es lo que temen. Nunca se olvide de esto: temen nuestro poder cuando nos unimos.
 
-Las intenciones de Anonymous están muy claras. Somos un pueblo
+Las intenciones de Anonymous están muy claras. Somos un pueblo en campaña por la libertad. Las intenciones de Anonymous residen en cambiar la forma en la que los gobiernos del mundo y la gente en general ven en la actualidad la libertad de expresión e Internet. Anonymous está dispuesto y es capaz de hacer campañas por la libertad de todos. Mientras usted lee las noticias, ve la televisión, discute con su pareja,ama a sus hijos, odia a su vecino, critica a su vecino, nosotros desarrollamos campañas a su favor. El objetivo es simple: alcanzar el derecho amantener Internet libre de cualquier control de cualquier entidad,corporación o gobierno. Vamos a luchar por esto hasta morir en el último intento. Lo hacemos no solo por nosotros mismos, sino por el mundo y por sus habitantes en general.
 
-en campaña por la libertad. Las intenciones de Anonymous residen en cambiar la forma en la que los gobiernos del mundo y la gente en general
+Presten atención, ciudadanos, gobiernos y planeta. La campaña pacífica de Anonymous se centrará en cualquier organización, corporación, gobierno o entidad hasta que logremos que Internet sea Anonymous realmente libre. Anonymous está haciendo algo que, en la historia, otros muchos han hecho en otras luchas que alcanzaron el éxito: una sentada. Puede ser difícil de comprender, pero una sentada digital es el método más efectivo para mostrar a todos nuestro derecho a la libertad de expresión y a una Internet libre. Nuestros métodos pueden parecer crueles con esas entidades contra las que estamos haciendo campaña, pero recuerde que ellas apoyan la censura y están negando a todos un derecho humano fundamental. Cualquier persona, corporación, gobierno o entidad que elimine su apoyo a los que censuran y promocione la libertad de expresión e Internet libre se convertirá en nuestro aliado.
 
-ven en la actualidad la libertad de expresión e Internet. Anonymous está
-
-dispuesto y es capaz de hacer campañas por la libertad de todos. Mientras usted lee las noticias, ve la televisión, discute con su pareja,ama a sus hijos, odia a su vecino, critica a su vecino, nosotros desarrollamos
-
-campañas a su favor. El objetivo es simple: alcanzar el derecho amantener Internet libre de cualquier control de cualquier entidad,corporación o gobierno. Vamos a luchar por esto hasta morir en el último intento. Lo hacemos no solo por nosotros mismos, sino por el mundo y por sus habitantes en general.
-
-Presten atención, ciudadanos, gobiernos y planeta. La campaña
-
-pacífica de Anonymous se centrará en cualquier organización, corporación, gobierno o entidad hasta que logremos que Internet sea
-
-<53\>
-
-Anonymous
-
-realmente libre. Anonymous está haciendo algo que, en la historia, otros muchos han hecho en otras luchas que alcanzaron el éxito: una sentada. Puede ser difícil de comprender, pero una sentada digital es el método más efectivo para mostrar a todos nuestro derecho a la libertad de expresión y a una Internet libre. Nuestros métodos pueden parecer crueles con esas entidades contra las que estamos haciendo campaña, pero recuerde que ellas apoyan la censura y están negando a todos un derecho humano fundamental. Cualquier persona, corporación, gobierno o entidad que elimine su apoyo a los que censuran y promocione la libertad de expresión e Internet libre se convertirá en nuestro aliado.
-
-Anonymous, en este momento, quiere convencer en lugar de hacer
-
-daño. Estamos haciendo campaña por la libertad para todos, incluso para aquellos que no la apoyan.
+Anonymous, en este momento, quiere convencer en lugar de hacer daño. Estamos haciendo campaña por la libertad para todos, incluso para aquellos que no la apoyan.
 
 No nos tema. Las campañas de Anonymous no tienen la intención de dañar a ciudadanos individuales, organizaciones, instituciones o webs que apoyan verdaderamente la libertad de expresión. Nuestro pasado no es nuestro presente. Estamos aquí para luchar por todos. Donde otros han hecho esta promesa y han fallado, nuestro objetivo es mantenerla viva para todo el mundo.
 
-No siempre todo lo que se nos atribuye es obra nuestra. No crea
-
-todo lo que escuche o lea en las noticias. Muchas veces se nos achacan acciones que no nos corresponden y cuya autoría no es nuestra. El verdadero núcleo de Anonymous está aquí para ayudar al mundo libre. Anonymous desea representar la verdad y les pedimos a los ciudadanos, organizaciones, medios de comunicación y gobiernos que hagan lo mismo.
+No siempre todo lo que se nos atribuye es obra nuestra. No crea todo lo que escuche o lea en las noticias. Muchas veces se nos achacan acciones que no nos corresponden y cuya autoría no es nuestra. El verdadero núcleo de Anonymous está aquí para ayudar al mundo libre. Anonymous desea representar la verdad y les pedimos a los ciudadanos, organizaciones, medios de comunicación y gobiernos que hagan lo mismo.
 
 Verdaderamente, se trata de un programa «simple» y genérico: luchar por la libertad, y en concreto por la libertad de expresión en Internet.
 
-Ambigüedad deliberada
+### Ambigüedad deliberada
 
 Como vamos viendo, en las luchas en Internet la libertad de expresión resurge a cada momento como un derecho estratégico, como uno de esos derechos fundamentales que a su vez garantizan otros derechos de segundo grado.
-
-<54\>
 
 Ya hemos visto antes cómo WikiLeaks, sin ser exactamente prensa, tampoco busca exactamente desmarcarse, sino que más bien opta por confundirse con ella, provocando una ambigüedad deliberada, seguramente para ampararse en la libertad de expresión reconocida por las constituciones democráticas. (¿Crisis a cambio de catástrofe?).
 
 En el viejo mundo capitalista democrático la libertad de prensa es un derecho garantizado, mientras que en Internet todavía no hay ningún derecho reconocido. Es en ese gradiente de derechos donde una indefinición o una ambigüedad deliberada permite dislocar el sistema con sus propios mecanismos: en el caso de WikiLeaks, enrocándose en el derecho a la libertad de prensa para denunciar la violación del derecho a la información.
 
-Una estrategia así de ambigua no puede tener éxito si se
+Una estrategia así de ambigua no puede tener éxito si se reivindica como antisistema. Por eso en WikiLeaks no hay ningún rasgo antisistema, aunque sea una bomba para el sistema. Su meta es profundizar la libertad de expresión: no importan las ideas, sino la libertad para expresarlas, aunque, paradójicamente, WikiLeaks no es un dispositivo diseñado para expresar ideas.
 
-reivindica como antisistema. Por eso en WikiLeaks no hay ningún rasgo antisistema, aunque sea una bomba para el sistema. Su meta es profundizar la libertad de expresión: no importan las ideas, sino la libertad para expresarlas, aunque, paradójicamente, WikiLeaks no es un dispositivo diseñado para expresar ideas.
-
-Con un aparataje *mainstream*
-
-(Amazon, PayPal, Visa, MasterCard, banca suiza, etc.) y alianzas con grandes grupos mediáticos (*The Guardian, The New York Times, Le Monde, El País y Der Spiegel*), se coloca en una posición desde la que puede desafiar al sistema operativo del viejo mundo capitalista democrático sin transgredir las reglas al modo antisistema, o transgrediéndolas de una manera tan confusa que hace muy difícil su criminalización.
+Con un aparataje *mainstream* (Amazon, PayPal, Visa, MasterCard, banca suiza, etc.) y alianzas con grandes grupos mediáticos (*The Guardian, The New York Times, Le Monde, El País y Der Spiegel*), se coloca en una posición desde la que puede desafiar al sistema operativo del viejo mundo capitalista democrático sin transgredir las reglas al modo antisistema, o transgrediéndolas de una manera tan confusa que hace muy difícil su criminalización.
 
 Esta ambigüedad se proyecta incluso en la propia personalidad escurridiza de Julian Assange: un personaje que es ángel y demonio a la vez, que pagará su osadía con un coste personal muy alto y que condensa en primera persona todo lo que, desde la vieja lógica, no es trigo limpio: exigir transparencia operando desde el secreto, brindar negocio y aliarse con las tramas de poder mediático que pretende denunciar, liderar un proyecto personalista, enfrentarse a una acusación de violación...
 
-<55\>
-
-Anonymous
-
 Pero si la ambigüedad deliberada de WikiLeaks fuese solo una táctica oportunista, un cálculo para no arriesgar, ¿habría recibido la solidaridad de Anonymous y de tantos otros?
 
-Ya hemos visto antes cómo la propia ETA había usado la
+Ya hemos visto antes cómo la propia ETA había usado la BBC para dar mayor importancia a sus comunicados y Otegi había concedido entrevistas a *El País* para dar más eficacia a su mensaje. ¿Cuál es la diferencia entre WikiLeaks y ETA u Otegi, en lo que a la relación con la prensa se refiere? La diferencia es la ambigüedad.
 
-BBC para dar mayor importancia a sus comunicados y Otegi había concedido entrevistas a *El País* para dar más eficacia a su mensaje. ¿Cuál es la diferencia entre WikiLeaks y ETA u Otegi, en lo que a la relación con la prensa se refiere? La diferencia es la ambigüedad.
+WikiLeaks da veracidad a su ambigüedad deliberada diseñándose como un dispositivo inacabado y renunciando al control. La renuncia al control es la prueba de que WikiLeaks cree en la Red, en la inteligencia y en la autonomía de los extremos. Con esa prueba Anonymous y, como veremos más adelante, otros muchos, a pesar de no tener «demasiada filiación» con WikiLeaks, lo reconoce como compañero de lucha.
 
-WikiLeaks da veracidad a su ambigüedad deliberada diseñándose como un dispositivo inacabado y renunciando al control. La renuncia al control es la prueba de que WikiLeaks cree en la Red, en la inteligencia y en la autonomía de los extremos. Con esa prueba Anonymous
-
-–
-
-y, como veremos más adelante, otros
-
-muchos
-
-–
-
-, a pesar de no tener «demasiada filiación» con WikiLeaks, lo reconoce como compañero de lucha.
-
-WikiLeaks mete en el kit de la lucha el discurso genérico, la
-
-ambigüedad deliberada y los dispositivos inacabados.
+WikiLeaks mete en el kit de la lucha el discurso genérico, la ambigüedad deliberada y los dispositivos inacabados.
 
 Julian Assange mete el anonimato en primera persona.
 
@@ -804,63 +707,43 @@ Julian Assange mete el anonimato en primera persona.
 
 Anonimato en tanto que no sabemos si es héroe o villano; y en primera persona en tanto que se expone en un primerísimo plano bajo los focos y así oscurece, protege y oculta lo que hay detrás.
 
-Palabras de perfil bajo
+### Palabras de perfil bajo
 
 Decíamos que el mensaje de Anonymous es simple: libertad de expresión. Anonymous quiere ser un movimiento pacífico a favor de la libertad de expresión en todas partes y en todas sus formas. Libertad de expresión en Internet, para el periodismo y los periodistas y para los ciudadanos del mundo en general.
 
 2
 
-El anonimato en primera persona es un concepto elaborado al calor de la
+El anonimato en primera persona es un concepto elaborado al calor de la revista *Espai en Blanc*, números 5-6: *La fuerza del anonimato*(disponible en http://www.espaienblanc.net/-Revista-de-Espai-en-Blanc-no-5-6-.html). Véasetambién «La Web 2.0 y el anonimato en primera persona» (disponible enhttp://www.barcelonametropolis.cat/es/page.asp?id=23&ui=420).
 
-revista *Espai en Blanc*, números 5-6: *La fuerza del anonimato*(disponible en http://www.espaienblanc.net/-Revista-de-Espai-en-Blanc-no-5-6-.html). Véasetambién «La Web 2.0 y el anonimato en primera persona» (disponible enhttp://www.barcelonametropolis.cat/es/page.asp?id=23&ui=420).
+### Por su parte, WikiLeaks define su misión con estas palabras:
 
-<56\>
-
-Por su parte, WikiLeaks define su misión con estas palabras:
-
-Los amplios principios en los que se basa nuestro trabajo son la libertad de expresión y la libertad de prensa, la mejora de nuestrosregistros históricos y el apoyo al derecho de todas las personas a crear un nuevo
-
-futuro. Para nosotros, estos derechos provienen de la Declaración de Derechos del Hombre.
+Los amplios principios en los que se basa nuestro trabajo son la libertad de expresión y la libertad de prensa, la mejora de nuestrosregistros históricos y el apoyo al derecho de todas las personas a crear un nuevo futuro. Para nosotros, estos derechos provienen de la Declaración de Derechos del Hombre.
 
 Y, como veremos más adelante, Hacktivistas se autodefine como un espacio para coordinar nuestras acciones a nivel global, debatir estrategias, compartir recursos y sincronizar movimientos de creación y resistencia hacia una sociedad libre con unas tecnologías libres.
 
-«Libertad» parece ser la palabra de intercambio entre unas y
-
-otras iniciativas y luchas. Una palabra clave genérica, de perfil bajo.
+«Libertad» parece ser la palabra de intercambio entre unas y otras iniciativas y luchas. Una palabra clave genérica, de perfil bajo.
 
 A diferencia de lo que suele ser habitual en la militancia política clásica, estas iniciativas no parecen esforzarse mucho en desmarcarse unas de otras a través del uso de palabras que podríamos denominar «privativas», es decir, palabras acuñadas o apropiadas por grupos específicos que las utilizan a modo de bandera, para darse identidad, visibilizarse y medir sus fuerzas ante otros. Esto no significa que las propias iniciativas sean equiparables o intercambiables. Todo lo contrario, cada experiencia es singular y las diferencias están por todas partes. Pero parece que no hay un gran interés en sellar esas diferencias en el ámbito del lenguaje, dejando de lado la denominada «crisis de palabras».
 
 3
 
-Estas experiencias meten en el kit de la lucha unas pocas
-
-palabras genéricas de uso común y sacan el lenguaje identitario privativo con el que las líneas políticas tradicionalmente buscan desmarcarse unas de otras.
+Estas experiencias meten en el kit de la lucha unas pocas palabras genéricas de uso común y sacan el lenguaje identitario privativo con el que las líneas políticas tradicionalmente buscan desmarcarse unas de otras.
 
 3
 
-Lo que se llamó el fin de las ideologías es una crisis de palabras en laque todos
-
-utilizamos los mismos términos para problemas antagónicos. DanielBlanchard, antiguo miembro de Socialisme ou Barbarie, ha hecho de la expresión«crisis de palabras» la clave para entender la relación entre el discurso crítico ylo real. En 2009, Espai en Blanc organizó un seminario para abordar este problema (véasehttp://www.espaienblanc.net/Materiales-del-seminario-Crisis-de.html).
-
-<57\>
-
-Anonymous
+Lo que se llamó el fin de las ideologías es una crisis de palabras en laque todos utilizamos los mismos términos para problemas antagónicos. DanielBlanchard, antiguo miembro de Socialisme ou Barbarie, ha hecho de la expresión«crisis de palabras» la clave para entender la relación entre el discurso crítico ylo real. En 2009, Espai en Blanc organizó un seminario para abordar este problema (véasehttp://www.espaienblanc.net/Materiales-del-seminario-Crisis-de.html).
 
 El uso de palabras genéricas, comodín, sin marca (porque tienen todas las marcas) y por tanto anónimas («derechos humanos», «todos», «gobiernos», «libertad de expresión», «protesta pacífica», «sociedad libre», «desobediencia civil»...) ha sido conformado como tendencia por el 15M, un movimiento sin banderas que ha nombrado sus singularidades con nuevas palabras anónimas tales como «inclusión», «consenso» o «respeto». Podríamos decir que «libertad» es a las luchas en Internet lo que «democracia» es al 15M: palabras inacabadas cuyo significado está por completar.
 
-Pero, ¿es tan importante la libertad en Internet como pueda
+Pero, ¿es tan importante la libertad en Internet como pueda serlo la crisis de la democracia por la claudicación del sistema político a los intereses de la banca y de los mercados financieros?
 
-serlo la crisis de la democracia por la claudicación del sistema político a los intereses de la banca y de los mercados financieros?
-
-El disfrute de los bienes inmateriales
+## El disfrute de los bienes inmateriales
 
 La revolución digital, esta novedosa manifestación cultural que surge de la convergencia tecnológica de la electrónica, el software y las infraestructuras de telecomunicaciones, todo ello infiltrado por la contracultura hacker, está poniendo en el mundo un nuevo conjunto de recursos: los bienes inmateriales.
 
 4
 
-Aplicando las lógicas de la sociedad industrial, la aparición de
-
-nuevos bienes, de por sí, ya desencadena una lucha por su control y su explotación, igual que si se halla un nuevo pozo de petróleo o se descubre un nuevo virus.
+Aplicando las lógicas de la sociedad industrial, la aparición de nuevos bienes, de por sí, ya desencadena una lucha por su control y su explotación, igual que si se halla un nuevo pozo de petróleo o se descubre un nuevo virus.
 
 4
 
@@ -874,135 +757,55 @@ Sin embargo, esos nuevos bienes inmateriales no se rigen por las leyes de la vie
 
 5
 
-Ni más ni menos,
-
-la revolución digital ha puesto en el mundo la posibilidad de una nueva abundancia ¡y sin necesidad de repartirla!
+Ni más ni menos, la revolución digital ha puesto en el mundo la posibilidad de una nueva abundancia ¡y sin necesidad de repartirla!
 
 6
 
-La posibilidad de una nueva abundancia desencadena una
-
-lucha por su control y su explotación. Es lo que está ocurriendo en la actualidad, dentro y fuera de Internet. Pero esa lucha por el control ya no funciona exactamente según las lógicas del viejo mundo.
+La posibilidad de una nueva abundancia desencadena una lucha por su control y su explotación. Es lo que está ocurriendo en la actualidad, dentro y fuera de Internet. Pero esa lucha por el control ya no funciona exactamente según las lógicas del viejo mundo.
 
 En las lógicas del viejo mundo, esos bienes inmateriales vendrían a engrosar el consumismo propio de la sociedad de consumo y cabría, entonces, preguntarse para qué tantos programas de ordenador, tantos MP3 o tantos PDF. Es decir, cabría preguntarse por el valor social de esa nueva abundancia, igual que cabe cuestionarse el valor social de las fábricas de coches o de las centrales nucleares.
 
 5
 
-Naturalmente, la producción, conservación y distribución de bienesinmateriales
-
-consume energía y otros recursos materiales. Sin embargo, el asuntoenergético y material de Internet no está encima de la mesa, quizás porque losasuntos relativos a la inmaterialidad son, por el momento, mucho más urgentes.
+Naturalmente, la producción, conservación y distribución de bienesinmateriales consume energía y otros recursos materiales. Sin embargo, el asuntoenergético y material de Internet no está encima de la mesa, quizás porque losasuntos relativos a la inmaterialidad son, por el momento, mucho más urgentes.
 
 6
 
-Es cierto que esta nueva abundancia produce nuevas desigualdades: labrecha
-
-digital. Pero, como señala Antonio Rodríguez de las Heras: «Loperturbador de esta tecnología es que agudiza todas las desigualdades que hemosheredado de la sociedad industrial. El diagnóstico, por tanto, es que agrava todo,dando como resultado un mapa de grietas que van desde fallas geológicas, como sonlas existentes entre países ricos y países desfavorecidos, hasta pequeñasfisuras capilares que pueden pasar por una familia o por una comunidad pequeña yque están provocadas por la edad, por la condición económica, profesional ypor otras cuestiones personales. Sin embargo, y esto es lo paradójico,aceptando que la tecnología agrava los problemas heredados, no podemos cambiar el
-
-mundo sin la tecnología. Ese es el gran reto». Véase Fidel Moreno, «Lalógica borrosa. (Una conversación con Antonio Rodríguez de las Heras)», *Elestado mental*, 2011. Véase, por ejemplo, en el blog *El Boomeran(g)*.
-
-<59\>
-
-Anonymous
+Es cierto que esta nueva abundancia produce nuevas desigualdades: labrecha digital. Pero, como señala Antonio Rodríguez de las Heras: «Loperturbador de esta tecnología es que agudiza todas las desigualdades que hemosheredado de la sociedad industrial. El diagnóstico, por tanto, es que agrava todo,dando como resultado un mapa de grietas que van desde fallas geológicas, como sonlas existentes entre países ricos y países desfavorecidos, hasta pequeñasfisuras capilares que pueden pasar por una familia o por una comunidad pequeña yque están provocadas por la edad, por la condición económica, profesional ypor otras cuestiones personales. Sin embargo, y esto es lo paradójico,aceptando que la tecnología agrava los problemas heredados, no podemos cambiar el mundo sin la tecnología. Ese es el gran reto». Véase Fidel Moreno, «Lalógica borrosa. (Una conversación con Antonio Rodríguez de las Heras)», *Elestado mental*, 2011. Véase, por ejemplo, en el blog *El Boomeran(g)*.
 
 Esta es la lógica que siguen los grandes de la industria cultural, que quieren inundar los mercados de productos culturales, y también es la lógica de algunas críticas y resistencias que hacen un llamamiento al consumo responsable o directamente a dejar de consumir –no solo productos inmateriales, sino productos en general.
 
-Sin embargo, las cualidades de los bienes inmateriales
+Sin embargo, las cualidades de los bienes inmateriales no se desgastan, se pueden compartir, se auto-producen, se duplican a coste cero y ganan valor con el uso también pueden ser buenas para terminar con la sociedad de consumo:
 
-–
-
-no se
-
-desgastan, se pueden compartir, se auto-producen, se duplican a coste cero y ganan valor con el uso
-
-–
-
-también pueden ser buenas
-
-para terminar con la sociedad de consumo:
-
-El conocimiento te abre el mundo y te permite actuar, y la manera quetiene el ser humano de actuar hoy es a través de la tecnología. El problema
-
-es que vivimos en un modelo de sociedad que es consumista y que nos está generando constantemente nuevas necesidades que a lo mejor no son tan necesarias ni tan urgentes. Si entramos en la sociedad delconocimiento tendremos que aceptar que es una sociedad de la innovación, pero no necesariamente del consumo.
+El conocimiento te abre el mundo y te permite actuar, y la manera quetiene el ser humano de actuar hoy es a través de la tecnología. El problema es que vivimos en un modelo de sociedad que es consumista y que nos está generando constantemente nuevas necesidades que a lo mejor no son tan necesarias ni tan urgentes. Si entramos en la sociedad delconocimiento tendremos que aceptar que es una sociedad de la innovación, pero no necesariamente del consumo.
 
 7
 
-Innovación, pero no necesariamente consumo. ¿Cómo es eso posible? La respuesta está en la cualidad recursiva de los bienes inmateriales
-
-–
-
-y el conocimiento, que es el bien inmaterial por excelencia
-
-–
-
-, que son a la vez productos
-
-–
-
-no exactamente consumibles
-
-–
-
-y
-
-sus propios medios de producción.
+Innovación, pero no necesariamente consumo. ¿Cómo es eso posible? La respuesta está en la cualidad recursiva de los bienes inmateriales y el conocimiento, que es el bien inmaterial por excelencia, que son a la vez productos no exactamente consumibles y sus propios medios de producción.
 
 La libertad como derecho económico
 
 Ya hemos hablado de la recursividad. Sabemos que un sistema recursivo tiende a replicarse y multiplicarse buscando el infinito y que es muy difícil de delimitar y de controlar. Y que la recursividad suspende la polaridad entre lo grande y lo pequeño, y el crecimiento como suma de fragmentos.
 
-Antes de la revolución digital los bienes inmateriales eran
-
-escasos y difíciles de producir –el lenguaje, algunas expresiones culturales, algunos tipos de conocimiento... Lo que cambia con la revolución digital, y lo que crispa a la industria del copyright, es su
-
-facilidad de producción y su dificultad de control.
-
-7
-
-*Ibídem*
-
-.
-
-<60\>
+Antes de la revolución digital los bienes inmateriales eran escasos y difíciles de producir –el lenguaje, algunas expresiones culturales, algunos tipos de conocimiento... Lo que cambia con la revolución digital, y lo que crispa a la industria del copyright, es su facilidad de producción y su dificultad de control.
 
 Los programas de ordenador (software), por ejemplo, son inmateriales y recursivos, porque para hacer programas de ordenador se necesitan otros programas de ordenador. El caso del software es un caso literal. Pero, más allá de esta literalidad, la producción de bienes inmateriales se ha disparado porque se están produciendo a partir de la remezcla, el reciclaje o la recombinación de otros anteriores, sin que estos anteriores se destruyan en el proceso –el crecimiento no es suma de fragmentos. Si puedo producir un vídeo a partir de recombinar secuencias, fotografías y música que obtengo en Internet, entonces esas secuencias, fotografías y música, junto con el ordenador y los programas para manipularlas, todo ello se convierte en materia prima, medio de producción y a la vez producto, en una recursividad sin fin. Innovación pero no necesariamente consumo –mejor dicho, no necesariamente consumismo tal y como se practica en la sociedad de consumo.
 
-El caso del vídeo puede parecer de poca monta. Pero esa
-
-misma lógica recursiva opera con lo inmaterial en todos los ámbitos y escalas –datos, informaciones, conocimientos, arte, cultura, ciencia, etc. Por ejemplo, a partir de los datos de geolocalización que envían los satélites –los que reciben los GPS– o de los datos meteorológicos de la predicción del tiempo, a base de remezclas y recombinaciones pueden producirse nuevo conocimiento, datos y servicios, siempre y cuando sea posible y legal la reutilización de la información, es decir, que la información sea pública y no se produzca una escasez artificial con la intensificación y el abuso de los derechos de copyright: más o menos, el programa de WikiLeaks –la transparencia– generalizado en todos los ámbitos.
+El caso del vídeo puede parecer de poca monta. Pero esa misma lógica recursiva opera con lo inmaterial en todos los ámbitos y escalas –datos, informaciones, conocimientos, arte, cultura, ciencia, etc. Por ejemplo, a partir de los datos de geolocalización que envían los satélites –los que reciben los GPS– o de los datos meteorológicos de la predicción del tiempo, a base de remezclas y recombinaciones pueden producirse nuevo conocimiento, datos y servicios, siempre y cuando sea posible y legal la reutilización de la información, es decir, que la información sea pública y no se produzca una escasez artificial con la intensificación y el abuso de los derechos de copyright: más o menos, el programa de WikiLeaks –la transparencia– generalizado en todos los ámbitos.
 
 8
 
-La lucha por el disfrute de una nueva abundancia (economía)
-
-y la lucha contra la censura (política) van de la mano. Como bien señalan los Anonymous, copyright y censura son lo mismo. Los
+La lucha por el disfrute de una nueva abundancia (economía) y la lucha contra la censura (política) van de la mano. Como bien señalan los Anonymous, copyright y censura son lo mismo. Los
 
 8
 
-Como una muestra entre millones, puede verse la cantidad de mapas sobreel
-
-15M que se están produciendo
-
-–
-
-de análisis y diagnóstico, de representación del
-
-movimiento, conceptuales o para la acción
-
-–
-
-y cómo estos mapas toman datos del
-
-15M, les dan una vuelta y los devuelven en forma de información yconocimiento inacabados que alguien a su vez tomará como dato y lo completará connuevos significados. Véasehttp://tomalapalabra.periodismohumano.com/2011/10/15/losmapas-del-15m-al-15o/
+Como una muestra entre millones, puede verse la cantidad de mapas sobre el 15M que se están produciendo de análisis y diagnóstico, de representación del movimiento, conceptuales o para la acción y cómo estos mapas toman datos del 15M, les dan una vuelta y los devuelven en forma de información yconocimiento inacabados que alguien a su vez tomará como dato y lo completará connuevos significados. Véase http://tomalapalabra.periodismohumano.com/2011/10/15/losmapas-del-15m-al-15o/
 
 <61\>
 
-Anonymous
-
 cambios en la arquitectura de la realidad están uniendo de nuevo lo que el viejo mundo quiso separar: la economía (copyright y escasez) y la política (opacidad y censura).
 
-Los derechos de autor, tal y como ahora están gestionados,
-
-son la coartada de las corporaciones para mantener su enriquecimiento y su poder. (Recordemos que durante la \#payback entre los mails de un único bufete de abogados se encontraron nada menos que ocho mil denuncias por compartir archivos).
+Los derechos de autor, tal y como ahora están gestionados, son la coartada de las corporaciones para mantener su enriquecimiento y su poder. (Recordemos que durante la \#payback entre los mails de un único bufete de abogados se encontraron nada menos que ocho mil denuncias por compartir archivos).
 
 9
 
@@ -1026,33 +829,19 @@ masiva y generalizada de consumir-producir vídeos, audios, imágenes, diseños,
 
 Si aquí estuviéramos cien personas reunidas, para organizarnos necesitaríamos una tarima. El que suba a la tarima tiene más información que el resto, que está abajo, ve a todos y todos le ven a él, es elúnico ubicuo. Desde arriba, además, puede comunicar con todos y su voz llega a todos, mientras que los que están abajo, no. En una reunión así se impone el silencio para que se pueda escuchar al que tiene el poder de la palabra, que es el que está arriba. Si hablan todos a la vez seproduce ruido y, por tanto, disfunción. Me da igual que la tarima sea un canal de televisión, una editorial de prestigio o una cátedra universitaria,así funcionan nuestros espacios sociales.
 
-Pero se ha creado un nuevo espacio que es la Red, donde esas
-
-tres características se trastocan: aunque estemos cien o cien mil, todos
-
-estamos en la tarima, todos somos ubicuos, todos sentimos que vemos a todos y somos mirados por todos. Y por la deslocalización no necesitas desplazarte para poder hablar con quien quieras, no estás limitado a tu lugar, como en la sala de un auditorio, por ejemplo. Y la tercera,y más sorprendente, es que en la Red no solo no perturba el que hablemos todos a la vez, sino que es necesario; a diferencia del espacio natural,
-
-no se produce ruido. El nuevo espacio digital permite, por lo tanto, la
-
-ubicuidad, la deslocalización y la densidad informativa.
-
-10
+Pero se ha creado un nuevo espacio que es la Red, donde esas tres características se trastocan: aunque estemos cien o cien mil, todos estamos en la tarima, todos somos ubicuos, todos sentimos que vemos a todos y somos mirados por todos. Y por la deslocalización no necesitas desplazarte para poder hablar con quien quieras, no estás limitado a tu lugar, como en la sala de un auditorio, por ejemplo. Y la tercera,y más sorprendente, es que en la Red no solo no perturba el que hablemos todos a la vez, sino que es necesario; a diferencia del espacio natural, no se produce ruido. El nuevo espacio digital permite, por lo tanto, la ubicuidad, la deslocalización y la densidad informativa.
 
 La posibilidad de dar una patada a la tarima es un cambio en la arquitectura de la realidad y por lo tanto también en la «normalidad»: todos viendo y mirando a todos –de nuevo el programa de WikiLeaks. Es el fin de las tarimas.
 
-Una nueva esfera público-privada
+### Una nueva esfera público-privada
 
 El desarrollo de las nuevas tecnologías comunicativas no solo ha abierto un nuevo frente para la lucha contra la acumulación y las desigualdades. No es tan simple. También ha cambiado la «normalidad», el día a día de las generaciones conectadas.
 
 10
 
-Fidel Moreno, «La lógica borrosa. (Una conversación con AntonioRodríguez de
-
-las Heras)»,*op. cit.*, 2011.
+Fidel Moreno, «La lógica borrosa. (Una conversación con AntonioRodríguez de las Heras)»,*op. cit.*, 2011.
 
 <63\>
-
-Anonymous
 
 Ciertamente, no todos los cambios en la «normalidad» son liberadores. Muchas veces son procesos recursivos inacabados, mezcla de distintos intereses políticos, industriales y sociales, en alianzas contra natura entre distintas instancias de poder y distintos agenciamientos de emancipación y construcción subjetiva.
 
