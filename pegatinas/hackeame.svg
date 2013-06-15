@@ -14,7 +14,10 @@
    version="1.1"
    id="svg2"
    height="1488.189"
-   width="1052.3622">
+   width="1052.3622"
+   inkscape:export-filename="/home/moteado/ManifestanteXXI/pegatinas/hackeame.png"
+   inkscape:export-xdpi="450.00333"
+   inkscape:export-ydpi="450.00333">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -22,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.20897873"
-     inkscape:cx="628.48624"
-     inkscape:cy="1160.3565"
+     inkscape:zoom="0.22050248"
+     inkscape:cx="382.45184"
+     inkscape:cy="791.18337"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1024"
      inkscape:window-height="552"
@@ -43,15 +46,28 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(0,435.82691)"
-     inkscape:label="Capa 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer2"
+     inkscape:label="bg">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.81444764000000003;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3800"
+       width="1077.7722"
+       height="1523.3336"
+       x="-9.1868401"
+       y="-12.424011" />
+  </g>
+  <g
+     transform="translate(0,435.82691)"
+     inkscape:label="hackeame"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
     <g
        transform="matrix(0.76555952,0,0,0.76555952,504.12564,-221.76712)"
        id="g4595"
@@ -4998,10 +5014,4 @@
            sodipodi:role="line">Hackeame</tspan></text>
     </g>
   </g>
-  <g
-     transform="translate(0,435.82691)"
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="letras#1"
-     style="display:inline" />
 </svg>
