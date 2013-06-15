@@ -6,8 +6,7 @@ Sin complacencias con la arcaica sacralidad del libro, sin concesiones con el na
 
 *Omnia sunt communia!*
 
-creative commons cc
-Licencia Creative Commons
+creative commons cc - Licencia Creative Commons
 
 Reconocimiento-CompartirIgual 3.0 Unported (CC BY-SA 3.0)
 
@@ -135,7 +134,7 @@ A modo de muestra, y para recordar las tonalidades del debate, entresaquemos alg
 
 ## Sobre el descrédito de la política:
 
-**El caudal de credibilidad y de prestigio internacionales que Estados Unidos había recuperado gracias a Obama y que formaba parte del capital político más apreciado de esta presidencia está escapando a ojos vista por la vía de agua abierta por WikiLeaks. Vuelven los peores estereotipos, cultivados durante la Guerra Fría y recrudecidos con la presidencia de Bush, a través de esta brecha informativa que nos ilustra sobre la mentalidad, las formas de presión e incluso las sonrojantes expresiones de arrogancia de algunos diplomáticos norteamericanos, así como la deferente actitud de sus contrapartes de los distintos países, españoles incluidos.**
+El caudal de credibilidad y de prestigio internacionales que Estados Unidos había recuperado gracias a Obama y que formaba parte del capital político más apreciado de esta presidencia está escapando a ojos vista por la vía de agua abierta por WikiLeaks. Vuelven los peores estereotipos, cultivados durante la Guerra Fría y recrudecidos con la presidencia de Bush, a través de esta brecha informativa que nos ilustra sobre la mentalidad, las formas de presión e incluso las sonrojantes expresiones de arrogancia de algunos diplomáticos norteamericanos, así como la deferente actitud de sus contrapartes de los distintos países, españoles incluidos.
 
 **2**
 
@@ -617,7 +616,6 @@ detallado de lo acontecido en Internet en esas fechas, documentado congráficos 
 
 <49\>
 
-Anonymous
 
 A raíz de esto, el 18 de diciembre de 2010, activistas a favor de la libre circulación de la información en la Red respondieron con la Operation Payback, operación que en principio iba dirigida contra Aiplex Software pero que rápidamente se extendió a las webs de la MPAA [Motion Picture Association of America] y a organismos como la Federación Internacional de la Industria Fonográfica, que, con el pretexto de luchar contra los intercambios de archivos, preconizan el control de Internet.
 
@@ -867,43 +865,17 @@ muchas maneras diferentes con el mundo exterior y la esfera pública, [...] y en
 
 Remedios Zafra, *Un cuarto propio conectado*, Madrid, Fórcola Ediciones,2010.
 
-12
 
-*Ibídem*
-
-.
 
 <64\>
 
-Según Zafra, al entrar el ordenador en las casas, y más concretamente en los dormitorios
-
-–
-
-el espacio privado por excelencia
-
-–
-
-, se forma
-
-una red de espacios privados conectados que traspasa el umbral de la privacidad y pasa a ser espacio público. Es la potencia del «cuarto propio conectado». Lo que fueron los cuartos propios respecto a las mujeres y lo que fueron los «garajes» pre-Silicon Valley
+Según Zafra, al entrar el ordenador en las casas, y más concretamente en los dormitorios el espacio privado por excelencia, se forma una red de espacios privados conectados que traspasa el umbral de la privacidad y pasa a ser espacio público. Es la potencia del «cuarto propio conectado». Lo que fueron los cuartos propios respecto a las mujeres y lo que fueron los «garajes» pre-Silicon Valley
 
 13
 
-respecto a
+respecto a la revolución tecnológica lo serían los cuartos propios conectados respecto a la revolución de la esfera público-privada.
 
-la revolución tecnológica lo serían los cuartos propios conectados respecto a la revolución de la esfera público-privada.
-
-La densidad informativa y ese hablar de todos a la vez, sin
-
-tarimas, se está produciendo y a la vez produce
-
-–
-
-recursividad
-
-–
-
-una nueva esfera público-privada. Lo privado se funde literalmente con lo público.
+La densidad informativa y ese hablar de todos a la vez, sin tarimas, se está produciendo y a la vez produce recursividad una nueva esfera público-privada. Lo privado se funde literalmente con lo público.
 
 Economía y política se funden también. Lo político se incrementa. El kit de la lucha debe ser actualizado.
 
@@ -911,59 +883,28 @@ Identidad colectiva
 
 Pero volvamos a los Anonymous.
 
-Anonymous se gesta en 4chan.org, un foro orientado a la
-
-publicación de imágenes en vez de texto, un sitio en Internet poblado de «frikis» adictos a las descargas de películas, los videojuegos, los cómics y las charlas por IRC –como un chat, pero
+Anonymous se gesta en 4chan.org, un foro orientado a la publicación de imágenes en vez de texto, un sitio en Internet poblado de «frikis» adictos a las descargas de películas, los videojuegos, los cómics y las charlas por IRC –como un chat, pero
 
 13
 
-El «garaje» es el lugar de la vivienda en el que los jóvenes aficionadosa la
-
-informática, allá por los años setenta, se reunían para hacer bricolajeinformático, ensamblando ordenadores con piezas sueltas que compraban en las tiendas
-
-de electrónica. Stephen Wozniak, fundador de la empresa Apple, o BillGates, fundador de Microsoft, no se formaron en las universidades sino en losgarajes. Los garajes eran lugares de socialidad, goce, experimentación,intercambio de conocimientos y puesta en marcha de proyectos, algunos de los cuales han
-
-llegado a construir imperios económicos que están en la base de muchasde las empresas tecnológicas de Silicon Valley. En el ámbito de la música, algosimilar ocurre con el «rock de garaje», una forma salvaje y cruda de rock androll, cercana al punk, creada por varias bandas de Estados Unidos (y Canadá) amediados de los años sesenta. El término «rock de garaje» viene del hecho de que lamayor parte de sus intérpretes eran jóvenes e inexpertos, poseían escasa preparacióncomo músicos y, sobre todo, solían ensayar en el garaje de su casa. Inspiradaen este concepto de «garaje», junto con otros compañeros estoy explorando quépodría ser una «filosofía de garaje» (véase http://www.unalineasobreelmar.net).
+El «garaje» es el lugar de la vivienda en el que los jóvenes aficionadosa la informática, allá por los años setenta, se reunían para hacer bricolajeinformático, ensamblando ordenadores con piezas sueltas que compraban en las tiendas de electrónica. Stephen Wozniak, fundador de la empresa Apple, o BillGates, fundador de Microsoft, no se formaron en las universidades sino en losgarajes. Los garajes eran lugares de socialidad, goce, experimentación,intercambio de conocimientos y puesta en marcha de proyectos, algunos de los cuales han llegado a construir imperios económicos que están en la base de muchasde las empresas tecnológicas de Silicon Valley. En el ámbito de la música, algosimilar ocurre con el «rock de garaje», una forma salvaje y cruda de rock androll, cercana al punk, creada por varias bandas de Estados Unidos (y Canadá) amediados de los años sesenta. El término «rock de garaje» viene del hecho de que lamayor parte de sus intérpretes eran jóvenes e inexpertos, poseían escasa preparacióncomo músicos y, sobre todo, solían ensayar en el garaje de su casa. Inspiradaen este concepto de «garaje», junto con otros compañeros estoy explorando quépodría ser una «filosofía de garaje» (véase http://www.unalineasobreelmar.net).
 
 <65\>
 
-Anonymous
 
 a gran escala– que ha sido calificado por algún medio como «la máquina del odio de Internet», llena de «hackers con esteroides» y «terroristas caseros» no solo por sus bromas y humor negro, sino también por sus ciberataques. En esta subcultura bizarra y oscura, cuya actividad raya lo ilegal y lo socialmente reprobable y para la que no hay nada sagrado o prohibido –salvo la pornografía infantil–, se va «enjambrando» gente que para defender la libertad en Internet necesita espacios temporales cambiantes donde ser completamente anónimos. Son los anon.
 
-A finales de 2007, mediante un vídeo, los anon convocaron
+A finales de 2007, mediante un vídeo, los anon convocaron una acción contra las webs de la Iglesia de la Cienciología, que estaba arruinando a una familia que se había salido de la secta. Y desde entonces persiguen abusos de poder.
 
-una acción contra las webs de la Iglesia de la Cienciología, que estaba arruinando a una familia que se había salido de la secta. Y desde entonces persiguen abusos de poder.
+Anonymous no es una organización, no tiene estructura ni dirigentes. Es solo gente que actúa a su aire, desde esa nueva esfera público-privada online cuajada de cuartos propios conectados, aunque a veces también convocan acciones en la calle, como la protesta en Madrid en la gala de entrega de los premios Goya (2011). Por eso, aunque digamos que Anonymous organizó la operación \#payback o que Anonymous abrió una cuenta en Twitter, nada de ello puede decirse en sentido estricto, ya que Anonymous no es más que el avatar de una identidad colectiva:
 
-Anonymous no es una organización, no tiene estructura ni
+Por más que en mayo de 2011, en el e-G8 de París, el presidente francés Nicolas Sarkozy hiciera votos por un «Internet civilizado», los oscuros recovecos donde todo es posible continúan existiendo. El sitio 4chan.org, foro creado en 2003, simple desde el punto de vista técnico y plebiscitado por los internautas, es emblemático del modo de actuar: allíes posible postear textos e imágenes sin inscribirse, firmando los mensajes como «Anonymous». Su foro más frecuentado, /b/, no obedece a ninguna regla en materia de contenido. El sitio no memoriza los posts: los mensajes que no obtienen respuesta son retrogradados al final de la lista antes de ser borrados, lo que sucede generalmente en el espacio de algunos minutos. Nada se archiva. La única memoria válida es la de los internautas. Una lógica con ventajas e inconvenientes: todo aquello que es difícil de retener y no es repetido, desaparece. 
 
-dirigentes. Es solo gente que actúa a su aire, desde esa nueva esfera público-privada online cuajada de cuartos propios conectados, aunque a veces también convocan acciones en la calle, como la protesta en Madrid en la gala de entrega de los premios Goya (2011). Por eso, aunque digamos que Anonymous organizó la operación \#payback o que Anonymous abrió una cuenta en Twitter, nada de ello puede decirse en sentido estricto, ya que Anonymous no es más que el avatar de una identidad colectiva:
-
-Por más que en mayo de 2011, en el e-G8 de París, el presidente francés
-
-Nicolas Sarkozy hiciera votos por un «Internet civilizado», los oscuros
-
-recovecos donde todo es posible continúan existiendo. El sitio 4chan.org, foro creado en 2003, simple desde el punto de vista técnico y plebiscitado por los internautas, es emblemático del modo de actuar: allíes posible postear textos e imágenes sin inscribirse, firmando los mensajes
-
-como «Anonymous». Su foro más frecuentado, /b/, no obedece a ninguna regla en materia de contenido. El sitio no memoriza los posts: los mensajes que no obtienen respuesta son retrogradados al final de la lista antes de ser borrados, lo que sucede generalmente en el espacio de algunos minutos. Nada se archiva. La única memoria válida es la de los internautas. Una lógica con ventajas e inconvenientes: todo aquello que
-
-es difícil de retener y no es repetido, desaparece.
-
-Para no caer en el olvido, cada día muchos de esos mensajes toman
-
-la forma de llamados a la acción; por ejemplo, una invitación a cometer
-
-un acto de vandalismo contra una determinada página de la enciclopedia en línea Wikipedia. Si la idea seduce a un número suficiente de
+Para no caer en el olvido, cada día muchos de esos mensajes toman la forma de llamados a la acción; por ejemplo, una invitación a cometer un acto de vandalismo contra una determinada página de la enciclopedia en línea Wikipedia. Si la idea seduce a un número suficiente de
 
 <66\>
 
-internautas, un pequeño enjambre se abate sobre el blanco. Por simple placer. La repetición y el compromiso crearon una cultura donde desaparecen las individualidades y los orígenes, una tradición de «tomadura
-
-de pelo ultracoordinada», según la expresión de un hacker interrogado por Biella Coleman, antropóloga de la cultura geek. En cinco años, esos
-
-anónimos se convirtieron en «Anonymous», término genérico o avatar de una identidad colectiva. Su costumbre de la desmesura inducida por el anonimato va acompañada de una profunda desconfianza hacia cualquier forma de autoridad que intente regular la palabra en Internet,
-
-por motivos juzgados perfectamente hipócritas como la lucha contra la pornografía infantil.
+internautas, un pequeño enjambre se abate sobre el blanco. Por simple placer. La repetición y el compromiso crearon una cultura donde desaparecen las individualidades y los orígenes, una tradición de «tomadura de pelo ultracoordinada», según la expresión de un hacker interrogado por Biella Coleman, antropóloga de la cultura geek. En cinco años, esos anónimos se convirtieron en «Anonymous», término genérico o avatar de una identidad colectiva. Su costumbre de la desmesura inducida por el anonimato va acompañada de una profunda desconfianza hacia cualquier forma de autoridad que intente regular la palabra en Internet, por motivos juzgados perfectamente hipócritas como la lucha contra la pornografía infantil.
 
 14
 
@@ -971,13 +912,9 @@ Pero, tal y como ellos mismos dicen, su pasado no es su presente, y este pasado 
 
 En el transcurso de esas acciones [operación \#payback], se fue precisando la identidad política de Anonymous; sus recursos técnicos y sus estrategias se sofisticaron. En diciembre de 2010, cuando se impidió que
 
-WikiLeaks recibiera donaciones tras haber publicado cables diplomáticos, Operation Payback resurgió y atacó los sitios de MasterCard, Visa,
+WikiLeaks recibiera donaciones tras haber publicado cables diplomáticos, Operation Payback resurgió y atacó los sitios de MasterCard, Visa, PayPal y Bank of America. En enero de 2011, los Anonymous intervinieron en Túnez de manera muy organizada para atacar sitios gubernamentales. Los blogueros tunecinos sintieron que podían contar con la solidaridad internacional.
 
-PayPal y Bank of America. En enero de 2011, los Anonymous intervinieron en Túnez de manera muy organizada para atacar sitios gubernamentales. Los blogueros tunecinos sintieron que podían contar con la solidaridad internacional.
-
-A lo largo del año 2011, los colectivos Anonymous se multiplicaron
-
-y lanzaron innumerables llamados. A veces se trataba de internautas deseosos de atraer la atención o de sacar provecho de modas mediáticas. Pero ello no impidió que otros colectivos federaran a muchas personas. El 23 de agosto de 2011, los Anonymous difundieron un vídeo llamando a ocupar Wall Street, retomando así una idea que hacía unas semanas defendían los canadienses de Adbusters.
+A lo largo del año 2011, los colectivos Anonymous se multiplicaron y lanzaron innumerables llamados. A veces se trataba de internautas deseosos de atraer la atención o de sacar provecho de modas mediáticas. Pero ello no impidió que otros colectivos federaran a muchas personas. El 23 de agosto de 2011, los Anonymous difundieron un vídeo llamando a ocupar Wall Street, retomando así una idea que hacía unas semanas defendían los canadienses de Adbusters.
 
 15
 
@@ -989,25 +926,14 @@ Felix Stalder, «Anonymous, la protesta enmascarada», *Le MondeDiplomatique*
 
 (edición Colombia - Bogotá), núm. 108, año IX, febrero de 2012.Disponible en Internet.
 
-15
-
-*Ibídem*
-
-.
-
 <67\>
 
-Anonymous
 
 Dinámicas de botellón
 
 Sabemos mucho sobre cómo se organiza la gente cuando hay estabilidad. Pero, ¿qué pasa cuando gran parte de la sociedad se convierte en un cúmulo de dispersiones de individuos móviles en espacios anónimos? ¿Cómo podemos comprender ahí la autoorganización?
 
-Una de las respuestas es el *swarm*
-
-, «enjambre». El *swarming*
-
-es una forma de autoorganización en tiempo real: personas y grupos que coordinan espontáneamente sus acciones sin darse ni recibir órdenes. Se trata de un patrón de ataque: unidades dispersas de una red de pequeñas fuerzas –y quizás algunas grandes– convergen en un mismo blanco desde direcciones múltiples.
+Una de las respuestas es el *swarm*, «enjambre». El *swarming* es una forma de autoorganización en tiempo real: personas y grupos que coordinan espontáneamente sus acciones sin darse ni recibir órdenes. Se trata de un patrón de ataque: unidades dispersas de una red de pequeñas fuerzas –y quizás algunas grandes– convergen en un mismo blanco desde direcciones múltiples.
 
 El objetivo primordial consiste en mantener presión sostenida.
 
@@ -1017,33 +943,21 @@ En la Indianopedia de Las Indias Electrónicas
 
 16
 
-se diferencia
-
-entre guerra, el paradigma de la lucha militante, y *swarming*, la forma específica del conflicto en la nueva esfera público-privada: multiagente y multicanal, y asociado a formas de resistencia civil más o menos no violenta.
+se diferencia entre guerra, el paradigma de la lucha militante, y *swarming*, la forma específica del conflicto en la nueva esfera público-privada: multiagente y multicanal, y asociado a formas de resistencia civil más o menos no violenta.
 
 17
 
 16
 
-V
-
-éase http://lasindias.net/indianopedia
+Véase http://lasindias.net/indianopedia
 
 17
 
-El *swarming* en sí no es ni bueno ni malo. No es necesariamenteviolento, pero
-
-tampoco es forzosamente no violento. Las tropas norteamericanas en Iraqutilizan tácticas de *swarming*. La idea de las operaciones de *swarming* es quela combinación de tecnologías avanzadas de vigilancia, detección y comunicación da alas pequeñas unidades de combate estadounidenses una ventaja importante sobre elenemigo en lo que se refiere a movilidad, iniciativa, factor sorpresa yperspectiva general de la situación. La situación en Iraq muestra que no son solo losinsurgentes los más afectados por esta táctica, sino muy especialmente la población civil.Adaptado de Antonius C.G.M. Robben, «Un trabajo de campo desde la distancia: lasparadojas de una antropología de la guerra al terror», en Margaret Bullen y CarmenDíez Mintegui (coord.), *Retos teóricos y nuevas prácticas. XI Congreso deAntropología,* San Sebastián, Ankulegi Antropologia Elkartea, 2008; disponible enInternet.
-
-<68\>
+El *swarming* en sí no es ni bueno ni malo. No es necesariamenteviolento, pero tampoco es forzosamente no violento. Las tropas norteamericanas en Iraqutilizan tácticas de *swarming*. La idea de las operaciones de *swarming* es quela combinación de tecnologías avanzadas de vigilancia, detección y comunicación da alas pequeñas unidades de combate estadounidenses una ventaja importante sobre elenemigo en lo que se refiere a movilidad, iniciativa, factor sorpresa yperspectiva general de la situación. La situación en Iraq muestra que no son solo losinsurgentes los más afectados por esta táctica, sino muy especialmente la población civil.Adaptado de Antonius C.G.M. Robben, «Un trabajo de campo desde la distancia: lasparadojas de una antropología de la guerra al terror», en Margaret Bullen y CarmenDíez Mintegui (coord.), *Retos teóricos y nuevas prácticas. XI Congreso deAntropología,* San Sebastián, Ankulegi Antropologia Elkartea, 2008; disponible enInternet.
 
 Para las interpretaciones más mercantiles, los elementos clave del *swarm* son la comunicación y la información. Los teléfonos móviles e Internet permiten generar redes de contacto casi instantáneas, y tanto las redes sociales como los blogs han facilitado este proceso enormemente. Información y comunicación serían las claves de estas «dinámicas de botellón».
 
-El
-
-*swarming* mete en el kit de la lucha la conectividad alta, el
-
-entrenamiento para mantener microcomunicaciones asiduas y la acción ágil en tiempo real.
+El *swarming* mete en el kit de la lucha la conectividad alta, el entrenamiento para mantener microcomunicaciones asiduas y la acción ágil en tiempo real.
 
 Autoorganización en tiempo real
 
@@ -1053,51 +967,25 @@ swarming
 
 si no hay otros dos elementos más: un horizonte compartido y el intercambio de acontecimientos y de afectos:
 
-A su manera –extrema– Anonymous es emblemático de los movimientos de protesta que desde 2011 se extienden tanto en el mundo árabe como en Europa y en Estados Unidos. El abismo que separa a estos de los sistemas políticos que cuestionan se manifiesta en las formas de organización, radicalmente opuestas. Por un lado, estructuras jerarquizadas, con dirigentes habilitados para hablar en nombre de todos mediante procedimientos de delegación de poder, pero cuya legitimidad se ve debilitada por la corrupción, el favoritismo, el desvío de lasinstituciones. Por el otro, colectivos deliberadamente desprovistos dedirigentes, que rechazan el principio de la representación en beneficio de la participación directa de cada uno en proyectos concretos. Su diversidad
+A su manera –extrema– Anonymous es emblemático de los movimientos de protesta que desde 2011 se extienden tanto en el mundo árabe como en Europa y en Estados Unidos. El abismo que separa a estos de los sistemas políticos que cuestionan se manifiesta en las formas de organización, radicalmente opuestas. Por un lado, estructuras jerarquizadas, con dirigentes habilitados para hablar en nombre de todos mediante procedimientos de delegación de poder, pero cuya legitimidad se ve debilitada por la corrupción, el favoritismo, el desvío de lasinstituciones. Por el otro, colectivos deliberadamente desprovistos dedirigentes, que rechazan el principio de la representación en beneficio de la participación directa de cada uno en proyectos concretos. Su diversidad permite que la toma de decisiones se realice por rápida agregación de participantes a un determinado tema, más que por la constitución de una mayoría oficial. El *establishment* político juzga que esas formasde organización son ininteligibles, y expresa su estupor frente a laausencia de reivindicaciones concretas que podría transmitir.
 
-permite que la toma de decisiones se realice por rápida agregación de participantes a un determinado tema, más que por la constitución de una mayoría oficial. El *establishment* político juzga que esas formasde organización son ininteligibles, y expresa su estupor frente a laausencia de reivindicaciones concretas que podría transmitir.
+Dichos colectivos temporarios –que pueden ser descritos también como «enjambres», en inglés *swarm*– se componen de individuos independientes que utilizan herramientas y reglas simples para organizarse horizontalmente. Como subraya el fundador del Partido Pirata sueco, Rick Falkvinge, «como todo el mundo es voluntario […], la única manera de dirigir consiste en conseguir la adhesión de otros». Así, la fuerzadel colectivo proviene de la cantidad de personas que reagrupa y de la luz que arroja sobre sus proyectos, distintos e independientes.
 
-Dichos colectivos temporarios –que pueden ser descritos también
+Un colectivo nace siempre de la misma manera: un llamado a la movilización con recursos para una acción inmediata. Especialista en los medios de comunicación sociales, Clay Shirky identificó tres elementos indispensables para que surja ese tipo de cooperación flexible: unapromesa, una herramienta, un acuerdo. La promesa reside en el llamado, que debe interesar a un número crítico de activistas y cuya propuesta debe parecer realizable. Por ejemplo, puede tratarse de atacar tal o cual sitio gubernamental en respuesta a la censura. En Internet existen herramientas disponibles, como el famoso software Low Orbit Ion Cannon (LOIC), así llamado en referencia a *La guerra de las galaxias*,que permiten coordinar las acciones dispersas de los voluntarios. El acuerdo se refiere a las condiciones que cada uno acepta al entrar en el espacio colectivo de la acción.
 
-como «enjambres», en inglés *swarm*– se componen de individuos independientes que utilizan herramientas y reglas simples para organizarse horizontalmente. Como subraya el fundador del Partido Pirata sueco, Rick Falkvinge, «como todo el mundo es voluntario […], la única manera
+Con el discurrir del tiempo, las tres dimensiones pueden evolucionar y el colectivo crecer, cambiar de orientación, disolverse. Para que no desaparezca tan rápido como apareció, se necesita un cuarto elemento, un horizonte común que «permita a los miembros dispersos de una red reconocerse entre sí como pertenecientes al mismo universo imaginario referencial», como escribe el crítico de arte y ensayista Brian Holmes.
 
-<69\>
-
-Anonymous
-
-de dirigir consiste en conseguir la adhesión de otros». Así, la fuerzadel colectivo proviene de la cantidad de personas que reagrupa y de la luz que arroja sobre sus proyectos, distintos e independientes.
-
-Un colectivo nace siempre de la misma manera: un llamado a la
-
-movilización con recursos para una acción inmediata. Especialista en los
-
-medios de comunicación sociales, Clay Shirky identificó tres elementos indispensables para que surja ese tipo de cooperación flexible: unapromesa, una herramienta, un acuerdo. La promesa reside en el llamado, que debe interesar a un número crítico de activistas y cuya propuesta debe parecer realizable. Por ejemplo, puede tratarse de atacar tal o cual sitio gubernamental en respuesta a la censura. En Internet existen herramientas disponibles, como el famoso software Low Orbit Ion Cannon (LOIC), así llamado en referencia a *La guerra de las galaxias*,que permiten coordinar las acciones dispersas de los voluntarios. El acuerdo
-
-se refiere a las condiciones que cada uno acepta al entrar en el espacio
-
-colectivo de la acción.
-
-Con el discurrir del tiempo, las tres dimensiones pueden evolucionar
-
-y el colectivo crecer, cambiar de orientación, disolverse. Para que no desaparezca tan rápido como apareció, se necesita un cuarto elemento, un horizonte común que «permita a los miembros dispersos de una red reconocerse entre sí como pertenecientes al mismo universo imaginario referencial», como escribe el crítico de arte y ensayista Brian Holmes.
-
-Es en este punto donde interviene la famosa máscara de Anonymous. Identidad abierta, resumida en algunos lemas bastante generales, elementos gráficos y referencias culturales compartidas: cada cual puede asumirla; pero solo cobra sentido si se comparten el mismo espíritu, el
-
-mismo humor, las mismas convicciones antiautoritarias y la misma fe en la libertad de expresión.
+Es en este punto donde interviene la famosa máscara de Anonymous. Identidad abierta, resumida en algunos lemas bastante generales, elementos gráficos y referencias culturales compartidas: cada cual puede asumirla; pero solo cobra sentido si se comparten el mismo espíritu, el mismo humor, las mismas convicciones antiautoritarias y la misma fe en la libertad de expresión.
 
 18
 
 El horizonte compartido –estético, ético, filosófico y/o metafísico– da a los que hacen *swarming* la capacidad de reconocerse entre sí como pertenecientes al mismo universo referencial, aunque estén dispersos y sean móviles. Algo así como una «creación de mundos».
 
-Y el intercambio de acontecimientos y de afectos –promesas,
-
-herramientas y acuerdos– es un flujo que va lanzando todo el tiempo pistas que, aunque cambian constantemente, al ser reinterpretadas permiten orientar la actuación en el mundo compartido.
+Y el intercambio de acontecimientos y de afectos –promesas, herramientas y acuerdos– es un flujo que va lanzando todo el tiempo pistas que, aunque cambian constantemente, al ser reinterpretadas permiten orientar la actuación en el mundo compartido.
 
 18
 
-Felix Stalder, «Anonymous, la protesta enmascarada», *op. cit.*, 2012;disponible
-
-en Internet.
+Felix Stalder, «Anonymous, la protesta enmascarada», *op. cit.*, 2012; disponible en Internet.
 
 <70\>
 
@@ -1123,9 +1011,7 @@ Y aunque muchos piensen que los cómics, las series de televisión,
 
 las películas de ciencia ficción son cosas de niños, presten más atención, porque detrás de todo esto hay una gran carga política, la cualpregona la lucha por la libertad.
 
-Los anonymous no son los chicos buenos de la película. Como en *El*
-
-*club de la lucha*, siguen sus vidas normales pero tienen otra vidaoculta, en la que luchan desde la oscuridad. Es gente que muy a pesar de estar batallando a favor de un ideal, en el fondo se están divirtiendo más que
+Los anonymous no son los chicos buenos de la película. Como en *El club de la lucha*, siguen sus vidas normales pero tienen otra vidaoculta, en la que luchan desde la oscuridad. Es gente que muy a pesar de estar batallando a favor de un ideal, en el fondo se están divirtiendo más que
 
 19
 
@@ -1133,7 +1019,6 @@ Véasehttp://blogs.rpp.com.pe/technovida/2010/12/09/%C2%BFquienes-son-losanonymo
 
 <71\>
 
-Anonymous
 
 nadie con todo esto. Es como la película que siempre quisieron vivir, ahora son más fuertes que hace años y, lo más importante, los medios estamos prestando atención a sus acciones.
 
@@ -1145,13 +1030,9 @@ Leónidas Martín Saura se ha interesado por la potencia subversiva de las imág
 
 21
 
-Según
+Según sus análisis, hay acontecimientos que están a medio camino entre la imagen y el activismo: toman una imagen, la interpretan y actúan en consecuencia. En otras palabras, hacen existir la imagen. En esos acontecimientos, el espectador no es una figura pasiva, sino que toma la imagen como un dispositivo inacabado y la interpreta activamente. No solo la interpreta, sino que la malinterpreta, y de esa «malinterpretación» surge una posibilidad de subversión.
 
-sus análisis, hay acontecimientos que están a medio camino entre la imagen y el activismo: toman una imagen, la interpretan y actúan en consecuencia. En otras palabras, hacen existir la imagen. En esos acontecimientos, el espectador no es una figura pasiva, sino que toma la imagen como un dispositivo inacabado y la interpreta activamente. No solo la interpreta, sino que la malinterpreta, y de esa «malinterpretación» surge una posibilidad de subversión.
-
-Esa subversión pasa por identificarse completamente y sin
-
-distancia con algunas de las imágenes cliché que el mercado ofrece, por ejemplo, en películas como *Matrix, Avatar* o *V de Vendetta*. Esa identificación hace existir la imagen, atraviesa el cliché y sirve para crear efectos de reconocimiento y empatía, y para intercambiar afectos. El uso de esas imágenes aligera la seriedad de la política y trasciende los marcos de referencia clásicos –izquierda y derecha–, haciéndolos más abiertos e incluyentes y ampliando el horizonte compartido.
+Esa subversión pasa por identificarse completamente y sin distancia con algunas de las imágenes cliché que el mercado ofrece, por ejemplo, en películas como *Matrix, Avatar* o *V de Vendetta*. Esa identificación hace existir la imagen, atraviesa el cliché y sirve para crear efectos de reconocimiento y empatía, y para intercambiar afectos. El uso de esas imágenes aligera la seriedad de la política y trasciende los marcos de referencia clásicos –izquierda y derecha–, haciéndolos más abiertos e incluyentes y ampliando el horizonte compartido.
 
 Las «malinterpretaciones» de unos, a veces, a su vez son interpretadas por otros como indeseables, haciendo que estos últimos se alejen o no deseen considerarse incluidos en los horizontes compartidos de los primeros: demasiada turbiedad, demasiadas impurezas, demasiada testosterona. Demasiada confusión entre la gamberrada y la desobediencia civil.
 
@@ -1173,165 +1054,59 @@ Desde el 23 de diciembre de 2010, en España los ataques distribuidos de denegac
 
 Los que se oponen a este tipo de acciones sostienen argumentos éticos y tácticos: no se debe defender la libertad de expresión atacando la libertad de expresión de otros; los ataques pueden provocar una mayor y peor regulación de Internet, y, sobre todo, criminalizan las causas que pretenden apoyar:
 
-P
+PÚBLICO. ¿Qué opina de los ataques?
 
-ÚBLICO
+CARLOS SÁNCHEZ ALMEIDA. Creo que es un error estratégico. Conseguirán atención mediática un tiempo, pero a la larga servirá para criminalizara Anonymous y, lo que es peor, a WikiLeaks, a Julian Assange y a todo el movimiento ciberactivista.
 
-. ¿Qué opina de los ataques?
+PÚBLICO. Pero ¿entiende sus motivaciones?
 
-C
+CARLOS SÁNCHEZ ALMEIDA. Comprendo el enfado, pero lo que hay que hacer es mantener los canales de comunicación abiertos, abrir webs, no cerrarlas. Lo que está pasando ahora es más importante que la caída del Muro de Berlín y hay que darlo a conocer, sacarlo de la blogosfera y llevarlo a la calle. Pero los no conectados pueden identificar estas acciones con ciberdelincuencia.
 
-ARLOS
+PÚBLICO. ¿Internet se ha convertido en un arma para la acción política?
 
-S
-
-ÁNCHEZ
-
-A
-
-LMEIDA
-
-. Creo que es un error estratégico. Conseguirán
-
-atención mediática un tiempo, pero a la larga servirá para criminalizara Anonymous y, lo que es peor, a WikiLeaks, a Julian Assange y a todo el movimiento ciberactivista.
-
-P
-
-ÚBLICO
-
-. Pero ¿entiende sus motivaciones?
-
-C
-
-ARLOS
-
-S
-
-ÁNCHEZ
-
-A
-
-LMEIDA
-
-. Comprendo el enfado, pero lo que hay que hacer
-
-es mantener los canales de comunicación abiertos, abrir webs, no cerrarlas. Lo que está pasando ahora es más importante que la caída del Muro de Berlín y hay que darlo a conocer, sacarlo de la blogosfera y llevarlo a la calle. Pero los no conectados pueden identificar estas acciones con ciberdelincuencia.
-
-P
-
-ÚBLICO
-
-. ¿Internet se ha convertido en un arma para la acción política?
-
-C
-
-ARLOS
-
-S
-
-ÁNCHEZ
-
-A
-
-LMEIDA
-
-. La Red es al mismo tiempo una vía pública y un
-
-medio de comunicación. Puedes manifestarte como en la calle. La manifestación puede molestar a algunos, pero siempre podrán echar por otra calle. Pero, como medio de comunicación, no puedes atacar una web, es atentar contra la libertad de expresión que dices defender.
+CARLOS SÁNCHEZ A LMEIDA. La Red es al mismo tiempo una vía pública y un medio de comunicación. Puedes manifestarte como en la calle. La manifestación puede molestar a algunos, pero siempre podrán echar por otra calle. Pero, como medio de comunicación, no puedes atacar una web, es atentar contra la libertad de expresión que dices defender.
 
 22
 
 22
 
-«Lo que hay que hacer es abrir webs», entrevista a Carlos SánchezAlmeida,
-
-abogado ciberactivista,*http://www.publico.es*, 12 de diciembre de 2010.
+«Lo que hay que hacer es abrir webs», entrevista a Carlos SánchezAlmeida, abogado ciberactivista,*http://www.publico.es*, 12 de diciembre de 2010.
 
 <73\>
 
-Anonymous
 
 De nuevo encontramos en este argumento la confusión sobre qué es Internet –si una vía pública, si un medio de comunicación, si una nueva esfera público-privada constituida por cuartos propios conectados...–, confusión a la que, en mi opinión, las luchas en Internet deberían contribuir y aumentar.
 
-Y a la confusión sobre qué es Internet se añade la confusión
+Y a la confusión sobre qué es Internet se añade la confusión sobre qué es lo que han hecho los anon durante la última fase de la \#payback, cuando dirigieron su operación contra los enemigos de WikiLeaks.
 
-sobre qué es lo que han hecho los anon durante la última fase de la \#payback, cuando dirigieron su operación contra los enemigos de WikiLeaks.
-
-A propósito de estas interpretaciones, el 17 de diciembre,
-
-Richard Stallman –iniciador del movimiento por el software libre– publicó en *The Guardian* un artículo a favor de la legitimidad de estas acciones al considerarlas el equivalente de una manifestación:
+A propósito de estas interpretaciones, el 17 de diciembre, Richard Stallman –iniciador del movimiento por el software libre– publicó en *The Guardian* un artículo a favor de la legitimidad de estas acciones al considerarlas el equivalente de una manifestación:
 
 Las acciones contra MasterCard y Amazon no son *hacking*. Se trata de gente que busca una forma de protesta en un espacio digital.
 
-Las protestas en la Red de Anonymous en apoyo a WikiLeaks son el
-
-equivalente en Internet de una manifestación multitudinaria. Es un error
-
-denominarlas *hacking* –un juego de inteligencia y habilidad– o*cracking* –penetrar sistemas de seguridad. El programa LOIC que está utilizando Anonymous viene ya preparado de manera que no hace falta saber de informática para ponerlo en marcha, y no rompe ningún sistema de seguridad informática. Los manifestantes no han intentado hacerse con el control de la web de Amazon ni extraer ningún dato de MasterCard. Entran por la puerta principal y eso hace que las webs atacadas no puedan abarcar tanto volumen.
+Las protestas en la Red de Anonymous en apoyo a WikiLeaks son el equivalente en Internet de una manifestación multitudinaria. Es un error denominarlas *hacking* –un juego de inteligencia y habilidad– o*cracking* –penetrar sistemas de seguridad. El programa LOIC que está utilizando Anonymous viene ya preparado de manera que no hace falta saber de informática para ponerlo en marcha, y no rompe ningún sistema de seguridad informática. Los manifestantes no han intentado hacerse con el control de la web de Amazon ni extraer ningún dato de MasterCard. Entran por la puerta principal y eso hace que las webs atacadas no puedan abarcar tanto volumen.
 
 Tampoco se puede denominar a estas protestas ataques distribuidos de denegación de servicio (DDoS). Un ataque DDoS se hace con miles de ordenadores «zombis». Normalmente, alguien trata de romper la seguridad de esos ordenadores –a menudo con un virus– y se hace con el control remoto de las máquinas, después las monta en una red controlada para que obedezcan sus órdenes –en este caso, sobrecargar un servidor. Los ordenadores de las protestas de Anonymous no son zombis; la idea es que operan de manera individual.
 
-No. Es mucho más correcto compararlo con la multitud que se agolpó la semana pasada en las tiendas de Topshop. No acudieron a las tiendas para llevarse nada, pero le dieron un quebradero de cabeza a su propietario, Philip Green. No me gustaría mucho que mi tienda –si tuviera una– fuera objeto de una protesta multitudinaria. A Amazon y
+No. Es mucho más correcto compararlo con la multitud que se agolpó la semana pasada en las tiendas de Topshop. No acudieron a las tiendas para llevarse nada, pero le dieron un quebradero de cabeza a su propietario, Philip Green. No me gustaría mucho que mi tienda –si tuviera una– fuera objeto de una protesta multitudinaria. A Amazon y MasterCard tampoco les gusta y seguramente sus clientes se enfadaron. Los que trataron de entrar a comprar algo en las tiendas de Topshop el día de la protesta seguramente se enfadaron también.
 
-<74\>
+Internet no puede funcionar si hay multitudes que bloquean las webs, de igual manera que una ciudad no puede funcionar si sus calles están siempre llenas de manifestantes. Pero antes de precipitarse a pedir que castiguen a los que llevan a cabo estas protestas en la Red, hay que plantearse por qué protestan: en Internet, los usuarios notienen derechos. Como ha demostrado el caso de WikiLeaks. Lo que hacemos en la Red, lo hacemos mientras nos lo permiten.
 
-MasterCard tampoco les gusta y seguramente sus clientes se enfadaron. Los que trataron de entrar a comprar algo en las tiendas de Topshop
-
-el día de la protesta seguramente se enfadaron también.
-
-Internet no puede funcionar si hay multitudes que bloquean las
-
-webs, de igual manera que una ciudad no puede funcionar si sus calles están siempre llenas de manifestantes. Pero antes de precipitarse a pedir que castiguen a los que llevan a cabo estas protestas en la Red, hay que plantearse por qué protestan: en Internet, los usuarios notienen derechos. Como ha demostrado el caso de WikiLeaks. Lo que hacemos en la Red, lo hacemos mientras nos lo permiten.
-
-En el mundo físico, tenemos derecho a imprimir y vender libros. Si
-
-alguien quiere impedirlo, tiene que acudir a los tribunales. Se trata deun derecho frágil en el Reino Unido –debido a la figura legal de la censura
+En el mundo físico, tenemos derecho a imprimir y vender libros. Si alguien quiere impedirlo, tiene que acudir a los tribunales. Se trata deun derecho frágil en el Reino Unido –debido a la figura legal de la censura
 
 preventiva ordenada por un juez–, pero al menos existe el derecho. Sin embargo, para montar una web necesitamos adquirir un dominio a una empresa, un proveedor de servicios de Internet y a menudo una compañía de *hosting*; todas ellas pueden recibir presiones para cerrarnuestra web. En Estados Unidos, ninguna ley regula esta situación precaria. Es más, existen contratos que estipulan que hemos autorizado a estas empresas a funcionar de esta manera como algo habitual. Es como si todos viviéramos en habitaciones alquiladas y los dueños pudieran desahuciarnos en cualquier momento.
 
-El acto de leer en el mundo virtual también se realiza sin un respaldo
+El acto de leer en el mundo virtual también se realiza sin un respaldo de derechos. En el mundo físico, puedes comprar un libro con dinero y es tuyo. Tienes libertad para darlo, prestarlo o venderlo a alguien.También tienes la libertad de quedártelo. Sin embargo, en el mundo virtual, los *e-readers*–el aparato con el que lees libros electrónicos– tienengrilletes digitales que te impiden dar, prestar o vender un libro, y hay licencias que lo prohíben. El año pasado, Amazon utilizó la puerta trasera de su *e-reader* para borrar remotamente miles de copias de *1984*, de George Orwell. Han privatizado el Ministerio de la Verdad.
 
-de derechos. En el mundo físico, puedes comprar un libro con dinero y es
-
-tuyo. Tienes libertad para darlo, prestarlo o venderlo a alguien.También tienes la libertad de quedártelo. Sin embargo, en el mundo virtual, los
-
-*e-readers*–el aparato con el que lees libros electrónicos– tienengrilletes digitales que te impiden dar, prestar o vender un libro, y hay licencias
-
-que lo prohíben. El año pasado, Amazon utilizó la puerta trasera de su *e-reader* para borrar remotamente miles de copias de *1984*, de George
-
-Orwell. Han privatizado el Ministerio de la Verdad.
-
-En el mundo físico, tenemos derecho a pagar con dinero y recibir
-
-dinero, incluso de manera anónima. En Internet, solo podemos recibir dinero con organizaciones como PayPal y MasterCard, y el «estado de seguridad» rastrea los pagos realizados minuciosamente. Leyes que anulan la presunción de inocencia como la Digital Economy Act [Ley de economía digital] amplían este modelo de precariedad a la conectividad en Internet. Lo que haces en tu ordenador también lo controlan otros, con software que no es libre. Los sistemas de Microsoft y Appleintroducen grilletes digitales, características diseñadas específicamente para
-
-limitar a los usuarios. El uso continuado de un programa también esprecario: Apple le puso una puerta trasera al iPhone para borrar de manera
-
-remota aplicaciones instaladas y también Windows permitía a Microsoft instalar cambios en el software sin solicitar permiso.
+En el mundo físico, tenemos derecho a pagar con dinero y recibir dinero, incluso de manera anónima. En Internet, solo podemos recibir dinero con organizaciones como PayPal y MasterCard, y el «estado de seguridad» rastrea los pagos realizados minuciosamente. Leyes que anulan la presunción de inocencia como la Digital Economy Act [Ley de economía digital] amplían este modelo de precariedad a la conectividad en Internet. Lo que haces en tu ordenador también lo controlan otros, con software que no es libre. Los sistemas de Microsoft y Appleintroducen grilletes digitales, características diseñadas específicamente para limitar a los usuarios. El uso continuado de un programa también esprecario: Apple le puso una puerta trasera al iPhone para borrar de manera remota aplicaciones instaladas y también Windows permitía a Microsoft instalar cambios en el software sin solicitar permiso.
 
 <75\>
 
-Anonymous
 
 Inicié el movimiento del software libre para sustituir el software nolibre que controla al usuario por software libre que respeta la libertad. Conel software libre al menos podemos controlar lo que el software hace en nuestros ordenadores.
 
-En la actualidad Estados Unidos es un nodo de poder de intereses
+En la actualidad Estados Unidos es un nodo de poder de intereses empresariales. Como tiene que dar la apariencia de que está al servicio del pueblo, teme que la verdad se filtre. De ahí sus campañas paralelas contra WikiLeaks: aplastarlo a través de la precariedad en Internet ylimitar formalmente la libertad de prensa.
 
-empresariales. Como tiene que dar la apariencia de que está al servicio
-
-del pueblo, teme que la verdad se filtre. De ahí sus campañas paralelas
-
-contra WikiLeaks: aplastarlo a través de la precariedad en Internet ylimitar formalmente la libertad de prensa.
-
-Los gobiernos están intentando meter en la cárcel a las personas
-
-que participan en las protestas de Anonymous en lugar de a los torturadores y asesinos oficiales. El día en el que nuestros gobiernos persigan
-
-a los criminales de guerra y nos digan la verdad, podremos decir que el
-
-control de las multitudes en Internet es nuestro principal gran problema
-
-a resolver. Me encantará ver ese día.
+Los gobiernos están intentando meter en la cárcel a las personas que participan en las protestas de Anonymous en lugar de a los torturadores y asesinos oficiales. El día en el que nuestros gobiernos persigan a los criminales de guerra y nos digan la verdad, podremos decir que el control de las multitudes en Internet es nuestro principal gran problema a resolver. Me encantará ver ese día.
 
 23
 
@@ -1353,7 +1128,7 @@ against control», *http://www.guardian.co.uk*, 17 de diciembre de 2012.Traducci
 
 <76\>
 
-Dibujar la línea
+## Dibujar la línea
 
 Como ya hemos mencionado, el viernes 10 de diciembre, tras cuatro días de \#payback contra los enemigos de WikiLeaks, Anonymous anunció que detenía estas acciones y ponía en marcha la operación Leakspin, centrando sus esfuerzos en divulgar las filtraciones. En esas fechas habían sido publicados por la prensa unos 1.300 del total de los 251.000 cables filtrados.
 
@@ -1361,9 +1136,7 @@ Posiblemente, en esta decisión influyera el fracaso de no
 
 haber podido tumbar la web de Amazon (el jueves 9 de diciembre). Pero también pudo influir una cierta cautela en prevención de que la \#payback se les fuera de las manos.
 
-Los anon son conscientes de su singularidad: «No creemos
-
-que haya un movimiento similar en el mundo hoy y, por eso, tenemos que aprender mediante ensayo y error». Sus mayores fortalezas residen en su falta de jerarquías, su apertura y su facilidad para incorporar adhesiones y una forma de actuar anárquica. Pero tal vez su mayor debilidad sea la dificultad de coordinación –precisamente por no tener estructura ni instancias claras de decisión–, la incertidumbre respecto a cuánto consenso hay sobre un acuerdo y el peligro de generar escisiones.
+Los anon son conscientes de su singularidad: «No creemos que haya un movimiento similar en el mundo hoy y, por eso, tenemos que aprender mediante ensayo y error». Sus mayores fortalezas residen en su falta de jerarquías, su apertura y su facilidad para incorporar adhesiones y una forma de actuar anárquica. Pero tal vez su mayor debilidad sea la dificultad de coordinación –precisamente por no tener estructura ni instancias claras de decisión–, la incertidumbre respecto a cuánto consenso hay sobre un acuerdo y el peligro de generar escisiones.
 
 El 11 de diciembre, la web de la Fundación Fronteras Electrónicas (EFF por sus siglas en inglés, Electronic Frontier Foundation), pionera en la defensa de los ciberderechos, sufrió un ataque distribuido de denegación de servicio (DDoS). Esto sucedió después de que su cofundador John Perry Barlow criticara las acciones de Anonymous y en concreto la \#payback, por ir contra el espíritu libre y abierto de la Red y por perjudicar, en última instancia, la causa de WikiLeaks.
 
@@ -1371,7 +1144,6 @@ Desde Panda Labs, Luis Corrons, director técnico de la compañía y miembro del
 
 <77\>
 
-Anonymous
 
 libertad de la Red y los riesgos de criminalización pudieron haber pesado en la decisión de Anonymous de poner fin a la \#payback. Los propios anon reconocieron disensiones:
 
@@ -1419,7 +1191,6 @@ por una web, está haciendo peticiones web. Los servidores web reciben decenas, 
 
 <79\>
 
-Anonymous
 
 El mismo programa de ordenador que utiliza un administrador de un servidor web para hacer pruebas de estrés, con ligeras modificaciones, puede ser usado por cualquier persona contra cualquier web con la intención de que el servidor de esa web se quede sin recursos. Pero aquí entra en juego la fuerza bruta, es decir, las capacidades de proceso de ambos ordenadores, atacante y atacado. Es muy improbable que yo sola, desde mi humilde portátil, pueda tumbar ninguna web.
 
@@ -1429,27 +1200,13 @@ Cuando se ejecuta un DoS con ordenadores zombis, entonces se convierte en DDoS, 
 
 Esto es lo que ocurrió al día siguiente de que WikiLeaks empezara con el Cablegate, cuando recibió un ataque DDoS que la dejó fuera de servicio y que presuntamente fue lanzado por alguien que dijo llamarse Jester y ser patriota norteamericano.
 
-Y también a eso es a lo que se refiere Luis Corrons, de Panda
+Y también a eso es a lo que se refiere Luis Corrons, de Panda Labs, cuando dice que alguien aseguró que tenía 30.000 ordenadores zombis a su disposición para unirse al ataque contra la Fundación Fronteras Electrónicas. (Treinta mil ordenadores son muchos ordenadores. Se cuenta que los anon calculaban que con cinco mil personas, es decir, cinco mil ordenadores, podrían tumbar Amazon).
 
-Labs, cuando dice que alguien aseguró que tenía 30.000 ordenadores zombis a su disposición para unirse al ataque contra la Fundación Fronteras Electrónicas. (Treinta mil ordenadores son
+Cuando los anon, a finales de 2007, convocaron un ataque contra las webs de la Iglesia de la Cienciología, diseñaron y programaron una aplicación informática para realizar ataques DoS. Era el Low Orbit Ion Cannon, algo así como «cañón de iones de órbita baja», metáfora extraída de *La guerra de las galaxias*. El ahora famosísimo LOIC era el programa que los anon debían instalar en su ordenador para participar en el ataque de manera simultánea. Nótese que, pese a las acusaciones de vandalismo e incluso de ciberterrorismo que reciben los anon a través de los medios de comunicación, en sus operaciones no utilizan ordenadores zombis. Cada anon opera de forma autónoma, aunque coordinada.
 
-<80\>
+A fin de facilitar todavía más la participación masiva en sus operaciones, para la \#payback el LOIC fue modificado y se le añadió la posibilidad de que el usuario delegara voluntariamente el control de su LOIC al operador de un canal IRC. Es decir, el anon conecta su LOIC a un canal IRC de Anonymous, desde el cual las personas que administran el canal configuran todos los LOIC conectados para que ataquen al unísono la web consensuada. Esta modificación se conoce como IRCLOIC, aunque, más allá de tecnicismos, la herramienta –para unos– y arma –para otros– de los anon sigue llamándose popularmente LOIC.
 
-muchos ordenadores. Se cuenta que los anon calculaban que con cinco mil personas, es decir, cinco mil ordenadores, podrían tumbar Amazon).
-
-Cuando los anon, a finales de 2007, convocaron un ataque
-
-contra las webs de la Iglesia de la Cienciología, diseñaron y programaron una aplicación informática para realizar ataques DoS. Era el Low Orbit Ion Cannon, algo así como «cañón de iones de órbita baja», metáfora extraída de *La guerra de las galaxias*. El ahora
-
-famosísimo LOIC era el programa que los anon debían instalar en su ordenador para participar en el ataque de manera simultánea. Nótese que, pese a las acusaciones de vandalismo e incluso de ciberterrorismo que reciben los anon a través de los medios de comunicación, en sus operaciones no utilizan ordenadores zombis. Cada anon opera de forma autónoma, aunque coordinada.
-
-A fin de facilitar todavía más la participación masiva en sus
-
-operaciones, para la \#payback el LOIC fue modificado y se le añadió la posibilidad de que el usuario delegara voluntariamente el control de su LOIC al operador de un canal IRC. Es decir, el anon conecta su LOIC a un canal IRC de Anonymous, desde el cual las personas que administran el canal configuran todos los LOIC conectados para que ataquen al unísono la web consensuada. Esta modificación se conoce como IRCLOIC, aunque, más allá de tecnicismos, la herramienta –para unos– y arma –para otros– de los anon sigue llamándose popularmente LOIC.
-
-A partir del LOIC modificado, los anon ganan en eficiencia
-
-y pueden organizar en poquísimo tiempo una *botnet*, una red de robots formada por voluntarios que participan en la operación.
+A partir del LOIC modificado, los anon ganan en eficiencia y pueden organizar en poquísimo tiempo una *botnet*, una red de robots formada por voluntarios que participan en la operación.
 
 Todo este conjunto de detalles es lo que hace decir a Richard
 
@@ -1457,21 +1214,12 @@ Stallman que las protestas de Anonymous no son ni *hacking* –el programa LOIC 
 
 <81\>
 
-Anonymous
 
 Richard Stallman, que conoce bien los intríngulis tecnológicos de estas protestas, dice que los anon tumban las webs entrando por la puerta grande, y mete en el kit de la lucha el conocimiento técnico de los detalles, necesario para dibujar la línea en cada situación.
 
-Pero toda esta resistencia a gran escala, por más fuerte que
+Pero toda esta resistencia a gran escala, por más fuerte que sea, no va a ser suficiente:
 
-sea, no va a ser suficiente:
-
-La desmesura y la audacia de los Anonymous les permiten adoptar lemas tan fuertes –«la piratería es la libertad»– que ningún actorpolítico tradicional se atrevería a utilizarlos so pena de perdercredibilidad, y producen a su vez un radical efecto galvanizador sobre energías latentes
-
-aburridas por las movilizaciones clásicas. Sin embargo, cualquiera que sea su fuerza, la espontaneidad a gran escala solo puede medirse con las instituciones a partir del modo de destrucción. El objetivo de esta
-
-organización no es construir instituciones alternativas. Colabora con la
-
-formación de un horizonte común de protesta que tal vez facilite laacción futura. Ya agrietó muros que parecían indestructibles. Otroscontestatarios transformarán esas fisuras en aberturas.
+La desmesura y la audacia de los Anonymous les permiten adoptar lemas tan fuertes –«la piratería es la libertad»– que ningún actorpolítico tradicional se atrevería a utilizarlos so pena de perdercredibilidad, y producen a su vez un radical efecto galvanizador sobre energías latentes aburridas por las movilizaciones clásicas. Sin embargo, cualquiera que sea su fuerza, la espontaneidad a gran escala solo puede medirse con las instituciones a partir del modo de destrucción. El objetivo de esta organización no es construir instituciones alternativas. Colabora con la formación de un horizonte común de protesta que tal vez facilite laacción futura. Ya agrietó muros que parecían indestructibles. Otroscontestatarios transformarán esas fisuras en aberturas.
 
 25
 
@@ -1479,23 +1227,15 @@ Los anon, esa «máquina del odio de Internet» llena de «terroristas caseros»
 
 25
 
-Felix Stalder, «Anonymous, la protesta enmascarada», *op. cit.*, 2012;disponible
-
-en Internet.
+Felix Stalder, «Anonymous, la protesta enmascarada», *op. cit.*, 2012;disponible en Internet.
 
 <83\>
 
-Hacktivistas es una plataforma tecnopolítica para el activismo en Internet. Es una de esas «redes de sentido» que son capaces de tomar un trozo de información aparentemente insignificante, interpretarla, darle sentido y usarla como palanca contundente en sus estrategias de lucha. Se autodefine como un espacio para coordinar acciones a nivel global, debatir estrategias, compartir recursos y sincronizar movimientos de creación y resistencia hacia una sociedad libre con unas tecnologías libres. Surge de la comunidad de hacklabs [laboratorios hacker] del Estado español y se constituye en el
-
-hackmeeting [encuentro hacker] de 2008,
-
-justo cuando WikiLeaks filtra un documento del ACTA.
+Hacktivistas es una plataforma tecnopolítica para el activismo en Internet. Es una de esas «redes de sentido» que son capaces de tomar un trozo de información aparentemente insignificante, interpretarla, darle sentido y usarla como palanca contundente en sus estrategias de lucha. Se autodefine como un espacio para coordinar acciones a nivel global, debatir estrategias, compartir recursos y sincronizar movimientos de creación y resistencia hacia una sociedad libre con unas tecnologías libres. Surge de la comunidad de hacklabs [laboratorios hacker] del Estado español y se constituye en el hackmeeting [encuentro hacker] de 2008, justo cuando WikiLeaks filtra un documento del ACTA.
 
 El ACTA es una respuesta de la industria mundial al incremento de los bienes falsificados y obras protegidas por copyright pirateadas en el mercado global. Aunque el ámbito del ACTA es amplio, e incluye desde la falsificación de bienes físicos a la distribución en Internet y las tecnologías de la información, es en Internet donde Hacktivistas –y muchos otros– ven venir el enésimo ataque de las corporaciones mundiales de la industria del entretenimiento a las libertades de acceso a los bienes inmateriales. Y se autoorganizan para neutralizarlo.
 
-En ese momento se sabe que desde 2007 las negociaciones
-
-del ACTA se están llevando en secreto y que el objetivo de la industria es que los gobiernos de todo el mundo aprueben leyes a su favor. ¿Puede un grupo de chavales pensar que se va a enfrentar con éxito a la gran industria global? Sí, puede. Analizan la
+En ese momento se sabe que desde 2007 las negociaciones del ACTA se están llevando en secreto y que el objetivo de la industria es que los gobiernos de todo el mundo aprueben leyes a su favor. ¿Puede un grupo de chavales pensar que se va a enfrentar con éxito a la gran industria global? Sí, puede. Analizan la
 
 \III. Hacktivistas
 
@@ -1507,83 +1247,49 @@ situación, interpretan el plan del adversario, prevén el curso de los aconteci
 
 Sitúan el ámbito de su lucha: España.
 
-Evalúan la situación: el gobierno de Zapatero está débil y debe
-
-favores al mundo de la cultura, que ha contribuido a posicionarlo donde está.
+Evalúan la situación: el gobierno de Zapatero está débil y debe favores al mundo de la cultura, que ha contribuido a posicionarlo donde está.
 
 1
 
 España va a asumir la presidencia de Europa en el primer semestre de 2010.
 
-Y perfilan una estrategia: en primer lugar, se trata de impedir
+Y perfilan una estrategia: en primer lugar, se trata de impedir que España apruebe leyes a favor de la industria del entretenimiento antes del 1 de enero de 2010. Y, en segundo lugar, se trata de impedir que España utilice la presidencia europea para colarlas en Europa.
 
-que España apruebe leyes a favor de la industria del entretenimiento antes del 1 de enero de 2010. Y, en segundo lugar, se trata de impedir que España utilice la presidencia europea para colarlas en Europa.
+Por estas fechas, aunque unas pocas noticias publicadas en prensa no son suficientes para demostrar esta trama, Hacktivistas tenía la seguridad de haber situado bien su estrategia. El Cablegate, en diciembre de 2010, filtró algunos cables que hicieron públicas las evidencias de que el gobierno de Estados Unidos había estado presionando al gobierno español para que aprobara leyes a favor de la industria –una de las cuales ha sido la ley Sinde.
 
-Por estas fechas, aunque unas pocas noticias publicadas en
+Pero, ¿qué podían hacer contra todo esto? Iokese y apardo, hacktivistas, hablando de los inicios, me contaron:
 
-prensa no son suficientes para demostrar esta trama, Hacktivistas tenía la seguridad de haber situado bien su estrategia. El Cablegate, en diciembre de 2010, filtró algunos cables que hicieron públicas las evidencias de que el gobierno de Estados Unidos había estado presionando al gobierno español para que aprobara leyes a favor de la industria –una de las cuales ha sido la ley Sinde.
-
-Pero, ¿qué podían hacer contra todo esto? Iokese y apardo,
-
-hacktivistas, hablando de los inicios, me contaron:
-
-Construimos una red para luchar contra los gigantes. Trazamos un plan a tres años. El plan no era vencer; sabíamos que no podíamos vencer. El
-
-plan era que cuando todas estas leyes se aprobaran estuvieran ya totalmente deslegitimadas y listas para la desobediencia social civil masiva.
+Construimos una red para luchar contra los gigantes. Trazamos un plan a tres años. El plan no era vencer; sabíamos que no podíamos vencer. El plan era que cuando todas estas leyes se aprobaran estuvieran ya totalmente deslegitimadas y listas para la desobediencia social civil masiva.
 
 Y empezamos a trabajar como si pudiéramos conseguirlo.
 
 1
 
-«Cultura contra la Guerra» fue una plataforma constituida a raíz delapoyo del
-
-gobierno de Aznar a la guerra de Iraq. La plataforma se manifestócontraria al uso de la fuerza militar y fue muy activa, contribuyendo a lavisibilidad del rechazo social a esa guerra. Hizo su aparición pública en la entrega de lospremios Goya del año 2003, en la que varios artistas se manifestaron en contra de laocupación militar. Integrada por varias asociaciones y organizaciones de artistas,como la Federación de Actores del Estado Español, Payasos sin Fronteras o laFederación de Estudiantes de Arte Dramático, la plataforma «Cultura contra laGuerra» trabajó en diversos puntos del Estado y en coordinación directa con distintasasociaciones como Attac, Ecologistas en Acción y Mundo Árabe.
-
-<85\>
-
-Hacktivistas
+«Cultura contra la Guerra» fue una plataforma constituida a raíz delapoyo del gobierno de Aznar a la guerra de Iraq. La plataforma se manifestócontraria al uso de la fuerza militar y fue muy activa, contribuyendo a lavisibilidad del rechazo social a esa guerra. Hizo su aparición pública en la entrega de lospremios Goya del año 2003, en la que varios artistas se manifestaron en contra de laocupación militar. Integrada por varias asociaciones y organizaciones de artistas,como la Federación de Actores del Estado Español, Payasos sin Fronteras o laFederación de Estudiantes de Arte Dramático, la plataforma «Cultura contra laGuerra» trabajó en diversos puntos del Estado y en coordinación directa con distintasasociaciones como Attac, Ecologistas en Acción y Mundo Árabe.
 
 A día de hoy, podemos decir que el plan ha sido un éxito, ya que la ley Sinde fue tumbada varias veces y cuando fue aprobada, a finales de 2010, lo hizo totalmente deslegitimada incluso antes de tener un reglamento.Naturalmente, esto no se debe exclusivamente a la acción de Hacktivistas. Es la lucha de un movimiento social que cruza izquierda y derecha, y que es capaz de alianzas monstruosas. Iokese y apardo cuentan:
 
-Tuvimos que crear una conexión de confianza fuerte con otras redes estratégicas que nos iban a permitir llegar a donde nosotros no podríamos llegar. Somos buenos para la comunicación, la agitación y laorganización de acciones rápidas y potentes. Pero hacen falta interlocutores,
-
-negociadores y otro tipo de actores sociales que sean capaces de tocar otras teclas. Nosotros no somos gente para ir a negociar a los ministerios. Para eso hay otros actores que lo pueden hacer mucho mejor. Y confiamos en ellos.
+Tuvimos que crear una conexión de confianza fuerte con otras redes estratégicas que nos iban a permitir llegar a donde nosotros no podríamos llegar. Somos buenos para la comunicación, la agitación y laorganización de acciones rápidas y potentes. Pero hacen falta interlocutores, negociadores y otro tipo de actores sociales que sean capaces de tocar otras teclas. Nosotros no somos gente para ir a negociar a los ministerios. Para eso hay otros actores que lo pueden hacer mucho mejor. Y confiamos en ellos.
 
 Hacktivismo copyleft
 
 Hacktivistas se autodefine como hacktivismo copyleft. Y esto significa abrir el código.
 
-En Hacktivistas todo es público y accesible. La plataforma
-
-se coordina mediante una lista de correo electrónico a la que cualquier persona, literalmente cualquiera, puede suscribirse. De vez en cuando se celebran reuniones por IRC. En un wiki público se anotan las discusiones y los acuerdos. Y casi siempre hablan en femenino.
+En Hacktivistas todo es público y accesible. La plataforma se coordina mediante una lista de correo electrónico a la que cualquier persona, literalmente cualquiera, puede suscribirse. De vez en cuando se celebran reuniones por IRC. En un wiki público se anotan las discusiones y los acuerdos. Y casi siempre hablan en femenino.
 
 Con estos recursos online más el trabajo de los grupos de afinidad y algunos encuentros presenciales, se analiza la situación y se organizan las campañas y las acciones, de forma totalmente transparente y siempre dentro de la legalidad, bajo un enfoque de no violencia activa que crea y visibiliza el conflicto hackeando la legalidad, es decir, sin salirse de ella pero forzándola, estresándola y buscándole las vueltas. Hacktivistas no traspasa la frontera. Hace algo mucho mejor: mueve la frontera.
 
 Su actividad es incesante y muy creativa.
 
-<86\>
+Compartir es bueno. Muchos efectos con pocos costes *Compartir es bueno* fue una plataforma lanzada en 2005, predecesora de hacktivistas.net. Buscaba visualizar en la calle la violencia que la industria cultural y las sociedades de gestión ejercen sobre la sociedad de la información, salir del gueto internauta y desobedecer las formas privativas de producción de cultura.
 
-Compartir es bueno. Muchos efectos con pocos costes
+Periódicamente convocaban concentraciones en la calle, frente a las sedes de la SGAE, y llevaban toda la infraestructura necesaria –ordenadores, conexión ADSL, etc.– para bajarse música de Internet.
 
-*Compartir es bueno* fue una plataforma lanzada en 2005, predecesora de hacktivistas.net. Buscaba visualizar en la calle la violencia que la industria cultural y las sociedades de gestión ejercen sobre la sociedad de la información, salir del gueto internauta y desobedecer las formas privativas de producción de cultura.
-
-Periódicamente convocaban concentraciones en la calle,
-
-frente a las sedes de la SGAE, y llevaban toda la infraestructura necesaria –ordenadores, conexión ADSL, etc.– para bajarse música de Internet.
-
-Las acciones se convocaban públicamente y se informaba de
-
-ellas a la prensa y a la policía. El objetivo era desmentir las campañas del gobierno que criminalizaban las descargas a pesar de que esas descargas en España no son ilegales. Al realizar descargas anunciadas públicamente en la puerta de la SGAE y demostrar que las personas que las realizaban no eran denunciadas por la SGAE ni por la policía, visibilizaban la mentira del meme que asocia descargas con piratería:
+Las acciones se convocaban públicamente y se informaba de ellas a la prensa y a la policía. El objetivo era desmentir las campañas del gobierno que criminalizaban las descargas a pesar de que esas descargas en España no son ilegales. Al realizar descargas anunciadas públicamente en la puerta de la SGAE y demostrar que las personas que las realizaban no eran denunciadas por la SGAE ni por la policía, visibilizaban la mentira del meme que asocia descargas con piratería:
 
 Lo hemos demostrado: compartir NO es delito. Hoy, lunes 7 de noviembre, a las 11.07 de la mañana nos hemos descargado la canción *Get On Your Knees* de Teddy Bautista, justo enfrente de la sede de la SGAE en Bilbao. Allí estaban la prensa y un grupo de curiosos acompañándonos y dando fe de la descarga. Y nadie nos ha detenido. La policía conocía los hechos gracias al burofax que enviamos la semana pasada a sus oficinas. Si bajarse música fuera constitutivo de delito la policíatendría que habernos detenido ya que están obligados a evitar que se cometa un delito si conocen de antemano que va a realizarse.
 
-En su manifiesto
-
-2
-
-*Compartir es bueno* afirman que la propiedad
-
-intelectual es una contradicción, que la creatividad se defiende compartiéndola, que compartir cultura es un derecho y además es legítimo y legal, a pesar de lo cual empieza a estar perseguido, por lo que esa compartición debe defenderse:
+En su manifiesto *Compartir es bueno* afirman que la propiedad intelectual es una contradicción, que la creatividad se defiende compartiéndola, que compartir cultura es un derecho y además es legítimo y legal, a pesar de lo cual empieza a estar perseguido, por lo que esa compartición debe defenderse:
 
 2
 
@@ -1591,79 +1297,35 @@ Véase http://wiki.hacktivistas.net/
 
 <87\>
 
-Hacktivistas
+La propiedad intelectual es una contradicción. El concepto de propiedad intelectual no tiene ningún sentido. Lo s bienes intelectuales no pueden estar sujetos a propiedad porque:
 
-La propiedad intelectual es una contradicción. El concepto de propiedad
+1. no están limitados por naturaleza (de hecho su naturaleza esreproducirse máximamente),
+2. cuesta lo mismo producirlos para uno que para todos (se multiplican sin coste gracias a las nuevas tecnologías) y
+3. el que lo disfrute una persona no impide ni disminuye que lo disfruten las demás (de hecho cuanto más lo disfruten los demás, mayor valor adquiere al devenir culturalmente más relevante).
 
-intelectual no tiene ningún sentido. Lo s bienes intelectuales no pueden
+La cultura solo existe compartida. Compartir es bueno. La creatividad se defiende compartiéndola. Las creadoras vivimos bien en un mundo en el que compartir es libre, lo fue d urante mucho tiempo y fomentó la creatividad. Las autoras no necesitamos que nos defiendan de la sociedad, somos parte de ella. El uso y libre distribución y copia denuestras creaciones no es un ataque contra nosotras, sino un honor y un placer que nos permite darnos a conocer y difundir nuestra creación. Por eso, hay ya más de 270 millones de creaciones con licencias Creative Commons –y España ocupa el primer puesto mundial de creadoras que escogen compartir sus obras. Existen modelos económicos viables y justos basados en la libre circulación de obras culturales y técnicas. Losautores vivimos del directo, de la adaptación creativa, del trabajo por encargo, de los servicios, de la asesoría y/o el reconocimiento social;renunciando así al absurdo –a la reducción artificial de la riqueza inmaterial, lamercantilización de la cultura y la comunicación. A cambio nos beneficiamos del intercambio, la libertad de modificación y el acceso público a otras creaciones. Esta es la base de la evolución cultural. La creatividad se defiende compartiéndola. Compartir es bueno.
 
-estar sujetos a propiedad porque:
+Compartir cultura es un derecho. No se puede salvaguardar el derecho de subsistencia de los creadores violentando las bases sociales de la cult ura: prohibiendo compartir. La Declaración Universal de Derechos Humanos concibe los derechos de autor ligados al derecho de acceso a la cultura y no al derecho de propiedad, la Constitución española enconcreto considera la propiedad intelectual como subordinada a su función social y al interés general de acrecentar el acervo cultural de lacomunidad. Compartir cultura es un derecho fundamental. Compartir es bueno.
 
-\1. no están limitados por naturaleza (de hecho su naturaleza es
+Compartir es legítimo y es legal. No existe ninguna sentencia española que condene a nadie por compartir bienes inmateriales en las redes de interca mbio P2P de Internet. Todas tenemos derecho a hacer copias de los bienes culturales que adquirimos –se llama derecho a copiaprivada– y tenemos derecho a compartir esa copia. A pesar de ello los medios de comunicación, incluso el propio gobierno, se empeñan en hacer que parezca lo contrario. Compartir cultura no es delito. Compartir eslegítimo y es legal. Compartir es bueno.
 
-reproducirse máximamente),
+Compartir empieza a estar perseguido. Pese al sinsentido de la propiedad intelectual, pese a la existencia de modelos económicos eficaces basados en la libe rtad de intercambio, pese al derecho fundamental de acceso a la cultura, pese a su legitimidad y legalidad…, compartir está siendo cada vez más perseguido y obstaculizado por causa de intereses comerciales de unos pocos con mucho poder:
 
-\2. cuesta lo mismo producirlos para uno que para todos (se multiplican sin coste gracias a las nuevas tecnologías) y
+- las bibliotecas estarán pronto obligadas a pagar en concepto de propiedad intelectual por cada libro prestado
 
-\3. el que lo disfrute una persona no impide ni disminuye que lo disfruten las demás (de hecho cuanto más lo disfruten los demás, mayor valor adquiere al devenir culturalmente más relevante).
+- millones de personas morirán cada año si la India sucumbe a los tratados internacionales de propiedad intelectual dejando de producir medicamentos genéricos contra el sida; la propiedad intelectual sobre el conocimiento médico impide que mucha gente acceda a los medicamentos que necesita para seguir viviendo
 
-La cultura solo existe compartida. Compartir es bueno. La creatividad se defiende compartiéndola. Las creadoras vivimos bien en un mundo en el que compartir es libre, lo fue d urante mucho tiempo y fomentó la
+- campesinos rurales se ven obligados a pagar a Monsanto porque su cultivo de maíz tradicional ha sido infectado por una plantación transgénica vecina y el campesino no ha pagado los derechos de propiedad del ADN de su cultivo
 
-creatividad. Las autoras no necesitamos que nos defiendan de la sociedad, somos parte de ella. El uso y libre distribución y copia denuestras creaciones no es un ataque contra nosotras, sino un honor y un placer que nos permite darnos a conocer y difundir nuestra creación. Por eso, hay ya más de 270 millones de creaciones con licencias Creative Commons –y España ocupa el primer puesto mundial de creadoras que escogen compartir sus obras. Existen modelos económicos viables y justos basados en la libre circulación de obras culturales y técnicas. Losautores vivimos del directo, de la adaptación creativa, del trabajo por encargo,
-
-de los servicios, de la asesoría y/o el reconocimiento social;renunciando así al absurdo –a la reducción artificial de la riqueza inmaterial, lamercantilización de la cultura y la comunicación. A cambio nos beneficiamos
-
-del intercambio, la libertad de modificación y el acceso público a otras
-
-creaciones. Esta es la base de la evolución cultural. La creatividad se
-
-defiende compartiéndola. Compartir es bueno.
-
-Compartir cultura es un derecho. No se puede salvaguardar el derecho de subsistencia de los creadores violentando las bases sociales de la cult ura: prohibiendo compartir. La Declaración Universal de Derechos
-
-Humanos concibe los derechos de autor ligados al derecho de acceso a la cultura y no al derecho de propiedad, la Constitución española enconcreto considera la propiedad intelectual como subordinada a su función social y al interés general de acrecentar el acervo cultural de lacomunidad. Compartir cultura es un derecho fundamental. Compartir es bueno.
-
-Compartir es legítimo y es legal. No existe ninguna sentencia española que condene a nadie por compartir bienes inmateriales en las redes
-
-de interca mbio P2P de Internet. Todas tenemos derecho a hacer copias de los bienes culturales que adquirimos –se llama derecho a copiaprivada– y tenemos derecho a compartir esa copia. A pesar de ello los medios
-
-de comunicación, incluso el propio gobierno, se empeñan en hacer que parezca lo contrario. Compartir cultura no es delito. Compartir eslegítimo y es legal. Compartir es bueno.
-
-<88\>
-
-Compartir empieza a estar perseguido. Pese al sinsentido de la propiedad intelectual, pese a la existencia de modelos económicos eficaces basados en la libe rtad de intercambio, pese al derecho fundamental de acceso a la cultura, pese a su legitimidad y legalidad…, compartir está
-
-siendo cada vez más perseguido y obstaculizado por causa de intereses comerciales de unos pocos con mucho poder:
-
-- las bibliotecas estarán pronto obligadas a pagar en concepto de
-
-propiedad intelectual por cada libro prestado
-
-- millones de personas morirán cada año si la India sucumbe a los
-
-tratados internacionales de propiedad intelectual dejando de producir medicamentos genéricos contra el sida; la propiedad intelectual sobre el conocimiento médico impide que mucha gente acceda a los medicamentos que necesita para seguir viviendo
-
-- campesinos rurales se ven obligados a pagar a Monsanto porque
-
-su cultivo de maíz tradicional ha sido infectado por una plantación transgénica vecina y el campesino no ha pagado los derechos de propiedad del ADN de su cultivo
-
-- la plataforma de los mayores productores de software y hardware
-
-del mundo empieza a implantar tecnologías anticopia para que compartir cultura sea imposible (Sony ya ha generado el primer CD que introduce software malicioso en tu ordenador para controlar cómo y cuándo reproduces la música)
+- la plataforma de los mayores productores de software y hardware del mundo empieza a implantar tecnologías anticopia para que compartir cultura sea imposible (Sony ya ha generado el primer CD que introduce software malicioso en tu ordenador para controlar cómo y cuándo reproduces la música)
 
 - los medios de comunicación y las sociedades de gestión confunden deliberadamente descargas de música por Internet con mafias y terrorismo
 
 - según la interpretación que la industria discográfica quiere imponer sobre el artículo 270 del Código Penal, bajarse una canción de Internet o copiarse una película que te ha dejado un amigo debería estar castigado con penas de entre 6 meses y 2 años de cárcel (superiores a las impuestas por acoso sexual, el robo de una discografía completa en una tienda de discos o las amenazas con armas de fuego)
 
-- el acoso de la industria discográfica logra que las empresas que
-
-sostienen las redes de intercambio de información cierren o desaparezcan (EDonkey, webs de Bittorrent, etc.), verdaderos océanos de información intercambiada que secan las multinacionales para poder traficar con la escasez artificial de la cultura comercializada con copyright
+- el acoso de la industria discográfica logra que las empresas que sostienen las redes de intercambio de información cierren o desaparezcan (EDonkey, webs de Bittorrent, etc.), verdaderos océanos de información intercambiada que secan las multinacionales para poder traficar con la escasez artificial de la cultura comercializada con copyright
 
 Compartamos también la defensa de la cultura y el procomún. Tenemos que bloquear esta máquina de guerra que amenaza con pulverizar el futuro libre de la sociedad de la información, una amena za que busca el control total sobre los procesos comunicativos, la mercantilización absoluta de la cultura y la criminalización del intercambio libre ycreativo.
-
-<89\>
-
-Hacktivistas
 
 Este es el momento de hacer valer nuestros derechos conjuntamente, el momento de compartir fuerzas y conocimientos. Ha llegado el momento de salir a la calle. A compartir: conocimiento, cultura, técnica, poder.
 
@@ -1671,233 +1333,46 @@ Si eres legal, eres legal. Que el enemigo trabaje para ti
 
 En julio de 2008 se publicó en el BOE el concurso para la adjudicación de la campaña antipiratería *Si eres legal, eres legal*, con un presupuesto de 1.948.000 ¤. Es ta campaña del Ministerio de Cultura contra las redes P2P fue adjudicada por concurso a Tapsa por 1.712.936,95 ¤.
 
-La respuesta de Hacktivistas fue lanzar una campaña de
-
-*Google bombing*. Un *Google bomb* es un método para colocar una página web en los primeros lugares de los resultados de una búsqueda en Google. Este método explota el modo en que trabaja el algoritmo de búsqueda de Google, conocido como PageRank, ya que una página obtendrá un lugar superior si es enlazada por otras páginas ya conocidas.
+La respuesta de Hacktivistas fue lanzar una campaña de *Google bombing*. Un *Google bomb* es un método para colocar una página web en los primeros lugares de los resultados de una búsqueda en Google. Este método explota el modo en que trabaja el algoritmo de búsqueda de Google, conocido como PageRank, ya que una página obtendrá un lugar superior si es enlazada por otras páginas ya conocidas.
 
 Hacktivistas diseñó una página web réplica de la de la campaña ministerial *Si eres legal, eres legal* y publicó en ella uncontenido veraz y en favor de la cultura libre. A continuación, consiguió situar su página muy por encima de la del Ministerio de Cultura, de manera que cuanta más propaganda hacía el ministerio de su lema *Si eres legal, eres legal*, más visitas obtenía la página de la contracampaña dedicada a defender y legitimar la cultura libre. ¡Más de un millón de euros de dinero público tirados a la basura!
 
 El éxito de la contracampaña fue tal que el Ministerio de Cultura, en ese momento dirigido por César Antonio Molina, se vio obligado a responder con una proclama que tituló «Los ilegales intentan engañarte... ¡No te dejes manipular!».
 
-La visibilidad y legitimidad de «los ilegales» fue tan grande y
+La visibilidad y legitimidad de «los ilegales» fue tan grande y mediática que el periódico*El País*publicó el día 1 de diciembre de 2008 un cara a cara argumental entre el Ministerio de Cultura y esos «ilegales», titulado «Las 10 verdades del P2P que dice Cultura que son mentira», en el que el «ministerio» y el «antidecálogo» se confrontan:
 
-mediática que el periódico*El País*publicó el día 1 de diciembre de 2008 un cara a cara argumental entre el Ministerio de Cultura y
+1. Lo que está en Internet es gratis MINISTERIO DE CULTURA. ¡Falso! La música, el cine, las imágenes, los textos, los videojuegos que están en Internet han sido creados por personas. Es a ellas a las que corresponde disponer si su utilización es libre ygratuita o, por el contrario, poner un precio a su uso. ANTIDECÁLOGO. ¡Verdadero! Lo que está en Internet puede ser gratis, de pago o incluso de ambas categorías, gratis por un tiempo con opción a compra (share). En el caso de los vídeos y la música, los creadores pueden exigir un precio a los que comercializan esos contenidos o se lucran con ellos (iTunes, Google, Yahoo, etc.).
 
-<90\>
+2. Bajarse música o películas de Internet es legal CULTURA. ¡Falso! Cuando los dueños de contenidos autorizan la descarga gratuita sí es legal. Si la descarga no está autorizada por lostitulares de los derechos, tiene lugar una infracción de la propiedadintelectual. ANTIDECÁLOGO. ¡Verdadero! Las descargas de música son legales o, más precisamente, no son ilegales. Lo dice una sentencia de 2006 del juzgado de lo Penal número 3 de Santander que absolvió a un internauta, para quien se pedían dos años de cárcel por descargar y compartir música en Internet, por considerar que esa práctica no es delito, si no existeánimo de lucro, y está amparada por el derecho de copia privada.
 
-esos «ilegales», titulado «Las 10 verdades del P2P que dice Cultura que son mentira», en el que el «ministerio» y el «antidecálogo» se confrontan:
+3. Si no aparece el símbolo © en un contenido en Internet lo puedo utilizar CULTURA. ¡Falso! La ausencia del símbolo no indica que el contenido es de utilización libre. Para que así sea el titular lo ha tenido que hacerconstar expresamente. ANTIDECÁLOGO. ¡Verdadero! Siempre que no tenga ánimo de lucro, el usuario particular no tiene medios a su alcance para comprobar si un contenido está o no protegido por copyright. Corresponde a las empresas de la Red poner los medios tecnológicos para garantizar este derecho. Por ejemplo, YouTube ha creado su sistema Video ID que permite a los titulares de los derechos identificar sus contenidos y decidir que hacercon ellos: bloquearlos, autorizarlos o comercializarlos.
 
-1.
+4. Es legal copiar o utilizar un contenido de Internet siempre que se citeal autor CULTURA. ¡Falso! Debemos mencionar la fuente y el autor cuando utilizamos una cita en un trabajo de investigación o en un artículo. En estos casos, el fragmento ha de ser corto y proporcionado al fin de laincorporación. Y si no estamos citando, sino utilizando una obra sinautorización, debemos obtener una autorización del titular.
 
-Lo que está en Internet es gratis
+ANTIDECÁLOGO. ¡Verdadero! El propio enunciado de Cultura se contradice. Una cosa es usar un contenido y otra plagiar. El plagio es perseguible dentro y fuera de Internet. La cita no. Respecto a la copia, en Españase paga un canon por todo aparato o servicio que es susceptible de copiar o grabar (DVD, MP3, móviles, fotocopiadora, memorias flash y USB, etc.) contenidos protegidos. El importe de ese canon digital (118 millones de euros este año) se reparte entre los autores y creadores.
 
-M
+5. Cuando intercambio música y contenidos a través de programas peer to peer (P2P) no necesito autorización CULTURA. ¡Falso! La utilización de estos programas supone la explotación de derechos de propiedad intelectual que no han sido autorizados, por lo que constituye una infracción de los derechos de propiedad intelectual.ANTIDECÁLOGO. ¡Verdadero! En España, no hay ningún fallo judicial que diga que el P2P necesita autorización. Al contrario, una sentencia firme dela Audiencia Provincial de Madrid del pasado mes de septiembre absolvió a los promotores de Sharemula, una página web de enlaces, señalando que enlazar a las redes de P2P «no supone vulneración de los derechos de propiedad intelectual».
 
-INISTERIO
+6. Los intercambios de archivos a través de las redes P2P son legales CULTURA. ¡Falso! Si estos intercambios tienen lugar sin la autorización de los titulares de los derechos de propiedad intelectual, son actos ilegales.ANTIDECÁLOGO. ¡Verdadero! Además de lo dicho en el punto cinco, la doctrina de la Fiscalía General del Estado (circular de mayo de 2006)señala que el intercambio de archivos través del sistema P2P no es incriminable penalmente. Es cierto que la Fiscalía señala que pueden constituir un ilícito civil, pero tampoco ha habido un fallo judicial en vía civilcontra internautas que hayan usado el P2P sin ánimo de lucro.
 
-DE
-
-C
-
-ULTURA
-
-. ¡Falso! La música, el cine, las imágenes, los textos,
-
-los videojuegos que están en Internet han sido creados por personas. Es
-
-a ellas a las que corresponde disponer si su utilización es libre ygratuita o, por el contrario, poner un precio a su uso.A
-
-NTIDECÁLOGO
-
-. ¡Verdadero! Lo que está en Internet puede ser gratis, de
-
-pago o incluso de ambas categorías, gratis por un tiempo con opción a compra (
-
-share). En el caso de los vídeos y la música, los creadores
-
-pueden exigir un precio a los que comercializan esos contenidos o se lucran con ellos (iTunes, Google, Yahoo, etc.).
-
-2.
-
-Bajarse música o películas de Internet es legal
-
-C
-
-ULTURA
-
-. ¡Falso! Cuando los dueños de contenidos autorizan la descarga
-
-gratuita sí es legal. Si la descarga no está autorizada por lostitulares de los derechos, tiene lugar una infracción de la propiedadintelectual.A
-
-NTIDECÁLOGO
-
-. ¡Verdadero! Las descargas de música son legales o, más
-
-precisamente, no son ilegales. Lo dice una sentencia de 2006 del juzgado de lo Penal número 3 de Santander que absolvió a un internauta, para
-
-quien se pedían dos años de cárcel por descargar y compartir música en Internet, por considerar que esa práctica no es delito, si no existeánimo de lucro, y está amparada por el derecho de copia privada.
-
-3.
-
-Si no aparece el símbolo © en un contenido en Internet lo puedo utilizar
-
-C
-
-ULTURA
-
-. ¡Falso! La ausencia del símbolo no indica que el contenido es de
-
-utilización libre. Para que así sea el titular lo ha tenido que hacerconstar expresamente.A
-
-NTIDECÁLOGO
-
-. ¡Verdadero! Siempre que no tenga ánimo de lucro, el usuario particular no tiene medios a su alcance para comprobar si un contenido está o no protegido por copyright. Corresponde a las empresas de la Red poner los medios tecnológicos para garantizar este derecho. Por ejemplo, YouTube ha creado su sistema Video ID que permite a los titulares de los derechos identificar sus contenidos y decidir que hacer
-
-con ellos: bloquearlos, autorizarlos o comercializarlos.
-
-4.
-
-Es legal copiar o utilizar un contenido de Internet siempre que se cite
-
-al autorC
-
-ULTURA
-
-. ¡Falso! Debemos mencionar la fuente y el autor cuando utilizamos una cita en un trabajo de investigación o en un artículo. En estos casos, el fragmento ha de ser corto y proporcionado al fin de laincorporación. Y si no estamos citando, sino utilizando una obra sinautorización, debemos obtener una autorización del titular.
-
-<91\>
-
-Hacktivistas
-
-A
-
-NTIDECÁLOGO
-
-. ¡Verdadero! El propio enunciado de Cultura se contradice.
-
-Una cosa es usar un contenido y otra plagiar. El plagio es perseguible dentro y fuera de Internet. La cita no. Respecto a la copia, en Españase paga un canon por todo aparato o servicio que es susceptible de copiar o grabar (DVD, MP3, móviles, fotocopiadora, memorias flash y USB, etc.)
-
-contenidos protegidos. El importe de ese canon digital (118 millones de
-
-euros este año) se reparte entre los autores y creadores.
-
-5.
-
-Cuando intercambio música y contenidos a través de programas peer
-
-to peer (P2P) no necesito autorizaciónC
-
-ULTURA
-
-. ¡Falso! La utilización de estos programas supone la explotación de derechos de propiedad intelectual que no han sido autorizados, por lo que constituye una infracción de los derechos de propiedad intelectual.A
-
-NTIDECÁLOGO
-
-. ¡Verdadero! En España, no hay ningún fallo judicial que diga
-
-que el P2P necesita autorización. Al contrario, una sentencia firme dela Audiencia Provincial de Madrid del pasado mes de septiembre absolvió a los promotores de Sharemula, una página web de enlaces, señalando que enlazar a las redes de P2P «no supone vulneración de los derechos de propiedad intelectual».
-
-6.
-
-Los intercambios de archivos a través de las redes P2P son legales
-
-C
-
-ULTURA
-
-. ¡Falso! Si estos intercambios tienen lugar sin la autorización
-
-de los titulares de los derechos de propiedad intelectual, son actos ilegales.A
-
-NTIDECÁLOGO
-
-. ¡Verdadero! Además de lo dicho en el punto cinco, la doctrina de la Fiscalía General del Estado (circular de mayo de 2006)señala que el intercambio de archivos través del sistema P2P no es incriminable
-
-penalmente. Es cierto que la Fiscalía señala que pueden constituir un ilícito civil, pero tampoco ha habido un fallo judicial en vía civilcontra internautas que hayan usado el P2P sin ánimo de lucro.
-
-7.
-
-Las redes P2P son seguras
-
-C
-
-ULTURA
-
-. ¡Falso! La seguridad es un grave problema, ya que damos entrada a nuestro ordenador a todos aquellos que estén conectados a la red. Cualquiera puede circular libremente y acceder a nuestros datos: IP,tipo de descargas que estamos haciendo, número de teléfono y otra información de seguridad que figure en el ordenador.A
-
-NTIDECÁLOGO
-
-. ¡Verdadero! Las redes P2P son tan seguras como lo quiera
-
-el usuario, que puede decidir libremente los contenidos que comparte de su ordenador y filtrar mediante antivirus los contenidos que se descarga. Es curioso que Cultura denuncie esta falta de seguridad cuando quiere implantar un modelo de control de las descargas como el francés,
-
-por el que una autoridad extrajudicial tendría acceso a todos esos datos
-
-de nuestro ordenador.
+7. Las redes P2P son seguras CULTURA. ¡Falso! La seguridad es un grave problema, ya que damos entrada a nuestro ordenador a todos aquellos que estén conectados a la red. Cualquiera puede circular libremente y acceder a nuestros datos: IP,tipo de descargas que estamos haciendo, número de teléfono y otra información de seguridad que figure en el ordenador. ANTIDECÁLOGO. ¡Verdadero! Las redes P2P son tan seguras como lo quiera el usuario, que puede decidir libremente los contenidos que comparte de su ordenador y filtrar mediante antivirus los contenidos que se descarga. Es curioso que Cultura denuncie esta falta de seguridad cuando quiere implantar un modelo de control de las descargas como el francés, por el que una autoridad extrajudicial tendría acceso a todos esos datos de nuestro ordenador.
 
 <92\>
 
 8.
 
-La industria cultural y los artistas ya ganan suficiente, así que noperjudico a nadie si no pagoC
-
-ULTURA
-
-. ¡Falso! Los autores, los artistas y las industrias de contenidos de
-
-propiedad intelectual tienen el derecho legítimo a ganar dinero,triunfar y tener una carrera exitosa, como ocurre en cualquier sector profesional. No se justifica que a este sector se le discrimine y se cuestionesu derecho a ser retribuido.A
-
-NTIDECÁLOGO
-
-. ¡Verdadero! La industria cultural, como todas, debe adaptarse a los nuevos tiempos y a los cambios tecnológicos. Con los mismos
-
-argumentos, los linotipistas estarían autorizados a pedir la prohibición
-
-de la informática. En contra de lo que dice Cultura, es la propiaindustria audiovisual la que exige una discriminación positiva –subvenciones,
-
-prohibición del P2P, canon digital, etc.– de la que no goza ningún otro
-
-sector productivo.
+La industria cultural y los artistas ya ganan suficiente, así que noperjudico a nadie si no pago CULTURA. ¡Falso! Los autores, los artistas y las industrias de contenidos de propiedad intelectual tienen el derecho legítimo a ganar dinero,triunfar y tener una carrera exitosa, como ocurre en cualquier sector profesional. No se justifica que a este sector se le discrimine y se cuestionesu derecho a ser retribuido.ANTIDECÁLOGO. ¡Verdadero! La industria cultural, como todas, debe adaptarse a los nuevos tiempos y a los cambios tecnológicos. Con los mismos argumentos, los linotipistas estarían autorizados a pedir la prohibición de la informática. En contra de lo que dice Cultura, es la propiaindustria audiovisual la que exige una discriminación positiva –subvenciones, prohibición del P2P, canon digital, etc.– de la que no goza ningún otro sector productivo.
 
 9.
 
-Las descargas ilegales promocionan a los artistas y a los autores,
-
-que ven difundidos sus trabajos y se dan a conocer sin necesidad de la industriaC
-
-ULTURA
-
-. ¡Falso! Detrás de los autores y los artistas hay una industria que
-
-les da trabajo, los da a conocer e invierte en ellos.A
-
-NTIDECÁLOGO
-
-. ¡Verdadero! Ningún artista famoso se ha arruinado por las
-
-descargas, ni siquiera los que como Prince han tratado de perseguirlas –pidió una indemnización a una madre que le puso una canción suya a su bebé. En cuanto a los modestos, Internet ha dado la posibilidad a cientos de grupos, entre ellos algunos tan famosos como Artic Monkeys, de acceder al público, sin tener que pasar por el filtro de lasdiscográficas, que decidían hasta ahora quién publicaba y quién no.
+Las descargas ilegales promocionan a los artistas y a los autores,que ven difundidos sus trabajos y se dan a conocer sin necesidad de la industria CULTURAW. ¡Falso! Detrás de los autores y los artistas hay una industria que les da trabajo, los da a conocer e invierte en ellos. ANTIDECÁLOGO. ¡Verdadero! Ningún artista famoso se ha arruinado por las descargas, ni siquiera los que como Prince han tratado de perseguirlas –pidió una indemnización a una madre que le puso una canción suya a su bebé. En cuanto a los modestos, Internet ha dado la posibilidad a cientos de grupos, entre ellos algunos tan famosos como Artic Monkeys, de acceder al público, sin tener que pasar por el filtro de lasdiscográficas, que decidían hasta ahora quién publicaba y quién no.
 
 10.
 
-El acceso a los productos culturales tiene que ser gratis y eso es lo
-
-que consiguen las redes P2PC
-
-ULTURA
-
-. ¡Falso! Las infracciones de derechos de propiedad intelectual
-
-realizadas a través de Internet (descargas ilegales) no pueden confundirse con el derecho de acceso a la cultura, una forma de libertad de expresión o de desobediencia civil legítima, ni tampoco como algoinevitable e intrínseco a la Red.A
-
-NTIDECÁLOGO
-
-. ¡Verdadero! Las redes P2P democratizan el acceso a los
-
-contenidos culturales permitiendo disfrutar de obras que no se comercializan por falta de rentabilidad o porque están descatalogadas. La industria debe encontrar nuevas formas de rentabilizar sus activos.iTunes, Amazon y otras plataformas de pago ya han demostrado que se puede hacer.
+El acceso a los productos culturales tiene que ser gratis y eso es lo que consiguen las redes P2PCULTURA. ¡Falso! Las infracciones de derechos de propiedad intelectual realizadas a través de Internet (descargas ilegales) no pueden confundirse con el derecho de acceso a la cultura, una forma de libertad de expresión o de desobediencia civil legítima, ni tampoco como algoinevitable e intrínseco a la Red. ANTIDECÁLOGO. ¡Verdadero! Las redes P2P democratizan el acceso a los contenidos culturales permitiendo disfrutar de obras que no se comercializan por falta de rentabilidad o porque están descatalogadas. La industria debe encontrar nuevas formas de rentabilizar sus activos.iTunes, Amazon y otras plataformas de pago ya han demostrado que se puede hacer.
 
 <93\>
 
-Hacktivistas
 
 Xmailer. Programando la democracia directa
 
@@ -1907,87 +1382,42 @@ El Paquete Telecom fue un conjunto de directivas europeas
 
 para regular los servicios y redes de comunicaciones electrónicas, es decir, las infraestructuras y aplicaciones necesarias para transportar señales electrónicas que contienen datos. En 2007 la comisión presentó una propuesta para modificarlas. Según Hacktivistas, lo que se presentaba como una simple y conveniente homogeneización de las distintas normas y leyes de cada país de la Unión Europea respecto a las telecomunicaciones e Internet en realidad era una alianza de tres de los lobbies más fuertes del mundo: el político, el de las telecomunicaciones y el de los derechos de autor, que modelaron el paquete según sus intereses con el objeto de acabar con la neutralidad en la Red y con Internet tal y como la conocemos.
 
-Una Red neutral es aquella que permite una comunicación
+Una Red neutral es aquella que permite una comunicación de punto a punto independientemente de su contenido. Dicho en otras palabras, las infraestructuras y aplicaciones necesarias para transportar señales son neutrales respecto al tipo de contenido de la señal que transportan, y no privilegian el transporte de unos tipos de contenidos sobre otros.
 
-de punto a punto independientemente de su contenido. Dicho en otras palabras, las infraestructuras y aplicaciones necesarias para transportar señales son neutrales respecto al tipo de contenido de la señal que transportan, y no privilegian el transporte de unos tipos de contenidos sobre otros.
-
-La neutralidad en la Red no es directamente un asunto de privacidad o de censura –aunque al final sí termina siendo censura–, sino de igualdad de oportunidades. Mi operadora de banda ancha
-
-<94\>
-
-me tiene que dar el mismo ancho de banda independientemente de que yo lo use para subir o bajar vídeos de las redes P2P o lo use para comprar y vender en una tienda online o lo use para leer un periódico, por poner tres ejemplos. En una Red neutral mi operadora me proporcionará el mismo ancho de banda independientemente del uso que yo le dé. Pero, ¿qué pasaría si la Red dejara de ser neutral? Pues que mi operadora «escucharía» qué uso estoy haciendo de la Red y me podría reducir el ancho de banda cuando me pongo a ver una película de una plataforma de contenidos de su competencia, y podría aumentarlo si miro la película de su propia plataforma de contenidos. Es decir, penalizaría unos usos y favorecería otros.
+La neutralidad en la Red no es directamente un asunto de privacidad o de censura –aunque al final sí termina siendo censura–, sino de igualdad de oportunidades. Mi operadora de banda ancha me tiene que dar el mismo ancho de banda independientemente de que yo lo use para subir o bajar vídeos de las redes P2P o lo use para comprar y vender en una tienda online o lo use para leer un periódico, por poner tres ejemplos. En una Red neutral mi operadora me proporcionará el mismo ancho de banda independientemente del uso que yo le dé. Pero, ¿qué pasaría si la Red dejara de ser neutral? Pues que mi operadora «escucharía» qué uso estoy haciendo de la Red y me podría reducir el ancho de banda cuando me pongo a ver una película de una plataforma de contenidos de su competencia, y podría aumentarlo si miro la película de su propia plataforma de contenidos. Es decir, penalizaría unos usos y favorecería otros.
 
 La pérdida de la neutralidad de la Red es un asunto candente
 
-que tiene que ver con las relaciones entre las operadoras (carriers), el sector de los contenidos (*players*), el usuario final y el Estado. En principio, *carriers* y *players* están en posiciones enfrentadas: a
+que tiene que ver con las relaciones entre las operadoras (carriers), el sector de los contenidos (*players*), el usuario final y el Estado. En principio, *carriers* y *players* están en posiciones enfrentadas: a los *carriers* les interesa que los *players* pongan muchos contenidos accesibles y gratuitos para que la banda ancha tenga valor para el usuario final, y así poder subir los precios. Y a los *players* lesinteresa cobrar por el acceso a los contenidos y que los *carriers* bajen los precios de la banda ancha para aumentar su mercado potencial.
 
-los *carriers* les interesa que los *players* pongan muchos contenidos accesibles y gratuitos para que la banda ancha tenga valor para el usuario final, y así poder subir los precios. Y a los *players* lesinteresa cobrar por el acceso a los contenidos y que los *carriers* bajen los precios de la banda ancha para aumentar su mercado potencial.
+Pero el enfrentamiento de intereses no impide hacer alianzas, sobre todo cuando el lobby –el político, el de las telecomunicaciones y el de los derechos de autor– se pone de acuerdo para desregular el sector y abrir la puerta a una autorregulación en la que *players* y *carriers* se pongan de acuerdo sin la intervención del Estado. La cuestión es que alianzas o acuerdos económicos entre proveedores de contenidos y operadoras, estableciendo modelos con diferentes prestaciones de servicio –incluyendo servicios económicos donde podría caber una peor calidad de servicio– o en los que las operadoras puedan actuar como proveedores de contenidos y viceversa, es una vía directa a la Internet de varias calidades.
 
-Pero el enfrentamiento de intereses no impide hacer alianzas,
+Si mi operadora entra en el negocio de los contenidos y si el Estado no exige por ley la neutralidad de la Red, entonces es muy probable que mi operadora me dé más velocidad para acceder a sus contenidos y la disminuya si accedo a los contenidos de la competencia. De ahí la consigna que se maneja en las campañas por la neutralidad de la Red: todos los bits son iguales.
 
-sobre todo cuando el lobby –el político, el de las telecomunicaciones y el de los derechos de autor– se pone de acuerdo para desregular el sector y abrir la puerta a una autorregulación en la que *players* y
+Es así como a la vieja preocupación por la privacidad –por ejemplo, que mi *carrier* no lea el contenido de mis correos electrónicos– se añade ahora una capa de preocupación, ya no tanto por el contenido de lo que hago sino por cómo o dónde lo hago –más velocidad si uso el mail de Google que si uso el de Yahoo, por ejemplo, etc.–, reformulándose así la propia idea de privacidad.
 
-*carriers* se pongan de acuerdo sin la intervención del
+Si los proveedores de banda ancha tienen la capacidad legal de limitar el número de páginas web que puedes ver, o de decirte si se te permite o no usar determinados servicios –si, por ejemplo, pueden bloquear Skype, que compite con sus servicios telefónicos–, es el fin de la neutralidad en la Red y el fin de Internet tal y como la conocemos, y esta posibilidad no es tan remota como parece. Eso es lo que se votaba en el Paquete Telecom.
 
-Estado. La cuestión es que alianzas o acuerdos económicos entre proveedores de contenidos y operadoras, estableciendo modelos con diferentes prestaciones de servicio –incluyendo servicios económicos donde podría caber una peor calidad de servicio– o en los que las operadoras puedan actuar como proveedores de contenidos y viceversa, es una vía directa a la Internet de varias calidades.
-
-Si mi operadora entra en el negocio de los contenidos y si el
-
-Estado no exige por ley la neutralidad de la Red, entonces es muy probable que mi operadora me dé más velocidad para acceder
-
-<95\>
-
-Hacktivistas
-
-a sus contenidos y la disminuya si accedo a los contenidos de la competencia. De ahí la consigna que se maneja en las campañas por la neutralidad de la Red: todos los bits son iguales.
-
-Es así como a la vieja preocupación por la privacidad –por
-
-ejemplo, que mi *carrier* no lea el contenido de mis correos electrónicos– se añade ahora una capa de preocupación, ya no tanto por el contenido de lo que hago sino por cómo o dónde lo hago –más velocidad si uso el mail de Google que si uso el de Yahoo, por ejemplo, etc.–, reformulándose así la propia idea de privacidad.
-
-Si los proveedores de banda ancha tienen la capacidad legal
-
-de limitar el número de páginas web que puedes ver, o de decirte si se te permite o no usar determinados servicios –si, por ejemplo, pueden bloquear Skype, que compite con sus servicios telefónicos–, es el fin de la neutralidad en la Red y el fin de Internet tal y como la conocemos, y esta posibilidad no es tan remota como parece. Eso es lo que se votaba en el Paquete Telecom.
-
-De nuevo, la excusa para legitimar el Paquete Telecom volvió
-
-a ser controlar el flujo de la música, las películas y el contenido de entretenimiento contra la presunta piratería de las descargas gratis y contra la compartición de archivos P2P. Sin embargo, de haberse aprobado, las víctimas reales de este plan hubieran sido todos los usuarios de Internet, ya que el plan de la industria era ofrecer a la gente paquetes del estilo de los paquetes de la televisión de pago, con un número limitado de opciones para acceder. Es decir, tu acceso a Internet estaría limitado según el paquete que hubieras contratado, y no podrías acceder a todas las páginas, sino solo a aquellas que constaran en tu paquete, lo cual hubiera supuesto la pérdida de la libertad de expresión y del acceso neutral e independiente a la información, a la cultura y a los bienes inmateriales: millones de páginas web fuera de los paquetes comerciales de acceso a Internet y totalmente invisibles. Y las empresas de telecomunicaciones –los *carriers*– habrían obtenido la increíble prebenda de dejar de ser simples *utilities* para poder gestionar la Red como si fueran adjudicatarios de licencias de canales de televisión.
-
-<96\>
+De nuevo, la excusa para legitimar el Paquete Telecom volvió a ser controlar el flujo de la música, las películas y el contenido de entretenimiento contra la presunta piratería de las descargas gratis y contra la compartición de archivos P2P. Sin embargo, de haberse aprobado, las víctimas reales de este plan hubieran sido todos los usuarios de Internet, ya que el plan de la industria era ofrecer a la gente paquetes del estilo de los paquetes de la televisión de pago, con un número limitado de opciones para acceder. Es decir, tu acceso a Internet estaría limitado según el paquete que hubieras contratado, y no podrías acceder a todas las páginas, sino solo a aquellas que constaran en tu paquete, lo cual hubiera supuesto la pérdida de la libertad de expresión y del acceso neutral e independiente a la información, a la cultura y a los bienes inmateriales: millones de páginas web fuera de los paquetes comerciales de acceso a Internet y totalmente invisibles. Y las empresas de telecomunicaciones –los *carriers*– habrían obtenido la increíble prebenda de dejar de ser simples *utilities* para poder gestionar la Red como si fueran adjudicatarios de licencias de canales de televisión.
 
 Como era de suponer, la comunidad internauta se movilizó contra el Paquete Telecom con una estrategia clara: parar a los europarlamentarios, cada uno a los suyos y todos a los de todos, y hacerles considerar el coste político de aprobar este paquete.
 
-En sinergia con la campaña de envío masivo de cartas a los
+En sinergia con la campaña de envío masivo de cartas a los europarlamentarios organizada por Blackouteurope, Hacktivistas diseñó un software que llamaron *Xmailer*. *Xmailer* es un pequeño programa informático que permite, en el marco de una campaña, rellenar un formulario para enviar un email a una lista de destinatarios. El formulario se puede integrar en cualquier página web para fomentar la difusión de la campaña. Además, se usan técnicas para evitar el filtrado de los correos. *Xmailer* fue puesto en práctica por primera vez durante esta campaña contra el Paquete Telecom, para enviar emails a todos los eurodiputados.
 
-europarlamentarios organizada por Blackouteurope, Hacktivistas diseñó un software que llamaron *Xmailer*.
+Cabe destacar que el poco sectarismo de los internautas, así como el hecho de que el formulario *Xmailer* se pudiera poner en cualquier página web y, de alguna manera, hacerlo «tuyo», permitió que este dispositivo de comunicación persona a persona –ciudadano a eurodiputado– enviara más de 200.000 correos electrónicos de ciudadanas y ciudadanos europeos a sus máximos representantes en las primeras cuarenta y ocho horas de campaña.
 
-*Xmailer* es un pequeño programa informático que permite, en
+El 6 de mayo de 2009 la Eurocámara rechazó la nueva legislación comunitaria sobre Internet. El periódico *El País* se hizo eco con estas palabras:
 
-el marco de una campaña, rellenar un formulario para enviar un email a una lista de destinatarios. El formulario se puede integrar en cualquier página web para fomentar la difusión de la campaña. Además, se usan técnicas para evitar el filtrado de los correos. *Xmailer* fue puesto en práctica por primera vez durante esta campaña contra el Paquete Telecom, para enviar emails a todos los eurodiputados.
-
-Cabe destacar que el poco sectarismo de los internautas, así
-
-como el hecho de que el formulario *Xmailer* se pudiera poner en cualquier página web y, de alguna manera, hacerlo «tuyo», permitió que este dispositivo de comunicación persona a persona –ciudadano a eurodiputado– enviara más de 200.000 correos electrónicos de ciudadanas y ciudadanos europeos a sus máximos representantes en las primeras cuarenta y ocho horas de campaña.
-
-El 6 de mayo de 2009 la Eurocámara rechazó la nueva legislación comunitaria sobre Internet. El periódico *El País* se hizo eco con
-
-estas palabras:
-
-Cuando parecía que la suerte estaba echada, el Parlamento europeo ha sorprendido a todos rechazando el paquete legislativo conocido como Paquete Telecom, que pretendía normalizar las distintas normas y leyes que cada país de la UE tiene en relación a las telecomunicaciones e Internet. La sorpresa ha sido mayúscula pues el texto había sido acordado con la presidencia de turno de la UE. [...] Por 407 votos a favor,57 en contra y 171 abstenciones, el Parlamento ha aprobado una enmienda alternativa que, esta vez sí, exige una orden judicial para restringir o
-
-cortar el acceso a Internet a un usuario.
+Cuando parecía que la suerte estaba echada, el Parlamento europeo ha sorprendido a todos rechazando el paquete legislativo conocido como Paquete Telecom, que pretendía normalizar las distintas normas y leyes que cada país de la UE tiene en relación a las telecomunicaciones e Internet. La sorpresa ha sido mayúscula pues el texto había sido acordado con la presidencia de turno de la UE. [...] Por 407 votos a favor,57 en contra y 171 abstenciones, el Parlamento ha aprobado una enmienda alternativa que, esta vez sí, exige una orden judicial para restringir o cortar el acceso a Internet a un usuario.
 
 3
 
 3
 
-«La Eurocámara rechaza la nueva legislación comunitaria sobreinternet»,*El País*,
-
-6 de mayo de 2006; disponible enhttp://tecnologia.elpais.com/tecnologia/2009/05/06/actualidad/1241598478\_850215.html
+«La Eurocámara rechaza la nueva legislación comunitaria sobreinternet»,*El País*, 6 de mayo de 2006; disponible enhttp://tecnologia.elpais.com/tecnologia/2009/05/06/actualidad/1241598478\_850215.html
 
 <97\>
 
-Hacktivistas
 
 Hacktivistas envió el siguiente mensaje a los lobbies de la industria cultural, a las entidades de gestión y a los políticos españoles y europeos que colaboran en el saqueo de los bienes comunes:
 
@@ -2001,12 +1431,8 @@ Esta ley, que fue propuesta en mayo de 2009, consiste en una
 
 serie de modificaciones que afectan a:
 
-- la Ley de Servicios de la Sociedad de la Información (más
-
-conocida como LSSI)
-
+- la Ley de Servicios de la Sociedad de la Información (más conocida como LSSI)
 - la Ley de Propiedad Intelectual
-
 - la Ley Reguladora de la Jurisdicción Contencioso Administrativa (que se centra en la protección de la propiedad intelectual en el ámbito de la sociedad de la información y del comercio electrónico).
 
 El objetivo de esta ley es permitir que un grupo de personas dependientes del entonces Ministerio de Cultura y hoy Ministerio de Educación, Cultura y Deporte, es decir, una comisión cultural o comisión de propiedad intelectual, tenga la potestad de cerrar páginas web que, de acuerdo a su propio criterio, vulneren los derechos de propiedad intelectual previa autorización de los Juzgados Centrales de lo Contencioso Administrativo. Así creaban, el gobierno español y su entonces ministra de Cultura Ángeles González-Sinde, una comisión ministerial con potestad para cerrar y bloquear webs sin las garantías de un juicio previo.
@@ -2015,59 +1441,36 @@ El objetivo de esta ley es permitir que un grupo de personas dependientes del en
 
 La ley Sinde, una chapuza que confunde enlaces, dominios, webs, P2P, páginas de descargas, etc., es una demostración de que quienes legislan no conocen aquello sobre lo que legislan, justo en un ambiente en el que los detalles –como defiende Richard Stallman– son tan importantes. Ha sido criticada desde todas las esquinas de Internet como un ataque a la libertad de expresión, porque la denuncia contra una web y el propio hecho de determinar si se está cometiendo un delito contra la propiedad intelectual se hace por vía administrativa –es decir, un organismo del gobierno– y no por vía judicial, lo cual vulnera un derecho y una libertad fundamental en España: la libertad de expresión.
 
-En una de las webs de la amplia campaña contra esta ley,
+En una de las webs de la amplia campaña contra esta ley, noalaleysinde.com, se explica:
 
-noalaleysinde.com, se explica:
-
-Que un organismo administrativo designado por un Ministerio –en este caso, el de Cultura– formado por personas que no conocemos, con facultades que desconocemos, se les otorgue tal poder y tal responsabilidad no solo es una falta de respeto a la ciudadanía, es darle una
-
-bofetada al sistema jurídico español.
+Que un organismo administrativo designado por un Ministerio –en este caso, el de Cultura– formado por personas que no conocemos, con facultades que desconocemos, se les otorgue tal poder y tal responsabilidad no solo es una falta de respeto a la ciudadanía, es darle una bofetada al sistema jurídico español.
 
 Se trata de una ley con límites no muy claros, ya que para aplicarla no necesariamente se tiene que probar el daño, sino solo que hay una posibilidad de causar daño –la existencia de enlaces a contenido con copyright, por ejemplo–, y que mata moscas a cañonazos, ya que si las páginas web «infractoras» no se encuentran en España –ya sea que la empresa de *hosting* sea extranjera o que los servidores estén en otro país o que la persona en cuestión no viva en España–, entonces ¡se podrá bloquear toda la IP o el dominio en cuestión! Es decir, si hay una manzana podrida, para bloquearla tiramos todo el contenedor.
 
-Como tantos y tantos otros, Hacktivistas no ha parado de
-
-luchar contra esa ley. Y en la actualidad, una vez aprobada, se ha centrado en divulgar recomendaciones para saltársela.
+Como tantos y tantos otros, Hacktivistas no ha parado de luchar contra esa ley. Y en la actualidad, una vez aprobada, se ha centrado en divulgar recomendaciones para saltársela.
 
 4
 
-Esto
-
-es algo factible, ya que la arquitectura de Internet está diseñada para evitar el control. Segun Hacktivistas, da igual lo que intenten, siempre habrá una vía para saltarlo.
+Esto es algo factible, ya que la arquitectura de Internet está diseñada para evitar el control. Segun Hacktivistas, da igual lo que intenten, siempre habrá una vía para saltarlo.
 
 4
 
-Véase Hacktivistas,*Manual de desobediencia a la Ley Sinde*
-
-, Madrid, Traficantes
-
-de Sueños / Diagonal Periódico, 2011; disponible en Internet.
+Véase Hacktivistas,*Manual de desobediencia a la Ley Sinde*, Madrid, Traficantes de Sueños / Diagonal Periódico, 2011; disponible en Internet.
 
 <99\>
 
-Hacktivistas
 
-A finales de 2009, al conocerse las intenciones del gobierno de aprobar esta ley, y en el marco de un amplio consenso en contra de la misma, Hacktivistas lanzó la campaña de desobediencia civil*La lista de Sinde*
+A finales de 2009, al conocerse las intenciones del gobierno de aprobar esta ley, y en el marco de un amplio consenso en contra de la misma, Hacktivistas lanzó la campaña de desobediencia civil*La lista de Sinde*.
 
-.
-
-La acción de desobediencia consistía en que toda persona
-
-que tuviera una página web la pudiera convertir en una página de descargas (esas contra las que supuestamente va la ley Sinde).
+La acción de desobediencia consistía en que toda persona que tuviera una página web la pudiera convertir en una página de descargas (esas contra las que supuestamente va la ley Sinde).
 
 Para ello Hacktivistas implementó un pequeño software buscador de enlaces P2P que se incrustaba muy fácilmente en las webs que quisieran formar parte de la campaña.
 
-El procedimiento técnico consistía en hacer un sencillo «corta
+El procedimiento técnico consistía en hacer un sencillo «corta y pega» de código en tu página web, tras lo cual quedaba incorporado un buscador de descargas, por regla general colocado en un lateral, perfectamente compatible con todo el contenido y sin interferir el funcionamiento de tu web. Desde ese buscador cualquier persona podía, a través de esa web, acceder a esas supuestas páginas de descargas.
 
-y pega» de código en tu página web, tras lo cual quedaba incorporado un buscador de descargas, por regla general colocado en un lateral, perfectamente compatible con todo el contenido y sin interferir el funcionamiento de tu web. Desde ese buscador cualquier persona podía, a través de esa web, acceder a esas supuestas páginas de descargas.
+Esta campaña de desobediencia civil podría considerarse una forma de autoinculpación y de socialización de una práctica que se quiere criminalizar, al estilo de las clásicas consignas tipo «okupas somos todos» o «yo también he abortado». En este caso, «desde mi web también se pueden hacer descargas».
 
-Esta campaña de desobediencia civil podría considerarse
-
-una forma de autoinculpación y de socialización de una práctica que se quiere criminalizar, al estilo de las clásicas consignas tipo «okupas somos todos» o «yo también he abortado». En este caso, «desde mi web también se pueden hacer descargas».
-
-El 9 de marzo de 2010, Hacktivistas entregó al Ministerio de
-
-Industria la lista de webs autoinculpadas en *La lista de Sinde*, por esas fechas unas mil doscientas.
+El 9 de marzo de 2010, Hacktivistas entregó al Ministerio de Industria la lista de webs autoinculpadas en *La lista de Sinde*, por esas fechas unas mil doscientas.
 
 5
 
@@ -2087,71 +1490,38 @@ En tono irónico, Hacktivistas explica en su blog: «El diputado Santiago
 
 Cervera alerta que los móviles de los diputados se congestionan y su batería se agota desde el arranque de la campaña lanzada por Hacktivistas.net. Y es normal, ya que desde el lunes 8 de noviembre se han enviado más de 735.000 correos electrónicos, escritos por más de 2.210 participantes a sus representantes en el Parlamento para que voten en contra de la ley Sinde a través de las enmiendas presentadas. Como son muchas las personas que lo seguirán haciendo hasta el día en que estas se voten, la mañana del miércoles 10 de noviembre hemos enviado un cargador-dinamo para iPhone al despacho de Santiago Cervera en el Congreso. Este permite recargar el móvil en caso de emergencia, incluso si no se tiene una toma de corriente a mano. Conocemos su interés en leer la opinión de sus votantes y sabemos que apreciará nuestro regalo».
 
-El dispositivo-campaña *XMailer* se activó de nuevo para abrir un canal de comunicación, un hilo directo, un tú a tú entre la ciudadanía y sus representantes. Los diputados, que miran para otro lado porque se consideran ya muy mayores como para entender lo que es Internet, a pesar de los intentos de sus secretarias por filtrar los
+El dispositivo-campaña *XMailer* se activó de nuevo para abrir un canal de comunicación, un hilo directo, un tú a tú entre la ciudadanía y sus representantes. Los diputados, que miran para otro lado porque se consideran ya muy mayores como para entender lo que es Internet, a pesar de los intentos de sus secretarias por filtrar los mensajes, quedaron impactados por el volumen, la constancia y la diversidad de los mensajes. Normal, ya que se enviaron más de 735.000 correos electrónicos, escritos por más de 2.210 participantes a esos representantes que no nos representan.
 
-mensajes, quedaron impactados por el volumen, la constancia y la diversidad de los mensajes. Normal, ya que se enviaron más de 735.000 correos electrónicos, escritos por más de 2.210 participantes a esos representantes que no nos representan.
-
-Como tantas otras iniciativas, Hacktivistas no ha parado de
-
-luchar contra la ley Sinde. A finales de 2010, para presionar a lospartidos nacionalistas PNV, CiU y Coalición Canaria, lanzaron la campaña
-
-<101\>
-
-Hacktivistas
-
-*Adopta a un nacionalista*: «Si conoces a un amigo, familiar o vecino votante de PNV, CiU o CC, adóptale y ayúdale a darse cuenta de lo que está a punto de hacer su partido».
+Como tantas otras iniciativas, Hacktivistas no ha parado de luchar contra la ley Sinde. A finales de 2010, para presionar a lospartidos nacionalistas PNV, CiU y Coalición Canaria, lanzaron la campaña *Adopta a un nacionalista*: «Si conoces a un amigo, familiar o vecino votante de PNV, CiU o CC, adóptale y ayúdale a darse cuenta de lo que está a punto de hacer su partido».
 
 Y en enero de 2011 la campaña
 
 Damos la cara:
 
-Una acción que pretende mostrar las miles de personas tras las acciones
+Una acción que pretende mostrar las miles de personas tras las acciones de apoyo contra la ley Sinde, que se vea que no son «internautas», sino creadoras, trabajadoras, estudiantes, parados, jubilados y demás ciudadanos unidos contra la censura en la Red y en la calle.
 
-de apoyo contra la ley Sinde, que se vea que no son «internautas», sino
-
-creadoras, trabajadoras, estudiantes, parados, jubilados y demás ciudadanos unidos contra la censura en la Red y en la calle.
-
-Para esta campaña el dispositivo tecnológico construido por Hacktivistas consistió en un procedimiento muy sencillo para que cualquier persona se pudiera hacer una foto con la cámara de su propio portátil y subirla a una web en la que se publicaba automáticamente junto a las demás. *Damos la cara*
-
-era una respuesta contra la acusación de que quienes luchan en Internet, en este caso contra la ley Sinde, se esconden en el anonimato.
+Para esta campaña el dispositivo tecnológico construido por Hacktivistas consistió en un procedimiento muy sencillo para que cualquier persona se pudiera hacer una foto con la cámara de su propio portátil y subirla a una web en la que se publicaba automáticamente junto a las demás. *Damos la cara* era una respuesta contra la acusación de que quienes luchan en Internet, en este caso contra la ley Sinde, se esconden en el anonimato.
 
 Por si la ley Sinde en sí misma no fuera suficientemente controvertida, en diciembre de 2010 se reveló por medio de las filtraciones de WikiLeaks que la disposición final segunda se gestó y redactó a partir de fuertes presiones de lobbies estadounidenses representantes de las industrias audiovisuales –es decir, los estudios de cine y las discográficas. Los cables relatan cómo desde el año 2004 el gobierno norteamericano ha presionado al gobierno español y ha dictado una agenda represiva para que el Ministerio de Cultura acabe con la libertad en Internet en favor de la industria del entretenimiento. Según noalaleysinde.com, se trata de una ley toda ella «manchada» por las intervenciones de estas grandes empresas, al defender a toda costa sus intereses y arrastrar los derechos fundamentales de los ciudadanos españoles.
 
-Al conocerse el Cablegate, Hacktivistas construye la web
-
-\#Sindegate, o cómo EEUU creó la ley Sinde contra la ciudadanía. El objetivo de esta campaña de información web fue recopilar los cables de WikiLeaks que evidenciaban que la ley Sinde es un invento norteamericano, y denunciar que Estados Unidos presiona ferozmente a España y ejerce una injerencia en nuestros procesos democráticos para promover sus propios intereses económicos.
-
-<102\>
+Al conocerse el Cablegate, Hacktivistas construye la web \#Sindegate, o cómo EEUU creó la ley Sinde contra la ciudadanía. El objetivo de esta campaña de información web fue recopilar los cables de WikiLeaks que evidenciaban que la ley Sinde es un invento norteamericano, y denunciar que Estados Unidos presiona ferozmente a España y ejerce una injerencia en nuestros procesos democráticos para promover sus propios intereses económicos.
 
 Hacktivistas lanzó la campaña Sindegate para denunciar el cierre rápido de sitios web de enlaces P2P sin garantías judiciales. Esta campaña vinculaba directamente esta reforma en la Ley de Economía Sostenible con las filtraciones de WikiLeaks sobre el asunto, y denunciaba las presiones de EEUU a España para promover sus propios intereses económicos.
 
-La web de la campaña \#Sindegate, con la recopilación de cables de WikiLeaks, fue citada por medios de comunicación como*El Mundo, 20 Minutos, ABC, El País*
+La web de la campaña \#Sindegate, con la recopilación de cables de WikiLeaks, fue citada por medios de comunicación como*El Mundo, 20 Minutos, ABC, El País*, Menéame o Barrapunto.
 
-, Menéame o Barrapunto.
+Hacktivistas es hacktivismo copyleft, hacktivismo de dominio público. Todo lo que hacen es público y abierto. Su estrategia no consiste propiamente en saltar la línea de la legalidad frontalmente, sino en desplazar y desdibujar esa línea haciendo un trabajo fuerte de deslegitimación.
 
-Hacktivistas es hacktivismo copyleft, hacktivismo de dominio
+Sacan del kit de la lucha el miedo a ser vigilados y el miedo a abrir el código, y meten la transparencia como estrategia de crecimiento y el *hacking* a la legalidad como estrategia para evitar la represión y sus consecuencias reactivas.
 
-público. Todo lo que hacen es público y abierto. Su estrategia no consiste propiamente en saltar la línea de la legalidad frontalmente, sino en desplazar y desdibujar esa línea haciendo un trabajo fuerte de deslegitimación.
-
-Sacan del kit de la lucha el miedo a ser vigilados y el miedo
-
-a abrir el código, y meten la transparencia como estrategia de crecimiento y el *hacking* a la legalidad como estrategia para evitar la represión y sus consecuencias reactivas.
-
-Libre circulación
+## Libre circulación
 
 Hacktivistas es muy distinto de Anonymous. Hacktivistas es diurno, da la cara, no cruza la línea de la legalidad... Anonymous es nocturno, lleva máscara, pisa la línea de la legalidad... Y sin embargo el recorrido de ida y vuelta entre un grupo y otro es muy corto, de manera que algunos hacktivistas pueden estar entrando y saliendo como anons y viceversa. Sin coste, sin problemas.
 
-<103\>
-
-Hacktivistas
 
 Según Juan Urrutia, una de las características de las redes distribuidas es el bajo coste de la disidencia:
 
-Para ser tu propio dueño has tenido que renunciar a las pautas de tugrupo, las propias de la red a la que perteneces, y abandonarte en la malla
-
-de otro, puesto que no hay, dada la ontología presentada, un vacío de redes. [...] Las TIC [tecnologías de la información y la comunicación]permiten la generación de una amplia red distribuida que funciona autónomamente pero que, a diferencia de otras identidades colectivas, permite
-
-la disidencia a bajo coste con consecuencias interesantes. [...] [Enlas] redes distribuidas, al ser muy tupidas, las distintas identidadessociales de los subgrupos están muy cercanas y cuesta poco pasarse de una a otra, llegando así a entender a los demás.
+Para ser tu propio dueño has tenido que renunciar a las pautas de tugrupo, las propias de la red a la que perteneces, y abandonarte en la malla de otro, puesto que no hay, dada la ontología presentada, un vacío de redes. [...] Las TIC [tecnologías de la información y la comunicación]permiten la generación de una amplia red distribuida que funciona autónomamente pero que, a diferencia de otras identidades colectivas, permite la disidencia a bajo coste con consecuencias interesantes. [...] [Enlas] redes distribuidas, al ser muy tupidas, las distintas identidadessociales de los subgrupos están muy cercanas y cuesta poco pasarse de una a otra, llegando así a entender a los demás.
 
 6
 
@@ -2173,25 +1543,18 @@ libro de David de Ugarte, *El poder de las redes*, Madrid, El CobreEdiciones, 20
 
 Podríamos citar muchos casos de colaboración entre discrepantes –e incluso entre adversarios. Por repetido, no deja de sorprenderme cada vez que veo en el blog de Enrique Dans un link a Hacktivistas, u oigo a amigos hacktivistas aceptar sin problemas que hay gente mejor que ellos para ir a negociar a los ministerios. Horizontes comunes entre los que circulan acontecimientos y afectos, y que se arriesgan con alianzas monstruosas.
 
-Autogestión por capas
+## Autogestión por capas
 
 A la política de la emancipación le gusta mucho la autogestión. Sin embargo, la autogestión total, como ideal al que tender, en una complejidad tan alta como la actual, termina ocupando todo el tiempo y consumiendo toda la energía, y colapsa.
 
-Si la autogestión termina por ocupar todos los tiempos y las
+Si la autogestión termina por ocupar todos los tiempos y las energías de emancipación –algo habitual cuando se busca la coherencia política–, de poco vale porque se hace impracticable. Entonces, ¿sería necesario modular la autogestión según cada situación y dejar en suspenso el ideal asambleario? ¿Sería emancipador combinar capas de autogestión con capas de delegación? ¿Qué tipo de horizontalidad destilan WikiLeaks, Anonymous o Hacktivistas? ¿Qué tipo de delegación?
 
-energías de emancipación –algo habitual cuando se busca la coherencia política–, de poco vale porque se hace impracticable. Entonces, ¿sería necesario modular la autogestión según cada situación y dejar en suspenso el ideal asambleario? ¿Sería emancipador combinar capas de autogestión con capas de delegación? ¿Qué tipo de horizontalidad destilan WikiLeaks, Anonymous o Hacktivistas? ¿Qué tipo de delegación?
+En los tres casos parece haber un núcleo (*core*) que asume la iniciativa, diseña dispositivos inacabados y los libera renunciando, en todo o en parte, al control. Sea como sea, estas experiencias no lanzan las machaconas llamadas a la participación y a la implicación. Diseñan dispositivos en los que la participación va de suyo, que no es lo mismo.
 
-En los tres casos parece haber un núcleo (*core*) que asume la
-
-iniciativa, diseña dispositivos inacabados y los libera renunciando, en todo o en parte, al control. Sea como sea, estas experiencias no lanzan las machaconas llamadas a la participación y a la implicación. Diseñan dispositivos en los que la participación va de suyo, que no es lo mismo.
-
-Tal vez el papel de un grupo activista en el nuevo espacio
-
-público-privado sea el diseño y la implementación de dispositivos para que otros tomen las decisiones y actúen. Una especie de mandar obedeciendo que renuncia al control, es capaz de soportar alianzas monstruosas y cree en la inteligencia y en la autonomía de todos los nodos.
+Tal vez el papel de un grupo activista en el nuevo espacio público-privado sea el diseño y la implementación de dispositivos para que otros tomen las decisiones y actúen. Una especie de mandar obedeciendo que renuncia al control, es capaz de soportar alianzas monstruosas y cree en la inteligencia y en la autonomía de todos los nodos.
 
 <105\>
 
-Hacktivistas
 
 O, dicho de otra manera, tal vez el papel del activismo sea la organización de un plan B.
 
@@ -2203,33 +1566,21 @@ La apuesta decidida de parte de la industria por la Web 2.0
 
 –Google, YouTube, Facebook, Twitter, etc.– ha creado la ficción de que lo que ahora hacemos en Internet está garantizado. Pero no es así. Está habiendo y habrá más estados de excepción. Los estados de excepción meten en el kit de la lucha el software libre y las empresas con orientación política– o con neutralidad política, lo cual ya es una orientación.
 
-Es recurrente el debate sobre si se deberían crear redes
+Es recurrente el debate sobre si se deberían crear redes sociales alternativas. Mi opinión es que no, puesto que estas redes sociales no operan en la excepción sino en la normalidad, en parte debido a que son una mezcla de distintos intereses políticos, industriales y sociales, muchas veces en alianzas monstruosas entre distintas formas de poder y distintos agenciamientos de emancipación y construcción subjetiva.
 
-sociales alternativas. Mi opinión es que no, puesto que estas redes sociales no operan en la excepción sino en la normalidad, en parte debido a que son una mezcla de distintos intereses políticos, industriales y sociales, muchas veces en alianzas monstruosas entre distintas formas de poder y distintos agenciamientos de emancipación y construcción subjetiva.
+En la normalidad no tiene sentido un Facebook alternativo, sino un Facebook tal y como es: dispositivo inacabado, impuro, para el anonimato en primera persona, etc.
 
-En la normalidad no tiene sentido un Facebook alternativo,
-
-sino un Facebook tal y como es: dispositivo inacabado, impuro, para el anonimato en primera persona, etc.
-
-Pero tener ascensor en la vivienda y usarlo con normalidad
-
-no significa eliminar la escalera, que está para las excepciones –como apagones o incendios. El software libre y las empresas con orientación política son la escalera: algo que hay que cuidar y mantener en buen estado por si acaso, sabiendo que el «por si acaso» tarde o temprano llegará.
+Pero tener ascensor en la vivienda y usarlo con normalidad no significa eliminar la escalera, que está para las excepciones –como apagones o incendios. El software libre y las empresas con orientación política son la escalera: algo que hay que cuidar y mantener en buen estado por si acaso, sabiendo que el «por si acaso» tarde o temprano llegará.
 
 <106\>
 
 El gobierno de Egipto no apagó WikiLeaks: ¡apagó Internet entera! ¿Y qué hicieron los hackers activistas? Si en Egipto hay teléfono, pensaron, sigue habiendo posibilidad de conectarse por módem –como se hacía antes de la red ADSL. Los teléfonos modernos pueden funcionar como módems, pero hay que saber hacerlo. ¿Cómo podemos enseñar a los egipcios a conectarse a Internet por su teléfono móvil si no tenemos Internet para explicárselo? Por fax. Vamos a enviar faxes masivos, indiscriminados, a todos los faxes de Egipto posibles. Parecido a tirar octavillas, solo que por fax. ¿Y adónde se van a conectar con sus móviles? A unos servidores que hemos montado específicamente para esto, y que hemos convertido en proveedores de Internet. Pero las conexiones por teléfono tienen poco ancho de banda. ¿Van a servir para algo? Sí, si en lugar de utilizar entornos gráficos volvemos a la línea de comandos. Vamos a poner también en los fax las instrucciones para chatear por línea de comandos. Ellos que nos digan por chat qué está pasando. Nosotros difundiremos eso y les explicaremos qué está pasando fuera. ¿Y no habrá represión? «Anonimizaremos» estas conexiones para que no pueda haberla.
 
-Hackers activistas de todo el mundo pudieron montar en tiempo
+Hackers activistas de todo el mundo pudieron montar en tiempo real este dispositivo de emergencia porque tienen cuatro cosas: conocimientos, recursos, autoorganización en tiempo real y un horizonte compartido.
 
-real este dispositivo de emergencia porque tienen cuatro cosas: conocimientos, recursos, autoorganización en tiempo real y un horizonte compartido.
+Los hackers activistas meten en el kit de la lucha el software libre, el conocimiento para aplicarlo, los recursos para implantarlo, todas las tecnologías habidas y por haber, por obsoletas que parezcan, la creatividad en tiempo real para combinarlo todo y un horizonte compartido que incluye a todos –en este caso a todos los egipcios–, aunque alguno de ese «todos» sea indeseable.
 
-Los hackers activistas meten en el kit de la lucha el software
-
-libre, el conocimiento para aplicarlo, los recursos para implantarlo, todas las tecnologías habidas y por haber, por obsoletas que parezcan, la creatividad en tiempo real para combinarlo todo y un horizonte compartido que incluye a todos –en este caso a todos los egipcios–, aunque alguno de ese «todos» sea indeseable.
-
-Pero los conocimientos y los recursos no caen del cielo. Cuestan
-
-tiempo, dinero y voluntad. Muchos hackers activistas, como opción a su propia precariedad, están montando «empresas» con orientación política.
+Pero los conocimientos y los recursos no caen del cielo. Cuestan tiempo, dinero y voluntad. Muchos hackers activistas, como opción a su propia precariedad, están montando «empresas» con orientación política.
 
 7
 
@@ -2243,85 +1594,49 @@ estas iniciativas activistas y sin ánimo de lucro. No tengo unarespuesta clara,
 
 <107\>
 
-Hacktivistas
 
-Empresas con orientación política
+## Empresas con orientación política
 
 Guifi.net es una red de telecomunicaciones pública formada mediante la agregación de tramos de red propiedad de sus usuarios. Es una infraestructura pública de titularidad privada y operación compartida que se ha constituido en operadora de telecomunicaciones. Guifi.net es el plan B para tener «Internet privada» si hay un apagón de Internet.
 
-Quizás en España no ocurra nunca, pero eso no quita valor
+Quizás en España no ocurra nunca, pero eso no quita valor a guifi.net, que ensaya un modelo económico distribuido de propiedad sobre la infraestructura de telecomunicaciones y está acumulando una gran cantidad de conocimientos técnicos, organizativos, legales y operativos que se pueden transferir a lugares donde el apagón es más probable. Si vives en un ático, aunque no entiendas bien para qué, plantéate contactar con guifi.net y financiar e instalar una antena.
 
-a guifi.net, que ensaya un modelo económico distribuido de propiedad sobre la infraestructura de telecomunicaciones y está acumulando una gran cantidad de conocimientos técnicos, organizativos, legales y operativos que se pueden transferir a lugares donde el apagón es más probable. Si vives en un ático, aunque no entiendas bien para qué, plantéate contactar con guifi.net y financiar e instalar una antena.
+Lorea.org se autodefine como un semillero de redes sociales sobre un campo de experimentación federado. Su objetivo es crear una organización nodal distribuida, federada y segura. Es un proyecto militante, sin ánimo de lucro, que trabaja en la confección de algo parecido a un conjunto de redes sociales autónomas e interconectadas, enfocadas a proyectos, con seguridad en las comunicaciones –encriptación para evitar escuchas– y distribuidas en semillas federadas –cada grupo gestiona su semilla en su propio servidor, pero todas las semillas se conectan en una red más grande.
 
-Lorea.org se autodefine como un semillero de redes sociales
+Lorea.org ya está operativa, aunque su desarrollo no continúa tan rápido como sería de desear –debido a la falta de recursos. Espontáneamente, muchas asambleas, comisiones y grupos del 15M han optado por n-1.cc –una semilla de Lorea.org– como su espacio online natural. 
 
-sobre un campo de experimentación federado. Su objetivo es crear una organización nodal distribuida, federada y segura. Es un proyecto militante, sin ánimo de lucro, que trabaja en la confección de algo parecido a un conjunto de redes sociales autónomas e interconectadas, enfocadas a proyectos, con seguridad en las comunicaciones –encriptación para evitar escuchas– y distribuidas en semillas federadas –cada grupo gestiona su semilla en su propio servidor, pero todas las semillas se conectan en una red más grande.
+<ERROR>
 
-Lorea.org ya está operativa, aunque su desarrollo no continúa
-
-tan rápido como sería de desear –debido a la falta de recursos. Espontáneamente, muchas asambleas, comisiones y grupos del 15M han optado por n-1.cc –una semilla de Lorea.org– como su espacio online natural.
-
-de obtener una remuneración que permita la sostenibilidad personal ycolectiva, la planificación y la gestión de recursos, la solución de necesidades yprestación de servicios, la necesidad de relacionarse con algo parecido a«clientes»... Esto me lleva a la intuición de la potencia que podría tener
-
-–
-
-o ya está teniendo
-
-–
-
-una
-
-estrategia que utilice esta ambigüedad entre empresa y no-empresa oantiempresa para atacar el mercado desde el mercado. He desarrollado estaintuición en el artículo «Qué piensa el mercado», publicado en *Espai en Blanc*,números 7-8, 2010; disponible enhttp://www.espaienblanc.net/Que-piensa-el-mercado.html
+de obtener una remuneración que permita la sostenibilidad personal ycolectiva, la planificación y la gestión de recursos, la solución de necesidades yprestación de servicios, la necesidad de relacionarse con algo parecido a«clientes»... Esto me lleva a la intuición de la potencia que podría tener o ya está teniendo una estrategia que utilice esta ambigüedad entre empresa y no-empresa oantiempresa para atacar el mercado desde el mercado. He desarrollado estaintuición en el artículo «Qué piensa el mercado», publicado en *Espai en Blanc*,números 7-8, 2010; disponible enhttp://www.espaienblanc.net/Que-piensa-el-mercado.html
 
 <108\>
 
 Lorea.org como software y guifi.net como hardware proporcionarían un plan B bastante confortable en caso de apagón de Internet. Si perteneces a un colectivo, plantéate aprender a usar Lorea como medio de comunicación interno-externo y ofrecerle apoyo económico.
 
-Oiga.me es una plataforma para la comunicación directa de la
+Oiga.me es una plataforma para la comunicación directa de la ciudadanía con sus representantes.
 
-ciudadanía con sus representantes.
+A menudo, cuando una entidad organiza una campaña de presión recoge firmas o adhesiones en un formulario ya cerrado, «acumula» las firmas –la fuerza, la representatividad– y con esa acumulación se presenta ante su oponente.
 
-A menudo, cuando una entidad organiza una campaña de
-
-presión recoge firmas o adhesiones en un formulario ya cerrado, «acumula» las firmas –la fuerza, la representatividad– y con esa acumulación se presenta ante su oponente.
-
-Oiga.me quiere cambiar este modelo: alguien propone una
-
-campaña, pero el dispositivo no le permite «acumular» la representatividad ni tener la hegemonía del discurso, ya que cada persona enviará su protesta directamente a los oponentes y la escribirá y formulará con sus propias palabras y argumentaciones, es decir, cada persona tendrá que terminar de definir la campaña. Con oiga.me, la asociación aLabs quiere reutilizar la experiencia colectiva del activismo hacker y ofrecerla como servicio para una participación ciudadana directa.
+Oiga.me quiere cambiar este modelo: alguien propone una campaña, pero el dispositivo no le permite «acumular» la representatividad ni tener la hegemonía del discurso, ya que cada persona enviará su protesta directamente a los oponentes y la escribirá y formulará con sus propias palabras y argumentaciones, es decir, cada persona tendrá que terminar de definir la campaña. Con oiga.me, la asociación aLabs quiere reutilizar la experiencia colectiva del activismo hacker y ofrecerla como servicio para una participación ciudadana directa.
 
 En la actualidad, el modelo técnico-social está en fase de definición. Está por verse si las entidades que organizan campañas aceptarán contribuir y financiar este modelo inacabado que les propone renunciar a parte del control. ¿Hasta qué punto oiga.me tiene que ser un dispositivo inacabado? La nueva esfera público-privada que se forma por la conexión de los cuartos propios, ¿en qué cambia el modelo «campaña política»? Si perteneces a una asociación, plantéate debatir con aLabs el modelo social de oiga.me.
 
-¿Cuál es el valor político de estas «empresas»? ¿Cómo son
-
-sostenidas afectiva y económicamente por sus redes naturales? ¿Cuánta devastación (política) supondría su muerte por depresión, falta de viabilidad, dificultades de todo tipo?
+¿Cuál es el valor político de estas «empresas»? ¿Cómo son sostenidas afectiva y económicamente por sus redes naturales? ¿Cuánta devastación (política) supondría su muerte por depresión, falta de viabilidad, dificultades de todo tipo?
 
 Las «empresas» con orientación política no son solo planes B:
 
-producen, conservan y difunden el conocimiento técnico; disponen y proveen de recursos físicos y simbólicos; permiten abolir la
-
-<109\>
-
-Hacktivistas
-
-división entre trabajo y militancia; atesoran conocimiento organizativo y operacional. Son la evolución natural para un *hacking* activista
-
-que se hace mayor. Por eso, también son un magnífico plan A.
+producen, conservan y difunden el conocimiento técnico; disponen y proveen de recursos físicos y simbólicos; permiten abolir la división entre trabajo y militancia; atesoran conocimiento organizativo y operacional. Son la evolución natural para un *hacking* activista que se hace mayor. Por eso, también son un magnífico plan A.
 
 WikiLeaks mete en el kit de la lucha las empresas con orientación política o con neutralidad política. En su caso, fue OVH Francia. Pero, ¡ojo!, esas empresas no tienen por qué ser forzosamente «empresas» militantes. Ya hemos hablado de alianzas monstruosas entre distintas formas de poder y distintos agenciamientos de emancipación. Cada acontecimiento, cada excepción revelará su quién es quién.
 
-<111\>
 
-\IV. Cualquiera
+# \IV. Cualquiera
 
 La lucha en Internet no solo no está ni puede estar controlada por organizaciones o colectivos, sino que está plagada de iniciativas personales, episodios en los que «cualquiera» da un paso que otros «cualquiera» tomarán como propio y completarán (o no).
 
 Naturalmente, en estas iniciativas entran en juego distintas hegemonías, prestigios, capitales simbólicos... No estamos hablando de un espacio absolutamente horizontal, en el que han desaparecido las desigualdades. Pero sí de un espacio en el que lo grande y lo pequeño juegan con otras reglas:
 
-Curiosamente, el sistema que criticamos ha generado el caldo de cultivo
-
-para que se produzca un mundo en red. El mundo en red permite salvar las oposiciones [...] grande y pequeño, y cerrado y abierto. Hasta ahora
-
-toda forma de poder era grande y lo pequeño residual. [...] Lo pequeñoes ahora potencialmente un factor inmenso de cambio, si es abierto. Hasta ahora lo pequeño era humilde, despreciable y marginal; en todo caso, satélite de lo grande. Ahora eso es distinto, lo pequeño es abierto ypuede conectar con otros, y eso crea fenómenos de emergencia.
+Curiosamente, el sistema que criticamos ha generado el caldo de cultivo para que se produzca un mundo en red. El mundo en red permite salvar las oposiciones [...] grande y pequeño, y cerrado y abierto. Hasta ahora toda forma de poder era grande y lo pequeño residual. [...] Lo pequeñoes ahora potencialmente un factor inmenso de cambio, si es abierto. Hasta ahora lo pequeño era humilde, despreciable y marginal; en todo caso, satélite de lo grande. Ahora eso es distinto, lo pequeño es abierto ypuede conectar con otros, y eso crea fenómenos de emergencia.
 
 1
 
@@ -2329,93 +1644,45 @@ Lo que va a continuación son solo dos gotas de agua de algunas de esas oleadas 
 
 1
 
-Fidel Moreno, «La lógica borrosa. (Una conversación con AntonioRodríguez
-
-de las Heras)», *El estado mental*, 2011; disponible, por ejemplo, en elblog *El Boomeran(g)*.
+Fidel Moreno, «La lógica borrosa. (Una conversación con AntonioRodríguez de las Heras)», *El estado mental*, 2011; disponible, por ejemplo, en elblog *El Boomeran(g)*.
 
 <112\>
 
-«Manifiesto en defensa de los derechos fundamentales
-
-en Internet»
+«Manifiesto en defensa de los derechos fundamentales en Internet»
 
 El miércoles 2 de diciembre de 2009, a las nueve de la mañana, un grupo de personas publicó en la Red un «Manifiesto en defensa de los derechos fundamentales en Internet». El manifiesto había sido elaborado en la tarde del martes por unas cuarenta personas con posicionamientos políticos y empresariales diversos, referentes en algún grado en Internet, que se activaron inmediatamente al conocer la disposición final primera del anteproyecto de Ley de Economía Sostenible, es decir, de la ley Sinde. Para esta peculiar redacción colaborativa utilizaron una herramienta online en fase beta de desarrollo, *Google Wave*, que permitía la escritura colaborativa.
 
 El manifiesto, en forma de decálogo, dice así:
 
-Ante la inclusión en el anteproyecto de Ley de Economía Sostenible de modificaciones legislativas que afectan al libre ejercicio de laslibertades de expresión, información y el derecho de acceso a la cultura a través de Internet, los periodistas, bloggers, usuarios, profesionales y
-
-creadores de Internet manifestamos nuestra firme oposición al proyecto,
-
-y declaramos que:
+Ante la inclusión en el anteproyecto de Ley de Economía Sostenible de modificaciones legislativas que afectan al libre ejercicio de laslibertades de expresión, información y el derecho de acceso a la cultura a través de Internet, los periodistas, bloggers, usuarios, profesionales y creadores de Internet manifestamos nuestra firme oposición al proyecto, y declaramos que:
 
 \1. Los derechos de autor no pueden situarse por encima de los derechos
 
-fundamentales de los ciudadanos, como el derecho a la privacidad, a la seguridad, a la presunción de inocencia, a la tutela judicial efectiva ya la libertad de expresión.2. La suspensión de derechos fundamentales es y debe seguir siendo competencia exclusiva del poder judicial. Ni un cierre sin sentencia.Este anteproyecto, en contra de lo establecido en el artículo 20.5 de laConstitución, pone en manos de un órgano no judicial –un organismo dependiente del Ministerio de Cultura– la potestad de impedir a losciudadanos españoles el acceso a cualquier página web.3. La nueva legislación creará inseguridad jurídica en todo el sectortecnológico español, perjudicando uno de los pocos campos de desarrollo y futuro de nuestra economía, entorpeciendo la creación de empresas, introduciendo trabas a la libre competencia y ralentizando su proyección
-
-internacional.4. La nueva legislación propuesta amenaza a los nuevos creadores y entorpece la creación cultural. Con Internet y los sucesivos avances tecnológicos se ha democratizado extraordinariamente la creación y
-
-<113\>
-
-Cualquiera
-
-emisión de contenidos de todo tipo, que ya no provienen prevalentemente de las industrias culturales tradicionales, sino de multitud defuentes diferentes.5. Los autores, como todos los trabajadores, tienen derecho a vivir desu trabajo con nuevas ideas creativas, modelos de negocio y actividades asociadas a sus creaciones. Intentar sostener con cambios legislativos a una industria obsoleta que no sabe adaptarse a este nuevo entorno no es ni justo ni realista. Si su modelo de negocio se basa en el controlde las copias de las obras y en Internet no es posible sin vulnerarderechos fundamentales, deben buscar otro modelo.6. Consideramos que las industrias culturales necesitan para sobrevivir
-
-alternativas modernas, eficaces, creíbles y asequibles y que se adecuen
-
-a los nuevos usos sociales, en lugar de limitaciones tandesproporcionadas como ineficaces para el fin que dicen perseguir.7. Internet debe funcionar de forma libre y sin interferencias políticas
-
-auspiciadas por sectores que pretenden perpetuar obsoletos modelos de negocio e imposibilitar que el saber humano siga siendo libre.8. Exigimos que el gobierno garantice por ley la neutralidad de la Red en España, ante cualquier presión que pueda producirse, como marco para el desarrollo de una economía sostenible y realista de cara alfuturo.9. Proponemos una verdadera reforma del derecho de propiedad intelectual orientada a su fin: devolver a la sociedad el conocimiento,promover el dominio público y limitar los abusos de las entidades gestoras.10. En democracia las leyes y sus modificaciones deben aprobarse tras el oportuno debate público y habiendo consultado previamente a todas las partes implicadas. No es de recibo que se realicen cambioslegislativos que afectan a derechos fundamentales en una ley no orgánica y que versa sobre otra materia.
+fundamentales de los ciudadanos, como el derecho a la privacidad, a la seguridad, a la presunción de inocencia, a la tutela judicial efectiva ya la libertad de expresión.2. La suspensión de derechos fundamentales es y debe seguir siendo competencia exclusiva del poder judicial. Ni un cierre sin sentencia.Este anteproyecto, en contra de lo establecido en el artículo 20.5 de laConstitución, pone en manos de un órgano no judicial –un organismo dependiente del Ministerio de Cultura– la potestad de impedir a losciudadanos españoles el acceso a cualquier página web.3. La nueva legislación creará inseguridad jurídica en todo el sectortecnológico español, perjudicando uno de los pocos campos de desarrollo y futuro de nuestra economía, entorpeciendo la creación de empresas, introduciendo trabas a la libre competencia y ralentizando su proyección internacional.4. La nueva legislación propuesta amenaza a los nuevos creadores y entorpece la creación cultural. Con Internet y los sucesivos avances tecnológicos se ha democratizado extraordinariamente la creación y emisión de contenidos de todo tipo, que ya no provienen prevalentemente de las industrias culturales tradicionales, sino de multitud defuentes diferentes.5. Los autores, como todos los trabajadores, tienen derecho a vivir desu trabajo con nuevas ideas creativas, modelos de negocio y actividades asociadas a sus creaciones. Intentar sostener con cambios legislativos a una industria obsoleta que no sabe adaptarse a este nuevo entorno no es ni justo ni realista. Si su modelo de negocio se basa en el controlde las copias de las obras y en Internet no es posible sin vulnerarderechos fundamentales, deben buscar otro modelo.6. Consideramos que las industrias culturales necesitan para sobrevivir alternativas modernas, eficaces, creíbles y asequibles y que se adecuen a los nuevos usos sociales, en lugar de limitaciones tandesproporcionadas como ineficaces para el fin que dicen perseguir.7. Internet debe funcionar de forma libre y sin interferencias políticas auspiciadas por sectores que pretenden perpetuar obsoletos modelos de negocio e imposibilitar que el saber humano siga siendo libre.8. Exigimos que el gobierno garantice por ley la neutralidad de la Red en España, ante cualquier presión que pueda producirse, como marco para el desarrollo de una economía sostenible y realista de cara alfuturo.9. Proponemos una verdadera reforma del derecho de propiedad intelectual orientada a su fin: devolver a la sociedad el conocimiento,promover el dominio público y limitar los abusos de las entidades gestoras.10. En democracia las leyes y sus modificaciones deben aprobarse tras el oportuno debate público y habiendo consultado previamente a todas las partes implicadas. No es de recibo que se realicen cambioslegislativos que afectan a derechos fundamentales en una ley no orgánica y que versa sobre otra materia.
 
 Este manifiesto, elaborado de forma conjunta por varios autores, es de todos y de ninguno. Si quieres sumarte a él, difúndelo por Internet.
 
 Dos días después de su publicación, el buscador de Google encontraba un millón de referencias a este documento, en su mayoría a favor del mismo. El grupo creado en Facebook superó en menos de tres días la cifra de 100.000 adhesiones y el hashtag \#manifiesto en Twitter alcanzó el número uno en España.
 
-Ante la magnitud de esta reacción en contra de la ley Sinde, al
-
-día siguiente el Ministerio de Cultura convocó a catorce personas relevantes en Internet, todas ellas coautoras del manifiesto, para conocer sus posturas. En la reunión participaron seis representantes del Ministerio de Cultura. La ministra llegó a las 11.00 y se
-
-<114\>
-
-fue a las 11.20. Lo justo para la foto y no lo suficiente como para hacer acto de presencia. Se marchó porque tenía que inaugurar un museo.
+Ante la magnitud de esta reacción en contra de la ley Sinde, al día siguiente el Ministerio de Cultura convocó a catorce personas relevantes en Internet, todas ellas coautoras del manifiesto, para conocer sus posturas. En la reunión participaron seis representantes del Ministerio de Cultura. La ministra llegó a las 11.00 y se fue a las 11.20. Lo justo para la foto y no lo suficiente como para hacer acto de presencia. Se marchó porque tenía que inaugurar un museo.
 
 Fue la primera reunión ministerial de la historia retransmitida por Twitter. La práctica de participar en una reunión y a la vez estar en conversación con personas que no participan en la misma ha sido posteriormente replicada en otras situaciones de diálogo o negociación con las instituciones. De esta manera, el grupo que participa en la reunión tiene el apoyo del grupo que está fuera, que puede proveer argumentaciones, datos, documentos o consensos, sin que los representantes institucionales puedan controlar absolutamente la situación.
 
-Esta práctica relativiza la opacidad y el secretismo, relaja el
-
-peso de la representación por parte del colectivo que se sienta en la mesa de negociación y extiende la situación por un espacio público-privado que rebosa la dualidad entre virtual y presencial.
+Esta práctica relativiza la opacidad y el secretismo, relaja el peso de la representación por parte del colectivo que se sienta en la mesa de negociación y extiende la situación por un espacio público-privado que rebosa la dualidad entre virtual y presencial.
 
 En el plano de la negociación la reunión fue un fracaso y concluyó sin establecer ningún principio de acuerdo, mostrando la falta de voluntad de un ministerio plegado a los intereses de la industria. Pero el manifiesto fue un hito en términos de autoorganización no militante de la representatividad, ya que desde todas las esquinas de Internet se dio por bueno el hecho de que esas catorce personas elegidas a dedo por el Ministerio de Cultura representaban a todos y a cualquiera y se les agradeció su defensa de los derechos en Internet, sin problematizar su representatividad. Fue como la otra cara de la moneda del «¡No nos representan!»: cualquiera puede representar a cualquiera sin necesidad de haber sido elegido explícitamente por los representados y sin necesidad de un lugar centralizado en el que se tomen las decisiones.
 
 «La cena del miedo»
 
-A principios de enero de 2011 Amador Fernández-Savater, editor vinculado a la cultura libre, recibió una invitación de la ministra de Cultura –por azar, por error o por alguna razón desconocida– para
+A principios de enero de 2011 Amador Fernández-Savater, editor vinculado a la cultura libre, recibió una invitación de la ministra de Cultura –por azar, por error o por alguna razón desconocida– para participar el viernes 7 de enero en una cena con figuras relevantes de la industria cultural española y charlar sobre la ley Sinde, las descargas P2P y todo eso.
 
-<115\>
+Después de la cena, el 12 de enero publicó en uno de tantos blogs lo que vivió, lo que escuchó y lo que pensó esos días. Su conclusión es simple: «Es el miedo quien gobierna, el miedo conservador a la crisis de los modelos dominantes, el miedo reactivo a la gente –sobre todo a la gente joven–, el miedo a la rebelión de los públicos, a la Red y al futuro desconocido».
 
-Cualquiera
-
-participar el viernes 7 de enero en una cena con figuras relevantes de la industria cultural española y charlar sobre la ley Sinde, las descargas P2P y todo eso.
-
-Después de la cena, el 12 de enero publicó en uno de tantos
-
-blogs lo que vivió, lo que escuchó y lo que pensó esos días. Su conclusión es simple: «Es el miedo quien gobierna, el miedo conservador a la crisis de los modelos dominantes, el miedo reactivo a la gente –sobre todo a la gente joven–, el miedo a la rebelión de los públicos, a la Red y al futuro desconocido».
-
-La semana pasada recibí una llamada del Ministerio de Cultura. Se me invitaba a una reunión-cena el viernes 7 con la ministra y otras personas del mundo de la cultura. Al parecer, la reunión era una más en una serie de contactos que el ministerio está buscando ahora para pulsar la opinión en el sector sobre el tema de las descargas, la tristemente célebre ley Sinde, etc. Acepté, pensando que igual después de la bofetada que se había llevado la ley en el Congreso (y la calle y la Red) se
-
-estaban abriendo preguntas, replanteándose cosas. Y que tal vez yo podía aportar algo ahí como pequeño editor que publica habitualmente con licencias Creative Commons y como alguien implicado desde hace años en los movimientos copyleft / cultura libre.
+La semana pasada recibí una llamada del Ministerio de Cultura. Se me invitaba a una reunión-cena el viernes 7 con la ministra y otras personas del mundo de la cultura. Al parecer, la reunión era una más en una serie de contactos que el ministerio está buscando ahora para pulsar la opinión en el sector sobre el tema de las descargas, la tristemente célebre ley Sinde, etc. Acepté, pensando que igual después de la bofetada que se había llevado la ley en el Congreso (y la calle y la Red) se estaban abriendo preguntas, replanteándose cosas. Y que tal vez yo podía aportar algo ahí como pequeño editor que publica habitualmente con licencias Creative Commons y como alguien implicado desde hace años en los movimientos copyleft / cultura libre.
 
 El mismo día de la reunión-cena conocí el nombre del resto de invitados: Álex de la Iglesia, Soledad Giménez, Antonio Muñoz Molina, Elvira
 
-Lindo, Alberto García Álix, Ouka Lee le, Luis Gordillo, Juan DiegoBotto, Manuel Gutiérrez Aragón, Gonzalo Suárez (relacionado con el ámbito de los videojuegos), Cristina García Rodero y al menos dos personas más cuyos nombres no recuerdo ahora (perdón). ¡Vaya sorpresa! De pronto me sentí descolocado, como fuera de lugar. En primer lugar, porque yo no ocupo en el mundo de la edición un lugar ni siquiera remotamentecomparable al de Álex de la Iglesia en el ámbito del cine o Muñoz Molina en
-
-el de la literatura. Y luego, porque tuve la intuición de que losinvitados compartían más o menos una misma visión sobre el problema que nos reunía. En concreto, imaginaba (correctamente) que sería el único que no
-
-veía con buenos ojos la ley Sinde y que no se sintió muy triste cuandofue rechazada en el Congreso (más bien lo contrario). De pronto me asaltaron
-
-las preguntas: ¿qué pintaba yo ahí? ¿En calidad de qué se me invitaba,qué se esperaba de mí? ¿Se conocía mi vinculación a los movimientos copyleft
-
-/ cultura libre? ¿Qué podíamos discutir razonablemente tantas personas en medio de una cena? ¿Cuál era el objetivo de todo esto?
+Lindo, Alberto García Álix, Ouka Lee le, Luis Gordillo, Juan DiegoBotto, Manuel Gutiérrez Aragón, Gonzalo Suárez (relacionado con el ámbito de los videojuegos), Cristina García Rodero y al menos dos personas más cuyos nombres no recuerdo ahora (perdón). ¡Vaya sorpresa! De pronto me sentí descolocado, como fuera de lugar. En primer lugar, porque yo no ocupo en el mundo de la edición un lugar ni siquiera remotamentecomparable al de Álex de la Iglesia en el ámbito del cine o Muñoz Molina en el de la literatura. Y luego, porque tuve la intuición de que losinvitados compartían más o menos una misma visión sobre el problema que nos reunía. En concreto, imaginaba (correctamente) que sería el único que no veía con buenos ojos la ley Sinde y que no se sintió muy triste cuandofue rechazada en el Congreso (más bien lo contrario). De pronto me asaltaron las preguntas: ¿qué pintaba yo ahí? ¿En calidad de qué se me invitaba,qué se esperaba de mí? ¿Se conocía mi vinculación a los movimientos copyleft / cultura libre? ¿Qué podíamos discutir razonablemente tantas personas en medio de una cena? ¿Cuál era el objetivo de todo esto?
 
 Con todas esas preguntas bailando en mi cabeza, acudí a la reunión.
 
@@ -2425,35 +1692,13 @@ Y ahora he decidido contar mis impresiones. Por un lado, porque me gustaría com
 
 tan mal. Me preocupa que sea el miedo quien está tratando de organizar nuestra percepción de la realidad y quien está tomando las decisiones gubernamentales. Me preocupa esa combinación de ignorancia y miedo, porque de ahí solo puede resultar una cosa: el recurso a la fuerza, la represión y el castigo. No son los ingredientes básicos de la sociedaden la que yo quiero vivir.
 
-Por otro lado, querría tratar de explicar lo que pienso algo mejor que
+Por otro lado, querría tratar de explicar lo que pienso algo mejor que el viernes. Porque confieso desde ahora que no hice un papel demasiado brillante que digamos. Lo que escuchaba me sublevó hasta tal punto que de pronto me descubrí discutiendo de mala manera con quince personas a la vez (quince contra uno, mierda para...). Y cuando uno ataca y se defiende olvida los matices, los posibles puntos en común con el otro y las dudas que tiene. De hecho me acaloré tanto que la persona que tenía al lado me pidió que me tranquilizara porque le estaba subiendo la tensión (!). Tengo un amigo que dice: «No te arrepientas de tus prontos, pero vuelve sobre los problemas». Así que aquí estoy también para eso.
 
-el viernes. Porque confieso desde ahora que no hice un papel demasiado brillante que digamos. Lo que escuchaba me sublevó hasta tal punto que de pronto me descubrí discutiendo de mala manera con quince personas a la vez (quince contra uno, mierda para...). Y cuando uno ataca y
+Quizá haya por ahí algún morboso preguntándose qué nos dieron para cenar. Yo se lo cuento, no hay problema, es muy sencillo. Fue plato único: miedo. El miedo lo impregnaba todo. Miedo al presente, miedo al porvenir, miedo a la gente (sobre todo a la gente joven), miedo a la rebelión de los públicos, miedo a la Red. Siento decir que no percibíninguna voluntad de cambiar el rumbo, de mirar a otros sitios, de escuchar
 
-se defiende olvida los matices, los posibles puntos en común con el otro
+o imaginar alternativas que no pasen simplemente por insistir con la ley Sinde o similares. Solo palpé ese miedo reactivo que paraliza laimaginación (política pero no solo) para abrir y empujar otros futuros. Esemiedo que lleva aparejado un conservadurismo feroz que se aferra a lo que hay como si fuera lo único que puede haber. Un miedo que ve enemigos, amenazas y traidores por todas partes.
 
-y las dudas que tiene. De hecho me acaloré tanto que la persona que tenía al lado me pidió que me tranquilizara porque le estaba subiendo la
-
-tensión (!). Tengo un amigo que dice: «No te arrepientas de tus prontos,
-
-pero vuelve sobre los problemas». Así que aquí estoy también para eso.
-
-Quizá haya por ahí algún morboso preguntándose qué nos dieron
-
-para cenar. Yo se lo cuento, no hay problema, es muy sencillo. Fue plato
-
-único: miedo. El miedo lo impregnaba todo. Miedo al presente, miedo al porvenir, miedo a la gente (sobre todo a la gente joven), miedo a la
-
-rebelión de los públicos, miedo a la Red. Siento decir que no percibíninguna voluntad de cambiar el rumbo, de mirar a otros sitios, de escuchar
-
-o imaginar alternativas que no pasen simplemente por insistir con la ley
-
-Sinde o similares. Solo palpé ese miedo reactivo que paraliza laimaginación (política pero no solo) para abrir y empujar otros futuros. Esemiedo que lleva aparejado un conservadurismo feroz que se aferra a lo que hay como si fuera lo único que puede haber. Un miedo que ve enemigos, amenazas y traidores por todas partes.
-
-Quien repase la lista de invitados concluirá enseguida que se trata
-
-del miedo a la crisis irreversible de un modelo cultural y de negocio en
-
-el que «el ganador se lo lleva todo» y los demás poco o nada. Pero no nos lo pongamos demasiado fácil y pensemos generosamente que el miedo que circulaba en la cena no solo expresa el terror a perder una posición personal de poder y de privilegio, sino que también encierra una preocupación muy legítima por la suerte de los trabajadores de la cultura. Ciertamente, hay una pregunta que nos hacemos todos
+Quien repase la lista de invitados concluirá enseguida que se trata del miedo a la crisis irreversible de un modelo cultural y de negocio en el que «el ganador se lo lleva todo» y los demás poco o nada. Pero no nos lo pongamos demasiado fácil y pensemos generosamente que el miedo que circulaba en la cena no solo expresa el terror a perder una posición personal de poder y de privilegio, sino que también encierra una preocupación muy legítima por la suerte de los trabajadores de la cultura. Ciertamente, hay una pregunta que nos hacemos todos
 
 2
 
@@ -2469,133 +1714,57 @@ oscuro» también había preocupación por el tema de la remuneración de losaut
 
 <117\>
 
-Cualquiera
 
-Lo que pasa es que algunos nos preguntamos cómo podemos vivir los trabajadores de la cultura de nuestro trabajo pero añadiendo (entreotras muchas cosas): en un mundo que es y será infinitamente copiable y reproducible (¡viva!). Y hay otros que encierran su legítimapreocupación en un marco de interpretación estrechísimo: la industria cultural, elautor individual y propietario, la legislación actual de la propiedadintelectual, etc. O sea el problema no es el temor y la preocupación, sino el marco que le da sentido. Ese marco tan estrecho nos atrapa en un verdadero callejón sin salida en el que solo se puede pensar cómo estiramos lo que
+Lo que pasa es que algunos nos preguntamos cómo podemos vivir los trabajadores de la cultura de nuestro trabajo pero añadiendo (entreotras muchas cosas): en un mundo que es y será infinitamente copiable y reproducible (¡viva!). Y hay otros que encierran su legítimapreocupación en un marco de interpretación estrechísimo: la industria cultural, elautor individual y propietario, la legislación actual de la propiedadintelectual, etc. O sea el problema no es el temor y la preocupación, sino el marco que le da sentido. Ese marco tan estrecho nos atrapa en un verdadero callejón sin salida en el que solo se puede pensar cómo estiramos lo que ya hay. Y mucho me temo que la única respuesta posible es: mediante el miedo. Responder al miedo con el miedo, tratar de que los demás prueben el miedo que uno tiene. Ley, represión, castigo. Lo expresó muy claramente alguien en la reunión, refiriéndose al modelo americano para combatir las descargas: «Eso es, que al menos la gente sienta miedo». Me temo que esa es la educación para la ciudadanía que nos espera si no aprendemos a mirar desde otro marco.
 
-ya hay. Y mucho me temo que la única respuesta posible es: mediante el miedo. Responder al miedo con el miedo, tratar de que los demás prueben el miedo que uno tiene. Ley, represión, castigo. Lo expresó muy
+Tienen miedo a la Red. Esto es muy fácil de entender: la mayoría de mis compañeros de mesa piensan que «copiar es robar». Parten de ahí, ese principio organiza su cabeza. ¿Cómo se ve la Red, que ha nacido para el intercambio, desde ese presupuesto? Está muy claro: es el lugar de un saqueo total y permanente. «¡La gente usa mis fotos como perfil en Facebook!», se quejaba amargamente alguien que vive de la fotografía en la cena. Copiar es robar. No regalar, donar, compartir,dar a conocer, difundir o ensanchar lo común. No, es robar. Traté deexplicar que para muchos creadores la visibilidad que viene con la copia puede ser un potencial decisivo. Me miraban raro y yo me sentía un marciano.
 
-claramente alguien en la reunión, refiriéndose al modelo americano para
-
-combatir las descargas: «Eso es, que al menos la gente sienta miedo». Me temo que esa es la educación para la ciudadanía que nos espera si no aprendemos a mirar desde otro marco.
-
-Tienen miedo a la Red. Esto es muy fácil de entender: la mayoría
-
-de mis compañeros de mesa piensan que «copiar es robar». Parten de ahí, ese principio organiza su cabeza. ¿Cómo se ve la Red, que ha nacido para el intercambio, desde ese presupuesto? Está muy claro: es el lugar de un saqueo total y permanente. «¡La gente usa mis fotos como perfil en Facebook!», se quejaba amargamente alguien que vive de la fotografía en la cena. Copiar es robar. No regalar, donar, compartir,dar a conocer, difundir o ensanchar lo común. No, es robar. Traté deexplicar que para muchos creadores la visibilidad que viene con la copia puede ser un potencial decisivo. Me miraban raro y yo me sentía un marciano.
-
-Me parece un hecho gravísimo que quienes deben legislar sobre la
-
-Red no la conozcan ni la aprecien realmente por lo que es, que ante todo
-
-la teman. No la entienden técnicamente, ni jurídicamente, niculturalmente, ni subjetivamente. Nada. De ahí se deducen chapuzas tipo ley Sinde,
-
-que confunde las páginas de enlaces y las páginas que albergan contenidos. De ahí la propia idea recurrente de que cerrando doscientas webs
-
-se acabarán los problemas, como si después de Napster no hubiesen llegado Audiogalaxy, Kazaa, Emule, Megavideo, etc. De ahí las derrotas que sufren una y otra vez en los juzgados. De ahí el hecho excepcional de que personas de todos los colores políticos (y apolíticos) se junten
-
-para denunciar la vulneración de derechos fundamentales que perpetran esas leyes torpes y ciegas.
+Me parece un hecho gravísimo que quienes deben legislar sobre la Red no la conozcan ni la aprecien realmente por lo que es, que ante todo la teman. No la entienden técnicamente, ni jurídicamente, niculturalmente, ni subjetivamente. Nada. De ahí se deducen chapuzas tipo ley Sinde, que confunde las páginas de enlaces y las páginas que albergan contenidos. De ahí la propia idea recurrente de que cerrando doscientas webs se acabarán los problemas, como si después de Napster no hubiesen llegado Audiogalaxy, Kazaa, Emule, Megavideo, etc. De ahí las derrotas que sufren una y otra vez en los juzgados. De ahí el hecho excepcional de que personas de todos los colores políticos (y apolíticos) se junten para denunciar la vulneración de derechos fundamentales que perpetran esas leyes torpes y ciegas.
 
 Tienen miedo a la gente. Cuando había decidido desconectar y concentrarme en el atún rojo, se empezó a hablar de los usuarios de la Red.
 
-«Esos consumidores irresponsables que lo quieren todo gratis», «esos egoístas caprichosos que no saben valorar el trabajo ni el esfuerzo de una obra». Y ahí me empecé a poner malo. Las personas se bajan material gratuito de la Red por una multiplicidad de motivos que esosclichés no contemplan. Por ejemplo, están todos aquellos que no encuentran
+«Esos consumidores irresponsables que lo quieren todo gratis», «esos egoístas caprichosos que no saben valorar el trabajo ni el esfuerzo de una obra». Y ahí me empecé a poner malo. Las personas se bajan material gratuito de la Red por una multiplicidad de motivos que esosclichés no contemplan. Por ejemplo, están todos aquellos que no encuentran una oferta de pago razonable y sencilla. Pero la idea que tratan de imponernos los estereotipos es la siguiente: si yo me atocino la tarde del domingo con mi novia en el cine viendo una peli cualquiera, estoy valorando la cultura porque pago por ella. Y si me paso dos semanastraduciendo y subtitulando mi serie preferida para compartirla en la Red,no soy más que un despreciable consumidor parásito que está hundiendo la cultura. Es increíble, ¿no? Pues la Red está hecha de un millón de esos gestos desinteresados. Y miles de personas (por ejemplo, trabajadores culturales azuzados por la precariedad) se descargan habitualmente material de la Red porque quieren hacer algo con todo ello: conocer y alimentarse para crear. Es precisamente una tensión activa y creativa la que mueve a muchos a buscar y a intercambiar, ¡enteraos!
 
-<118\>
+Lo que hay aquí es una élite que está perdiendo el monopolio de la palabra y de la configuración de la realidad. Y sus discursos traducen una mezcla de disgusto y rabia hacia esos actores desconocidos que entran en escena y desbaratan lo que estaba atado y bien atado. Ay, qué cómodas eran las cosas cuando no había más que audiencias sometidas. Pero ahora los públicos se rebelan: hablan, escriben, se manifiestan, intervienen, abuchean, pitan, boicotean, silban. En la reunión se podía palpar el pánico: «Nos están enfrentando con nuestro público, esto es muy grave». Pero ¿quién es ese «nos» que «nos enfrenta a nuestro público»? Misterio. ¿Seguro que el público no tiene ninguna razón verdadera para el cabreo? ¿No es esa una manera de seguir pensando al público como una masa de borregos teledirigida desde algún poder maléfico? ¿Y si el público percibe perfectamente el desprecio con el que se le concibe cuando se le trata como a un simple consumidor que solo debe pagar y callar?
 
-una oferta de pago razonable y sencilla. Pero la idea que tratan de imponernos los estereotipos es la siguiente: si yo me atocino la tarde del domingo con mi novia en el cine viendo una peli cualquiera, estoy valorando la cultura porque pago por ella. Y si me paso dos semanastraduciendo y subtitulando mi serie preferida para compartirla en la Red,no soy más que un despreciable consumidor parásito que está hundiendo la cultura. Es increíble, ¿no? Pues la Red está hecha de un millón de esos
-
-gestos desinteresados. Y miles de personas (por ejemplo, trabajadores culturales azuzados por la precariedad) se descargan habitualmente material de la Red porque quieren hacer algo con todo ello: conocer y alimentarse para crear. Es precisamente una tensión activa y creativa la
-
-que mueve a muchos a buscar y a intercambiar, ¡enteraos!
-
-Lo que hay aquí es una élite que está perdiendo el monopolio de la
-
-palabra y de la configuración de la realidad. Y sus discursos traducen una mezcla de disgusto y rabia hacia esos actores desconocidos que entran en escena y desbaratan lo que estaba atado y bien atado. Ay, qué
-
-cómodas eran las cosas cuando no había más que audiencias sometidas. Pero ahora los públicos se rebelan: hablan, escriben, se manifiestan, intervienen, abuchean, pitan, boicotean, silban. En la reunión
-
-se podía palpar el pánico: «Nos están enfrentando con nuestro público, esto es muy grave». Pero ¿quién es ese «nos» que «nos enfrenta a nuestro público»? Misterio. ¿Seguro que el público no tiene ninguna razón verdadera para el cabreo? ¿No es esa una manera de seguir pensando al público como una masa de borregos teledirigida desde algún poder maléfico? ¿Y si el público percibe perfectamente el desprecio con el que
-
-se le concibe cuando se le trata como a un simple consumidor que solo debe pagar y callar?
-
-Tienen miedo al futuro. «¿Pero tú qué propones?». Esa pregunta
-
-es siempre una manera eficaz de cerrar una conversación, de dejar de escuchar, de poner punto y final a un intercambio de argumentos. Uno parece obligado a tener soluciones para una situación complejísima con miles de personas implicadas. Yo no tengo ninguna respuesta, ninguna, pero creo que tengo alguna buena pregunta. En el mismo sentido, creo que lo más valioso del movimiento por una cultura libre no es que proponga soluciones (aunque se están experimentando muchas, como Creative Commons), sino que plantea unas nuevas bases donde algunas buenas respuestas pueden llegar a tener lugar. Me refiero a un cambio en las ideas, otro marco de interpretación de la realidad. Unarevolución mental que nos saque fuera del callejón sin salida, otro cerebro. Que no confunda a los creadores ni a la cultura con la industria cultural,que no confunda los problemas del *star-system* con los del conjunto de los
-
-trabajadores de la cultura, que no confunda el intercambio en la Red con
-
-la piratería, etc.
+Tienen miedo al futuro. «¿Pero tú qué propones?». Esa pregunta es siempre una manera eficaz de cerrar una conversación, de dejar de escuchar, de poner punto y final a un intercambio de argumentos. Uno parece obligado a tener soluciones para una situación complejísima con miles de personas implicadas. Yo no tengo ninguna respuesta, ninguna, pero creo que tengo alguna buena pregunta. En el mismo sentido, creo que lo más valioso del movimiento por una cultura libre no es que proponga soluciones (aunque se están experimentando muchas, como Creative Commons), sino que plantea unas nuevas bases donde algunas buenas respuestas pueden llegar a tener lugar. Me refiero a un cambio en las ideas, otro marco de interpretación de la realidad. Unarevolución mental que nos saque fuera del callejón sin salida, otro cerebro. Que no confunda a los creadores ni a la cultura con la industria cultural,que no confunda los problemas del *star-system* con los del conjunto de los trabajadores de la cultura, que no confunda el intercambio en la Red con la piratería, etc.
 
 <119\>
 
-Cualquiera
 
-Eso sí, hablé del papel fundamental que para mí podrían tener hoy las políticas públicas para promover un nuevo contrato social y evitar la devastación de la enésima reconversión industrial, para acompañar / sostener una transformación hacia otros modelos, más libres, más justos, más apegados al paradigma emergente de la Red. Como se ha escrito, «la inversión pública masiva en estudios de grabación, mediatecas y
-
-gabinetes de edición públicos que utilicen intensivamente los recursos contemporáneos –*crowdsourcing*, P2P, licencias víricas– podría hacer cambiar de posición a agentes sociales hasta ahora refractarios o poco sensibles a los movimientos de conocimiento libre».
+Eso sí, hablé del papel fundamental que para mí podrían tener hoy las políticas públicas para promover un nuevo contrato social y evitar la devastación de la enésima reconversión industrial, para acompañar / sostener una transformación hacia otros modelos, más libres, más justos, más apegados al paradigma emergente de la Red. Como se ha escrito, «la inversión pública masiva en estudios de grabación, mediatecas y gabinetes de edición públicos que utilicen intensivamente los recursos contemporáneos –*crowdsourcing*, P2P, licencias víricas– podría hacer cambiar de posición a agentes sociales hasta ahora refractarios o poco sensibles a los movimientos de conocimiento libre».
 
 3
 
-Pero mientras yo
+Pero mientras yo hablaba en este sentido tenía todo el rato la sensación de arar en elmar. Ojalá me equivoque, porque si no la cosa pinta mal: será la guerra de todos contra todos.
 
-hablaba en este sentido tenía todo el rato la sensación de arar en elmar. Ojalá me equivoque, porque si no la cosa pinta mal: será la guerra de todos contra todos.
-
-Ya acabo. Durante toda la reunión, no pude sacarme de la cabeza
-
-las imágenes de la película*El hundimiento*: encerrados en un búnker,sin ver ni querer ver el afuera, delirando planes inaplicables para ganar la
-
-guerra, atados unos a otros por fidelidades torpes, muertos de miedo porque el fin se acerca, viendo enemigos y traidores por todos lados,sin atreverse a cuestionar las ideas que les arrastran al abismo, temerosos
-
-de los bárbaros que están a punto de llegar...
+Ya acabo. Durante toda la reunión, no pude sacarme de la cabeza las imágenes de la película*El hundimiento*: encerrados en un búnker,sin ver ni querer ver el afuera, delirando planes inaplicables para ganar la guerra, atados unos a otros por fidelidades torpes, muertos de miedo porque el fin se acerca, viendo enemigos y traidores por todos lados,sin atreverse a cuestionar las ideas que les arrastran al abismo, temerosos de los bárbaros que están a punto de llegar...
 
 4
 
-¡Pero es que el búnker ni siquiera existe! Los «bárbaros» ya están
-
-dentro. Me gustaría saber cuántos de los invitados a la cena dejaron encendidos sus ordenadores en casa descargándose alguna película. A mi lado alguien me dijo: «Tengo una hija de dieciséis años que se lobaja todo». Y me confesó que no le acababa de convencer el imaginario que circulaba por allí sobre la gente joven. Ese tipo de cosas constituyen para mí la esperanza, la posibilidad de razonar desde otro sitio que no
-
-sea solo el del miedo y los estereotipos denigratorios. Propongo que cada uno de los asistentes a la próxima cena hable un rato sobre el tema
-
-con sus hijos antes de salir de casa. O mejor: que se invite a la cena tanto a los padres como a los hijos. Sería quizá una manera de sacar a los discursos de su búnker, porque entonces se verían obligados a asumir algunas preguntas incómodas: ¿es mi hijo un pobre cretino y un descerebrado? ¿Solo quiero para él que sienta miedo cuando enciende el ordenador? ¿No tiene nada que enseñarme sobre el futuro? El búnker ya no protege de nada, pero impide que uno escuche y entienda algo.
+¡Pero es que el búnker ni siquiera existe! Los «bárbaros» ya están dentro. Me gustaría saber cuántos de los invitados a la cena dejaron encendidos sus ordenadores en casa descargándose alguna película. A mi lado alguien me dijo: «Tengo una hija de dieciséis años que se lobaja todo». Y me confesó que no le acababa de convencer el imaginario que circulaba por allí sobre la gente joven. Ese tipo de cosas constituyen para mí la esperanza, la posibilidad de razonar desde otro sitio que no sea solo el del miedo y los estereotipos denigratorios. Propongo que cada uno de los asistentes a la próxima cena hable un rato sobre el tema con sus hijos antes de salir de casa. O mejor: que se invite a la cena tanto a los padres como a los hijos. Sería quizá una manera de sacar a los discursos de su búnker, porque entonces se verían obligados a asumir algunas preguntas incómodas: ¿es mi hijo un pobre cretino y un descerebrado? ¿Solo quiero para él que sienta miedo cuando enciende el ordenador? ¿No tiene nada que enseñarme sobre el futuro? El búnker ya no protege de nada, pero impide que uno escuche y entienda algo.
 
 3
 
-Igor Sadaba y César Rendueles, «Ciberfetichismo y cooperación»;disponible en
-
-http://www.rebelion.org/noticia.php?id=83311
+Igor Sadaba y César Rendueles, «Ciberfetichismo y cooperación»; disponible en http://www.rebelion.org/noticia.php?id=83311
 
 4
 
-Por supuesto, el búnker es la vieja industria. El «nuevo capitalismo»(Skype,
-
-Youtube, Google) entiende muy bien que el meollo de la cosa está hoy enque la gente interactúe y comparta, y en aprovecharse de ello sin devolvermás que precariedad.
+Por supuesto, el búnker es la vieja industria. El «nuevo capitalismo»(Skype, Youtube, Google) entiende muy bien que el meollo de la cosa está hoy enque la gente interactúe y comparta, y en aprovecharse de ello sin devolvermás que precariedad.
 
 <120\>
 
-Este post, titulado *La cena del miedo (mi reunión con la ministra González-Sinde)*
-
-,
-
-5
-
-alcanzó una visibilidad inaudita, teniendo en
-
-cuenta que fue publicado por una persona que hasta ese momento no tenía una especial relevancia en Internet: centenares de comentarios, enlaces, reenvíos, twitteos, retwitteos, meneos, shares... y muchas discusiones y conversaciones por mail y de viva voz.
+Este post, titulado *La cena del miedo (mi reunión con la ministra González-Sinde)*, alcanzó una visibilidad inaudita, teniendo en cuenta que fue publicado por una persona que hasta ese momento no tenía una especial relevancia en Internet: centenares de comentarios, enlaces, reenvíos, twitteos, retwitteos, meneos, shares... y muchas discusiones y conversaciones por mail y de viva voz.
 
 6
 
 ¿Qué es lo que funcionó en ese post que cruzó fronteras ideológicas y corporativas, tocó en un punto común a gente de todos los colores políticos y apolíticos y de múltiples perfiles sociológicos, y suscitó una enorme confianza y creencia en la veracidad de la palabra personal? Amador Fernández-Savater, preguntado al respecto, expone algunas claves:
 
-Antes de escribir el post tenía mil dudas. En particular, porque creoque hay amigos que me pedían que les fabricara un arma, un arma para la guerra contra la ley Sinde a la que ellos están entregados en cuerpo y alma (dicho sea de paso, una de las pocas guerras en las que veo a gente
+Antes de escribir el post tenía mil dudas. En particular, porque creoque hay amigos que me pedían que les fabricara un arma, un arma para la guerra contra la ley Sinde a la que ellos están entregados en cuerpo y alma (dicho sea de paso, una de las pocas guerras en las que veo a gente implicada en cuerpo y alma).
 
-implicada en cuerpo y alma).
+Pero yo tenía que escribir algo de lo que estuviese satisfecho personalmente y de lo que pudiera hacerme cargo. No me satisface el modelo-denuncia porque es todo lo contrario de esa nueva sensibilidad (crítica) que exploro junto a otros desde el 11M y que entre otrasmuchas cosas pasa por: hablar como uno más, como uno cualquiera, para así poder hablar a cualquiera y con cualquiera; rehuir todo lo posible la crítica frontal; hablar en nombre propio, no esconderme detrás de un «nosotros», y no buscar una posición de superioridad sino un problema compartido (incluso, si es posible, con el adversario).
 
-Pero yo tenía que escribir algo de lo que estuviese satisfecho
-
-personalmente y de lo que pudiera hacerme cargo. No me satisface el modelo-denuncia porque es todo lo contrario de esa nueva sensibilidad (crítica) que exploro junto a otros desde el 11M y que entre otrasmuchas cosas pasa por: hablar como uno más, como uno cualquiera, para así poder hablar a cualquiera y con cualquiera; rehuir todo lo posible la crítica frontal; hablar en nombre propio, no esconderme detrás de un «nosotros», y no buscar una posición de superioridad sino un problema compartido (incluso, si es posible, con el adversario).
-
-Escribí el texto con esas claves y de ellas resulta un efecto de ambigüedad. Al compartir el borrador algunos amigos me dijeron: «No está claro dónde estás, con quién estás, contra quién estás, a favor de qué estás». Estaba de acuerdo, pero para mí la cuestión era valorar si esa ambigüedad era una debilidad o una fuerza. Así que lo que ha podido funcionar en el texto es paradójico: una posición ambigua, pero firme y
-
-determinada.
+Escribí el texto con esas claves y de ellas resulta un efecto de ambigüedad. Al compartir el borrador algunos amigos me dijeron: «No está claro dónde estás, con quién estás, contra quién estás, a favor de qué estás». Estaba de acuerdo, pero para mí la cuestión era valorar si esa ambigüedad era una debilidad o una fuerza. Así que lo que ha podido funcionar en el texto es paradójico: una posición ambigua, pero firme y determinada.
 
 5
 
@@ -2603,21 +1772,17 @@ Disponible enhttp://acuarelalibros.blogspot.com/2011/01/la-cena-del-miedo-mireun
 
 6
 
-Tengo entendido que la propia ministra publicó una respuesta unos díasmás
-
-tarde en el periódico *El País*, pero no he podido encontrarla.
+Tengo entendido que la propia ministra publicó una respuesta unos díasmás tarde en el periódico *El País*, pero no he podido encontrarla.
 
 <121\>
 
-Cualquiera
+# Cualquiera
 
 Los amigos más metidos en la guerra me dijeron que al texto le faltaba concreción. Le faltaba punta. Se iba por las nubes. No desenmascaraba a nadie. Olvidaba denunciar qué hacía allí esa gente reunida en la cena.
 
 No gritaba. Pero yo creo que el modelo-denuncia roza peligrosamente la propaganda. Y pensé: confiemos en la inteligencia de cualquiera. No opongamos propaganda a la propaganda, porque la propaganda en sí misma es embrutecedora (sirva a la causa a la que sirva). No pensemos en el público como un rebaño que hay que azuzar. No desestimemos su capacidad para descifrar e interpretar activamente un texto.
 
-Así que el tono «moderado» del texto no fue para salvar mi culo, sino
-
-que yo creo que solo un discurso así puede hoy morder verdaderamente la realidad. Pero esto no es fácil de ver. Yo mismo soy el primero que dudaba. No tenía las cosas claras. Solo un «presentimiento».
+Así que el tono «moderado» del texto no fue para salvar mi culo, sino que yo creo que solo un discurso así puede hoy morder verdaderamente la realidad. Pero esto no es fácil de ver. Yo mismo soy el primero que dudaba. No tenía las cosas claras. Solo un «presentimiento».
 
 Y bueno, desde luego me pregunto qué es hoy un discurso crítico.
 
@@ -2625,37 +1790,22 @@ Daniel Blanchard explica maravillosamente que un discurso crítico es aquel «ca
 
 Esta valoración del autor no fue plenamente aceptada en sus redes de confianza. Amador Fernández-Savater hace hincapié en escudriñar qué problema podría compartir con el adversario y encuentra uno: el miedo. Miedo de la industria a perder sus privilegios y miedo de todos (incluidos los autores) a la incertidumbre económica y la precariedad.
 
-Pero otros amigos creen que lo que hizo que tanta gente se
+Pero otros amigos creen que lo que hizo que tanta gente se reconociera en este post no fue tanto ese problema compartido como una división clara entre «ellos» y «nosotros» perfilada con la imagen del búnker: ellos asustados dentro del búnker y un afuera difuso en el que estamos «todos» (en el lenguaje del 15M, el 99 %).
 
-reconociera en este post no fue tanto ese problema compartido como una división clara entre «ellos» y «nosotros» perfilada con la imagen del búnker: ellos asustados dentro del búnker y un afuera difuso en el que estamos «todos» (en el lenguaje del 15M, el 99 %).
+En todo caso, la cena del miedo cuestiona el modelo-denuncia que solo convence a los ya convencidos, y mete en el kit de la lucha evitación, en la medida de lo posible, de la crítica frontal; la veracidad que se desprende al hablar en nombre propio (en primera persona) en lugar de parapetarse en un «nosotros»; el hablar como uno más, como uno cualquiera, para así poder hablar a cualquiera y con cualquiera, y no buscar una posición de superioridad sino un problema compartido con el adversario.
 
-En todo caso, la cena del miedo cuestiona el modelo-denuncia
-
-que solo convence a los ya convencidos, y mete en el kit de la lucha evitación, en la medida de lo posible, de la crítica frontal; la veracidad que se desprende al hablar en nombre propio (en primera
-
-<122\>
-
-persona) en lugar de parapetarse en un «nosotros»; el hablar como uno más, como uno cualquiera, para así poder hablar a cualquiera y con cualquiera, y no buscar una posición de superioridad sino un problema compartido con el adversario.
-
-Una complejidad política
+## Una complejidad política
 
 Los episodios de cualquiera cierran el itinerario de las experiencias elegidas, todas ellas muy distintas entre sí tanto en objetivos como en escala y en maneras de hacer. WikiLeaks y Anonymous operan globalmente; Hacktivistas es local. Anonymous y Hacktivistas son horizontales; WikiLeaks es vertical. WikiLeaks y Anonymous usan la opacidad; Hacktivistas la transparencia. Anonymous y WikiLeaks se mueven en el filo de la legalidad; Hacktivistas no traspasa esa barrera. WikiLeaks es centralizado; Anonymous es descentralizado. Anonymous lleva máscara, Hacktivistas da la cara. WikiLeaks es personalista, Anonymous es anónimo...
 
-Distintas e incluso antagónicas maneras de luchar, pero que
+Distintas e incluso antagónicas maneras de luchar, pero que se formulan las mismas preguntas: cuáles son los instrumentos más adecuados y las herramientas más idóneas, cómo organizarse y para hacer qué, y qué habría que llevar en el kit de la lucha en Internet.
 
-se formulan las mismas preguntas: cuáles son los instrumentos más adecuados y las herramientas más idóneas, cómo organizarse y para hacer qué, y qué habría que llevar en el kit de la lucha en Internet.
+Muestran cómo Internet no es solo un soporte para nuevos tipos de agregaciones (Anonymous, Hacktivistas), ni es solo un canal de comunicación (WikiLeaks). Internet es ya en sí misma una organización, ¿unitaria, como las organizaciones obreras en los viejos tiempos?, ¿incluyente, como le gusta pensar al 15M? y ¿tal vez política?
 
-Muestran cómo Internet no es solo un soporte para nuevos
+La complejidad de Internet no es solo un asunto técnico: es una complejidad política. La Red en sí misma es, recursivamente, a la vez el contexto y la coyuntura, a la vez lo que habla y de lo que se habla, a la vez el campo de batalla y la organización para transformar ese contexto en pro de más libertad (como viejo y nuevo derecho económico) en unas nuevas relaciones de poder.
 
-tipos de agregaciones (Anonymous, Hacktivistas), ni es solo un canal de comunicación (WikiLeaks). Internet es ya en sí misma una organización, ¿unitaria, como las organizaciones obreras en los viejos tiempos?, ¿incluyente, como le gusta pensar al 15M? y ¿tal vez política?
 
-La complejidad de Internet no es solo un asunto técnico: es
-
-una complejidad política. La Red en sí misma es, recursivamente, a la vez el contexto y la coyuntura, a la vez lo que habla y de lo que se habla, a la vez el campo de batalla y la organización para transformar ese contexto en pro de más libertad (como viejo y nuevo derecho económico) en unas nuevas relaciones de poder.
-
-<123\>
-
-Cualquiera
+## Cualquiera
 
 Internet ha cambiado la arquitectura de la realidad, y toda arquitectura es una política. La Red es ingobernable y está hecha de nodos inteligentes y autónomos. De la interconexión de estos nodos surge una nueva esfera público-privada en la que, solo por estar –publicar un post, comentarlo, enlazarlo, reenviarlo, twittearlo y retwittearlo, menearlo, compartirlo...–, ya se hace política. Pero ¿qué política? Es el sueño de la «participación» elevado a la máxima potencia, solo que esta «participación» es irrepresentable e ingobernable. Irrepresentable e ingobernable significa que no funciona exactamente según las reglas de las viejas democracias capitalistas. Significa que el kit de la lucha –herramientas, conocimientos y prácticas– está cambiando.
 
@@ -2663,11 +1813,7 @@ Todo uso instrumental de Internet está condenado de antemano al fracaso. Los no
 
 Internet se hace, deshace y rehace en tiempo real en un torbellino de bucles y contrabucles. Los mercados, la industria, los gobiernos... se pasan el día pensando y haciendo Internet, al igual que WikiLeaks, Anonymous, Hacktivistas y cualquiera –de mil maneras diversas y con distintas e incluso contradictorias imágenes de igualdad y de libertad– la hacen y rehacen luchando desde una nueva esfera público-privada por la socialización de los bienes inmateriales y el acceso a la nueva abundancia.
 
-Hacer y pensar. Así como el apagón en Egipto enseña que ninguna tecnología es desechable, por obsoleta que parezca, y que puede volver a ser útil si se reconecta en un dispositivo inacabado que tome sentido en un horizonte compartido, de igual manera en
-
-<124\>
-
-el fondo del viejo kit de la lucha hay herramientas, conocimientos y prácticas en desuso pero no desechables, que están a la espera de más y mejores alianzas que reinventen su utilidad.
+Hacer y pensar. Así como el apagón en Egipto enseña que ninguna tecnología es desechable, por obsoleta que parezca, y que puede volver a ser útil si se reconecta en un dispositivo inacabado que tome sentido en un horizonte compartido, de igual manera en el fondo del viejo kit de la lucha hay herramientas, conocimientos y prácticas en desuso pero no desechables, que están a la espera de más y mejores alianzas que reinventen su utilidad.
 
 En otras palabras, no se trata de abandonarse a la fascinación de la novedad tecnológica, sino de abordar la cuestión (crucial) de qué es luchar cuando ya no rigen (solo) las lógicas del viejo mundo capitalista.
 
