@@ -104,11 +104,7 @@ En una situación de verse afectado de forma real o potencial por este tipo de a
 
 ### Mascara
 
-![terminada y puesta](img/mascara/6.png)
-
-#### Materiales
-
-![Materiales](img/mascara/1.png)
+![Materiales](img/mascara/1.png) ![terminada y puesta](img/mascara/6.png)
 
 > Botella PET de 2 litros.
 > Máscara facial, trapo humedecido con vinagre, jugo de limón o neutralizante.
@@ -124,7 +120,6 @@ Corte la botella con la forma de su rostro. Aisle los bordes con cinta aisladora
 ![Poner el filtro](img/mascara/4.png) ![terminada](img/mascara/5.png)
 
 Coloque los elásticos de manera que la botella quede firme en el rostro.
-
 Encastre en la base la máscara facial, la alternativa es colocar un trapo humedecido en vinagre.
 
 ### ¿Que podemos hacer?
