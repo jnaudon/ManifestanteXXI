@@ -104,26 +104,26 @@ En una situación de verse afectado de forma real o potencial por este tipo de a
 
 ### Mascara
 
-![terminada y puesta](textos/img/mascara-3_6.png)
+![terminada y puesta](img/mascara/6.png)
 
 #### Materiales
 
-![Materiales](textos/img/mascara-1_1.png)
+![Materiales](img/mascara/1.png)
 
 > * Botella PET de 2 litros
-> * Máscara facial, trapo humedecido con vinagre, jugo de limón o neutralizante.
+> * Máscara facial, trapo humedecido con vinagre, jugo de limón o neutralizante
 > * Elástico
 > * Cinta aisladora
 
 Tiene que estar bien aislado para evitar que entre gas en la máscara, sino puede lastimar los ojos.
 
-![Cortar la botella](textos/img/mascara-2_2.png) ![Encintar](textos/img/mascara-2_3.png)
+![Cortar la botella](img/mascara/2.png) ![Encintar](img/mascara/3.png)
 
-Corte la botella con la forma de su rostro. Aisle los bordes con cinta aisladora. 
+Corte la botella con la forma de su rostro. Aisle los bordes con cinta aisladora.
 
-![Poner el filtro](textos/img/mascara-2_4.png) ![terminada](textos/img/mascara-3_5.png)
+![Poner el filtro](img/mascara/4.png) ![terminada](img/mascara/5.png)
 
-Coloque los elásticos de manera que la botella quede firme en el rostro. 
+Coloque los elásticos de manera que la botella quede firme en el rostro.
 Encastre en la base la máscara facial, la alternativa es colocar un trapo humedecido en vinagre.
 
 ### ¿Que podemos hacer?
@@ -138,6 +138,8 @@ Encastre en la base la máscara facial, la alternativa es colocar un trapo humed
 
 Estas luces se usa para control mental, inducir al sueño o poner en estado de trance en las velocidades adecuadas producen estado de calma, somnolencia o la sensación de falta de tiempo. 
 En las frecuencias entre _5hz_ a _7hz_ produce un estado de calma, eso es lo que intenta generar el este circuito. Podemos modificar una linterna que use entre 5v a 12v con este circuito, y reutilizar su lamparas LED y baterías.
+
+**Nota:** Si usas una mascara anti-gaslacrimogeno de color verde podes poner un filtro a la lampara para que no te afecte.
 
 ![circuito](planos/555_Estroboscopica.png)
 
