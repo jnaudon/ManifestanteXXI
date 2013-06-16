@@ -110,10 +110,10 @@ En una situación de verse afectado de forma real o potencial por este tipo de a
 
 ![Materiales](img/mascara/1.png)
 
-> * Botella PET de 2 litros
-> * Máscara facial, trapo humedecido con vinagre, jugo de limón o neutralizante
-> * Elástico
-> * Cinta aisladora
+> Botella PET de 2 litros.
+> Máscara facial, trapo humedecido con vinagre, jugo de limón o neutralizante.
+> Elástico.
+> Cinta aisladora.
 
 Tiene que estar bien aislado para evitar que entre gas en la máscara, sino puede lastimar los ojos.
 
@@ -124,6 +124,7 @@ Corte la botella con la forma de su rostro. Aisle los bordes con cinta aisladora
 ![Poner el filtro](img/mascara/4.png) ![terminada](img/mascara/5.png)
 
 Coloque los elásticos de manera que la botella quede firme en el rostro.
+
 Encastre en la base la máscara facial, la alternativa es colocar un trapo humedecido en vinagre.
 
 ### ¿Que podemos hacer?
