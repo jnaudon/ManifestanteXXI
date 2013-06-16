@@ -96,9 +96,39 @@ Muchos dispositivos con Android no son celulares, así que no tienen acceso a in
 
 En una situación de verse afectado de forma real o potencial por este tipo de armas, es necesario conocer las medidas utilizadas para mantener el control de la situación.
 
+### Neutralizante
+
 ![neutralizante](planos/lacrimogeno_neutralizante.png)
 > Prepare un neutralizador en un roseador con agua potable con 5% de bicarbonato de sodio.
 > El roseador no tiene que ser mayor que 500cm3 (medio litro) por que se vuelve pesado, dificil de manejar o llevar colgado.
+
+### Mascara
+
+![](img/mascara-3_5.png) ![terminado](img/mascara-3_6.png)
+
+#### Materiales
+
+![Materiales](img/mascara-1_1.png)
+
+* Botella PET de 2 litros
+* Máscara facial, trapo humedecido con vinagre, jugo de limón o neutralizante.
+* Elástico
+* Cinta aisladora
+
+Tiene que estar bien aislado para evitar que entre gas en la máscara, sino puede lastimar los ojos.
+
+![Cortar la botella](textos/img/mascara-2_2.png)
+
+> Corte la botella con la forma de su rostro.
+
+![Encintar](textos/img/mascara-2_3.png)
+
+> Aisle los bordes con cinta aisladora. Coloque los elásticos de manera que la botella quede firme en el rostro.
+
+![Poner el filtro](textos/img/mascara-2_4.png)
+
+> Encastre en la base la máscara facial. 
+> Recuerde que, para protegerse del gas lacrímogeno, la alternativa es colocar un trapo humedecido en vinagre.
 
 ### ¿Que podemos hacer?
 

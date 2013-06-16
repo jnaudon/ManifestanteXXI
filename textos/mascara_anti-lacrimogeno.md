@@ -1,11 +1,11 @@
-# [Hágalo usted mismo Máscara antigas, para las marchas que se vienen](https://blognooficial.wordpress.com/2013/06/16/hagalo-ud-mismo-img/mascara-antigas-para-las-marchas-que-se-vienen/)
+# [Máscara antigas, para las marchas que se vienen](https://blognooficial.wordpress.com/2013/06/16/hagalo-ud-mismo-img/mascara-antigas-para-las-marchas-que-se-vienen/)
 
 ## Material
 
 ![materiales](img/mascara-1_1.png)
 
 * Botella PET de 2 litros
-* Máscara facial o trapo humedecido con vinagre, jugo de limón o agua con un 5% de bicarbonato.
+* Máscara facial, trapo humedecido con vinagre, jugo de limón o agua con un 5% de bicarbonato.
 * Elástico 
 * Cinta aisladora
 
