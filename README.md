@@ -110,25 +110,16 @@ En una situación de verse afectado de forma real o potencial por este tipo de a
 
 ![Materiales](textos/img/mascara-1_1.png)
 
-* Botella PET de 2 litros
-* Máscara facial, trapo humedecido con vinagre, jugo de limón o neutralizante.
-* Elástico
-* Cinta aisladora
+> * Botella PET de 2 litros
+> * Máscara facial, trapo humedecido con vinagre, jugo de limón o neutralizante.
+> * Elástico
+> * Cinta aisladora
 
 Tiene que estar bien aislado para evitar que entre gas en la máscara, sino puede lastimar los ojos.
 
-![Cortar la botella](textos/img/mascara-2_2.png)
+![Cortar la botella](textos/img/mascara-2_2.png) ![Encintar](textos/img/mascara-2_3.png) ![Poner el filtro](textos/img/mascara-2_4.png)
 
-> Corte la botella con la forma de su rostro.
-
-![Encintar](textos/img/mascara-2_3.png)
-
-> Aisle los bordes con cinta aisladora. Coloque los elásticos de manera que la botella quede firme en el rostro.
-
-![Poner el filtro](textos/img/mascara-2_4.png)
-
-> Encastre en la base la máscara facial. 
-> Recuerde que, para protegerse del gas lacrímogeno, la alternativa es colocar un trapo humedecido en vinagre.
+Corte la botella con la forma de su rostro. Aisle los bordes con cinta aisladora. Coloque los elásticos de manera que la botella quede firme en el rostro. Encastre en la base la máscara facial, la alternativa es colocar un trapo humedecido en vinagre.
 
 ### ¿Que podemos hacer?
 
@@ -202,6 +193,7 @@ Se permite el uso comercial de la obra y de las posibles obras derivadas, la dis
 
 # Quehaceres
 
+* Hacer vectores de la mascara anti-lacrimogeno
 * Hacer svg interactivo (1/2)
  * Traducir
 * Referencia a los italiano que se protegían de los policías
