@@ -104,11 +104,11 @@ En una situación de verse afectado de forma real o potencial por este tipo de a
 
 ### Mascara
 
-![](img/mascara-3_5.png) ![terminado](img/mascara-3_6.png)
+![terminada](textos/img/mascara-3_5.png) ![terminada y puesta](textos/img/mascara-3_6.png)
 
 #### Materiales
 
-![Materiales](img/mascara-1_1.png)
+![Materiales](textos/img/mascara-1_1.png)
 
 * Botella PET de 2 litros
 * Máscara facial, trapo humedecido con vinagre, jugo de limón o neutralizante.
