@@ -104,7 +104,7 @@ En una situación de verse afectado de forma real o potencial por este tipo de a
 
 ### Mascara
 
-![terminada](textos/img/mascara-3_5.png) ![terminada y puesta](textos/img/mascara-3_6.png)
+![terminada y puesta](textos/img/mascara-3_6.png)
 
 #### Materiales
 
@@ -117,9 +117,14 @@ En una situación de verse afectado de forma real o potencial por este tipo de a
 
 Tiene que estar bien aislado para evitar que entre gas en la máscara, sino puede lastimar los ojos.
 
-![Cortar la botella](textos/img/mascara-2_2.png) ![Encintar](textos/img/mascara-2_3.png) ![Poner el filtro](textos/img/mascara-2_4.png)
+![Cortar la botella](textos/img/mascara-2_2.png) ![Encintar](textos/img/mascara-2_3.png)
 
-Corte la botella con la forma de su rostro. Aisle los bordes con cinta aisladora. Coloque los elásticos de manera que la botella quede firme en el rostro. Encastre en la base la máscara facial, la alternativa es colocar un trapo humedecido en vinagre.
+Corte la botella con la forma de su rostro. Aisle los bordes con cinta aisladora. 
+
+![Poner el filtro](textos/img/mascara-2_4.png) ![terminada](textos/img/mascara-3_5.png)
+
+Coloque los elásticos de manera que la botella quede firme en el rostro. 
+Encastre en la base la máscara facial, la alternativa es colocar un trapo humedecido en vinagre.
 
 ### ¿Que podemos hacer?
 
