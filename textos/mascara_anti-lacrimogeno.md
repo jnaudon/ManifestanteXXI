@@ -4,7 +4,10 @@
 
 ![materiales](img/mascara-1_1.png)
 
-> Botella PET de 2 litros, máscara facial, elástico y cinta aisladora. Si no consigue una máscara facial (de las que se usan en la construcción, puede reemplazarla por un trapo humedecido con vinagre que anula el gas lacrimógeno)
+* Botella PET de 2 litros
+* Máscara facial o trapo humedecido con vinagre, jugo de limón o agua con un 5% de bicarbonato.
+* Elástico 
+* Cinta aisladora
 
 ## Pasos
 
@@ -16,11 +19,12 @@ Tiene que estar bien aislado para evitar que entre gas en la máscara, sino pued
 
 ![](img/mascara-2_3.png)
 
-> Aisle los bordes con cinta aisladora.Coloque los elásticos de manera que la botella quede firme en el rostro.
+> Aisle los bordes con cinta aisladora. Coloque los elásticos de manera que la botella quede firme en el rostro.
 
 ![](img/mascara-2_4.png)
 
-> Encastre en la base la máscara facial.Recuerde que, para protegerse del gas lacrímogeno, la alternativa es colocar un trapo humedecido en vinagre.
+> Encastre en la base la máscara facial. 
+> Recuerde que, para protegerse del gas lacrímogeno, la alternativa es colocar un trapo humedecido en vinagre.
 
 ![](img/mascara-3_5.png)
 
