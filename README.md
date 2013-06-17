@@ -23,14 +23,14 @@ En el 2011 Cristina Fernández de Kirchner emitió un Decreto ordenando la creac
 
 El reconocimiento de rostros es cada más simple y barato, por ejemplo en la Ciudad de Buenos Aires las [cámaras de seguridad](http://camaras.buenosaires.gob.ar/) superan las mil y las redes sociales con reconocimiento facial: facebook, google+, flickr, etc, son cada vez más populares y la actualización permanentemente por parte de sus usuarios mejora las bases de datos constantemente.
 
+En Android podemos usar el programas [ObscuraCam](https://guardianproject.info/apps/obscuracam/) que oculta las caras de forma automática.
+
 ### ¿Que podemos hacer?
 
 * Bloquear o deshabilitar las cámaras de seguridad
 * No etiquetar fotos en redes sociales
 * Solo compartir fotos de manifestaciones con rostro borrados
 * Borrar datos de localización y metadatos de las fotos. 
-
-En Android podemos usar el programas [ObscuraCam](https://guardianproject.info/apps/obscuracam/) que oculta las caras de forma automática.
 
 ## Protección para documentos con RFID
 
@@ -96,30 +96,27 @@ Muchos dispositivos con Android no son celulares, así que no tienen acceso a in
 ## Neutralizante
 
 ![neutralizante](planos/lacrimogeno_neutralizante.png)
-> Prepare un neutralizador en un roseador con agua potable con 5% de bicarbonato de sodio.
-> El roseador no tiene que ser mayor que 500cm3 (medio litro) por que se vuelve pesado, dificil de manejar o llevar colgado.
-
-### ¿Que podemos hacer?
+> Prepare un neutralizador en **un roseador** con agua potable con 5% de **bicarbonato de sodio**.
+> El roseador no tiene que ser mayor que 500cm3 (medio litro) por que se vuelve pesado, difícil de manejar o llevar colgado.
 
 En una situación de verse afectado de forma real o potencial por este tipo de armas, es necesario conocer las medidas utilizadas para mantener el control de la situación.
 
+### ¿Que podemos hacer?
+
 - Rosearse neutralizante en ojos y boca, sin frotar.
-- Antes de que el gas se aproxime, protegerse la nariz y la boca con un trapo empapado de vinagre, neutralizante o jugo de limón.
-- No llevar lentes de contacto o usar protección.
+- Protegerse la nariz y la boca con un trapo empapado de vinagre, neutralizante o jugo de limón.
+- No llevar lentes de contacto o [usar protección](#mascara).
+- Evitar que el gas alcance los ojos, para ello se pueden llevar preparadas gafas de buceo, una [mascara](#mascara) o en todo caso cerrarlos y llevarlos hacia el suelo, ya que el gas se disipa hacia arriba.
 
 ## Mascara
 
 ![mascara de contra gras lacrimogeno](planos/mascara.png)
 
-> Corte la botella de 2 litros con la forma de su rostro y colocar los elásticos de manera que la botella quede firme.
-> Colocar cinta aisladora, en los bordes, de modo de evitar que entre gas en la máscara, sino puede lastimar los ojos.
-> Encastre en la base la máscara facial, la alternativa es colocar un barbijo o trapo humedecido con vinagre, jugo de limón o neutralizante 
+> Corte la **botella de 2 litros** con la forma de su rostro y colocar los **elásticos** de manera que la botella quede firme.
+> Colocar **cinta aisladora**, en los bordes, de modo de evitar que entre gas en la máscara, sino puede lastimar los ojos.
+> Encastre en la base la máscara facial, la alternativa es colocar un barbijo o trapo humedecido con vinagre, jugo de limón o **neutralizante** 
 
-### ¿Que podemos hacer?
-
-- Evitar que el gas alcance los ojos, para ello se pueden llevar preparadas gafas de buceo o en todo caso cerrarlos y llevarlos hacia el suelo, ya que el gas se disipa hacia arriba.
-- Generalmente, la bomba se puede agarra y lanzar a otra dirección, aunque hay que protegerse las manos con un paño húmedo grueso o guantes de protección, ya que la bomba se calienta hasta alcanzar altas temperaturas, además, hay que considerar que, quien la tome se verá rodeado de gas momentáneamente.
-
+_Generalmente, la bomba se puede agarra y lanzar a otra dirección, aunque hay que protegerse las manos con un paño húmedo grueso o guantes de protección, ya que la bomba se calienta hasta alcanzar altas temperaturas, además, hay que considerar que, quien la tome se verá rodeado de gas momentáneamente._
 
 ## Linterna estroboscópica
 
