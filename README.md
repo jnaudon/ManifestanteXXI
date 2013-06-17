@@ -76,6 +76,7 @@ Lo mismo podemos hacer los manifestantes, organizándonos con **herramientas sim
 
 * [Gibberbot](https://guardianproject.info/apps/gibber/) chatea de modo [criptográfico](http://wiki.partidopirata.com.ar/Gibberbot_con_OTR) y seguro en bounjour, jabber, facebook, googletalk, etc.
 * [CsipSimple](https://code.google.com/p/csipsimple/) telefonía por internet con criptografía, podes crear un cuenta local para la red libre y una cuenta en [ekiga.org](https://www.ekiga.net/?page=register) para acceso desde internet.
+* [Ostel](https://ostel.co/) Llamadas con criptografía.
 * [ObscuraCam](https://guardianproject.info/apps/obscuracam/) protege a los manifestantes borrando sus caras y quita los datos de GPS y modelo de celular cuando compartís sus fotos internet.
 * [Umap](http://umap.openstreetmap.org.ar) mapas para coordinarse en las calles.
 
@@ -178,6 +179,7 @@ Algunas experiencias relacionadas.
 * Mapa con el [movimientos de la Policía en Estambul](http://www.microsiervos.com/archivo/tecnologia/manifestantes-turquia-controlar-policia.html), como los manifestantes turcos vigilan a la policía.
 * Los manifestantes españoles tiene un [helicoptero](https://www.youtube.com/watch?v=h-oO8I5vR5s) para ver lo que hace la policía.
 * [Prism Break](http://prism-break.org/) - Lucha contra la NSA.
+* [Tutoriales](https://guardianproject.info/apps/tutorials/) de software libre para Android. (en ingles)
 
 # Licencia
 
