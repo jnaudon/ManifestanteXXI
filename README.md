@@ -6,7 +6,7 @@
 
 
 > * Casco y protección para la bici para protegerse de la represión
-> * Pañuelo en la cara o pasa montaña: contra el [gas lacrimógeno](#gas-lacrimógeno) y el [reconocimiento facial](#reconocimiento-facial)
+> * Pañuelo en la cara, pasamontaña o [mascara](#mascara): contra el [gas lacrimógeno](#gas-lacrimógeno) y el [reconocimiento facial](#reconocimiento-facial)
 > * Guante de cuero curtido, para sostener las bombas de gas lacrimógeno
 > * Ropa de la [gratisferia](textos/Gratiferia.md) para que no te identifiquen con ella y taparte la cara
 > * [Edison Carter](#edison-carter): cámara grabando y transmitiendo en vivo
@@ -93,15 +93,21 @@ Muchos dispositivos con Android no son celulares, así que no tienen acceso a in
 * [Barnacle Wifi Tether](https://f-droid.org/repository/browse/?fdfilter=Barnacle%20Wifi%20Tether&fdid=net.szym.barnacle) arma tu propia red libre en malla con Android.
 * [Share via HTTP](https://f-droid.org/repository/browse/?fdfilter=share%20via%20http&fdid=com.MarcosDiez.shareviahttp) comparte archivos en la red.
 
-## Gas lacrimógeno
+## Neutralizante
+
+![neutralizante](planos/lacrimogeno_neutralizante.png)
+> Prepare un neutralizador en un roseador con agua potable con 5% de bicarbonato de sodio.
+> El roseador no tiene que ser mayor que 500cm3 (medio litro) por que se vuelve pesado, dificil de manejar o llevar colgado.
+
+### ¿Que podemos hacer?
 
 En una situación de verse afectado de forma real o potencial por este tipo de armas, es necesario conocer las medidas utilizadas para mantener el control de la situación.
 
-![neutralizante](planos/lacrimogeno_neutralizante.png)
-> **Neutralizante:** Prepare un neutralizador en un roseador con agua potable con 5% de bicarbonato de sodio.
-> El roseador no tiene que ser mayor que 500cm3 (medio litro) por que se vuelve pesado, dificil de manejar o llevar colgado.
+- Rosearse neutralizante en ojos y boca, sin frotar.
+- Antes de que el gas se aproxime, protegerse la nariz y la boca con un trapo empapado de vinagre, neutralizante o jugo de limón.
+- No llevar lentes de contacto o usar protección.
 
-### Mascara
+## Mascara
 
 ![mascara de contra gras lacrimogeno](planos/mascara.png)
 
@@ -112,10 +118,8 @@ En una situación de verse afectado de forma real o potencial por este tipo de a
 ### ¿Que podemos hacer?
 
 - Evitar que el gas alcance los ojos, para ello se pueden llevar preparadas gafas de buceo o en todo caso cerrarlos y llevarlos hacia el suelo, ya que el gas se disipa hacia arriba.
-- Rosearse neutralizante en ojos y boca, sin frotar.
-- Antes de que el gas se aproxime, protegerse la nariz y la boca con un trapo empapado de vinagre, neutralizante o jugo de limón.
 - Generalmente, la bomba se puede agarra y lanzar a otra dirección, aunque hay que protegerse las manos con un paño húmedo grueso o guantes de protección, ya que la bomba se calienta hasta alcanzar altas temperaturas, además, hay que considerar que, quien la tome se verá rodeado de gas momentáneamente.
-- No llevar lentes de contacto o usar protección.
+
 
 ## Linterna estroboscópica
 
