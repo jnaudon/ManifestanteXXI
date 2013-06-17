@@ -13,7 +13,7 @@
 > * Botella con vinagre o jugo de limón: para protegerse del [gas lacrimógeno](#gas-lacrimgeno)
 > * [Mochila con router WIFI](#mochila-wifi) para mejorar el acceso a la red
 > * Antenas para transmitir con mayor potencia
-> * [Linterna estroboscópico](#linterna-estroboscopica) para calmar a las fieras
+> * [Linterna estroboscópica](#linterna-estroboscopica) para calmar a las fieras
 > * Protección para [identificaciones con RFID](#proteccin-para-documentos-con-rfid)
 
 ## Reconocimiento facial
