@@ -97,10 +97,8 @@ Muchos dispositivos con Android no son celulares, así que no tienen acceso a in
 
 En una situación de verse afectado de forma real o potencial por este tipo de armas, es necesario conocer las medidas utilizadas para mantener el control de la situación.
 
-### Neutralizante
-
 ![neutralizante](planos/lacrimogeno_neutralizante.png)
-> Prepare un neutralizador en un roseador con agua potable con 5% de bicarbonato de sodio.
+> **Neutralizante:** Prepare un neutralizador en un roseador con agua potable con 5% de bicarbonato de sodio.
 > El roseador no tiene que ser mayor que 500cm3 (medio litro) por que se vuelve pesado, dificil de manejar o llevar colgado.
 
 ### Mascara
@@ -110,8 +108,6 @@ En una situación de verse afectado de forma real o potencial por este tipo de a
 > Corte la botella de 2 litros con la forma de su rostro y colocar los elásticos de manera que la botella quede firme.
 > Colocar cinta aisladora, en los bordes, de modo de evitar que entre gas en la máscara, sino puede lastimar los ojos.
 > Encastre en la base la máscara facial, la alternativa es colocar un barbijo o trapo humedecido con vinagre, jugo de limón o neutralizante 
-
-trapo humedecido en vinagre.
 
 ### ¿Que podemos hacer?
 
@@ -126,12 +122,12 @@ trapo humedecido en vinagre.
 Estas luces se usa para control mental, inducir al sueño o poner en estado de trance en las velocidades adecuadas producen estado de calma, somnolencia o la sensación de falta de tiempo. 
 En las frecuencias entre _5hz_ a _7hz_ produce un estado de calma, eso es lo que intenta generar el este circuito. Podemos modificar una linterna que use entre 5v a 12v con este circuito, y reutilizar su lamparas LED y baterías.
 
-**Nota:** Si usas una mascara anti-gaslacrimogeno de color verde podes poner un filtro a la lampara para que no te afecte.
-
 ![circuito](planos/555_Estroboscopica.png)
 
 > Uno o más LED, circuito integrado 555, resistencias de 47k, 82k y 1k, capacitor electrolítico 1mf, capacitor cerámico 1mf, pilas.
 > _Estos componentes se pueden comprar en cualquier casa de electrónica_
+
+_**Nota:** Si usas una mascara anti-gaslacrimogeno de color verde podes poner un filtro a la lampara para que no te afecte._
 
 Además podes mejorar el efecto con sonidos binaural amplificado con un megáfono o amplificador. Se puede reproducirlo "debajo" de música o cuando alguien habla en los posible este sonido tiene que ser escuchado inconscientemente.
 Hay un generador para Android llamado [binauralbeat](https://f-droid.org/repository/browse/?fdfilter=binaural&fdid=com.ihunda.android.binauralbeat).
