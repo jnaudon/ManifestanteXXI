@@ -1,4 +1,3 @@
-# Póster
 
 ![Póster](poster/poster_revolucionario_de_accion_chico.png)
 
@@ -17,7 +16,7 @@
 > * [Linterna estroboscópica](#linterna-estroboscopica) para calmar a las fieras
 > * Protección para [identificaciones con RFID](#proteccin-para-documentos-con-rfid)
 
-## Reconocimiento facial
+# Reconocimiento facial
 
 En el 2011 Cristina Fernández de Kirchner emitió un Decreto ordenando la creación del Sistema Federal de Identificación Biométrica ([SIBIOS](textos/SIBIOS.md)), un servicio de identificación biométrica centralizado, con cobertura nacional, que permitirá a las agencias de seguridad hacer "referencias cruzadas" de información con datos biométricos, con la posibilidad de vincular el sistema de registro facial obtenido a través de las cámaras de vigilancia en la vía pública con las imágenes obtenidas a través de sistema SIBIOS.
 
@@ -25,22 +24,14 @@ El reconocimiento de rostros es cada más simple y barato, por ejemplo en la Ciu
 
 En Android podemos usar el programas [ObscuraCam](https://guardianproject.info/apps/obscuracam/) que oculta las caras de forma automática.
 
-### ¿Que podemos hacer?
+## ¿Que podemos hacer?
 
 * Bloquear o deshabilitar las cámaras de seguridad
 * No etiquetar fotos en redes sociales
 * Solo compartir fotos de manifestaciones con rostro borrados
 * Borrar datos de localización y metadatos de las fotos. 
 
-### Mascara
-
-![mascara de contra gras lacrimogeno](planos/mascara.png)
-
-> Corte la **botella de 2 litros** con la forma de su rostro y colocar los **elásticos** de manera que la botella quede firme.
-> Colocar **cinta aisladora**, en los bordes, de modo de evitar que entre gas en la máscara, sino puede lastimar los ojos.
-> Encastre en la base la máscara facial, la alternativa es colocar un barbijo o trapo humedecido con vinagre, jugo de limón o **neutralizante** 
-
-## Protección para documentos con RFID
+# Protección para documentos con RFID
 
 Los sistemas [SUBE](textos/SUBE.md), [AFA plus](textos/AFA.md) y los nuevos DNI dan la posibilidad identificar a personas a distancia. La tarjeta SUBE genera un registro de todos los viajes que realiza, violando el derecho a la privacidad, y los guarda en una base de datos controlada por la Secretaría de Transporte. En algunos países ya se a usado este sistema para identificar manifestantes, ya que los lectores de RFID pueden ser leídos a la distancia, como puede verse en el documental "[La Police Totale](http://websuterfuge.free.fr/rfid.html)"
 
@@ -48,14 +39,14 @@ Los sistemas [SUBE](textos/SUBE.md), [AFA plus](textos/AFA.md) y los nuevos DNI 
 
 > Estuche **anti-RFID**, armado con un tetra pak, bloquea las ondas de radio así no es detectable a larga distancia. En el caso de la tarjeta SUBE para utilizarla hay que sacarla de su estuche. 
 
-### ¿Que podemos hacer?
+## ¿Que podemos hacer?
 
 * No usarlos
 * No renovar el DNI
 * Intercambiar tarjetas SUBE
 * Usar el estuche
 
-## [ManifestDroid](apk/)
+# [ManifestDroid](apk/)
 
 Tanto en las computadoras como los dispositivos portátiles (celulares, pad, tablet, etc) estamos muy mal acostumbrados a comunicarnos de modo inseguro, conectándonos a cualquier red disponible, comunicarnos y navegar sin criptografía, pudiendo cualquier persona cercana a nosotros interceptar lo que estamos haciendo, y además la compañía de celular o internet pueden hacerlo todo el tiempo.
 
@@ -77,7 +68,7 @@ Los **filtros** más simple que podemos usar son los de publicidad como [Adblock
 
 Hay que tener en cuenta que cuantos más seamos usando estos recursos (cifrado, proxys, túneles, etc) **todo el tiempo**, no solo para hacktivismos, **más seguro** se tornan, por que generamos tráfico cifrado todo el tiempo y más complicado se vuelve encontrar los grupos de activistas.
 
-### Comunicación segura y coordinación
+## Comunicación segura y coordinación
 
 Una de las grandes ventajas de los policías en una manifestación, es que se encuentran organizados, pueden comunicarse en tiempo real, modificar sus movimientos y planificar en base a lo ocurrido. Para esto cuentan con un grupo dedicado a esta función que esta fuera y dentro de la acción.
 
@@ -94,12 +85,22 @@ Es recomendable **no usar** la red telefónica convencional, pero en caso de nec
 * [RedPhone](http://www.whispersystems.org/) Llamadas con criptografía sobre telefonía móvil.
 * [TextSecure](http://www.whispersystems.org/) SMS con criptografía.
 
-#### Red libre con Android
+### Red libre con Android
 
 Muchos dispositivos con Android no son celulares, así que no tienen acceso a internet permanente y en el caso de los celulares internet puede ser interrumpida, limitada o bloqueada, por eso es preferible armar nuestra propia red así podremos chatear con Bounjour, compartir archivos y conectarnos con diversos equipos. Además muchos dispositivos permite compartir internet dentro de la misma red libre usando el 3G.
 
 * [Barnacle Wifi Tether](https://f-droid.org/repository/browse/?fdfilter=Barnacle%20Wifi%20Tether&fdid=net.szym.barnacle) arma tu propia red libre en malla con Android.
 * [Share via HTTP](https://f-droid.org/repository/browse/?fdfilter=share%20via%20http&fdid=com.MarcosDiez.shareviahttp) comparte archivos en la red.
+
+# Gas lacrimógeno
+
+## Mascara
+
+![mascara de contra gras lacrimogeno](planos/mascara.png)
+
+> Corte la **botella de 2 litros** con la forma de su rostro y colocar los **elásticos** de manera que la botella quede firme.
+> Colocar **cinta aisladora**, en los bordes, de modo de evitar que entre gas en la máscara, sino puede lastimar los ojos.
+> Encastre en la base la máscara facial, la alternativa es colocar un barbijo o trapo humedecido con vinagre, jugo de limón o **neutralizante** 
 
 ## Guante de cuero curtido
 
@@ -120,7 +121,7 @@ Generalmente, la bomba se puede agarra y lanzar a otra dirección, aunque hay qu
 - No llevar lentes de contacto o [usar protección](#mascara).
 - Evitar que el gas alcance los ojos, para ello se pueden llevar preparadas gafas de buceo, una [mascara](#mascara) o en todo caso cerrarlos y llevarlos hacia el suelo, ya que el gas se disipa hacia arriba.
 
-## Linterna estroboscópica
+# Linterna estroboscópica
 
 Estas luces se usa para control mental, inducir al sueño o poner en estado de trance en las velocidades adecuadas producen estado de calma, somnolencia o la sensación de falta de tiempo. 
 En las frecuencias entre _5hz_ a _7hz_ produce un estado de calma, eso es lo que intenta generar el este circuito. Podemos modificar una linterna que use entre 5v a 12v con este circuito, y reutilizar su lamparas LED y baterías.
