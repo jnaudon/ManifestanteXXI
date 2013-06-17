@@ -107,14 +107,11 @@ En una situación de verse afectado de forma real o potencial por este tipo de a
 
 ![mascara de contra gras lacrimogeno](planos/mascara.png)
 
-> Botella PET de 2 litros.
-> Elástico
-> Cinta aisladora.
-> Barbijo o trapo humedecido con vinagre, jugo de limón o neutralizante 
+> Corte la botella de 2 litros con la forma de su rostro y colocar los elásticos de manera que la botella quede firme.
+> Colocar cinta aisladora, en los bordes, de modo de evitar que entre gas en la máscara, sino puede lastimar los ojos.
+> Encastre en la base la máscara facial, la alternativa es colocar un barbijo o trapo humedecido con vinagre, jugo de limón o neutralizante 
 
-Corte la botella con la forma de su rostro y colocar los elásticos de manera que la botella quede firme.
-Colocar cinta aisladora, en los bordes, de modo de evitar que entre gas en la máscara, sino puede lastimar los ojos.
-Encastre en la base la máscara facial, la alternativa es colocar un trapo humedecido en vinagre.
+trapo humedecido en vinagre.
 
 ### ¿Que podemos hacer?
 
