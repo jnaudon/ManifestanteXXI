@@ -2,7 +2,8 @@
 
 ![Póster](poster/poster_revolucionario_de_accion_chico.png)
 
-[Descargar versión para imprimir](archive/master.zip)
+[Descargar versión para imprimir](https://github.com/b4zz4/ManifestanteXXI/archive/master.zip)
+
 
 > * Casco y protección para la bici para protegerse de la represión
 > * Pañuelo en la cara o pasa montaña: contra el [gas lacrimógeno](#gas-lacrimógeno) y el [reconocimiento facial](#reconocimiento-facial)
@@ -104,7 +105,7 @@ En una situación de verse afectado de forma real o potencial por este tipo de a
 
 ### Mascara
 
-![Materiales](img/mascara/1.png) ![terminada y puesta](img/mascara/6.png)
+![mascara de contra gras lacrimogeno](planos/mascara.png)
 
 > * Botella PET de 2 litros.
 > * Máscara facial, trapo humedecido con vinagre, jugo de limón o neutralizante.
@@ -112,13 +113,7 @@ En una situación de verse afectado de forma real o potencial por este tipo de a
 > * Cinta aisladora.
 
 Tiene que estar bien aislado para evitar que entre gas en la máscara, sino puede lastimar los ojos.
-
-![Cortar la botella](img/mascara/2.png) ![Encintar](img/mascara/3.png)
-
 Corte la botella con la forma de su rostro. Aisle los bordes con cinta aisladora.
-
-![Poner el filtro](img/mascara/4.png) ![terminada](img/mascara/5.png)
-
 Coloque los elásticos de manera que la botella quede firme en el rostro.
 Encastre en la base la máscara facial, la alternativa es colocar un trapo humedecido en vinagre.
 
@@ -185,7 +180,7 @@ Algunas experiencias relacionadas.
 * Experiencias de los [movimientos anti-globalizadores](https://es.wikipedia.org/wiki/Contracumbre_del_G8_en_G%C3%A9nova) en 2001 como el "Tute Bianchi"
 * Mapa con el [movimientos de la Policía en Estambul](http://www.microsiervos.com/archivo/tecnologia/manifestantes-turquia-controlar-policia.html), como los manifestantes turcos vigilan a la policía.
 * Los manifestantes españoles tiene un [helicoptero](https://www.youtube.com/watch?v=h-oO8I5vR5s) para ver lo que hace la policía.
-* [Prism Break](http://prism-break.org/)
+* [Prism Break](http://prism-break.org/) - Lucha contra la NSA.
 
 # Licencia
 
