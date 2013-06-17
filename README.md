@@ -100,7 +100,7 @@ Muchos dispositivos con Android no son celulares, así que no tienen acceso a in
 
 > Corte la **botella de 2 litros** con la forma de su rostro y colocar los **elásticos** de manera que la botella quede firme.
 > Colocar **cinta aisladora**, en los bordes, de modo de evitar que entre gas en la máscara, sino puede lastimar los ojos.
-> Encastre en la base la máscara facial, la alternativa es colocar un barbijo o trapo humedecido con vinagre, jugo de limón o **neutralizante** 
+> Encastre en la base **un barbijo** o trapo humedecido con vinagre, jugo de limón o **neutralizante** 
 
 ## Guante de cuero curtido
 
@@ -118,6 +118,7 @@ Generalmente, la bomba se puede agarra y lanzar a otra dirección, aunque hay qu
 
 - Rosearse neutralizante en ojos y boca, sin frotar.
 - Protegerse la nariz y la boca con un trapo empapado de vinagre, neutralizante o jugo de limón.
+- Poner un pedazo de limón en la boca.
 - No llevar lentes de contacto o [usar protección](#mascara).
 - Evitar que el gas alcance los ojos, para ello se pueden llevar preparadas gafas de buceo, una [mascara](#mascara) o en todo caso cerrarlos y llevarlos hacia el suelo, ya que el gas se disipa hacia arriba.
 
