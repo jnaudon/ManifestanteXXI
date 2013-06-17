@@ -7,7 +7,7 @@
 
 > * Casco y protección para la bici para protegerse de la represión
 > * Pañuelo en la cara, pasamontaña o [mascara](#mascara): contra el gas lacrimógeno y el [reconocimiento facial](#reconocimiento-facial)
-> * Guante de cuero curtido, para sostener las bombas de gas lacrimógeno
+> * [Guante de cuero curtido](#guante-de-cuero-curtido), para sostener las bombas de gas lacrimógeno
 > * Ropa de la [gratisferia](textos/Gratiferia.md) para que no te identifiquen con ella y taparte la cara
 > * [Edison Carter](#edison-carter): cámara grabando y transmitiendo en vivo
 > * Teléfono con [ManifestDroid](#manifestdroid): comunicación criptográfica (SMS, llamadas, chat, etc), publicar fotos sin exponer a los manifestantes, etc.
@@ -31,6 +31,14 @@ En Android podemos usar el programas [ObscuraCam](https://guardianproject.info/a
 * No etiquetar fotos en redes sociales
 * Solo compartir fotos de manifestaciones con rostro borrados
 * Borrar datos de localización y metadatos de las fotos. 
+
+### Mascara
+
+![mascara de contra gras lacrimogeno](planos/mascara.png)
+
+> Corte la **botella de 2 litros** con la forma de su rostro y colocar los **elásticos** de manera que la botella quede firme.
+> Colocar **cinta aisladora**, en los bordes, de modo de evitar que entre gas en la máscara, sino puede lastimar los ojos.
+> Encastre en la base la máscara facial, la alternativa es colocar un barbijo o trapo humedecido con vinagre, jugo de limón o **neutralizante** 
 
 ## Protección para documentos con RFID
 
@@ -93,13 +101,17 @@ Muchos dispositivos con Android no son celulares, así que no tienen acceso a in
 * [Barnacle Wifi Tether](https://f-droid.org/repository/browse/?fdfilter=Barnacle%20Wifi%20Tether&fdid=net.szym.barnacle) arma tu propia red libre en malla con Android.
 * [Share via HTTP](https://f-droid.org/repository/browse/?fdfilter=share%20via%20http&fdid=com.MarcosDiez.shareviahttp) comparte archivos en la red.
 
+## Guante de cuero curtido
+
+En una situación de verse afectado de forma real o potencial por este tipo de armas, es necesario conocer las medidas utilizadas para mantener el control de la situación.
+
+Generalmente, la bomba se puede agarra y lanzar a otra dirección, aunque hay que protegerse las manos con un paño húmedo grueso o guantes de protección, ya que la bomba se calienta hasta alcanzar altas temperaturas, además, hay que considerar que, quien la tome se verá rodeado de gas momentáneamente.
+
 ## Neutralizante
 
 ![neutralizante](planos/lacrimogeno_neutralizante.png)
 > Prepare un neutralizador en **un roseador** con agua potable con 5% de **bicarbonato de sodio**.
 > El roseador no tiene que ser mayor que 500cm3 (medio litro) por que se vuelve pesado, difícil de manejar o llevar colgado.
-
-En una situación de verse afectado de forma real o potencial por este tipo de armas, es necesario conocer las medidas utilizadas para mantener el control de la situación.
 
 ### ¿Que podemos hacer?
 
@@ -107,16 +119,6 @@ En una situación de verse afectado de forma real o potencial por este tipo de a
 - Protegerse la nariz y la boca con un trapo empapado de vinagre, neutralizante o jugo de limón.
 - No llevar lentes de contacto o [usar protección](#mascara).
 - Evitar que el gas alcance los ojos, para ello se pueden llevar preparadas gafas de buceo, una [mascara](#mascara) o en todo caso cerrarlos y llevarlos hacia el suelo, ya que el gas se disipa hacia arriba.
-
-## Mascara
-
-![mascara de contra gras lacrimogeno](planos/mascara.png)
-
-> Corte la **botella de 2 litros** con la forma de su rostro y colocar los **elásticos** de manera que la botella quede firme.
-> Colocar **cinta aisladora**, en los bordes, de modo de evitar que entre gas en la máscara, sino puede lastimar los ojos.
-> Encastre en la base la máscara facial, la alternativa es colocar un barbijo o trapo humedecido con vinagre, jugo de limón o **neutralizante** 
-
-_Generalmente, la bomba se puede agarra y lanzar a otra dirección, aunque hay que protegerse las manos con un paño húmedo grueso o guantes de protección, ya que la bomba se calienta hasta alcanzar altas temperaturas, además, hay que considerar que, quien la tome se verá rodeado de gas momentáneamente._
 
 ## Linterna estroboscópica
 
