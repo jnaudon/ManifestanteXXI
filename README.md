@@ -95,6 +95,8 @@ Muchos dispositivos con Android no son celulares, así que no tienen acceso a in
 
 # Gas lacrimógeno
 
+En una situación de verse afectado de forma real o potencial por este tipo de armas, es necesario conocer las medidas utilizadas para mantener el control de la situación.
+
 ## Mascara
 
 ![mascara de contra gras lacrimogeno](planos/mascara.png)
@@ -104,8 +106,6 @@ Muchos dispositivos con Android no son celulares, así que no tienen acceso a in
 > Encastre en la base **un barbijo** o trapo humedecido con vinagre, jugo de limón o **neutralizante** 
 
 ## Guante de cuero curtido
-
-En una situación de verse afectado de forma real o potencial por este tipo de armas, es necesario conocer las medidas utilizadas para mantener el control de la situación.
 
 Generalmente, la bomba se puede agarra y lanzar a otra dirección, aunque hay que protegerse las manos con un paño húmedo grueso o guantes de protección, ya que la bomba se calienta hasta alcanzar altas temperaturas, además, hay que considerar que, quien la tome se verá rodeado de gas momentáneamente.
 
