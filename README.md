@@ -48,9 +48,9 @@ Los sistemas [SUBE](textos/SUBE.md), [AFA plus](textos/AFA.md) y los nuevos DNI 
 
 # [ManifestDroid](apk/)
 
-Tanto en las computadoras como los dispositivos portátiles (celulares, pad, tablet, etc) estamos muy mal acostumbrados a comunicarnos de modo inseguro, conectándonos a cualquier red disponible, comunicarnos y navegar sin criptografía, pudiendo cualquier persona cercana a nosotros interceptar lo que estamos haciendo, y además la compañía de celular o internet pueden hacerlo todo el tiempo.
+Tanto en las computadoras como los dispositivos portátiles (celulares, pad, tablet, etc) estamos muy mal acostumbrados a comunicarnos de modo inseguro, conectándonos a cualquier red disponible, comunicarnos y navegar sin criptografía, pudiendo cualquier persona cercana a nosotros interceptar lo que estamos haciendo, además de la compañía de celular o internet pueden hacerlo todo el tiempo.
 
-Para solucionar este problema se pueden usar varias tecnologías de criptografía, tuneles, filtros y proxys en particular para dispositivos que usan Android solamente usando [software libre](https://www.gnu.org/philosophy/free-sw.es.html) fáciles de instalar y usar.
+Para solucionar este problema se pueden usar varias tecnologías de criptografía, tuneles, filtros y proxys en particular para dispositivos que usan **Android** solamente usando [software libre](https://www.gnu.org/philosophy/free-sw.es.html) fáciles de instalar y usar.
 
 La **criptografía** es como si inventáramos nuestro propio idioma para hablar con una persona, aun así para nosotros sigue siendo totalmente legible.
 Esto sirve para que nadie pueda interceptar la conversación.
@@ -95,19 +95,18 @@ Muchos dispositivos con Android no son celulares, así que no tienen acceso a in
 
 # Gas lacrimógeno
 
-En una situación de verse afectado de forma real o potencial por este tipo de armas, es necesario conocer las medidas utilizadas para mantener el control de la situación.
+De verse afectado de forma real o potencial por este tipo de armas, es necesario conocer las medidas utilizadas para mantener el control de la situación.
 
 ## Mascara
 
 ![mascara de contra gras lacrimogeno](planos/mascara.png)
-
-> Corte la **botella de 2 litros** con la forma de su rostro y colocar los **elásticos** de manera que la botella quede firme.
+> Corte la **botella de 2 litros** con la forma de su rostro y colocar los **elásticos** de manera que la botella quede firme a la cabeza.
 > Colocar **cinta aisladora**, en los bordes, de modo de evitar que entre gas en la máscara, sino puede lastimar los ojos.
 > Encastre en la base **un barbijo** o trapo humedecido con vinagre, jugo de limón o **neutralizante** 
 
 ## Guante de cuero curtido
 
-Generalmente, la bomba se puede agarra y lanzar a otra dirección, aunque hay que protegerse las manos con un paño húmedo grueso o guantes de protección, ya que la bomba se calienta hasta alcanzar altas temperaturas, además, hay que considerar que, quien la tome se verá rodeado de gas momentáneamente.
+Generalmente, la "bomba" se puede agarra y lanzar a otra dirección, aunque hay que protegerse las manos con un **paño húmedo grueso** o **guantes** de protección, ya que la bomba se calienta hasta alcanzar altas temperaturas, además, hay que considerar que, quien la tome se verá rodeado de gas momentáneamente.
 
 ## Neutralizante
 
@@ -119,7 +118,7 @@ Generalmente, la bomba se puede agarra y lanzar a otra dirección, aunque hay qu
 
 - Rosearse neutralizante en ojos y boca, sin frotar.
 - Protegerse la nariz y la boca con un trapo empapado de vinagre, neutralizante o jugo de limón.
-- Poner un pedazo de limón en la boca.
+- Ponerse un pedazo de limón en la boca.
 - No llevar lentes de contacto o [usar protección](#mascara).
 - Evitar que el gas alcance los ojos, para ello se pueden llevar preparadas gafas de buceo, una [mascara](#mascara) o en todo caso cerrarlos y llevarlos hacia el suelo, ya que el gas se disipa hacia arriba.
 
@@ -133,10 +132,15 @@ En las frecuencias entre _5hz_ a _7hz_ produce un estado de calma, eso es lo que
 > Uno o más LED, circuito integrado 555, resistencias de 47k, 82k y 1k, capacitor electrolítico 1mf, capacitor cerámico 1mf, pilas.
 > _Estos componentes se pueden comprar en cualquier casa de electrónica_
 
-_**Nota:** Si usas una mascara anti-gaslacrimogeno de color verde podes poner un filtro a la lampara para que no te afecte._
+_**Nota:** Si usas una mascara anti gas lacrimogeno de color verde podes poner un filtro a la lampara para que no te afecte._
 
 Además podes mejorar el efecto con sonidos binaural amplificado con un megáfono o amplificador. Se puede reproducirlo "debajo" de música o cuando alguien habla en los posible este sonido tiene que ser escuchado inconscientemente.
 Hay un generador para Android llamado [binauralbeat](https://f-droid.org/repository/browse/?fdfilter=binaural&fdid=com.ihunda.android.binauralbeat).
+
+# Laser de alta potencia
+
+Estos se pueden usar para molestar a la vision de los policias. 
+Se pueden hacer laser de alta potencia con un viejo reproductor de CD-ROM
 
 # Mochila WIFI
 
@@ -177,8 +181,9 @@ Algunas experiencias relacionadas.
 
 * Experiencias de los [movimientos anti-globalizadores](https://es.wikipedia.org/wiki/Contracumbre_del_G8_en_G%C3%A9nova) en 2001 como el "Tute Bianchi"
 * Mapa con el [movimientos de la Policía en Estambul](http://www.microsiervos.com/archivo/tecnologia/manifestantes-turquia-controlar-policia.html), como los manifestantes turcos vigilan a la policía.
+* Los manifestantes hacen [huir a la policia](https://www.youtube.com/watch?v=H42UJIszoaQ) en Brasil
 * Los manifestantes españoles tiene un [helicoptero](https://www.youtube.com/watch?v=h-oO8I5vR5s) para ver lo que hace la policía.
-* [Prism Break](http://prism-break.org/) - Lucha contra la NSA.
+* [Prism Break](http://prism-break.org/#es) - Lucha contra la NSA.
 * [Tutoriales](https://guardianproject.info/apps/tutorials/) de software libre para Android. (en ingles)
 
 # Licencia
