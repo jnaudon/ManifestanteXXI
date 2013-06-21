@@ -31,3 +31,5 @@
  * responder
  * reenviar
  * agendar
+ * mail en cadena (CC)
+ * mail masivo oculto (CCO)
