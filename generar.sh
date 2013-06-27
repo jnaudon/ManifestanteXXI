@@ -5,6 +5,12 @@ pandoc -f markdown \
 	--standalone \
 	-t html5 \
 	README.md \
-	> index.html
+	-o index.html
+
+pandoc -f markdown \
+	README.md \
+	-c css/markdown.css \
+	-t epub \
+	-o ManifestanteDIY.epub
 
 #	--table-of-contents \
