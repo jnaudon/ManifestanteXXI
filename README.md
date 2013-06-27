@@ -3,7 +3,6 @@
 
 [Descargar versión para imprimir](https://github.com/b4zz4/ManifestanteXXI/archive/master.zip)
 
-
 > * Casco y protección para la bici para protegerse de la represión
 > * Pañuelo en la cara, pasamontaña o [mascara](#mascara): contra el gas lacrimógeno y el [reconocimiento facial](#reconocimiento-facial)
 > * [Guante de cuero curtido](#guante-de-cuero-curtido), para sostener las bombas de gas lacrimógeno
@@ -100,6 +99,7 @@ De verse afectado de forma real o potencial por este tipo de armas, es necesario
 ## Mascara
 
 ![mascara de contra gras lacrimogeno](planos/mascara.png)
+
 > Corte la **botella de 2 litros** con la forma de su rostro y colocar los **elásticos** de manera que la botella quede firme a la cabeza.
 > Colocar **cinta aisladora**, en los bordes, de modo de evitar que entre gas en la máscara, sino puede lastimar los ojos.
 > Encastre en la base **un barbijo** o trapo humedecido con vinagre, jugo de limón o **neutralizante** 
@@ -111,6 +111,7 @@ Generalmente, la "bomba" se puede agarra y lanzar a otra dirección, aunque hay 
 ## Neutralizante
 
 ![neutralizante](planos/lacrimogeno_neutralizante.png)
+
 > Prepare un neutralizador en **un roseador** con agua potable con 5% de **bicarbonato de sodio**.
 > El roseador no tiene que ser mayor que 500cm3 (medio litro) por que se vuelve pesado, difícil de manejar o llevar colgado.
 
@@ -156,6 +157,7 @@ _Por ahora falta la documentación, podes leer la experiencia del [Nodo de Guerr
 Cámara para transmitir lo que ocurren en el momento en vivo y en directo, a la vez sirve para grabar y publicar.
 
 ![cámara WIFI con el panel solar](img/media/PIC_0175.jpg)  ![cámara wifi con panel solar](img/media/PIC_0176.jpg)
+
 > Esta basada en un router WIFI, una webcam. Puede alimentarse con pilas, baterías y panel solar.
 
 Como esta pensada apra salir a la calle y transmitir del modo más economico, usa las redes disponibles, transmite en baja resolucion, en formatos muy simples (JPG, [MJPEG](https://es.wikipedia.org/wiki/MJPEG)), y siempre esta disponible en un portal cautivo. 
