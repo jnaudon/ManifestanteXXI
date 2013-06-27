@@ -1,7 +1,7 @@
 
 ![Póster](poster/poster_revolucionario_de_accion_chico.png)
 
-[Descargar versión para imprimir](https://github.com/b4zz4/ManifestanteXXI/archive/master.zip)
+[Descargar versión para imprimir](http://b4zz4.github.io/ManifestanteXXI/poster/poster.png)
 
 > * Casco y protección para la bici para protegerse de la represión
 > * Pañuelo en la cara, pasamontaña o [mascara](#mascara): contra el gas lacrimógeno y el [reconocimiento facial](#reconocimiento-facial)
