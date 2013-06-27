@@ -1,7 +1,10 @@
 #!/bin/bash
 
-cat README.md | pandoc -f markdown \
--c css/markdown.css \
---table-of-contents \
--t html5 \
-> index.html
+pandoc -f markdown \
+	-c css/markdown.css \
+	--standalone \
+	-t html5 \
+	README.md \
+	> index.html
+
+#	--table-of-contents \
