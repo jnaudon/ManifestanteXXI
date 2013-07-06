@@ -1,4 +1,3 @@
-
 ![Póster](poster/poster_revolucionario_de_accion_chico.png)
 
 [Descargar versión para imprimir](https://github.com/b4zz4/ManifestanteXXI/archive/master.zip)
@@ -195,10 +194,11 @@ Se permite el uso comercial de la obra y de las posibles obras derivadas, la dis
 
 # Quehaceres
 
-* Hacer vectores de la mascara anti-lacrimogeno
+* Agregar NSA++ (http://noscript.net/nsa/)
+* ~~Hacer vectores de la mascara anti-lacrimogeno~~
 * Hacer svg interactivo (1/2)
  * Traducir
-* Referencia a los italiano que se protegían de los policías
+* Referencia a los tutti bianchi que se protegían de los policías
 * Programa para tapar caras en HTML5
 * GNU/Manifest: GNU para manifestante
  * ManifestWRT: versión de OpenWRT para manifestante
