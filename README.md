@@ -184,6 +184,7 @@ Algunas experiencias relacionadas.
 * Los manifestantes españoles tiene un [helicoptero](https://www.youtube.com/watch?v=h-oO8I5vR5s) para ver lo que hace la policía.
 * [Prism Break](http://prism-break.org/#es) - Lucha contra la NSA.
 * [Tutoriales](https://guardianproject.info/apps/tutorials/) de software libre para Android. (en ingles)
+* [Ataque laser contra helicopteros](http://www.biobiochile.cl/2013/06/30/manifestantes-realizan-impresionante-ataque-laser-contra-helicoptero-militar-en-egipto.shtml)
 
 # Licencia
 
