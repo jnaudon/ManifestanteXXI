@@ -174,6 +174,7 @@ _En los intentos por ponerles batería incorporada, y contactarla al revéz, ter
 **Segundo experiencia** con una webcam Datavision no fue muy buena, la imagen tenia muchos problemas de calidad o tan solo aparecía en gris.
 Termino quemándose, seguramente, por el calor dentro del dispositivo.
 
+
 # Notas relacionadas
 
 Algunas experiencias relacionadas.
@@ -185,6 +186,49 @@ Algunas experiencias relacionadas.
 * [Prism Break](http://prism-break.org/#es) - Lucha contra la NSA.
 * [Tutoriales](https://guardianproject.info/apps/tutorials/) de software libre para Android. (en ingles)
 * [Ataque laser contra helicopteros](http://www.biobiochile.cl/2013/06/30/manifestantes-realizan-impresionante-ataque-laser-contra-helicoptero-militar-en-egipto.shtml)
+
+
+# Inteligencia DIY
+
+![poster de inteligencia]()
+
+> * Sistema operativo Tails pensado para manifestantes y activistas
+> * Ciboulette para anonimizar la red, usando tecnologia Tor y VPN usado como tunel para anonimizar la navegación
+> * Difusiòn con bots para redes sociales
+> * Icecast para transmitir videos y audio en vivo
+> * Chat publico en IRC y crytocat a travez de la red Tor
+> * Servidor hogareño hecho con viejas maquinas
+> * Umap para organizar la accion en la calles
+
+
+## Coordinación
+
+### Interna
+
+- Bounjour, LibreVPN.
+- IRC (Freenode), XMPP (Pidgin)
+
+### En las calles
+
+- Umap, Openstreetmap.
+
+### Externa
+
+- IRC (Freenode), XMPP (Cryptocat, Pidgin), Torchat
+
+## Anonimato
+
+- Tor, tails, VPN, proxys.
+
+## Difusión
+
+### Redes sociales
+
+- Difunsion, coordinacion de ataques a servidores, convocatoria.
+
+### Transmisiones en vivo
+
+- Icecast2 (version hackcoop), IDJC, oggfwd, ffmpeg, ffmpeg2theora
 
 # Licencia
 
