@@ -10,7 +10,7 @@ No nos habíamos dado cuenta de que después de liberar tanto estrés en las cal
 
 ## ¿Es realmente ignorancia?
 
-[No hablar, el enemigo os escucha](img/no_hablar_el_enemigo_os_escucha.png)
+![No hablar, el enemigo os escucha](img/no_hablar_el_enemigo_os_escucha.png)
 
 Hagamos un esbozo del problema. Al usar Facebook, los activistas no sólo comunican de forma transparente sus opiniones, sus "me gusta", etc., sino que las dejan disponibles para ser procesadas. No sólo eso (y esto lo consideramos mucho más importante), sino que exponen estructuras y personas que en sí tienen poco o nada que ver con Facebook. La capacidad de Facebook de barrer la web buscando relaciones, similitudes, etc. es difícil de comprender por la gente de a pie. Las luzes hipnotizantes de Facebook acaban haciéndonos reproducir estructuras políticas para las autoridades y las compañías. Toda esta información puede ser buscada, ordenada y agregada no sólo para obtener datos precisos sobre relaciones sociales, personas clave, etc., sino también para hacer predicciones de las cuales se pueden deducir regularidades. Después de los teléfonos móviles, Facebook es la más sutil, barata y mejor tecnología para la vigilancia.
 
