@@ -1,3 +1,5 @@
+![No hablar, el enemigo os escucha](img/no_hablar_el_enemigo_os_escucha.png)
+
 # [Tenemos que hablar de Facebook](http://nadir.org/txt/Tenemos_que_hablar_de_Facebook.html)
 
 Durante varios años, hemos estado proveyendo servidores e infraestructura de comunicación para la izquierda. Hemos hecho todo lo que estaba en nuestras manos para mantener los servidores seguros y hemos resistido, usando varios medios, a peticiones de datos de usuarios por parte de las autoridades.
@@ -11,8 +13,6 @@ No nos habíamos dado cuenta de que después de liberar tanto estrés en las cal
 ## ¿Es realmente ignorancia?
 
 Hagamos un esbozo del problema. Al usar Facebook, los activistas no sólo comunican de forma transparente sus opiniones, sus "me gusta", etc., sino que las dejan disponibles para ser procesadas. No sólo eso (y esto lo consideramos mucho más importante), sino que exponen estructuras y personas que en sí tienen poco o nada que ver con Facebook. La capacidad de Facebook de barrer la web buscando relaciones, similitudes, etc. es difícil de comprender por la gente de a pie. Las luzes hipnotizantes de Facebook acaban haciéndonos reproducir estructuras políticas para las autoridades y las compañías. Toda esta información puede ser buscada, ordenada y agregada no sólo para obtener datos precisos sobre relaciones sociales, personas clave, etc., sino también para hacer predicciones de las cuales se pueden deducir regularidades. Después de los teléfonos móviles, Facebook es la más sutil, barata y mejor tecnología para la vigilancia.
-
-![No hablar, el enemigo os escucha](img/no_hablar_el_enemigo_os_escucha.png)
 
 ## ¿Son los usuarios de Facebook informantes involuntarios?
 
