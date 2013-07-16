@@ -1,5 +1,3 @@
-![No hablar, el enemigo os escucha](img/no_hablar_el_enemigo_os_escucha.png)
-
 # [Tenemos que hablar de Facebook](http://nadir.org/txt/Tenemos_que_hablar_de_Facebook.html)
 
 Durante varios años, hemos estado proveyendo servidores e infraestructura de comunicación para la izquierda. Hemos hecho todo lo que estaba en nuestras manos para mantener los servidores seguros y hemos resistido, usando varios medios, a peticiones de datos de usuarios por parte de las autoridades.
