@@ -29,5 +29,4 @@ Pon nerviosos a tus compañeros. ¡Déjales claro que alimentando a Facebook han
 * Actúa en contra del monstruo de los datos
 * Por la neutralidad de la red
 
-> ¡Larga vida a la descentralización!
-> ¡Libertad para Bradley Manning!
+**¡Larga vida a la descentralización!, ¡Libertad para Bradley Manning!**
