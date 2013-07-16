@@ -10,13 +10,13 @@ No nos habíamos dado cuenta de que después de liberar tanto estrés en las cal
 
 ## ¿Es realmente ignorancia?
 
+[No hablar, el enemigo os escucha](img/no_hablar_el_enemigo_os_escucha.png)
+
 Hagamos un esbozo del problema. Al usar Facebook, los activistas no sólo comunican de forma transparente sus opiniones, sus "me gusta", etc., sino que las dejan disponibles para ser procesadas. No sólo eso (y esto lo consideramos mucho más importante), sino que exponen estructuras y personas que en sí tienen poco o nada que ver con Facebook. La capacidad de Facebook de barrer la web buscando relaciones, similitudes, etc. es difícil de comprender por la gente de a pie. Las luzes hipnotizantes de Facebook acaban haciéndonos reproducir estructuras políticas para las autoridades y las compañías. Toda esta información puede ser buscada, ordenada y agregada no sólo para obtener datos precisos sobre relaciones sociales, personas clave, etc., sino también para hacer predicciones de las cuales se pueden deducir regularidades. Después de los teléfonos móviles, Facebook es la más sutil, barata y mejor tecnología para la vigilancia.
 
 ## ¿Son los usuarios de Facebook informantes involuntarios?
 
 Siempre hemos pensado que la izquierda quiere otra cosa: continuar nuestras luchas en internet y utilizar internet para nuestras luchas políticas. De eso se trata para todos nosotros (incluso ahora). Por eso vemos a los usuarios de Facebook como un verdadero peligro para nuestras luchas. En particular, activistas que publican información importante en Facebook (con frecuencia sin saber lo que eso implica), que luego es utilizada cada vez más por las agencias que se dedican a hacer cumplir la ley. Casi podríamos ir más allá y acusar a estos activistas de colaboradores. Pero aun no hemos llegado a ese punto. Todavía tenemos la esperanza de que la gente se de cuenta de que Facebook es un enemigo político y de que aquellos que usan Facebook la hacen más y más poderosa. Los usuarios activistas de Facebook alimentan a la máquina y de este modo revelan nuestras estructuras (sin ninguna necesidad, sin ninguna orden judicial, sin presión alguna).
-
-[No hablar, el enemigo os escucha](img/no_hablar_el_enemigo_os_escucha.png)
 
 ## Nuestro punto de vista
 
