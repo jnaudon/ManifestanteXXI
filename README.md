@@ -1,7 +1,7 @@
 ![Póster](poster/poster_revolucionario_de_accion_chico.png)
 
-[Descargar versión para imprimir](https://github.com/b4zz4/ManifestanteXXI/archive/master.zip)
-
+* [Descargar Poster para imprimir](http://b4zz4.github.io/ManifestanteXXI/poster/poster.png)
+* [Descargar EPUB](http://b4zz4.github.io/ManifestanteXXI/ManifestanteDIY.epub)
 
 > * Casco y protección para la bici para protegerse de la represión
 > * Pañuelo en la cara, pasamontaña o [mascara](#mascara): contra el gas lacrimógeno y el [reconocimiento facial](#reconocimiento-facial)
@@ -99,6 +99,7 @@ De verse afectado de forma real o potencial por este tipo de armas, es necesario
 ## Mascara
 
 ![mascara de contra gras lacrimogeno](planos/mascara.png)
+
 > Corte la **botella de 2 litros** con la forma de su rostro y colocar los **elásticos** de manera que la botella quede firme a la cabeza.
 > Colocar **cinta aisladora**, en los bordes, de modo de evitar que entre gas en la máscara, sino puede lastimar los ojos.
 > Encastre en la base **un barbijo** o trapo humedecido con vinagre, jugo de limón o **neutralizante** 
@@ -110,6 +111,7 @@ Generalmente, la "bomba" se puede agarra y lanzar a otra dirección, aunque hay 
 ## Neutralizante
 
 ![neutralizante](planos/lacrimogeno_neutralizante.png)
+
 > Prepare un neutralizador en **un roseador** con agua potable con 5% de **bicarbonato de sodio**.
 > El roseador no tiene que ser mayor que 500cm3 (medio litro) por que se vuelve pesado, difícil de manejar o llevar colgado.
 
@@ -155,6 +157,7 @@ _Por ahora falta la documentación, podes leer la experiencia del [Nodo de Guerr
 Cámara para transmitir lo que ocurren en el momento en vivo y en directo, a la vez sirve para grabar y publicar.
 
 ![cámara WIFI con el panel solar](img/media/PIC_0175.jpg)  ![cámara wifi con panel solar](img/media/PIC_0176.jpg)
+
 > Esta basada en un router WIFI, una webcam. Puede alimentarse con pilas, baterías y panel solar.
 
 Como esta pensada apra salir a la calle y transmitir del modo más economico, usa las redes disponibles, transmite en baja resolucion, en formatos muy simples (JPG, [MJPEG](https://es.wikipedia.org/wiki/MJPEG)), y siempre esta disponible en un portal cautivo. 
@@ -183,7 +186,7 @@ Algunas experiencias relacionadas.
 * Mapa con el [movimientos de la Policía en Estambul](http://www.microsiervos.com/archivo/tecnologia/manifestantes-turquia-controlar-policia.html), como los manifestantes turcos vigilan a la policía.
 * Los manifestantes hacen [huir a la policia](https://www.youtube.com/watch?v=H42UJIszoaQ) en Brasil
 * Los manifestantes españoles tiene un [helicoptero](https://www.youtube.com/watch?v=h-oO8I5vR5s) para ver lo que hace la policía.
-* [Prism Break](http://prism-break.org/#es) - Lucha contra la NSA.
+* [Prism Break](http://prism.hackcoop.com.ar/#es) - Lucha contra la NSA.
 * [Tutoriales](https://guardianproject.info/apps/tutorials/) de software libre para Android. (en ingles)
 * [Ataque laser contra helicopteros](http://www.biobiochile.cl/2013/06/30/manifestantes-realizan-impresionante-ataque-laser-contra-helicoptero-militar-en-egipto.shtml)
 
