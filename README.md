@@ -189,7 +189,7 @@ Algunas experiencias relacionadas.
 * [Prism Break](http://prism.hackcoop.com.ar/#es) - Lucha contra la NSA.
 * [Tutoriales](https://guardianproject.info/apps/tutorials/) de software libre para Android. (en ingles)
 * [Ataque laser contra helicopteros](http://www.biobiochile.cl/2013/06/30/manifestantes-realizan-impresionante-ataque-laser-contra-helicoptero-militar-en-egipto.shtml)
-
+* [MidiNinja](https://knightcenter.utexas.edu/es/blog/00-14203-midia-ninja-un-fenomeno-del-periodismo-alternativo-que-emergio-de-las-protestas-en-bra) colectivo que transmite usando 4G directamente desde las calles 
 
 # Inteligencia DIY
 
