@@ -194,7 +194,7 @@ Algunas experiencias relacionadas.
 
 > * Sistema operativo Tails pensado para manifestantes y activistas
 > * Ciboulette para anonimizar la red, usando tecnologia Tor y VPN usado como tunel para anonimizar la navegación
-> * Difusiòn con bots para redes sociales
+> * Difusión con bots para redes sociales
 > * Icecast para transmitir videos y audio en vivo
 > * Chat publico en IRC y crytocat a travez de la red Tor
 > * Servidor hogareño hecho con viejas maquinas
