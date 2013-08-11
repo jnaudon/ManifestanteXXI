@@ -48,9 +48,6 @@ sección **"Configuración" (Configuration)**, usar el botón **"Nuevo" (New)**
 
 ![Configuración del servidor](img/IDJC/configuracion.png "Configuración del servidor")
 
-![Quitar los metadatos](img/IDJC/metadatos.png "Qutar los metadatos")
-> Poner los metadatos en blanco, los reproductores todavia no soportan metadatos en **OGG**
-
 Luego corresponde configurar el formato de salida. Si la colección de temas se encuentra en diferentes formatos, IDJC lo convierte todo 
 al formato y calidad seleccionados. 
 
@@ -65,6 +62,9 @@ patentes](https://es.wikipedia.org/wiki/Vorbis#Historia).
 	
 **¡Importante!:** a menor calidad, mayor ancho de banda disponible. Si la conexión es lenta (3G por ejemplo) conviene bajar la calidad de 
 salida y de muestreo. 
+
+![Quitar los metadatos](img/IDJC/metadatos.png "Qutar los metadatos")
+> Poner los metadatos en blanco, los reproductores todavia no soportan metadatos en **OGG**
 
 ¡Para comenzar a transmitir presionar el botón **Conectar (Connect)**!
 
