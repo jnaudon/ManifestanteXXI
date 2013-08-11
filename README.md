@@ -223,11 +223,12 @@ Algunas experiencias relacionadas.
 
 ### Externa
 
-- IRC (Freenode), XMPP (Cryptocat, Pidgin), Torchat
+- IRC (Freenode), XMPP (Cryptocat, Pidgin), Torchat (?)
 
 ## Anonimato
 
 - Tor, tails, VPN, proxys.
+(unir con lo que se explica para android)
 
 ## Difusión
 
@@ -238,6 +239,17 @@ Algunas experiencias relacionadas.
 ### Transmisiones en vivo
 
 - Icecast2 (version hackcoop), IDJC, oggfwd, ffmpeg, ffmpeg2theora
+↑ no se si me paso de tecnico
+
+#### Juan Carlos Radio
+
+
+
+- Notebook
+  - Mint (USB y/o CDROM)
+     - IDJC
+     - http://giss.tv / http://icecast.org
+- Micrófono
 
 # Licencia
 
