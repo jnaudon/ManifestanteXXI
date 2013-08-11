@@ -66,7 +66,7 @@ patentes](https://es.wikipedia.org/wiki/Vorbis#Historia).
 **¡Importante!:** a menor calidad, mayor ancho de banda disponible. Si la conexión es lenta (3G por ejemplo) conviene bajar la calidad de 
 salida y de muestreo. 
 
-Para comenzar a transmitir presionar el botón **Conectar (Connect)**
+¡Para comenzar a transmitir presionar el botón **Conectar (Connect)**!
 
 ## Monitoreo del streaming
 
