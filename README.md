@@ -196,6 +196,7 @@ Algunas experiencias relacionadas.
 * [Tutoriales](https://guardianproject.info/apps/tutorials/) de software libre para Android. (en ingles)
 * [Ataque laser contra helicopteros](http://www.biobiochile.cl/2013/06/30/manifestantes-realizan-impresionante-ataque-laser-contra-helicoptero-militar-en-egipto.shtml)
 * [MidiNinja](https://knightcenter.utexas.edu/es/blog/00-14203-midia-ninja-un-fenomeno-del-periodismo-alternativo-que-emergio-de-las-protestas-en-bra) colectivo que transmite usando 4G directamente desde las calles 
+* [CamOver](http://noticias.lainformacion.com/mundo/camover-el-juego-que-pretende-acabar-a-golpes-con-todas-las-camaras-de-videovigilancia-de-berlin_8z9GyH5P4kGbnLAcjE1vC/) El juego para destruir las camaras de seguridad de Berlín.
 
 # Inteligencia DIY
 
@@ -204,11 +205,12 @@ Algunas experiencias relacionadas.
 > * Sistema operativo Tails pensado para manifestantes y activistas
 > * Ciboulette para anonimizar la red, usando tecnologia Tor y VPN usado como tunel para anonimizar la navegación
 > * Difusión con bots para redes sociales
-> * Icecast para transmitir videos y audio en vivo
+> * Icecast e IDJC para transmitir television y [radios](#transmisin-de-radio)
+> * [Feed2tv]() herramienta para crear canales de televisión de modo muy simple
 > * Chat publico en IRC y crytocat a travez de la red Tor
 > * Servidor hogareño hecho con viejas maquinas
 > * Umap para organizar la accion en la calles
-
+> * Festival o espeak para dar comunicados sin ser descubiertos.
 
 ## Coordinación
 
@@ -236,18 +238,11 @@ Algunas experiencias relacionadas.
 
 - Difunsion, coordinacion de ataques a servidores, convocatoria.
 
-### Transmisiones en vivo
-
-- Icecast2 (version hackcoop), IDJC, oggfwd, ffmpeg, ffmpeg2theora
-↑ no se si me paso de tecnico
-
-#### Juan Carlos Radio
-
-
+### [Transmisión de Radio]
 
 - Notebook
   - Mint (USB y/o CDROM)
-     - IDJC
+     - [IDJC](textos/IDJC.md)
      - http://giss.tv / http://icecast.org
 - Micrófono
 
