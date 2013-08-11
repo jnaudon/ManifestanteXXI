@@ -7,11 +7,11 @@
 
 Para configurar el servidor de streaming al que **IDJC** se conecta primero hay que conocer los siguientes datos:
 
-> **Servidor de streaming:** [http://giss.tv](http://giss.tv)\
-> **Número de puerto:** 8000\
-> **Punto de montaje (nombre de la radio):** /nuestraradio.ogg\
-> **Nombre de usuario:** nuestraradio\
-> **Contraseña:** hackeame
+>**Servidor de streaming:** [http://giss.tv](http://giss.tv) \
+>**Número de puerto:** 8000 \
+>**Punto de montaje (nombre de la radio):** /nuestraradio.ogg \
+>**Nombre de usuario:** nuestraradio \
+>**Contraseña:** hackeame
 
 La unión de servidor, puerto y punto de montaje dan la dirección de la radio:
 [http://giss.tv:8000/nuestraradio.ogg](http://giss.tv:8000/nuestraradio.ogg)
@@ -43,19 +43,19 @@ salida y de muestreo. Las palabras claves son **[ogg](Glosario.html#Ogg)**, **[b
 ![Configuración del servidor](IDJC/metadatos.png "Configuración del servidor")
 > Dejar los metadatos en blanco
 
+### Monitoreo del streaming
+
 Los círculos de color en cada solapa representan el estado de la conexión: 
 
 - **gris:** desconectado, 
 - **amarillo:** conectando, 
 - **verde:** conectado.
 
-En el encabezado de la ventana, seleccionar el grupo de salidas a las que conectarse (Group controls) y presionar el botón Conectar (Connect).
-Abrir preferencias (prefs) y poner reconexión automática y sin mostrar el cartel de dialogo.  
-
-### Monitoreo del streaming
-
-![Streaming conectado](IDJC/streams.png "Streaming conectado")
+En el encabezado de la ventana, seleccionar el grupo de salidas a las que **conectarse (Group controls)** y presionar el botón **Conectar (Connect)**.
+Abrir **preferencias (prefs)** y poner reconexión automática y sin mostrar el cartel de dialogo.  
 
 Mientras se realiza la transmisión es posible monitorear la calidad de la conexión y la cantidad de usuarios conectados en la ventana 
-principal de IDJC. Si la conexión está andando la barra se ve completamente verde. Si se mueve hacia el rojo significa que la conexión 
+principal de **IDJC**. Si la conexión está andando la barra se ve completamente verde. Si se mueve hacia el rojo significa que la conexión 
 es lenta y hay retraso.
+
+![Streaming conectado](IDJC/streams.png "Streaming conectado")
