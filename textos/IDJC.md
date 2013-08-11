@@ -2,8 +2,6 @@
 
 ## Instalación
 
-Abrir una consola y poner
-
 <pre>
 sudo apt-get update
 sudo apt-get install idjc
@@ -21,8 +19,8 @@ En esta pantalla se puede crea la secuencia musical que se utilizará en el prog
 Para agregar música arrastrar carpetas y/o archivos sobre alguna de las listas de reproduccion. 
 Haciendo doble click sobre una canción, ésta comenzará a reproducirse.
 
-**Stream** es el audio de lo que se transmite (al presionar los botones de dos estados “Stream” indicados en el punto anterior se activa o desactiva el audio que sale en la transmisión).
-**DJ** es otro canal de audio, que permite poder escuchar otra cosa mientras se transmite (al presionar los botones de dos estados “DJ” se activa o desactiva el audio que sale en el modo DJ). 
+- **Stream** es el audio de lo que se transmite (al presionar los botones de dos estados “Stream” indicados en el punto anterior se activa o desactiva el audio que sale en la transmisión).
+- **DJ** es otro canal de audio, que permite poder escuchar otra cosa mientras se transmite (al presionar los botones de dos estados “DJ” se activa o desactiva el audio que sale en el modo DJ). 
 
 ### Configurar la estación (Streaming)
 
@@ -39,11 +37,11 @@ Para configurar el servidor de streaming al que **IDJC** se conecta primero hay 
 La unión de servidor, puerto y punto de montaje dan la dirección de la radio: [http://giss.tv:8000/nuestraradio.ogg](http://giss.tv:8000/nuestraradio.ogg)
 
 Luego corresponde configurar el formato de salida.
-Poner los metadatos en blanco, los reproductores todavia no soportan metadatos en **OGG**.
-Si la colección de temas se encuentra en diferentes formatos, IDJC lo convierte todo al formato y calidad seleccionados.
+Poner los **metadatos (metadata)** en blanco, los reproductores todavía no soportan metadatos en **OGG**.
+Si la colección de temas se encuentra en diferentes formatos, **IDJC** lo convierte todo al formato y calidad seleccionados.
 
-**¡Importante!:** a menor calidad, mayor ancho de banda disponible. Si la conexión es lenta (**3G** por ejemplo) conviene bajar la calidad de 
-salida y de muestreo. 
+**¡Importante!:** a menor calidad, mayor ancho de banda disponible. Si la conexión es lenta ( **3G** por ejemplo) conviene bajar la calidad de 
+salida y de muestreo.
 
 ¡Para comenzar a transmitir presionar el botón **Conectar (Connect)**!
 
@@ -54,5 +52,5 @@ Algo que podemos hacer para evitar cortes es abrir **preferencias (prefs)** y po
 
 # Quehaceres
 
-- rehacer el grafico de configuración
-- hacer graficos mas simples
+- Rehacer el grafico de configuración
+- Hacer graficos mas simples
