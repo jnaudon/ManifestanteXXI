@@ -30,11 +30,11 @@ La configuración de servidores de streaming en **IDJC** se hace en la ventana d
 accede desde la ventana principal de **IDJC**. Para configurar el servidor de streaming al que **IDJC** se conecta primero hay que 
 conocer los siguientes datos:
 
-> **Servidor de streaming:** [http://giss.tv](http://giss.tv) \
-**Número de puerto:** 8000 \
-**Punto de montaje (nombre de la radio):** /nuestraradio.ogg \
-**Nombre de usuario:** nuestraradio \
-**Contraseña:** hackeame
+> - **Servidor de streaming:** [http://giss.tv](http://giss.tv) \
+> - **Número de puerto:** 8000 \
+> - **Punto de montaje (nombre de la radio):** /nuestraradio.ogg \
+> - **Nombre de usuario:** nuestraradio \
+> - **Contraseña:** hackeame
 
 La unión de servidor, puerto y punto de montaje dan la dirección de la radio:
 [http://giss.tv:8000/nuestraradio.ogg](http://giss.tv:8000/nuestraradio.ogg)
