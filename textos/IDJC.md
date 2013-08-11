@@ -7,7 +7,7 @@ sudo apt-get update
 sudo apt-get install idjc
 </pre>
 
-Además, vamos a necesitar un servidor Icecast, podes conseguir un punto de montaje en [giss.tv](http://giss.tv/addmount.html).
+Además, vamos a necesitar un punto de monaje en un servidor Icecast, podes conseguir uno en [giss.tv](http://giss.tv/addmount.html).
 
 ## Ventana principal
 
