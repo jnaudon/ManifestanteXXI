@@ -28,11 +28,13 @@ sección **"Configuración" (Configuration)**, usar el botón **"Nuevo" (New)**:
 > Dentro de la ventana siguiente se escriben los datos del servidor.
 
 Luego corresponde configurar el formato de salida. Si la colección de temas se encuentra en diferentes formatos, IDJC lo convierte todo 
-al formato y calidad seleccionados. Si bien se pueden seleccionar varios formatos, muchos servidores de streaming prefieren usar el 
-formato libre [ogg](Glosario.html#Ogg), porque a diferencia de [mp3](https://es.wikipedia.org/wiki/MP3) no está [restringido por 
-patentes](https://es.wikipedia.org/wiki/Vorbis#Historia).
+al formato y calidad seleccionados. 
 
 ![Opciones de formato](IDJC/format.png "Opciones de formato")
+
+Si bien se pueden seleccionar varios formatos, muchos servidores de streaming prefieren usar el formato libre [ogg](Glosario.html#Ogg), 
+porque a diferencia de [mp3](https://es.wikipedia.org/wiki/MP3) no está [restringido por 
+patentes](https://es.wikipedia.org/wiki/Vorbis#Historia).
 	
 **¡Importante!:** a menor calidad, mayor ancho de banda disponible. Si la conexión es lenta (3G por ejemplo) conviene bajar la calidad de 
 salida y de muestreo. Las palabras claves son **[ogg](Glosario.html#Ogg)**, **[bitrate](Glosario.html#Bitrate-Tasa-de-bits)** y 
@@ -55,8 +57,5 @@ Abrir preferencias (prefs) y poner reconexión automática y sin mostrar el cart
 ![Streaming conectado](IDJC/streams.png "Streaming conectado")
 
 Mientras se realiza la transmisión es posible monitorear la calidad de la conexión y la cantidad de usuarios conectados en la ventana 
-principal de IDJC, junto a los controles de volumen.
-
-Si la conexión está andando la barra se ve completamente verde. Si se mueve hacia el rojo significa que la conexión es lenta y hay 
-retraso. Sólo si el barra se vuelve completamente roja la conexión se corta e IDJC pregunta si la conexión se quiere reiniciar. Esto 
-puede pasar porque la conexión efectivamente se cortó, o que hubo un microcorte que se puede restablecer.
+principal de IDJC. Si la conexión está andando la barra se ve completamente verde. Si se mueve hacia el rojo significa que la conexión 
+es lenta y hay retraso.
