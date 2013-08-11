@@ -19,10 +19,8 @@ En esta pantalla se puede crea la secuencia musical que se utilizará en el prog
 Para agregar música arrastrar carpetas y/o archivos sobre alguna de las listas de reproduccion.
 Haciendo doble click sobre una canción, ésta comenzará a reproducirse.
 
-## Mezclar listas de temas
-
-- **Stream** es el audio de lo que se transmite (al presionar los botones de dos estados “Stream” indicados en el punto anterior se activa o desactiva el audio que sale en la transmisión). 
-- **DJ** es otro canal de audio, que permite poder escuchar otra cosa mientras se transmite (al presionar los botones de dos estados “DJ” se activa o desactiva el audio que sale en el modo DJ). 
+**Stream** es el audio de lo que se transmite (al presionar los botones de dos estados “Stream” indicados en el punto anterior se activa o desactiva el audio que sale en la transmisión).
+**DJ** es otro canal de audio, que permite poder escuchar otra cosa mientras se transmite (al presionar los botones de dos estados “DJ” se activa o desactiva el audio que sale en el modo DJ). 
 
 ## Configurar la estación (Streaming)
 
@@ -44,24 +42,21 @@ La unión de servidor, puerto y punto de montaje dan la dirección de la radio:
 Para agregar un servidor, dentro de la sección **"Configuración" (Configuration)**, usar el botón **"Nuevo" (New)**.
 Luego corresponde configurar el formato de salida. 
 
-![Configuración del servidor](img/IDJC/configuracion.png "Configuración del servidor")
+![Configuración del servidor](img/IDJC/configuracion_idjc.png "Configuración del servidor")
 
 Si la colección de temas se encuentra en diferentes formatos, IDJC lo convierte todo al formato y calidad seleccionados.
 
-![Datos de la conexión al servidor](img/IDJC/datos.png "Datos de la conexión al servidor")
-> Dentro de la ventana siguiente se escriben los datos del servidor.
+Dentro de la ventana siguiente se escriben los datos del servidor.
+
+Poner los metadatos en blanco, los reproductores todavia no soportan metadatos en **OGG**
 
 Si bien se pueden seleccionar varios formatos, muchos servidores de streaming prefieren usar el formato libre OGG, 
 porque a diferencia de [mp3](https://es.wikipedia.org/wiki/MP3) no está [restringido por 
 patentes](https://es.wikipedia.org/wiki/Vorbis#Historia).
 
-![Opciones de formato](img/IDJC/format.png "Opciones de formato")
-	
-**¡Importante!:** a menor calidad, mayor ancho de banda disponible. Si la conexión es lenta (3G por ejemplo) conviene bajar la calidad de 
+**¡Importante!:** a menor calidad, mayor ancho de banda disponible. Si la conexión es lenta (**3G** por ejemplo) conviene bajar la calidad de 
 salida y de muestreo. 
 
-![Quitar los metadatos](img/IDJC/metadatos.png "Qutar los metadatos")
-> Poner los metadatos en blanco, los reproductores todavia no soportan metadatos en **OGG**
 
 ¡Para comenzar a transmitir presionar el botón **Conectar (Connect)**!
 
