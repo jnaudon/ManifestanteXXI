@@ -1,12 +1,23 @@
 # Manual de uso IDJC
 
+## Instalación
+
+Abrir una consola, por lo general (Accesorio, Terminal). Y poner:
+
+<pre>
+sudo apt-get update
+sudo apt-get install idjc
+</pre>
+
+## Programa
+
 Internet DJ Console es una herramienta poderosa, flexible y dinámica que permite crear programación radial vía Internet.
 
 ![Vista general del programa](img/IDJC/main-window.hq_large.png "Vista general del programa")
 
-Es el lugar donde se crea la secuencia musical que se utilizará en el programa. Además, puede tener algunos controles adicionales que 
-veremos más adelante. Puedes arrastrar carpetas y/o archivos a esta zona para agregarlos a la lista. Haciendo doble click sobre una 
-canción, ésta comenzará a reproducirse.
+Es el lugar donde se crea la secuencia musical que se utilizará en el programa de radio. Para agregar música arrastrar carpetas y/o archivos sobre alguna de las listas de reproduccion.
+
+Haciendo doble click sobre una canción, ésta comenzará a reproducirse.
 
 ## Mezclar listas de temas
 
