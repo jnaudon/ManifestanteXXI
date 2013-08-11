@@ -21,18 +21,8 @@ Haciendo doble click sobre una canción, ésta comenzará a reproducirse.
 
 ## Mezclar listas de temas
 
-![image](img/IDJC/mixer_large.png)
-
 - **Stream** es el audio de lo que se transmite (al presionar los botones de dos estados “Stream” indicados en el punto anterior se activa o desactiva el audio que sale en la transmisión). 
 - **DJ** es otro canal de audio, que permite poder escuchar otra cosa mientras se transmite (al presionar los botones de dos estados “DJ” se activa o desactiva el audio que sale en el modo DJ). 
-- El **Metadata Source** colocar en **"None" (Nada)** muchos reproductores no soportarn metadatos.
-- El **Crossfader** permite pasar el control de una Lista de temas a otra, de varias maneras: Los botones **L** y **R** pasan de inmediato, sin transición. La **barra del crossfader** permite hacerlo manualmente.
-
-## Control del Micrófono
-
-![image](img/IDJC/mic%20boton_large.png)
-
-Este botón activa y desactiva el Micrófono. También puedes activar y desactivar éste control, presionando la tecla "m".
 
 ## Configurar la estación (Streaming)
 
