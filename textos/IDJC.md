@@ -22,7 +22,14 @@ Haciendo doble click sobre una canción, ésta comenzará a reproducirse.
 **Stream** es el audio de lo que se transmite (al presionar los botones de dos estados “Stream” indicados en el punto anterior se activa o desactiva el audio que sale en la transmisión).
 **DJ** es otro canal de audio, que permite poder escuchar otra cosa mientras se transmite (al presionar los botones de dos estados “DJ” se activa o desactiva el audio que sale en el modo DJ). 
 
-## Configurar la estación (Streaming)
+## Configuración en IDJC
+
+Para agregar un servidor, dentro de la sección **"Configuración" (Configuration)**, usar el botón **"Nuevo" (New)**.
+Luego corresponde configurar el formato de salida.
+
+![Configuración del servidor](img/IDJC/configuracion_idjc.png "Configuración del servidor")
+
+### Configurar la estación (Streaming)
 
 Antes que nada vamos a necesitar un servidor podes conseguir un servidor Icecast en [giss.tv](http://giss.tv/addmount.html).
 La configuración de servidores de streaming en **IDJC** se hace en la ventana de **"Salidas" (Output)**, al que se accede desde la ventana principal de **IDJC**. 
@@ -37,26 +44,14 @@ Para configurar el servidor de streaming al que **IDJC** se conecta primero hay 
 La unión de servidor, puerto y punto de montaje dan la dirección de la radio:
 [http://giss.tv:8000/nuestraradio.ogg](http://giss.tv:8000/nuestraradio.ogg)
 
-### Configuración en IDJC
-
-Para agregar un servidor, dentro de la sección **"Configuración" (Configuration)**, usar el botón **"Nuevo" (New)**.
-Luego corresponde configurar el formato de salida. 
-
-![Configuración del servidor](img/IDJC/configuracion_idjc.png "Configuración del servidor")
-
+Poner los metadatos en blanco, los reproductores todavia no soportan metadatos en **OGG**.
 Si la colección de temas se encuentra en diferentes formatos, IDJC lo convierte todo al formato y calidad seleccionados.
-
-Dentro de la ventana siguiente se escriben los datos del servidor.
-
-Poner los metadatos en blanco, los reproductores todavia no soportan metadatos en **OGG**
-
 Si bien se pueden seleccionar varios formatos, muchos servidores de streaming prefieren usar el formato libre OGG, 
 porque a diferencia de [mp3](https://es.wikipedia.org/wiki/MP3) no está [restringido por 
 patentes](https://es.wikipedia.org/wiki/Vorbis#Historia).
 
 **¡Importante!:** a menor calidad, mayor ancho de banda disponible. Si la conexión es lenta (**3G** por ejemplo) conviene bajar la calidad de 
 salida y de muestreo. 
-
 
 ¡Para comenzar a transmitir presionar el botón **Conectar (Connect)**!
 
