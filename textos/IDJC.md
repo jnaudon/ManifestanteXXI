@@ -3,7 +3,6 @@
 ## Instalación
 
 <pre>
-sudo apt-get update
 sudo apt-get install idjc
 </pre>
 
@@ -49,6 +48,8 @@ salida y de muestreo.
 
 Mientras se realiza la transmisión es posible monitorear la calidad de la conexión y la cantidad de usuarios conectados en la ventana principal de **IDJC**.
 Algo que podemos hacer para evitar cortes es abrir **preferencias (prefs)** y poner reconexión automática y sin mostrar el cartel de dialogo.
+
+* Más datos en [Juan Carlos Radio](http://juancarlosradio.com.ar)
 
 # Quehaceres
 
