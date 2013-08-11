@@ -46,7 +46,9 @@ tipos de salidas distintas. Cada una se configura para un tipo de streaming dist
 como mínimo deben tener un servidor de streaming al que conectarse (los demás sirven de respaldo). Para agregar un servidor, dentro de la 
 sección **"Configuración" (Configuration)**, usar el botón **"Nuevo" (New)**
 
-![Configuración del servidor](img/IDJC/metadatos.png "Configuración del servidor")
+![Configuración del servidor](img/IDJC/configuracion.png "Configuración del servidor")
+
+![Quitar los metadatos](img/IDJC/metadatos.png "Qutar los metadatos")
 > Poner los metadatos en blanco, los reproductores todavia no soportan metadatos en **OGG**
 
 Luego corresponde configurar el formato de salida. Si la colección de temas se encuentra en diferentes formatos, IDJC lo convierte todo 
