@@ -205,7 +205,7 @@ Algunas experiencias relacionadas.
 > * Sistema operativo Tails pensado para manifestantes y activistas
 > * Ciboulette para anonimizar la red, usando tecnologia Tor y VPN usado como tunel para anonimizar la navegación
 > * Difusión con bots para redes sociales
-> * Icecast e IDJC para transmitir television y [radios](#transmisin-de-radio)
+> * Icecast e IDJC para transmitir television y [radios](#transmisión-de-radio)
 > * [Feed2tv]() herramienta para crear canales de televisión de modo muy simple
 > * Chat publico en IRC y crytocat a travez de la red Tor
 > * Servidor hogareño hecho con viejas maquinas
@@ -238,7 +238,7 @@ Algunas experiencias relacionadas.
 
 - Difunsion, coordinacion de ataques a servidores, convocatoria.
 
-### [Transmisión de Radio]
+### Transmisión de Radio
 
 #### Manual de uso IDJC
 
