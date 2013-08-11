@@ -13,9 +13,9 @@ sudo apt-get install idjc
 
 **Internet DJ Console** es una herramienta poderosa, flexible y dinámica que permite crear programación radial vía Internet.
 
-![Vista general del programa](img/IDJC/main-window.hq_large.png "Vista general del programa")
+![Vista general del programa](img/IDJC/IDJC.png "Vista general del programa")
 
-En esta pantall uno puede crea la secuencia musical que se utilizará en el programa de radio.
+En esta pantalla se puede crea la secuencia musical que se utilizará en el programa de radio.
 Para agregar música arrastrar carpetas y/o archivos sobre alguna de las listas de reproduccion.
 Haciendo doble click sobre una canción, ésta comenzará a reproducirse.
 
