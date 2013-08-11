@@ -21,6 +21,8 @@ En el 2011 Cristina Fernández de Kirchner emitió un Decreto ordenando la creac
 
 El reconocimiento de rostros es cada más simple y barato, por ejemplo en la Ciudad de Buenos Aires las [cámaras de seguridad](http://camaras.buenosaires.gob.ar/) superan las mil y las redes sociales con reconocimiento facial: facebook, google+, flickr, etc, son cada vez más populares y la actualización permanentemente por parte de sus usuarios mejora las bases de datos constantemente.
 
+![Aerosol a Distancia](img/aerosol_a_distancia.png)
+
 En Android podemos usar el programas [ObscuraCam](https://guardianproject.info/apps/obscuracam/) que oculta las caras de forma automática.
 
 ## ¿Que podemos hacer?
