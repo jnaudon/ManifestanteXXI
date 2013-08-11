@@ -62,20 +62,20 @@ patentes](https://es.wikipedia.org/wiki/Vorbis#Historia).
 ![Opciones de formato](IDJC/format.png "Opciones de formato")
 	
 **¡Importante!:** a menor calidad, mayor ancho de banda disponible. Si la conexión es lenta (3G por ejemplo) conviene bajar la calidad de 
-salida y de muestreo.
+salida y de muestreo. 
+
+Para comenzar a transmitir presionar el botón **Conectar (Connect)**
 
 ## Monitoreo del streaming
 
-Los círculos de color en cada solapa representan el estado de la conexión: 
+Mientras se realiza la transmisión es posible monitorear la calidad de la conexión y la cantidad de usuarios conectados en la ventana 
+principal de **IDJC**. Si la conexión está andando la barra se ve completamente verde. Si se mueve hacia el rojo significa que la conexión 
+es lenta y hay retraso.
 
 - **gris:** desconectado 
 - **rojo:** corto la transmissión
 - **amarillo:** conectando
 - **verde:** conectado
 
-En el encabezado de la ventana, seleccionar el grupo de salidas a las que **conectarse (Group controls)** y presionar el botón 
-**Conectar (Connect)**. Abrir **preferencias (prefs)** y poner reconexión automática y sin mostrar el cartel de dialogo.
+Algo que podemos hacer para evitar cortes es abrir **preferencias (prefs)** y poner reconexión automática y sin mostrar el cartel de dialogo.
 
-Mientras se realiza la transmisión es posible monitorear la calidad de la conexión y la cantidad de usuarios conectados en la ventana 
-principal de **IDJC**. Si la conexión está andando la barra se ve completamente verde. Si se mueve hacia el rojo significa que la conexión 
-es lenta y hay retraso.
