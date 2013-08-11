@@ -5,12 +5,18 @@
 
 ![Vista general del programa](IDJC/main-window.hq_large.png "Vista general del programa")
 
-Para configurar el servidor de streaming al que **IDJC** se conecta primero hay que conocer los siguientes datos:
+La configuración de servidores de streaming en [IDJC](Glosario.html#IDJC) se hace en la ventana de **"Salidas" (Output)**, al que se 
+accede desde la ventana principal de **IDJC**. Para configurar el servidor de streaming al que **IDJC** se conecta primero hay que 
+conocer los siguientes datos:
 
 >**Servidor de streaming:** [http://giss.tv](http://giss.tv)
+>
 >**Número de puerto:** 8000
+>
 >**Punto de montaje (nombre de la radio):** /nuestraradio.ogg
+>
 >**Nombre de usuario:** nuestraradio
+>
 >**Contraseña:** hackeame
 
 La unión de servidor, puerto y punto de montaje dan la dirección de la radio:
@@ -18,11 +24,10 @@ La unión de servidor, puerto y punto de montaje dan la dirección de la radio:
 
 ### Configuración en IDJC
 
-La configuración de servidores de streaming en [IDJC](Glosario.html#IDJC) se hace en la ventana de **"Salidas" (Output)**, al que se accede 
-desde la ventana principal de **IDJC**. En la ventana de "Salidas" hay seis solapas, cada una representando la configuración de seis 
+En la ventana de "Salidas" hay seis solapas, cada una representando la configuración de seis 
 tipos de salidas distintas. Cada una se configura para un tipo de streaming distinto, por ejemplo para distintas calidades de salida, y 
 como mínimo deben tener un servidor de streaming al que conectarse (los demás sirven de backup). Para agregar un servidor, dentro de la 
-sección **"Configuración" (Configuration)**, usar el botón **"Nuevo" (New)**:
+sección **"Configuración" (Configuration)**, usar el botón **"Nuevo" (New)**
 
 ![Configuración del servidor](IDJC/metadatos.png "Configuración del servidor")
 > Dejar los metadatos en blanco
