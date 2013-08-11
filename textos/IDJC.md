@@ -1,65 +1,31 @@
-# Manual de uso IDJC[¶](#Manual-de-uso-IDJC)
-
-## Introducción a IDJC[¶](#Introducción-a-IDJC)
+# Manual de uso IDJC
 
 Internet DJ Console es una herramienta poderosa, flexible y dinámica que permite crear programación radial vía Internet.
 
-> ![image](https://we.riseup.net/assets/70383/main-window.hq_large.png)
+![Vista general del programa](IDJC/main-window.hq_large.png "Vista general del programa")
 
 Es el lugar donde se crea la secuencia musical que se utilizará en el programa. Además, puede tener algunos controles adicionales que 
 veremos más adelante. Puedes arrastrar carpetas y/o archivos a esta zona para agregarlos a la lista. Haciendo doble click sobre una 
 canción, ésta comenzará a reproducirse.
 
-> ![image](https://we.riseup.net/assets/70461/playlist_large.png)
+## Mezclar listas de temas
 
-### Monitor Mix
-
-Permite cambiar entre los modos de mezcla para quien transmite:
+![image](IDJC/mixer_large.png)
 
 - **Stream** es el audio de lo que se transmite (al presionar los botones de dos estados “Stream” indicados en el punto anterior se activa o desactiva el audio que sale en la transmisión). 
 - **DJ** es otro canal de audio, que permite poder escuchar otra cosa mientras se transmite (al presionar los botones de dos estados “DJ” se activa o desactiva el audio que sale en el modo DJ). 
-- El **Metadata Source** define desde donde se obtiene la metadata para la transmisión, del reproductor derecha, del reproductor izquierdo, del **Crossfader**, o simplemente no utilizar metadatos.
+- El **Metadata Source** colocar en **"None" (Nada)** muchos reproductores no soportarn metadatos.
+- El **Crossfader** permite pasar el control de una Lista de temas a otra, de varias maneras: Los botones **L** y **R** pasan de inmediato, sin transición. La **barra del crossfader** permite hacerlo manualmente.
 
-> **Nota:** Después de varias pruebas, encontramos un **error** de la mayoría de los reproductores de OGG, que no permiten el envío de 
-> la metadata, asi que recomendamos sacarla: ![Tipo de metadatos](/attachments/download/37/metadata_fade.png "Tipo de metadatos") poner 
-> el tipo de metadata en "None" o Nada
-> 
-> ![Salida de metadatos](IDJC/metadata_out.png "Salida de metadatos") y en las salidas "OUTs" (Salidas) borrarlos y 
-> apretar "Update" (Actualizar)
+## Control del Micrófono
 
-- El **Crossfader** permite pasar el control de una Lista de temas a otra, de varias maneras: Los botones **L** y **R** pasan de 
-inmediato, sin transición. La **barra del crossfader** permite hacerlo manualmente.
-
-![image](https://we.riseup.net/assets/70468/mixer_large.png)
-
-- Los botones **Middle** colocan la barra justo al medio, el primer botón con la metadata de la lista de la izquierda, el segundo con la metadata de la lista de la derecha.
-- El control **Response** permite controlar de que manera es el crossfade, si cruzado o excluyente.
-- El **Time** permite ingresar un tiempo de crossfade, que se cuenta en segundos.
-- Por último, el botón **Pass** realiza la transición automática con los valores antes definidos.
-
-### Indicador de volumen de la Lista de temas[¶](#Indicador-de-volumen-de-la-Lista-de-temas)
-
-Este indicador gráfico entrega el estado del volumen de la reproducción actual en la Lista de temas.
-
-## Indicador de volumen del Micrófono[¶](#Indicador-de-volumen-del-Micrófono)
-
-> ![image](https://we.riseup.net/assets/70464/mic_large.png)
-
-Este indicador gráfico entrega el estado del volumen del Micrófono.
-
-## Control del Micrófono[¶](#Control-del-Micrófono)
-
-![image](https://we.riseup.net/assets/70467/mic%20boton_large.png)
+![image](IDJC/mic%20boton_large.png)
 
 Este botón activa y desactiva el Micrófono. También puedes activar y desactivar éste control, presionando la tecla "m".
 
 ## Configurar la estación (Streaming)
 
-**IDJC** es el operador de la radio que se conecta a un servidor de streaming para hacer la transmisión. 
-Antes que nada vamos a necesitar un servidor podes conseguir un servidor Icecast en [giss.tv](http://giss.tv/addmount.html)
-
-![Vista general del programa](IDJC/main-window.hq_large.png "Vista general del programa")
-
+Antes que nada vamos a necesitar un servidor podes conseguir un servidor Icecast en [giss.tv](http://giss.tv/addmount.html).
 La configuración de servidores de streaming en **IDJC** se hace en la ventana de **"Salidas" (Output)**, al que se 
 accede desde la ventana principal de **IDJC**. Para configurar el servidor de streaming al que **IDJC** se conecta primero hay que 
 conocer los siguientes datos:
