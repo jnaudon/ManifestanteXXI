@@ -346,13 +346,11 @@ sudo apt-get install gespeaker espeak mbrola mbrola-voice-es
 #### Metadatos
 
 Muchos hacktivistas fueron detenidos por los metadatos de sus fotos, conviene por las dudas no compartir fotos, videos o sonidos que puedan ser detectados su origen de modo automatico, más si utilizamos TOR.
-
-Muchas imagenes de cámaras de fotos, celulares, y otros dispositivos y/o programas de edición agregar datos de localización, nombre del autor u otros datos que pueden debelar el origen de las misma.
 Por esto en una publicación anonima hay que borrar los metadatos de cualquier material que los pueda contener.
 
 A la vez, nosotros, podemos usar la misma tecnologia para conocer el origen de los materiales digitales que conseguimos.
 
-#### Archivos de imagen
+#### Quitar metadatos a archivos de imagen
 
 <pre>
 convert -strip nombre_archivo.png nombre_archivo.png
@@ -361,11 +359,30 @@ convert -strip nombre_archivo.png nombre_archivo.png
 ### Textos
 
 Para difundir textos, tanto por su falta de practicidad, como funcionales NO usar DOC, DOCX, PDF, RTF.
-Siempre conviene utilizar textos "planos" el mas común es TXT.
+Siempre conviene utilizar textos "planos" el mas común es TXT, Makrdown y HTML. 
+Que no pueden contener metadatos, y son muy faciles de interpretar.
 
 #### Markdown
 
-- pandoc
+Markdown es un lenguaje de marcado ligero que trata de conseguir la máxima legibilidad y "publicabilidad" tanto en sus forma de entrada como de salida.
+Basicamente es un texto plano (TXT) con algunos simbolos para marcar titulos, subtitulos, negrita, cursiva, etc.
+
+<pre>
+# Titulo
+## Subtitulo
+
+Este es un parrafo de ejemplo de **markdown**, asi podemos ver como se pone la *cursiva*
+
+* Esto es una lista
+* Esto es una lista
+</pre>
+
+> # Titulo
+> ## Subtitulo
+>
+> Este es un parrafo de ejemplo de **markdown**, asi podemos ver como se pone la *cursiva*
+> * Esto es una lista
+> * Esto es una lista
 
 #### HTML
 
@@ -396,7 +413,7 @@ Esto es muy útil, pues sirve para cuando te olvidas de desmontarla y/o tuviste 
 
 #### Ocultar un mensaje dentro de una imagen
 
-Esto proceso nos permitirá guardar información de cualquier tipo dentro de una imagen. 
+Esto proceso nos permitirá guardar información de cualquier tipo dentro de una imagen, audio o video.
 Puede resultar útil si pretendemos enviar una información confidencial a una persona y no queremos que la información sea interceptada por otros.
 A la vez esta informacion puede estar disponible de modo público y sin la clave correspondiente nunca acceder a los datos ocultos. 
 Esta tecnica se llama [esteganografía](https://es.wikipedia.org/wiki/Esteganograf%C3%ADa) para ocultar información dentro de la imagen.
