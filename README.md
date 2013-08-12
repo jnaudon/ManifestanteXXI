@@ -1,3 +1,5 @@
+# Manifestante DIY
+
 ![Póster](poster/poster_revolucionario_de_accion_chico.png)
 
 * [Descargar Poster para imprimir](http://b4zz4.github.io/ManifestanteXXI/poster/poster.png)
@@ -146,8 +148,7 @@ Hay un generador para Android llamado [binauralbeat](https://f-droid.org/reposit
 
 # Laser de alta potencia
 
-Estos se pueden usar para molestar a la vision de los policias. 
-Se pueden hacer laser de alta potencia con un viejo reproductor de CD-ROM
+Estos se pueden usar para molestar a la vision de los policias (en Brasil) y en turquia casi derriban un helicoptero de monitoreo.
 
 # Mochila WIFI
 
@@ -182,21 +183,6 @@ _En los intentos por ponerles batería incorporada, y contactarla al revéz, ter
 
 **Segundo experiencia** con una webcam Datavision no fue muy buena, la imagen tenia muchos problemas de calidad o tan solo aparecía en gris.
 Termino quemándose, seguramente, por el calor dentro del dispositivo.
-
-
-# Notas relacionadas
-
-Algunas experiencias relacionadas.
-
-* Experiencias de los [movimientos anti-globalizadores](https://es.wikipedia.org/wiki/Contracumbre_del_G8_en_G%C3%A9nova) en 2001 como el "Tute Bianchi"
-* Mapa con el [movimientos de la Policía en Estambul](http://www.microsiervos.com/archivo/tecnologia/manifestantes-turquia-controlar-policia.html), como los manifestantes turcos vigilan a la policía.
-* Los manifestantes hacen [huir a la policia](https://www.youtube.com/watch?v=H42UJIszoaQ) en Brasil
-* Los manifestantes españoles tiene un [helicoptero](https://www.youtube.com/watch?v=h-oO8I5vR5s) para ver lo que hace la policía.
-* [Prism Break](http://prism.hackcoop.com.ar/#es) - Lucha contra la NSA.
-* [Tutoriales](https://guardianproject.info/apps/tutorials/) de software libre para Android. (en ingles)
-* [Ataque laser contra helicopteros](http://www.biobiochile.cl/2013/06/30/manifestantes-realizan-impresionante-ataque-laser-contra-helicoptero-militar-en-egipto.shtml)
-* [MidiNinja](https://knightcenter.utexas.edu/es/blog/00-14203-midia-ninja-un-fenomeno-del-periodismo-alternativo-que-emergio-de-las-protestas-en-bra) colectivo que transmite usando 4G directamente desde las calles 
-* [CamOver](http://noticias.lainformacion.com/mundo/camover-el-juego-que-pretende-acabar-a-golpes-con-todas-las-camaras-de-videovigilancia-de-berlin_8z9GyH5P4kGbnLAcjE1vC/) El juego para destruir las camaras de seguridad de Berlín.
 
 # Inteligencia DIY
 
@@ -237,6 +223,15 @@ Algunas experiencias relacionadas.
 ### Redes sociales
 
 - Difunsion, coordinacion de ataques a servidores, convocatoria.
+
+### Transmision de Video
+
+Este programa no es muy buena pero tiene scripts interesante: http://gollum.artefacte.org/tss/
+
+- http://www.muylinux.com/2010/03/02/y-seguimos-dandole-vueltas-al-h-264/
+- https://www.fsf.org/blogs/community/google-free-on2-vp8-for-youtube
+- https://hacks.mozilla.org/2012/03/video-mobile-and-the-open-web/
+- http://www.nomaspatanes.com/2012/04/video-html5-la-guerra-ha-terminado-y.html
 
 ### Transmisión de Radio
 
@@ -292,6 +287,21 @@ salida y de muestreo.
 
 Mientras se realiza la transmisión es posible monitorear la calidad de la conexión y la cantidad de usuarios conectados en la ventana principal de **IDJC**.
 Algo que podemos hacer para evitar cortes es abrir **preferencias (prefs)** y poner reconexión automática y sin mostrar el cartel de dialogo.
+
+
+# Notas relacionadas
+
+Algunas experiencias relacionadas.
+
+* Experiencias de los [movimientos anti-globalizadores](https://es.wikipedia.org/wiki/Contracumbre_del_G8_en_G%C3%A9nova) en 2001 como el "Tute Bianchi"
+* Mapa con el [movimientos de la Policía en Estambul](http://www.microsiervos.com/archivo/tecnologia/manifestantes-turquia-controlar-policia.html), como los manifestantes turcos vigilan a la policía.
+* Los manifestantes hacen [huir a la policia](https://www.youtube.com/watch?v=H42UJIszoaQ) en Brasil
+* Los manifestantes españoles tiene un [helicoptero](https://www.youtube.com/watch?v=h-oO8I5vR5s) para ver lo que hace la policía.
+* [Prism Break](http://prism.hackcoop.com.ar/#es) - Lucha contra la NSA.
+* [Tutoriales](https://guardianproject.info/apps/tutorials/) de software libre para Android. (en ingles)
+* [Ataque laser contra helicopteros](http://www.biobiochile.cl/2013/06/30/manifestantes-realizan-impresionante-ataque-laser-contra-helicoptero-militar-en-egipto.shtml)
+* [MidiNinja](https://knightcenter.utexas.edu/es/blog/00-14203-midia-ninja-un-fenomeno-del-periodismo-alternativo-que-emergio-de-las-protestas-en-bra) colectivo que transmite usando 4G directamente desde las calles 
+* [CamOver](http://noticias.lainformacion.com/mundo/camover-el-juego-que-pretende-acabar-a-golpes-con-todas-las-camaras-de-videovigilancia-de-berlin_8z9GyH5P4kGbnLAcjE1vC/) El juego para destruir las camaras de seguridad de Berlín.
 
 # Licencia
 
