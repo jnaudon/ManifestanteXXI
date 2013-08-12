@@ -194,6 +194,7 @@ ocurre creando medios de comunicación tanto para difundir como para coordinar.
 Sobre todos necesitan tener GNU/Linux hay varias versiones y cada una sirve para las diferentes actividades que el equipo de coordinación, difusion, organización necestan.
 
 - Conceptos de Logs
+- Cifrado
 - Anonimato real
   - Metadata y datos falsos
   - Impersonalismo
@@ -351,7 +352,16 @@ Esto es muy bueno por que no es posible reconocer quien habla, a la vez se puede
 sudo apt-get install gespeaker espeak mbrola mbrola-voice-es 
 </pre>
 
+#### Metadatos
+
+Muchas imagenes de cámaras de fotos, celulares, y otros dispositivos y/o programas de edición agregar datos de localización, nombre del autor u otros datos que pueden debelar el origen de las misma.
+Por esto en una publicación anonima hay que borrar los metadatos de cualquier material que los pueda contener.
+
+A la vez, nosotros, podemos usar la misma tecnologia para conocer el origen de los materiales digitales que conseguimos.
+
 #### Archivos de imagen
+
+
 
 <pre>
 convert -strip nombre_archivo.png nombre_archivo.png
@@ -365,16 +375,62 @@ convert -strip *
 
 ### Textos
 
-Conviene NO usar ningun tipo de archivos de texto como DOC, DOCX, PDF, RTF.
+Para difundir textos, tanto por su falta de practicidad, como funcionales NO usar DOC, DOCX, PDF, RTF.
+Siempre conviene utilizar textos "planos" el mas común es TXT.
 
 #### Markdown
 
+- pandoc
+
 #### HTML
+
+- convertir html a pandoc y viceversa
 
 #### Publicación anonima
 
 - [Pasties](http://pastebin.com) Muchos no guardan "logs" pensando en la publicaciones anonimas aun asi conviene usarlos con TOR
 - Publicar Base64 en tinyURL
+
+#### Enviar datos cifrados de carpetas
+
+Cifrar una carpeta con todos su contenido de manera ocultar a cualquier persona que acceda fisicamente a nuestra computadora.
+	
+![Cryptkeeper](img/encfs/cryptkeeper.png "Crptkeeper")
+
+<pre>
+sudo apt-get install cryptkeeper
+</pre>
+
+_Luego podemos correr cryptkeeper desde el menu._
+
+#### Ocultar un mensaje dentro de una imagen
+
+Esto proceso nos permitirá guardar información de cualquier tipo dentro de una imagen. 
+Puede resultar útil si pretendemos enviar una información confidencial a una persona y no queremos que la información sea interceptada por otros.
+A la vez esta informacion puede estar disponible de modo público y sin la clave correspondiente nunca acceder a los datos ocultos. 
+Esta tecnica se llama [esteganografía](https://es.wikipedia.org/wiki/Esteganograf%C3%ADa) para ocultar información dentro de la imagen.
+
+##### Por parte de la persona emisora
+
+Elegirá una clave segura con al menos 9 caracteres entre letras, números y símbolos. 
+Colocará tanto el archivo con la información, por ejemplo un documento de texto, como la imagen en un mismo directorio
+Este programa solo sirve para ocultar archivos JPG, BMP, WAV y AU.
+
+<pre>
+steghide --embed -p "clave segura" -cf imagen.jpg -ef archivo_secreto.txt 
+</pre>
+
+_**Nota** la clave NUNCA debe pasarse junto al archivo. Las claves SIEMPRE deben ser transmitidas de un modo seguro._
+
+##### Por parte de la persona receptora
+
+<pre>
+steghide --extract -p "clave segura" -xf archivo_secreto.txt -sf imagen2.jpg
+</pre>
+
+[Manual completo en español](http://steghide.sourceforge.net/documentation/manpage_es.php)
+
+
 
 # Notas relacionadas
 
