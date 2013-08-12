@@ -192,6 +192,7 @@ Termino quemándose, seguramente, por el calor dentro del dispositivo.
 Para soportar toda la actividad en las calles se necesita de varios equipos de inteligencia que coordinen y retransmitan todo lo que 
 ocurre creando medios de comunicación tanto para difundir como para coordinar. 
 Sobre todos necesitan tener GNU/Linux hay varias versiones y cada una sirve para las diferentes actividades que el equipo de coordinación, difusion, organización necestan.
+Conceptos de Logs
 
 > * Sistema operativo Tails pensado para manifestantes y activistas
 > * Ciboulette para anonimizar la red, usando tecnologia Tor y VPN usado como tunel para anonimizar la navegación
@@ -324,7 +325,7 @@ Muchos hacktivistas fueron detenidos por los metadatos de sus fotos, conviene po
 ### Archivos de audio o video
 
 <pre>
-</pres>
+</pre>
 
 ### Redes sociales
 
@@ -367,7 +368,7 @@ Conviene NO usar ningun tipo de archivos de texto como DOC, DOCX, PDF, RTF.
 
 #### Publicacion anonima
 
-- [Pasties](http://pastebin.com)
+- [Pasties](http://pastebin.com) Muchos no guardan "logs" pensando en la publicaciones anonimas aun asi conviene usarlos con TOR
 
 # Notas relacionadas
 
