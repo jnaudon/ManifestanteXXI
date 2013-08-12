@@ -78,6 +78,7 @@ Una de las grandes ventajas de los policías en una manifestación, es que se en
 Lo mismo podemos hacer los manifestantes, organizándonos con **herramientas similares**, **libres** y **seguras**. Lo mejor es que un grupo en particular se dedique a la coordinación, utilizando con Bounjour, Jabber o telefonía sobre internet. Al igual que los policías, puede coordinarse la inteligencia por fuera de la manifestación, las personas calmadas piensan mejor, en este caso el grupo de acción debe pasar reportes precisos de lo que ocurre. La mayoría de la comunicación (a nivel inteligencia) debe hacerse por chat, en medio de una manifestación hablar se tornarse complicado e inseguro. Además escribiendo de modo preciso se puede logran mejores resultados, sobre todo en grandes grupos. **Es sumamente necesario que se usen métodos criptográficos**, el más común y seguro es el [OTR](textos/OTR.md).
 
 * [Gibberbot](https://guardianproject.info/apps/gibber/) chatea de modo [criptográfico](http://wiki.partidopirata.com.ar/Gibberbot_con_OTR) y seguro en bounjour, jabber, facebook, googletalk, etc.
+* [Yaaic](https://f-droid.org/repository/browse/?fdfilter=irc&fdid=org.yaaic) Cliente para IRC
 * [CsipSimple](https://code.google.com/p/csipsimple/) telefonía por internet con criptografía, podes crear un cuenta local para la red libre y una cuenta en [ekiga.org](https://www.ekiga.net/?page=register) para acceso desde internet.
 * [Ostel](https://ostel.co/) Llamadas con criptografía.
 * [Umap](http://umap.openstreetmap.org.ar) mapas para coordinarse en las calles.
@@ -200,7 +201,8 @@ Sobre todos necesitan tener GNU/Linux hay varias versiones y cada una sirve para
 > * Chat publico en IRC y crytocat a travez de la red Tor
 > * Servidor hogareño hecho con viejas maquinas
 > * Umap para organizar la accion en la calles
-> * Festival o espeak para dar comunicados sin ser descubiertos.
+> * espeak para dar comunicados sin ser descubiertos.
+> * Quitar metadatos a los archivos
 
 ## Coordinación
 
@@ -232,14 +234,28 @@ Anonymous hace tiempo que usa sintetizadores de voz para difundir sus noticias e
 sudo apt-get install gespeak
 </pre>
 
-#### Quehaceres
-
-- Falta un modo de salvar las voces
-
 ## Anonimato
 
-- Tor, tails, VPN, proxys.
-(unir con lo que se explica para android)
+- Tor, tails, VPN, proxys, Darknet, LibreVPN.
+
+### Instalar TOR
+
+<pre>
+sudo apt-get install vidalia
+</pre>
+
+### Navegar con TOR
+
+[Tor Browser](https://www.torproject.org/projects/torbrowser.html.en)
+
+### Chatear con TOR
+
+- Ejemplo de como configurar Pidgin
+- Ejemplo de TorChat
+
+### LOIC con TOR
+
+- Tengo que ver como funciona
 
 ## Difusión
 
@@ -317,6 +333,39 @@ salida y de muestreo.
 
 Mientras se realiza la transmisión es posible monitorear la calidad de la conexión y la cantidad de usuarios conectados en la ventana principal de **IDJC**.
 Algo que podemos hacer para evitar cortes es abrir **preferencias (prefs)** y poner reconexión automática y sin mostrar el cartel de dialogo.
+
+## Quitar metadatos
+
+Muchos hacktivistas fueron detenidos por los metadatos de sus fotos, conviene por las dudas no compartir fotos, videos o sonidos que puedan ser detectados su origen de modo automatico, más si utilizamos TOR.
+
+### Archivos de audio o video
+
+<pre>
+convert *  -strip
+</pres>
+
+### Archivos de imagen
+
+<pre>
+convert nombre_archivo.png  -strip
+</pres>
+
+#### Todos los archivos de un directorio
+
+<pre>
+convert *  -strip
+</pres>
+
+### Textos
+
+Conviene no usar ningun tipo de archivos de texto como DOC, PDF, RTF.
+
+#### Markdown
+
+- pasties
+- texto plano
+- markdown
+- html
 
 # Notas relacionadas
 
