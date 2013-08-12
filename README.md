@@ -324,18 +324,13 @@ salida y de muestreo.
 Mientras se realiza la transmisión es posible monitorear la calidad de la conexión y la cantidad de usuarios conectados en la ventana principal de **IDJC**.
 Algo que podemos hacer para evitar cortes es abrir **preferencias (prefs)** y poner reconexión automática y sin mostrar el cartel de dialogo.
 
-#### Archivos de audio o video
-
-<pre>
-</pre>
-
 ### Redes sociales
 
 Difunsión, coordinacion de "ataques" a servidores, convocatoria.
 
-#### LOIC
-
 #### Convocatorias
+
+##### LOIC
 
 #### Mensajes al publico
 
@@ -359,16 +354,8 @@ A la vez, nosotros, podemos usar la misma tecnologia para conocer el origen de l
 
 #### Archivos de imagen
 
-
-
 <pre>
 convert -strip nombre_archivo.png nombre_archivo.png
-</pre>
-
-#### Todos los archivos de un directorio
-
-<pre>
-convert -strip *
 </pre>
 
 ### Textos
@@ -399,7 +386,16 @@ Cifrar una carpeta con todos su contenido de manera ocultar a cualquier persona 
 sudo apt-get install cryptkeeper
 </pre>
 
-_Luego podemos correr cryptkeeper desde el menu._
+Luego podemos correr **Cryptkeeper** desde el menu (Aplicaciones -> Herramientas del sistema -> Cryptkeeper).
+En el panel de notificaciones tendrán un nuevo icono con unas llaves, pulsan con el botón izquierdo del ratón y seleccionan: "New encrypted folder".
+Se les abrirá un cuadro de diálogo en el que deberán introducir el nombre y el destino de la carpeta a cifrar. 
+Les va a pedir una contraseña para esa carpeta. 
+Cryptkeeper ha montado esa carpeta como un disco. 
+Podes usar ese disco de la manera en que usas todos los otros mientras esté montado.
+Para desmontarlo, tenes que pulsar con el botón izquierdo de nuevo sobre las llaves de la bandeja de notificación y desmarcar la carpeta marcada.
+
+Y en las Preferencias de la aplicación podes configurar el tiempo que queres que tu carpeta se mantenga montada.
+Esto es muy útil, pues sirve para cuando te olvidas de desmontarla y/o tuviste que salir con urgencia.
 
 #### Ocultar un mensaje dentro de una imagen
 
