@@ -192,7 +192,12 @@ Termino quemándose, seguramente, por el calor dentro del dispositivo.
 Para soportar toda la actividad en las calles se necesita de varios equipos de inteligencia que coordinen y retransmitan todo lo que 
 ocurre creando medios de comunicación tanto para difundir como para coordinar. 
 Sobre todos necesitan tener GNU/Linux hay varias versiones y cada una sirve para las diferentes actividades que el equipo de coordinación, difusion, organización necestan.
-Conceptos de Logs
+
+- Conceptos de Logs
+- Anonimato real
+  - Metadata y datos falsos
+  - Impersonalismo
+  - Publicacion anonima
 
 > * Sistema operativo Tails pensado para manifestantes y activistas
 > * Ciboulette para anonimizar la red, usando tecnologia Tor y VPN usado como tunel para anonimizar la navegación
@@ -335,7 +340,7 @@ Difunsión, coordinacion de "ataques" a servidores, convocatoria.
 
 #### Convocatorias
 
-### Mensajes al publico
+#### Mensajes al publico
 
 ![Interface de Gespeak](img/gespeak.png "Interface de Gespeak")
 
@@ -346,7 +351,7 @@ Esto es muy bueno por que no es posible reconocer quien habla, a la vez se puede
 sudo apt-get install gespeaker espeak mbrola mbrola-voice-es 
 </pre>
 
-### Archivos de imagen
+#### Archivos de imagen
 
 <pre>
 convert -strip nombre_archivo.png nombre_archivo.png
@@ -366,9 +371,10 @@ Conviene NO usar ningun tipo de archivos de texto como DOC, DOCX, PDF, RTF.
 
 #### HTML
 
-#### Publicacion anonima
+#### Publicación anonima
 
 - [Pasties](http://pastebin.com) Muchos no guardan "logs" pensando en la publicaciones anonimas aun asi conviene usarlos con TOR
+- Publicar Base64 en tinyURL
 
 # Notas relacionadas
 
