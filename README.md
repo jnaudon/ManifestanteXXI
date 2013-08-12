@@ -324,11 +324,7 @@ salida y de muestreo.
 Mientras se realiza la transmisión es posible monitorear la calidad de la conexión y la cantidad de usuarios conectados en la ventana principal de **IDJC**.
 Algo que podemos hacer para evitar cortes es abrir **preferencias (prefs)** y poner reconexión automática y sin mostrar el cartel de dialogo.
 
-## Quitar metadatos
-
-Muchos hacktivistas fueron detenidos por los metadatos de sus fotos, conviene por las dudas no compartir fotos, videos o sonidos que puedan ser detectados su origen de modo automatico, más si utilizamos TOR.
-
-### Archivos de audio o video
+#### Archivos de audio o video
 
 <pre>
 </pre>
@@ -353,6 +349,8 @@ sudo apt-get install gespeaker espeak mbrola mbrola-voice-es
 </pre>
 
 #### Metadatos
+
+Muchos hacktivistas fueron detenidos por los metadatos de sus fotos, conviene por las dudas no compartir fotos, videos o sonidos que puedan ser detectados su origen de modo automatico, más si utilizamos TOR.
 
 Muchas imagenes de cámaras de fotos, celulares, y otros dispositivos y/o programas de edición agregar datos de localización, nombre del autor u otros datos que pueden debelar el origen de las misma.
 Por esto en una publicación anonima hay que borrar los metadatos de cualquier material que los pueda contener.
