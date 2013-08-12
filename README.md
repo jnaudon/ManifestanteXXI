@@ -210,6 +210,7 @@ Sobre todos necesitan tener GNU/Linux hay varias versiones y cada una sirve para
 > * Umap para organizar la accion en la calles
 > * espeak para dar comunicados sin ser descubiertos.
 > * Quitar metadatos a los archivos
+> * Eliminar algo para siempre
 
 ## Coordinación
 
@@ -377,8 +378,8 @@ Este es un parrafo de ejemplo de **markdown**, asi podemos ver como se pone la *
 * Esto es una lista
 </pre>
 
-> # Titulo
-> ## Subtitulo
+> # Ejemplo de Markdown
+> ## Un minitutorial de este formato de marcado
 >
 > Este es un parrafo de ejemplo de **markdown**, asi podemos ver como se pone la *cursiva*
 > * Esto es una lista
@@ -437,6 +438,14 @@ steghide --extract -p "clave segura" -xf archivo_secreto.txt -sf imagen2.jpg
 </pre>
 
 [Manual completo en español](http://steghide.sourceforge.net/documentation/manpage_es.php)
+
+#### Borar archivos para SIEMPRE
+
+Todos los datos que borramos en nuestras computadoras pueden ser recuperables, si queremos asegurarnos que estos se borren de manera definitiva podesmos usar **shred**.
+
+<pre>
+shred -uz -n 10 archivo
+</pre>
 
 # Notas relacionadas
 
