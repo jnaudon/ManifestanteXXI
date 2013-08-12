@@ -186,7 +186,11 @@ Termino quemándose, seguramente, por el calor dentro del dispositivo.
 
 # Inteligencia DIY
 
-![poster de inteligencia]()
+![poster de inteligencia](...)
+
+Para soportar toda la actividad en las calles se necesita de varios equipos de inteligencia que coordinen y retransmitan todo lo que 
+ocurre creando medios de comunicación tanto para difundir como para coordinar. 
+Sobre todos necesitan tener GNU/Linux hay varias versiones y cada una sirve para las diferentes actividades que el equipo de coordinación, difusion, organización necestan.
 
 > * Sistema operativo Tails pensado para manifestantes y activistas
 > * Ciboulette para anonimizar la red, usando tecnologia Tor y VPN usado como tunel para anonimizar la navegación
@@ -207,11 +211,30 @@ Termino quemándose, seguramente, por el calor dentro del dispositivo.
 
 ### En las calles
 
-- Umap, Openstreetmap.
+- Umap, Openstreetmap, Barricada.
 
 ### Externa
 
-- IRC (Freenode), XMPP (Cryptocat, Pidgin), Torchat (?)
+Pidgin
+
+- IRC [Freenode](http://freenode.net/)
+- XMPP de **Servidores:** [Riseup](https://riseup.net/es), [Autistici](http://www.autistici.org/es), [Jabberes](http://jabber.es/)
+  - Cryptocat
+- Torchat
+
+### Mensajes
+
+![Interface de Gespeak](img/gespeak.png "Interface de Gespeak")
+
+Anonymous hace tiempo que usa sintetizadores de voz para difundir sus noticias eso es muy bueno por que no es posible reconocer quien habla.
+
+<pre>
+sudo apt-get install gespeak
+</pre>
+
+#### Quehaceres
+
+- Falta un modo de salvar las voces
 
 ## Anonimato
 
@@ -222,7 +245,7 @@ Termino quemándose, seguramente, por el calor dentro del dispositivo.
 
 ### Redes sociales
 
-- Difunsion, coordinacion de ataques a servidores, convocatoria.
+- Difunsión, coordinacion de ataques a servidores, convocatoria.
 
 ### Transmision de Video
 
@@ -232,6 +255,13 @@ Este programa no es muy buena pero tiene scripts interesante: http://gollum.arte
 - https://www.fsf.org/blogs/community/google-free-on2-vp8-for-youtube
 - https://hacks.mozilla.org/2012/03/video-mobile-and-the-open-web/
 - http://www.nomaspatanes.com/2012/04/video-html5-la-guerra-ha-terminado-y.html
+
+#### Quehaceres
+
+- Transmisor de video muy simple
+- Conversor MJPEG + MP3/OGA a OGG
+  - Lo que sea a OGG :P
+- Conversor Feed a OGG (Feed2TV)
 
 ### Transmisión de Radio
 
@@ -288,7 +318,6 @@ salida y de muestreo.
 Mientras se realiza la transmisión es posible monitorear la calidad de la conexión y la cantidad de usuarios conectados en la ventana principal de **IDJC**.
 Algo que podemos hacer para evitar cortes es abrir **preferencias (prefs)** y poner reconexión automática y sin mostrar el cartel de dialogo.
 
-
 # Notas relacionadas
 
 Algunas experiencias relacionadas.
@@ -315,16 +344,17 @@ Se permite el uso comercial de la obra y de las posibles obras derivadas, la dis
 * ~~Agregar NSA++ (http://noscript.net/nsa/)~~
 * ~~Hacer vectores de la mascara anti-lacrimogeno~~
 * Hacer svg interactivo (1/2)
- * Traducir
+* Traducir
 * Referencia a los tutti bianchi que se protegían de los policías
 * Programa para tapar caras en HTML5
 * GNU/Manifest: GNU para manifestante
- * ManifestWRT: versión de OpenWRT para manifestante
-* P2P ver la posibilidad de compartir archivos
+  * ManifestWRT: versión de OpenWRT para manifestante
+* ManifestDroid
+  * P2P ver la posibilidad de compartir archivos
 * [codigos QR](http://f-droid.org/repository/browse/?fdid=com.google.zxing.client.android) da la posibilidad de compartir URL facilmente de pantalla a pantalla
 * [mapeo de datos](http://f-droid.org/repository/browse/?fdid=at.univie.sensorium.o3gm) no se que onda
 
-# Donaciones ❤ 
+# Donaciones ❤
 
 * [Dinero Mail](https://argentina.dineromail.com/Shop/Shop_Ingreso.asp?NombreItem=Donativo&TipoMoneda=1&PrecioItem=50%2E00&E_Comercio=205889&NroItem=-&image_url=http%3A%2F%2F&DireccionExito=http%3A%2F%2F&DireccionFracaso=http%3A%2F%2F&DireccionEnvio=1&Mensaje=1) (Argentina, Brasil, Chile y México)
 * Carga credito, como en un celular, en **mi modem 3G** para transmitir en vivo: (+5411) 3246-5497 (empresa "Claro")
