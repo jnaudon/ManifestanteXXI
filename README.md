@@ -198,7 +198,7 @@ Sobre todos necesitan tener GNU/Linux hay varias versiones y cada una sirve para
 > * Difusión con bots para redes sociales
 > * Icecast e IDJC para transmitir television y [radios](#transmisión-de-radio)
 > * [Feed2tv]() herramienta para crear canales de televisión de modo muy simple
-> * Chat publico en IRC y crytocat a travez de la red Tor
+> * Pidgin para chatear en IRC, Jabber, crytocat, ChatTor o usar TOR para anonimizar
 > * Servidor hogareño hecho con viejas maquinas
 > * Umap para organizar la accion en la calles
 > * espeak para dar comunicados sin ser descubiertos.
@@ -209,34 +209,21 @@ Sobre todos necesitan tener GNU/Linux hay varias versiones y cada una sirve para
 ### Interna
 
 - Bounjour, LibreVPN.
-- IRC (Freenode), XMPP (Pidgin)
-
-### En las calles
-
-- Umap, Openstreetmap, Barricada.
 
 ### Externa
-
-Pidgin
 
 - IRC [Freenode](http://freenode.net/)
 - XMPP de **Servidores:** [Riseup](https://riseup.net/es), [Autistici](http://www.autistici.org/es), [Jabberes](http://jabber.es/)
   - Cryptocat
 - Torchat
 
-### Mensajes
+### En las calles
 
-![Interface de Gespeak](img/gespeak.png "Interface de Gespeak")
-
-Anonymous hace tiempo que usa sintetizadores de voz para difundir sus noticias eso es muy bueno por que no es posible reconocer quien habla.
-
-<pre>
-sudo apt-get install gespeak
-</pre>
+- Umap, Openstreetmap, Barricada.
 
 ## Anonimato
 
-- Tor, tails, VPN, proxys, Darknet, LibreVPN.
+- Tor, Tails, VPN, Proxys, Darknet, LibreVPN.
 
 ### Instalar TOR
 
@@ -258,10 +245,6 @@ sudo apt-get install vidalia
 - Tengo que ver como funciona
 
 ## Difusión
-
-### Redes sociales
-
-- Difunsión, coordinacion de ataques a servidores, convocatoria.
 
 ### Transmision de Video
 
@@ -341,31 +324,50 @@ Muchos hacktivistas fueron detenidos por los metadatos de sus fotos, conviene po
 ### Archivos de audio o video
 
 <pre>
-convert *  -strip
 </pres>
+
+### Redes sociales
+
+Difunsión, coordinacion de "ataques" a servidores, convocatoria.
+
+#### LOIC
+
+#### Convocatorias
+
+### Mensajes al publico
+
+![Interface de Gespeak](img/gespeak.png "Interface de Gespeak")
+
+Anonymous hace tiempo que usa sintetizadores de voz para difundir sus noticias y campañas. 
+Esto es muy bueno por que no es posible reconocer quien habla, a la vez se puede programar mensajes automáticos para enviar mensajes al publico.
+
+<pre>
+sudo apt-get install gespeaker espeak mbrola mbrola-voice-es 
+</pre>
 
 ### Archivos de imagen
 
 <pre>
-convert nombre_archivo.png  -strip
+convert -strip nombre_archivo.png nombre_archivo.png
 </pres>
 
 #### Todos los archivos de un directorio
 
 <pre>
-convert *  -strip
+convert -strip *
 </pres>
 
 ### Textos
 
-Conviene no usar ningun tipo de archivos de texto como DOC, PDF, RTF.
+Conviene NO usar ningun tipo de archivos de texto como DOC, DOCX, PDF, RTF.
 
 #### Markdown
 
-- pasties
-- texto plano
-- markdown
-- html
+#### HTML
+
+#### Publicacion anonima
+
+- [Pasties](http://pastebin.com)
 
 # Notas relacionadas
 
