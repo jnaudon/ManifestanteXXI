@@ -350,13 +350,13 @@ sudo apt-get install gespeaker espeak mbrola mbrola-voice-es
 
 <pre>
 convert -strip nombre_archivo.png nombre_archivo.png
-</pres>
+</pre>
 
 #### Todos los archivos de un directorio
 
 <pre>
 convert -strip *
-</pres>
+</pre>
 
 ### Textos
 
