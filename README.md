@@ -376,11 +376,11 @@ Siempre conviene utilizar textos "planos" el mas común es TXT.
 - [Pasties](http://pastebin.com) Muchos no guardan "logs" pensando en la publicaciones anonimas aun asi conviene usarlos con TOR
 - Publicar Base64 en tinyURL
 
-#### Enviar datos cifrados de carpetas
+#### Cifrados de una carpeta
 
 Cifrar una carpeta con todos su contenido de manera ocultar a cualquier persona que acceda fisicamente a nuestra computadora.
 	
-![Cryptkeeper](img/encfs/cryptkeeper.png "Crptkeeper")
+![Cryptkeeper](img/cryptkeeper.png "Crptkeeper en el menu de notificaciones")
 
 <pre>
 sudo apt-get install cryptkeeper
@@ -388,13 +388,10 @@ sudo apt-get install cryptkeeper
 
 Luego podemos correr **Cryptkeeper** desde el menu (Aplicaciones -> Herramientas del sistema -> Cryptkeeper).
 En el panel de notificaciones tendrán un nuevo icono con unas llaves, pulsan con el botón izquierdo del ratón y seleccionan: "New encrypted folder".
-Se les abrirá un cuadro de diálogo en el que deberán introducir el nombre y el destino de la carpeta a cifrar. 
-Les va a pedir una contraseña para esa carpeta. 
-Cryptkeeper ha montado esa carpeta como un disco. 
-Podes usar ese disco de la manera en que usas todos los otros mientras esté montado.
-Para desmontarlo, tenes que pulsar con el botón izquierdo de nuevo sobre las llaves de la bandeja de notificación y desmarcar la carpeta marcada.
+Se les abrirá un cuadro de diálogo en el que deberán introducir el nombre y el destino de la carpeta a cifrar, y luego presionar el boton "Forward" y poner la contraseña dos veces.
 
-Y en las Preferencias de la aplicación podes configurar el tiempo que queres que tu carpeta se mantenga montada.
+Para desmontarlo solo hay que usar el menu en el panel de notificaciones.
+En las Preferencias de la aplicación (boton derecho sobre el icono) podes configurar el tiempo que queres que tu carpeta se mantenga montada.
 Esto es muy útil, pues sirve para cuando te olvidas de desmontarla y/o tuviste que salir con urgencia.
 
 #### Ocultar un mensaje dentro de una imagen
@@ -423,8 +420,6 @@ steghide --extract -p "clave segura" -xf archivo_secreto.txt -sf imagen2.jpg
 </pre>
 
 [Manual completo en español](http://steghide.sourceforge.net/documentation/manpage_es.php)
-
-
 
 # Notas relacionadas
 
