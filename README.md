@@ -382,7 +382,7 @@ Este es un parrafo de ejemplo de **markdown**, asi podemos ver como se pone la *
 * Esto es una lista
 * Esto es una lista
 
-Para conocer [más de markdown](http:// "Descripción del enlace")
+Para conocer [más de markdown](textos/markdown.md "Descripción del enlace")
 </pre>
 
 ###### Resultado
@@ -393,7 +393,7 @@ Para conocer [más de markdown](http:// "Descripción del enlace")
 > Este es un parrafo de ejemplo de **markdown**, asi podemos ver como se pone la *cursiva*
 > * Esto es una lista
 > * Esto es una lista
-> Para conocer [más de markdown](http:// "Descripción del enlace")
+> Para conocer [más de markdown](textos/markdown.md "Descripción del enlace")
 
 #### HTML
 

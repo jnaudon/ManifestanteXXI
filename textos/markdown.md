@@ -34,7 +34,7 @@ Dentro de cualquier línea de texto podemos agregar negritas o itálicas, para h
 
 Par convertir el texto en negritas, a diferencia de las itálicas, debemos agregar dos caracteres, ya sean asteriscos o guiones bajos.
 
-    En este otro texto __marcamos estas palabras con negritas__.
+    En este otro texto **marcamos estas palabras con negritas**.
 
 ### Líneas Horizontales `<hr />`
 
