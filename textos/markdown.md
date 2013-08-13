@@ -266,33 +266,25 @@ fila, por lo que también esta tabla también sería válida.
     2 | $200 | $320
     3 | $5 | $50000
 
-Adicionalmente, se pueden agregar elementos MarkDown que no sean de
-bloque, como negritas, énfasis, enlaces, imágenes, etc.
+Adicionalmente, se pueden agregar elementos MarkDown que no sean de bloque, como negritas, énfasis, enlaces, imágenes, etc.
 
 ### Elementos HTML
 
-Las etiquetas que pueden ir dentro de párrafos o elementos de
-bloque, simplemente se escriben dentro del texto, pueden ser `<a>`,
+Las etiquetas que pueden ir dentro de párrafos o elementos de bloque, simplemente se escriben dentro del texto, pueden ser `<a>`, 
 `<img>`, `<sub>`, `<sup>`, `<code>`, etcétera.
 
     Si no queremos utilizar la sintaxis de MarkDown, podemos incluir imágenes o enlaces como si se tratara de HTML, o incluso podríamos escribir <code> código entre etiquetas</code>
 
-En MarkDown podemos agregar etiquetas HTML como `<div>`, `<p>`,
-`<table>`, o incluso etiquetas de HTML5 como `<section>`,
-`<header>`, `<footer>`, que nos permiten enriquecer el formato,
-para ello sólo es necesario seguir la siguiente regla:
-*Debe de existir una separación antes y después del texto de al menos una línea*.
+En MarkDown podemos agregar etiquetas HTML como `<div>`, `<p>`, `<table>`, o incluso etiquetas de HTML5 como `<section>`, `<header>`, 
+`<footer>`, que nos permiten enriquecer el formato, para ello sólo es necesario seguir la siguiente regla: *Debe de existir una 
+separación antes y después del texto de al menos una línea*.
 
 ### Elementos HTML en MarkDown Extra
 
-Aunque con MarkDown es posible agregar etiquetas, el texto que
-queda dentro no es interpretado, pero en MarkDown Extra no existe
-esta restricción, siempre y cuando se agregue el atributo
-`markdown=1`, y en el caso del plugin de WordPress, es necesario
-incluir `markdown="block"`. Al respecto creo que como los atributos
-`required=required`, también se pueden escribir `required`, me
-parece que debería de aceptarse como válido el atributo
-`markdown`.
+Aunque con MarkDown es posible agregar etiquetas, el texto que queda dentro no es interpretado, pero en MarkDown Extra no existe esta 
+restricción, siempre y cuando se agregue el atributo `markdown=1`, y en el caso del plugin de WordPress, es necesario incluir 
+`markdown="block"`. Al respecto creo que como los atributos `required=required`, también se pueden escribir `required`, me parece que 
+debería de aceptarse como válido el atributo `markdown`.
 
     <section class="excerpt" markdown="1">
     Este texto también puede interpretarlo MarkDown, podemos escribir __negritas__, o algún otro elemento no de bloque. El artibuto `markdown="1"`se elemina y se mantiene la clase.
@@ -300,9 +292,9 @@ parece que debería de aceptarse como válido el atributo
 
 El texto anterior nos da como resultado:
 
-Este texto también puede interpretarlo MarkDown, podemos escribir
-\*\*negritas\*\*, o algún otro elemento no de bloque. El artibuto
+Este texto también puede interpretarlo MarkDown, podemos escribir \*\*negritas\*\*, o algún otro elemento no de bloque. El artibuto 
 \`markdown="1"\`se elemina y se mantiene la clase.
+
 ### Aspectos a considerar
 
 En ocasiones MarkDown se pueden confundir los distintos elementos
@@ -313,21 +305,22 @@ debemos anteponer una diagonal invertida `\`. Los caracteres
 especiales son:
 
 
-## Carácter
-Nombre \\ \
-Diagonal Invertida \` \
-Acento Invertido (backt tick) \_ \
-Guión bajo \* \
-Asterisco [] \
-Corchetes\* {} \
-Curly braces\* () \
-Paréntesis\* ! \
-Signo de Exclamación\* \# \
-Signo de número\*\* + \
-Signo de más\*\* - \
-Guión o signo de menos\*\* . \
-Punto? : \
-Dos Puntos\*\*\* | \
+Carácter | Escribir
+---------------------
+Nombre | \\
+Diagonal Invertida | \`
+Acento Invertido (backt tick) | \_
+Guión bajo | \*
+Asterisco | []
+Corchetes\* | {}
+Curly braces\* | ()
+Paréntesis\* | !
+Signo de Exclamación\* | \#
+Signo de número\*\* | +
+Signo de más\*\* | -
+Guión o signo de menos\*\* | .
+Punto? | : 
+Dos Puntos\*\*\* | 
 
 ## Herramientas
 
