@@ -306,7 +306,7 @@ especiales son:
 
 
 Carácter | Escribir
----------------------
+-------- | ---------
 Nombre | \\
 Diagonal Invertida | \`
 Acento Invertido (backt tick) | \_
