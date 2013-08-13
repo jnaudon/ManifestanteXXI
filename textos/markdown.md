@@ -312,39 +312,24 @@ listas. Si queremos mostrar algún carácter reservado para MarkDown,
 debemos anteponer una diagonal invertida `\`. Los caracteres
 especiales son:
 
-Carácter
-Nombre
-\\
-Diagonal Invertida
-\`
-Acento Invertido (backt tick)
-\_
-Guión bajo
-\*
-Asterisco
-[]
-Corchetes\*
-{}
-Curly braces\*
-()
-Paréntesis\*
-!
-Signo de Exclamación\*
-\#
-Signo de número\*\*
-+
-Signo de más\*\*
--
-Guión o signo de menos\*\*
-.
-Punto?
-:
-Dos Puntos\*\*\*
-|
-Pipa\*\*\*
 
+## Carácter
+Nombre \\ \
+Diagonal Invertida \` \
+Acento Invertido (backt tick) \_ \
+Guión bajo \* \
+Asterisco [] \
+Corchetes\* {} \
+Curly braces\* () \
+Paréntesis\* ! \
+Signo de Exclamación\* \# \
+Signo de número\*\* + \
+Signo de más\*\* - \
+Guión o signo de menos\*\* . \
+Punto? : \
+Dos Puntos\*\*\* | \
 
 ## Herramientas
 
-Plugin para Wordpress: [WP Markdown](http://wordpress.org/extend/plugins/wp-markdown/).
-
+* Pandoc
+* Plugin para Wordpress: [WP Markdown](http://wordpress.org/extend/plugins/wp-markdown/).
