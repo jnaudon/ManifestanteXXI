@@ -426,7 +426,7 @@ Colocará tanto el archivo con la información, por ejemplo un documento de text
 Este programa solo sirve para ocultar archivos JPG, BMP, WAV y AU.
 
 <pre>
-steghide --embed -p "clave segura" -cf imagen.jpg -ef archivo_secreto.txt 
+steghide --embed -p "clave segura" -K -z -N -cf imagen.jpg -ef archivo_secreto.txt 
 </pre>
 
 _**Nota** la clave NUNCA debe pasarse junto al archivo. Las claves SIEMPRE deben ser transmitidas de un modo seguro._
@@ -438,6 +438,32 @@ steghide --extract -p "clave segura" -xf archivo_secreto.txt -sf imagen2.jpg
 </pre>
 
 [Manual completo en español](http://steghide.sourceforge.net/documentation/manpage_es.php)
+
+#### Cifrado de archivos
+
+[Introducción]
+
+_**Nota:** Esto se pueden enviar adjuntos en una imagen o sonido._
+
+<pre>
+apt-get install mcrypt
+</pre>
+
+##### Emisor
+
+<pre>
+mcrypt archivo.txt -z -u -k "clave segura"
+</pre>
+
+Nos pedirá la clave dos veces y una ves introducidas cifrara el archivo agregando la extensión `.nc`
+
+##### Receptor
+
+<pre>
+mdecrypt archivo.txt.nc -k "clave segura"
+</pre>
+
+Tendra que conocer la clave de antemano, recuerda que esta tiene que ser enviada de un modo seguro y NUNCA en el mismo modo que el archivo.
 
 #### Borar archivos para SIEMPRE
 
