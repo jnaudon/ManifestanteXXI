@@ -1,21 +1,15 @@
-## Qué es MarkDown
-
-Comencemos con la definición que tiene la
-[Wikipedia](http://es.wikipedia.org/wiki/Markdown):
+## Qué es Markdown
 
 > Markdown es un lenguaje de marcado ligero creado originalmente por [John Gruber](http://daringfireball.net/) y [Aaron 
 > Swartz](http://es.wikipedia.org/wiki/Aaron_Swartz) que trata de conseguir la máxima legibilidad y "publicabilidad" tanto en sus forma 
 > de entrada como de salida, usando texto plano. Markdown convierte el texto marcado en documentos XHTML bien formados.
 
-Lo interesante de este *lenguaje* es que permite leer documentos en su forma original o ya convertidos a HTML, siendo mucho más fácil 
-su edición comparado con escribir directamente en HTML, otra ventaja es que es muy rápido escribir en MarkDown puesto que no tenemos 
-que quitar las manos del teclado, por lo que considero que el uso de este tipo de lenguajes es la mejor opción para escribir contenidos 
-para la WEB. En este blog, por ejemplo, utilizo [MarkDown](http://daringfireball.net/projects/markdown/syntax) para escribir mis posts 
-gracias al plugin [WP Markdown](http://wordpress.org/extend/plugins/wp-markdown/). La siguiente será una revisión un algo exahustiva de 
-la sintaxis para escribir en MarkDown, la versión oficial en inglés pueden encontrarla en el [sitio de John 
-Gruber](http://daringfireball.net/projects/markdown/syntax).
+Lo interesante de este *lenguaje* es que permite leer documentos en su forma original o convertirlo facilmente en otros formatos como 
+HTML, siendo mucho más fácil su edición comparado con escribir directamente en HTML, otra ventaja es que es muy rápido escribir en 
+MarkDown puesto que no tenemos que quitar las manos del teclado, por lo que considero que el uso de este tipo de lenguajes es la mejor 
+opción para escribir contenidos para la WEB. 
 
-## Sintaxis de MarkDown
+## Sintaxis de Markdown
 
 Existen varias versiones de MarkDown, después de su publicación en 2004, Michel Fortin desarrolló una versión extendida en PHP: 
 MarkDown PHP Extra, que permitió agregar algunos elementos. En este artículo revisaré ambas, ya que la versión de Fortin ha sido 
@@ -86,7 +80,7 @@ respectivamente en la siguiente línea:
     Encabezado 2
     ---
 
-### \# Encabezados con `id`
+### Encabezados con `id`
 
 En PHP Extra también podemos incluir el *id* si lo incluimos después del título entre llaves y anteponiendo el signo de número `{#id}`
 
@@ -116,7 +110,7 @@ para lo cual agregamos un signo por cada nivel. Y también otros listas, código
 Los hipervínculos son parte esencial del hipertexto, y me parece que MarkDown tiene una sintaxis muy sencilla e intuitiva para 
 agregarlos, podemos decir que existen dos estilos: *en línea* y *por referencia*.
 
-### \# En línea
+### En línea
 
 Los enlaces se declaran dentro del mismo párrafo, el texto del enlace se escribe entre corchetes `[ ]` mientras que la URL se escribe 
 inmediatamente después entre paréntesis `()`, adicicionalmente se puede agregar el atributo `title`, si se escribe inmediatamente 
@@ -126,7 +120,7 @@ después de la URL entre comillas `""`.
 
 El inconveniente es que se puede perde un poco el hilo de la lectura y para evitarlo podemos utilizar el siguiente estilo.
 
-### \# Por referencia
+### Por referencia
 
 Funciona parecido a las notas al pié y la sintaxis es muy parecida al estilo *en línea*. En cualquier párrafo se agrega el texto del 
 enlace entre corchetes `[ ]` y seguido, también entre corchetes un identificador, generalmente un número:
@@ -235,7 +229,7 @@ envuelto en acentos `` ` ``.
 
     En este texto, por ejemplo, las etiquetas como `blockquote` y `em`, cuando se interpretan van dentro de la etiqueta "code".
 
-### \# Código en MarkDown Extra
+### Código en MarkDown Extra
 
 En MarkDown Extra no tenemos que preocuparnos por indentar el
 código de bloque con cuatro espacios, puesto que nos ofrece otra
@@ -289,7 +283,7 @@ En MarkDown podemos agregar etiquetas HTML como `<div>`, `<p>`,
 para ello sólo es necesario seguir la siguiente regla:
 *Debe de existir una separación antes y después del texto de al menos una línea*.
 
-### \# Elementos HTML en MarkDown Extra
+### Elementos HTML en MarkDown Extra
 
 Aunque con MarkDown es posible agregar etiquetas, el texto que
 queda dentro no es interpretado, pero en MarkDown Extra no existe
@@ -348,4 +342,9 @@ Punto?
 Dos Puntos\*\*\*
 |
 Pipa\*\*\*
+
+
+## Herramientas
+
+Plugin para Wordpress: [WP Markdown](http://wordpress.org/extend/plugins/wp-markdown/).
 

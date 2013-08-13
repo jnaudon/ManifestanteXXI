@@ -333,7 +333,7 @@ Difunsión, coordinacion de "ataques" a servidores, convocatoria.
 
 ##### LOIC
 
-#### Mensajes al publico
+##### Mensajes al publico
 
 ![Interface de Gespeak](img/gespeak.png "Interface de Gespeak")
 
@@ -344,7 +344,7 @@ Esto es muy bueno por que no es posible reconocer quien habla, a la vez se puede
 sudo apt-get install gespeaker espeak mbrola mbrola-voice-es 
 </pre>
 
-#### Metadatos
+### Metadatos
 
 Muchos hacktivistas fueron detenidos por los metadatos de sus fotos, conviene por las dudas no compartir fotos, videos o sonidos que puedan ser detectados su origen de modo automatico, más si utilizamos TOR.
 Por esto en una publicación anonima hay que borrar los metadatos de cualquier material que los pueda contener.
@@ -363,10 +363,15 @@ Para difundir textos, tanto por su falta de practicidad, como funcionales NO usa
 Siempre conviene utilizar textos "planos" el mas común es TXT, Makrdown y HTML. 
 Que no pueden contener metadatos, y son muy faciles de interpretar.
 
+* como usar textos planos
+* UTF8
+
 #### Markdown
 
 Markdown es un lenguaje de marcado ligero que trata de conseguir la máxima legibilidad y "publicabilidad" tanto en sus forma de entrada como de salida.
 Basicamente es un texto plano (TXT) con algunos simbolos para marcar titulos, subtitulos, negrita, cursiva, etc.
+
+##### Ejemplo
 
 <pre>
 # Titulo
@@ -376,7 +381,11 @@ Este es un parrafo de ejemplo de **markdown**, asi podemos ver como se pone la *
 
 * Esto es una lista
 * Esto es una lista
+
+Para conocer [más de markdown](http:// "Descripción del enlace")
 </pre>
+
+###### Resultado
 
 > # Ejemplo de Markdown
 > ## Un minitutorial de este formato de marcado
@@ -384,6 +393,7 @@ Este es un parrafo de ejemplo de **markdown**, asi podemos ver como se pone la *
 > Este es un parrafo de ejemplo de **markdown**, asi podemos ver como se pone la *cursiva*
 > * Esto es una lista
 > * Esto es una lista
+> Para conocer [más de markdown](http:// "Descripción del enlace")
 
 #### HTML
 
