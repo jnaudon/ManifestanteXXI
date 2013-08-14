@@ -83,7 +83,7 @@ Los **proxys** nos permite pasar por internet sin que nadie pueda ver que estamo
 La versión para Android se llama [Orbot](https://f-droid.org/repository/browse/?fdfilter=browser&fdid=org.torproject.android), nos permite navegar con [Orweb](https://f-droid.org/repository/browse/?fdfilter=browser&fdid=info.guardianproject.browser), chatear de anónimo y seguro con [Gibberbot](https://guardianproject.info/apps/gibber/) y buscar en [Duck Duck GO](http://f-droid.org/repository/browse/?fdfilter=duck&fdid=se.johanhil.duckduckgo).
 
 Los **túneles** nos permite pasar por la red sin que se pueda ver que estamos haciendo, como su nombre lo dice, generamos un _"túnel"_ dentro de la red y salimos por otro de modo anónimo. 
-Hay que tener en cuenta que la maquina de salida a diferencia de **Tor** conoce el lugar de procedencia, siendo que nuestra conección es directa, por ende tenemos que confiar en él.
+Hay que tener en cuenta que la maquina de salida a diferencia de **tor** conoce el lugar de procedencia, siendo que nuestra conección es directa, por ende tenemos que confiar en él.
 Podemos usar la VPN de Riseup descargando [Open VPN setting](http://f-droid.org/repository/browse/?fdfilter=openvpn&fdid=de.schaeuffelhut.android.openvpn) y [configurandolo](https://help.riseup.net/es/openvpn-android) para Android.
 
 Los **filtros** más simple que podemos usar son los de publicidad como [Adblock](https://f-droid.org/repository/browse/?fdfilter=adblock&fdid=org.adblockplus.android) quita la publicidad de las paginas web, aunque parezca algo trivial mejora muchísimo la velocidad de navegación, y al igual que [NoScript](http://noscript.net/nsa/) que nos permite mejorar la seguridad de nuestra navegación por la web.
@@ -223,7 +223,7 @@ Sobre todos necesitan tener GNU/Linux hay varias versiones y cada una sirve para
 > * Difusión con bots para redes sociales
 > * Icecast e IDJC para transmitir television y [radios](#transmisión-de-radio)
 > * [Feed2tv]() herramienta para crear canales de televisión de modo muy simple
-> * Pidgin para chatear en IRC, Jabber, crytocat, ChatTor o usar TOR para anonimizar
+> * Pidgin para chatear en IRC, Jabber, crytocat, Chattor o usar Tor para anonimizar
 > * Servidor hogareño hecho con viejas maquinas
 > * Umap para organizar la accion en la calles
 > * espeak para dar comunicados sin ser descubiertos.
@@ -326,7 +326,7 @@ En los IRC suelen usarse palabras propias de este tipo de servicio y muchas fuer
 
 - XMPP de **Servidores:** [Riseup](https://riseup.net/es), [Autistici](http://www.autistici.org/es), [Jabberes](http://jabber.es/)
   - Cryptocat
-- Torchat
+- torchat
 
 ### En las calles
 
@@ -334,15 +334,15 @@ En los IRC suelen usarse palabras propias de este tipo de servicio y muchas fuer
 
 ## Anonimato
 
-- Tor, Tails, VPN, Proxys, Darknet, LibreVPN.
+- tor, Tails, VPN, Proxys, Darknet, LibreVPN.
 
-### TOR
+### tor
 
-Tor es un conjunto de Proxy's que rebotan nuestros paquetes entre ellos hasta llegar al destino, de esta manera, si con un Proxy 
-estamos casi Anonimizados, usando la Red Tor, tenemos un 99,9% de anonimato. Al ser un conjunto de Proxys, tampoco será efectivo el 
-ataque DDoS convinandolo con Tor.
+tor es un conjunto de Proxy's que rebotan nuestros paquetes entre ellos hasta llegar al destino, de esta manera, si con un Proxy 
+estamos casi Anonimizados, usando la Red tor, tenemos un 99,9% de anonimato. Al ser un conjunto de Proxys, tampoco será efectivo el 
+ataque **DDoS** convinandolo con tor.
 
-_**Nota:** NO usar para nada que necesite cuenta (redes sociales, mail, foros). Excepto que estan fuesen creadas con la misma red TOR_
+_**Nota:** NO usar para nada que necesite cuenta _(redes sociales, mail, foros)_. Excepto que estan fuesen creadas con la misma red tor_
 
 #### Instalación simple
 
@@ -352,24 +352,24 @@ sudo apt-get install vidalia
 	
 ![panel de control de vidalia](img/vidalia.png "Panel de control de Vidalia")
 
-#### Navegar con TOR
+#### Navegar con tor
 
-El navegador [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) debe descargarse de la pagina oficial, por lo general no esta en los repositorios del sistema.
+El navegador [tor Browser](https://www.torproject.org/projects/torbrowser.html.en) debe descargarse de la pagina oficial, por lo general no esta en los repositorios del sistema.
 
-#### Botón de TOR
+#### Botón de tor
 
 <pre>
 sudo apt-get install torbutton-extension
 </pre>
 
-Que aparecera en nuestro navegador. Tambien esta la opcion del [Botón de TOR](https://www.torproject.org/torbutton/index.html.en).
+Que aparecera en nuestro navegador. Tambien esta la opcion del [Botón de tor](https://www.torproject.org/torbutton/index.html.en).
 
-### Chatear con TOR
+### Chatear con tor
 
 - Ejemplo de como configurar Pidgin
-- Ejemplo de TorChat
+- Ejemplo de torChat
 
-### LOIC con TOR
+### LOIC con tor
 
 - Tengo que ver como funciona
 
@@ -466,7 +466,7 @@ sudo apt-get install gespeaker espeak mbrola mbrola-voice-es
 
 ### Metadatos
 
-Muchos hacktivistas fueron detenidos por los metadatos de sus fotos, conviene por las dudas no compartir fotos, videos o sonidos que puedan ser detectados su origen de modo automatico, más si utilizamos TOR.
+Muchos hacktivistas fueron detenidos por los metadatos de sus fotos, conviene por las dudas no compartir fotos, videos o sonidos que puedan ser detectados su origen de modo automatico, más si utilizamos tor.
 Por esto en una publicación anonima hay que borrar los metadatos de cualquier material que los pueda contener.
 
 A la vez, nosotros, podemos usar la misma tecnologia para conocer el origen de los materiales digitales que conseguimos.
@@ -479,7 +479,7 @@ convert -strip nombre_archivo.png nombre_archivo.png
 
 ### Textos
 
-Para difundir textos, tanto por su falta de practicidad, como funcionales NO usar DOC, DOCX, PDF, RTF.
+Para difundir textos, tanto por su falta de practicidad, como funcionales **NO** usar doc, docx o pdf.
 Siempre conviene utilizar textos "planos" el mas común es TXT, Makrdown y HTML. 
 Que no pueden contener metadatos, y son muy faciles de interpretar.
 
@@ -521,7 +521,7 @@ Para conocer [más de markdown](textos/markdown.md "Descripción del enlace")
 
 #### Publicación anonima
 
-- [Pasties](http://pastebin.com) Muchos no guardan "logs" pensando en la publicaciones anonimas aun asi conviene usarlos con TOR
+- [Pasties](http://pastebin.com) Muchos no guardan "logs" pensando en la publicaciones anonimas aun asi conviene usarlos con tor
 - Publicar Base64 en tinyURL
 
 #### Cifrados de una carpeta
