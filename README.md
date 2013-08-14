@@ -38,9 +38,9 @@ En Android podemos usar el programas [ObscuraCam](https://guardianproject.info/a
 
 ![Diseño de volante](img/poster.png "Como diseñar un volante")
 
-Un volante para que sea facíl de leer tiene que expresar facilmente una problematica, proponer una acción concreta.
-Tiene que decir, donde, cuando y como nos tenemos que manifestar.
-Usar valores de alto contraste para soportar fotocopias.
+Un volante tiene que ser facíl de leer, expresar facilmente una problematica, proponer una acción concreta.
+Tiene que decir, donde, cuando y como nos tenemos que manifestar o que es lo que se necesita hacer.
+Usar valores de alto contraste (blanco y negro) para soportar fotocopias.
 Para diseñarlo podemos usar [Inkscape](http://inkscape.org).
 
 ## Errores más comunes
@@ -339,7 +339,7 @@ En los IRC suelen usarse palabras propias de este tipo de servicio y muchas fuer
 
 - XMPP de **Servidores:** [Riseup](https://riseup.net/es), [Autistici](http://www.autistici.org/es), [Jabberes](http://jabber.es/)
   - Cryptocat
-- torchat
+- Torchat
 
 ### En las calles
 
@@ -347,15 +347,15 @@ En los IRC suelen usarse palabras propias de este tipo de servicio y muchas fuer
 
 ## Anonimato
 
-- tor, Tails, VPN, Proxys, Darknet, LibreVPN.
+- Tor, Tails, VPN, Proxys, Darknet, LibreVPN.
 
-### tor
+### Tor
 
-tor es un conjunto de Proxy's que rebotan nuestros paquetes entre ellos hasta llegar al destino, de esta manera, si con un Proxy 
-estamos casi Anonimizados, usando la Red tor, tenemos un 99,9% de anonimato. Al ser un conjunto de Proxys, tampoco será efectivo el 
-ataque **DDoS** convinandolo con tor.
+Tor es un conjunto de Proxy's que rebotan nuestros paquetes entre ellos hasta llegar al destino, de esta manera, si con un Proxy 
+estamos casi Anonimizados, usando la Red Tor, tenemos un 99,9% de anonimato. Al ser un conjunto de Proxys, tampoco será efectivo el 
+ataque **DDoS** convinandolo con Tor.
 
-_**Nota:** NO usar para nada que necesite cuenta _(redes sociales, mail, foros)_. Excepto que estan fuesen creadas con la misma red tor_
+_**Nota:** NO usar para nada que necesite cuenta _(redes sociales, mail, foros)_. Excepto que estan fuesen creadas con la misma red Tor_
 
 #### Instalación simple
 
@@ -365,24 +365,24 @@ sudo apt-get install vidalia
 	
 ![panel de control de vidalia](img/vidalia.png "Panel de control de Vidalia")
 
-#### Navegar con tor
+#### Navegar con Tor
 
 El navegador [tor Browser](https://www.torproject.org/projects/torbrowser.html.en) debe descargarse de la pagina oficial, por lo general no esta en los repositorios del sistema.
 
-#### Botón de tor
+#### Botón de Tor
 
 <pre>
 sudo apt-get install torbutton-extension
 </pre>
 
-Que aparecera en nuestro navegador. Tambien esta la opcion del [Botón de tor](https://www.torproject.org/torbutton/index.html.en).
+Que aparecera en nuestro navegador. Tambien esta la opcion del [Botón de Tor](https://www.torproject.org/torbutton/index.html.en).
 
-### Chatear con tor
+### Chatear con Tor
 
 - Ejemplo de como configurar Pidgin
-- Ejemplo de torChat
+- Ejemplo de TorChat
 
-### LOIC con tor
+### LOIC con Tor
 
 - Tengo que ver como funciona
 
@@ -479,7 +479,7 @@ sudo apt-get install gespeaker espeak mbrola mbrola-voice-es
 
 ### Metadatos
 
-Muchos hacktivistas fueron detenidos por los metadatos de sus fotos, conviene por las dudas no compartir fotos, videos o sonidos que puedan ser detectados su origen de modo automatico, más si utilizamos tor.
+Muchos hacktivistas fueron detenidos por los metadatos de sus fotos, conviene por las dudas no compartir fotos, videos o sonidos que puedan ser detectados su origen de modo automatico, más si utilizamos Tor.
 Por esto en una publicación anonima hay que borrar los metadatos de cualquier material que los pueda contener.
 
 A la vez, nosotros, podemos usar la misma tecnologia para conocer el origen de los materiales digitales que conseguimos.
@@ -534,7 +534,7 @@ Para conocer [más de markdown](textos/markdown.md "Descripción del enlace")
 
 #### Publicación anonima
 
-- [Pasties](http://pastebin.com) Muchos no guardan "logs" pensando en la publicaciones anonimas aun asi conviene usarlos con tor
+- [Pasties](http://pastebin.com) Muchos no guardan "logs" pensando en la publicaciones anonimas aun asi conviene usarlos con Tor
 - Publicar Base64 en tinyURL
 
 #### Cifrados de una carpeta
