@@ -34,24 +34,24 @@ En Android podemos usar el programas [ObscuraCam](https://guardianproject.info/a
 * Solo compartir fotos de manifestaciones con rostro borrados
 * Borrar datos de localización y metadatos de las fotos. 
 
-# Publicidad
+# Volantes y Poster
 
 ![Diseño de volante](img/poster.png "Como diseñar un volante")
 
-Un volante para que sea facíl de leer, proponer una acción concreta.
+Un volante para que sea facíl de leer tiene que expresar facilmente una problematica, proponer una acción concreta.
 Tiene que decir, donde, cuando y como nos tenemos que manifestar.
 Usar valores de alto contraste para soportar fotocopias.
 Para diseñarlo podemos usar [Inkscape](http://inkscape.org).
 
 ## Errores más comunes
 
-- Volviendose demaciado extenso
+- Ser demaciado extenso
 - Contar detalles innecesarios o muy puntuales
-- Un volante NO es un diario
 - Poner imagenes de fondo
+- NO proponer acciones, lo cual deja al lector imposibilitado a participar
 - Usar grises y al fotocopiarlo se vea feo 
-- No proponer acciones, lo cual deja al lector imposibilitado a participar
-- Que el formato no soperte varios tamaños diferentes
+- Un volante NO es un diario
+- Que el formato no soperte impresiones a varios tamaños
 
 ## Engrudo
 
