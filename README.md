@@ -34,6 +34,25 @@ En Android podemos usar el programas [ObscuraCam](https://guardianproject.info/a
 * Solo compartir fotos de manifestaciones con rostro borrados
 * Borrar datos de localización y metadatos de las fotos. 
 
+# Publicidad
+
+## Programa para generar poster
+
+
+
+## Engrudo
+
+En una olla disolver la harina en un poco de agua, hasta que no haya grumos y luego añadir la otra revolviendo para integrar ambos 
+ingredientes. Llevar la preparación a fuego suave y revolver con cuchara de madera. Continuar revolviendo hasta que comience a hervir y 
+en ese momento, retirar del fuego. Dejar enfriar.
+
+_**Nota:** puede hacerse sin cocinar._
+
+### Ingredientes
+
+* 100 gramos de harina
+* 1 litro de agua fría
+
 # Protección para documentos con RFID
 
 Los sistemas [SUBE](textos/SUBE.md), [AFA plus](textos/AFA.md) y los nuevos DNI dan la posibilidad identificar a personas a distancia. La tarjeta SUBE genera un registro de todos los viajes que realiza, violando el derecho a la privacidad, y los guarda en una base de datos controlada por la Secretaría de Transporte. En algunos países ya se a usado este sistema para identificar manifestantes, ya que los lectores de RFID pueden ser leídos a la distancia, como puede verse en el documental "[La Police Totale](http://websuterfuge.free.fr/rfid.html)"
@@ -228,6 +247,12 @@ Es una red local con alcance mundial.
 
 #### IRC
 
+* Topic.- Es el mensaje de entrada del canal, en el se anuncia el Target y varios enlaces e información de interes, por favor, antes de preguntar, echa un vistazo al Topic.
+* Kick.- Patada, quiere decir que has sido expulsado del canal, puedes volver a entrar de nuevo, pero vigila los modales, puesto que la próxima vez, podría ser un baneo.
+* Baneo.- Expulsión del chat, puede ser permanente o temporal, depende de la gravedad de la infracción.
+* Bot.- Usuario del canal automatizado que puede estar programado para varias funciones, desde kikear o banear por utilizar mayúsculas, por repetir un mensaje muchas veces, por usar colores... Los bots también pueden avisarte por privado mediante el mensaje que haya programado su dueño...
+* Troll.- Es una persona que entra a un chat, foro o página web de internet, con el fin de provocar mal ambiente, crear discursiones o, simplemente, molestar.
+
 - minimanual de IRC
 - de modo externos se puede usar [Freenode](http://freenode.net/)
 
@@ -245,15 +270,33 @@ Es una red local con alcance mundial.
 
 - Tor, Tails, VPN, Proxys, Darknet, LibreVPN.
 
-### Instalar TOR
+### TOR
+
+Tor es un conjunto de Proxy's que rebotan nuestros paquetes entre ellos hasta llegar al destino, de esta manera, si con un Proxy 
+estamos casi Anonimizados, usando la Red Tor, tenemos un 99,9% de anonimato. Al ser un conjunto de Proxys, tampoco será efectivo el 
+ataque DDoS convinandolo con Tor.
+
+_**Nota:** NO usar para nada que necesite cuenta (redes sociales, mail, foros). Excepto que estan fuesen creadas con la misma red TOR_
+
+#### Instalación simple
 
 <pre>
 sudo apt-get install vidalia
 </pre>
+	
+![panel de control de vidalia](img/vidalia.png "Panel de control de Vidalia")
 
-### Navegar con TOR
+#### Navegar con TOR
 
-[Tor Browser](https://www.torproject.org/projects/torbrowser.html.en)
+El navegador [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) debe descargarse de la pagina oficial, por lo general no esta en los repositorios del sistema.
+
+#### Botòn de TOR
+
+<pre>
+sudo apt-get install torbutton-extension
+</pre>
+
+Que aparecera en nuestro navegador. Tambien esta la opcion del [Botón de TOR](https://www.torproject.org/torbutton/index.html.en).
 
 ### Chatear con TOR
 
@@ -460,7 +503,6 @@ steghide --extract -p "clave segura" -xf archivo_secreto.txt -sf imagen2.jpg
 </pre>
 
 [Manual completo en español](http://steghide.sourceforge.net/documentation/manpage_es.php)
-
 
 
 #### Cifrado de mesajes

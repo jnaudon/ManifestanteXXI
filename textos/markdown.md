@@ -1,4 +1,4 @@
-## Qué es Markdown
+# Qué es Markdown
 
 > Markdown es un lenguaje de marcado ligero creado originalmente por [John Gruber](http://daringfireball.net/) y [Aaron 
 > Swartz](http://es.wikipedia.org/wiki/Aaron_Swartz) que trata de conseguir la máxima legibilidad y "publicabilidad" tanto en sus forma 
@@ -51,7 +51,7 @@ ellas muy gráficas.
     
     ---------
 
-### Abreviaturas\*
+### Abreviaturas
 
 En MarkDown extra es posible crear abreviaturas, para ello es necesario declararlas, y cada vez que se utilice la palabra MarkDown 
 automáticamente creará un abreviatura
@@ -142,7 +142,7 @@ Y se define después como:
 
     [Ejemplo]: http://example.com "Mensaje del título"
 
-### Notas al Pie\*
+### Notas al Pie
 
 Las notas al pie son tratadas como hipervínculos, pero dentro del mismo documento, en MarkDown Extra, ponemos dentro del texto nuestra 
 referencia con un identificador, generalmente número, precedido por un acento circunflejo y encerrado entre corchetes: `[^]`. La 
@@ -198,7 +198,7 @@ párrafos, el único aspecto importante es respetar el carácter con
 que comienza cada línea. Información más detallada en la
 [documentación oficial](http://daringfireball.net/projects/markdown/syntax).
 
-### Listas de Definición\*
+### Listas de Definición
 
 Un gran aporte de MarkDwon Extra son las listas de definición
 `<dl>`, que nos permiten definir palabras frases parecido a un
@@ -245,7 +245,7 @@ antes y después del código, sin que MarkDown las elimine.
     echo ('es más fácil');
     ~~~
 
-### Tablas\*
+### Tablas
 
 MarkDown Extra, nos permite crear tablas sencillas. La sintaxis me
 parece muy acertada pues visualmente tenemeos una tabla, con lo que
@@ -312,15 +312,15 @@ Diagonal Invertida | \`
 Acento Invertido (backt tick) | \_
 Guión bajo | \*
 Asterisco | []
-Corchetes\* | {}
-Curly braces\* | ()
-Paréntesis\* | !
-Signo de Exclamación\* | \#
-Signo de número\*\* | +
-Signo de más\*\* | -
-Guión o signo de menos\*\* | .
+Corchetes | {}
+Curly braces | ()
+Paréntesis | !
+Signo de Exclamación | \#
+Signo de número | +
+Signo de más | -
+Guión o signo de menos | .
 Punto? | : 
-Dos Puntos\*\*\* | 
+Dos Puntos | 
 
 ## Herramientas
 
