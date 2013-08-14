@@ -216,11 +216,23 @@ Sobre todos necesitan tener GNU/Linux hay varias versiones y cada una sirve para
 
 ### Interna
 
-- Bounjour, LibreVPN.
+- Concepto de red local
+
+#### LibreVPN
+
+Es una red local con alcance mundial.
+
+#### Bounjour
+
+- minimanual de bonjour
+
+#### IRC
+
+- minimanual de IRC
+- de modo externos se puede usar [Freenode](http://freenode.net/)
 
 ### Externa
 
-- IRC [Freenode](http://freenode.net/)
 - XMPP de **Servidores:** [Riseup](https://riseup.net/es), [Autistici](http://www.autistici.org/es), [Jabberes](http://jabber.es/)
   - Cryptocat
 - Torchat
@@ -266,7 +278,7 @@ Este programa no es muy buena pero tiene scripts interesante: http://gollum.arte
 #### Quehaceres
 
 - Transmisor de video muy simple
-- Conversor MJPEG + MP3/OGA a OGG
+- Conversor MJPEG + MP3 y/o OGA a OGG
   - Lo que sea a OGG :P
 - Conversor Feed a OGG (Feed2TV)
 
@@ -449,6 +461,18 @@ steghide --extract -p "clave segura" -xf archivo_secreto.txt -sf imagen2.jpg
 
 [Manual completo en español](http://steghide.sourceforge.net/documentation/manpage_es.php)
 
+
+
+#### Cifrado de mesajes
+
+<pre>
+sudo apt-get install gcipher
+</pre>
+
+![Gcipher](img/gcipher.png "Gcipher cifrando un mensaje")
+
+Este programa permite cifrar mensaje para enviarlos por mail.... 
+
 #### Cifrado de archivos
 
 [Introducción]
@@ -482,6 +506,8 @@ Todos los datos que borramos en nuestras computadoras pueden ser recuperables, s
 <pre>
 shred -uz -n 10 archivo
 </pre>
+
+Buscar premail
 
 # Notas relacionadas
 
