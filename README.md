@@ -38,11 +38,13 @@ En Android podemos usar el programas [ObscuraCam](https://guardianproject.info/a
 
 ## Programa para generar poster
 
+
+
 ## Engrudo
 
 En una olla disolver la harina en un poco de agua, hasta que no haya grumos y luego añadir la otra revolviendo para integrar ambos 
 ingredientes. Llevar la preparación a fuego suave y revolver con cuchara de madera. Continuar revolviendo hasta que comience a hervir y 
-en ese momento, retirar del fuego. Dejar enfriar.
+en ese momento, retirar del fuego. Dejar enfriar. Tambien se le puede agregar un poco de sodacaustica que mejora la efectividad del pegamento.
 
 _**Nota:** puede hacerse sin cocinar._
 
@@ -211,7 +213,6 @@ ocurre creando medios de comunicación tanto para difundir como para coordinar.
 Sobre todos necesitan tener GNU/Linux hay varias versiones y cada una sirve para las diferentes actividades que el equipo de coordinación, difusion, organización necestan.
 
 - Conceptos de Logs
-- Cifrado
 - Anonimato real
   - Metadata y datos falsos
   - Impersonalismo
@@ -245,115 +246,63 @@ Es una red local con alcance mundial.
 
 #### IRC
 
-##### Comandos basicos
+##### Comandos básicos
 
 Recuerda que todos los comandos van precedidos de la barra "/" y pueden ser ejecutados en cualquier ventana.
 
-###### Moviéndonos por la Red
-
 Comando      | Descripción                                                    | Ejemplo
 ------------ | -------------------------------------------------------------- | ------------------------------------
-/server      | Nos conecta al servidor de IRC.                                | `/server irc.irc-hispano.org`
-/nick        | Nos permite cambiar nuestro nick por el que le indiquemos.     | `/nick Nombre`
-/list        | Nos muestra la lista de canales disponibles.                   | `/list filtro (opcional)`
-/join        | Nos permite unirnos a un canal en concreto.                    | `/join \#irc-hispano`
-/part        | Nos permite salir de un canal en concreto.                     | `/part \#irc-hispano`
-/partall     | Nos permite salir de todos los canales en los que estemos.     | `/partall`
-/quit        | Nos desconecta del servidor de IRC. Podemos, opcionalmente,    | `/quit Nos vemos en otro momento :)`
+/server      | Nos conecta al servidor de IRC.                                | /server irc.irc-hispano.org
+/nick        | Nos permite cambiar nuestro nick por el que le indiquemos.     | /nick Nombre
+/list        | Nos muestra la lista de canales disponibles.                   | /list filtro (opcional)
+/join        | Nos permite unirnos a un canal en concreto.                    | /join \#irc-hispano
+/part        | Nos permite salir de un canal en concreto.                     | /part \#irc-hispano
+/partall     | Nos permite salir de todos los canales en los que estemos.     | /partall
+/quit        | Nos desconecta del servidor de IRC. Podemos, opcionalmente,    | /quit Nos vemos en otro momento :)
 
 ###### Hablando en la Red
 
 Comando      | Descripción                                                    | Ejemplo
 ------------ | -------------------------------------------------------------- | ------------------------------------
-/query       | Abre un privado con el nick que le indiquemos.                 | `/query Contacto`
-/msg         | Para hablar a un usuario o a un canal.                         | `/msg Contacto hola, ¿qué tal?`
-/amsg        | Envia un mensaje a todos los canales conectados                | `/amsg nos vemos... !quit`
-/notice      | Para mandar un texto en forma de notificación.                 | `/notice Contacto hablame cuando tengas un momento`
-/me          | Nos permite hablar en tercera persona.  	                      | `/me se va a comer y vuelve dentro de un rato`
-/ame         | Envia un mensaje en tercera persona a todos los canales        | `/ame me voy a comer`
+/query       | Abre un privado con el nick que le indiquemos.                 | /query Contacto
+/msg         | Para hablar a un usuario o a un canal.                         | /msg Contacto hola, ¿qué tal?
+/amsg        | Envia un mensaje a todos los canales conectados                | /amsg nos vemos... !quit
+/notice      | Para mandar un texto en forma de notificación.                 | /notice Contacto hablame cuando tengas un momento
+/me          | Nos permite hablar en tercera persona.  	                      | /me se va a comer y vuelve dentro de un rato
+/ame         | Envia un mensaje en tercera persona a todos los canales        | /ame me voy a comer
 
-###### Solicitando Información:
+###### Información
 
--   **/who**  
-    Nos muestra información sobre un canal en el que estemos o sobre un
-    nick.  
-    Ejemplo: /who Groucho  
-    Ejemplo: /who \#amistad
+Comando      | Descripción                                                    | Ejemplo
+------------ | -------------------------------------------------------------- | ------------------------------------
+/who         |  Nos muestra información sobre un canal o un usuario           | /who Groucho  o /who \#amistad
+/whois       |  Nos muestra información más específica sobre un nick.         | /whois Luzdegas
+/help        |  Nos muestra la ayuda interna del mIRC.                        | 
 
--   **/whois**  
-    Nos muestra información más específica sobre un nick.  
-    Ejemplo: /whois Luzdegas
+###### Otros comandos usuales
 
--   **/help**  
-    Nos muestra la ayuda interna del mIRC.
+Comando      | Descripción                                                    | Ejemplo
+------------ | -------------------------------------------------------------- | ------------------------------------
+/away        | Nos permite entrar o salir en el sistema de ausencia.          | /away ahora mismo no estoy porque es la hora de comer
+/ignore      | Permite ignorar a un usuario molesto.                          | /ignore Pepito
+/dccchat     | Permite abrir una conversación privada con otro usuario.       | /dccchat Chenon
+/send        | Permite enviar un archivo a otro usuario.                      | /send Groucho cancion.mp3
+/clear       | Limpia la ventana en la que se ejecuta el comando.             | 
+/clearall    | Limpia todas las ventanas.                                     | 
+/close       | Cierra todos los privados que tengas abiertos.                 | /close -m
+/log         | Activa o desactiva la grabación de la conversación actual.     | /log on/off
 
-###### Siendo Operador de un Canal:
+###### Comandos para operadores 
 
--   **/mode**  
-    Cambia los modos (?) de un canal.  
-    Ejemplo: /mode \#canal +o Groucho
-
--   **/ban**  
-    Pone un ban al nick o la máscara indicada.  
-    Ejemplo: /ban \#canal quiensea
-
--   **/kick**  
-    Expulsa a un usuario de un canal. Podemos, opcionalmente, indicarle
-    un motivo de expulsión.  
-    Ejemplo: /kick \#canal Pepito  
-    Ejemplo: /kick \#canal Pepito No te quiero en este canal.
-
--   **/invite**  
-    Invita a un usuario a entrar en el canal.  
-    Ejemplo: /invite DiGGeR \#madrid
-
--   **/topic**  
-    Nos permite cambiar el TOPIC del canal.  
-    Ejemplo: /topic \#canal Hoy hablamos del tiempo :)
-
--   **/omsg**  
-    Permite enviar un mensaje a todos los Operadores del canal.  
-    Ejemplo: /omsg \#canal Atentos, desde este momento moderamos el
-    canal.
-
--   **/onotice**  
-    Permite enviar una notificación a todos los Operadores del canal.  
-    Ejemplo: /onotice \#canal hoy tenemos pocos usuarios !
-
-###### Otros comandos muy usuales:
-
--   **/away**  
-    Nos permite entrar o salir en el sistema de ausencia.  
-    Ejemplo: /away  
-    Ejemplo: /away ahora mismo no estoy porque es la hora de comer
-
--   **/ignore**  
-    Permite ignorar a un usuario molesto.  
-    Ejemplo: /ignore Pepito
-
--   **/dccchat**  
-    Permite abrir una conversación privada con otro usuario.  
-    Ejemplo: /dccchat Chenon
-
--   **/send**  
-    Permite enviar un archivo a otro usuario.  
-    Ejemplo: /send  
-    Ejemplo: /send Groucho cancion.mp3
-
--   **/clear**  
-    Limpia la ventana en la que se ejecuta el comando.
-
--   **/clearall**  
-    Limpia todas las ventanas.
-
--   **/close -m**  
-    Cierra todos los privados que tengas abiertos.
-
--   **/timestamp on/off**  
-    Activa o desactiva la marca de tiempo durante las conversaciones.
-
--   **/log on/off**  
-    Activa o desactiva la grabación de la conversación actual.
+Comando      | Descripción                                                    | Ejemplo
+------------ | -------------------------------------------------------------- | ------------------------------------
+/mode        | Cambia los modos (?) de un canal.                              | /mode \#canal +o Groucho
+/ban         | Pone un ban al nick o la máscara indicada.                     | /ban \#canal quiensea
+/kick        | Expulsa a un usuario de un canal.                              | /kick \#canal Pepito No te quiero en este canal.
+/invite      | Invita a un usuario a entrar en el canal.                      | /invite DiGGeR \#madrid
+/topic       | Nos permite cambiar el TOPIC del canal.                        | /topic \#canal Hoy hablamos del tiempo :)
+/omsg        | Envia un mensaje a todos los Operadores del canal.             | /omsg \#canal Atentos, desde este momento moderamos el canal.
+/onotice     | Envia una notificación a todos los Operadores del canal.       | /onotice \#canal hoy tenemos pocos usuarios !
 
 ##### Glosario
 
@@ -400,7 +349,7 @@ sudo apt-get install vidalia
 
 El navegador [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) debe descargarse de la pagina oficial, por lo general no esta en los repositorios del sistema.
 
-#### Botòn de TOR
+#### Botón de TOR
 
 <pre>
 sudo apt-get install torbutton-extension
@@ -480,8 +429,7 @@ Luego corresponde configurar el formato de salida.
 Poner los **metadatos (metadata)** en blanco, los reproductores todavía no soportan metadatos en **OGG**.
 Si la colección de temas se encuentra en diferentes formatos, **IDJC** lo convierte todo al formato y calidad seleccionados.
 
-**¡Importante!:** a menor calidad, mayor ancho de banda disponible. Si la conexión es lenta ( **3G** por ejemplo) conviene bajar la calidad de 
-salida y de muestreo.
+**¡Importante!:** a menor calidad, mayor ancho de banda disponible. Si la conexión es lenta ( **3G** por ejemplo) conviene bajar la calidad de salida y de muestreo.
 
 ¡Para comenzar a transmitir presionar el botón **Conectar (Connect)**!
 
