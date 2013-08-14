@@ -246,9 +246,12 @@ Es una red local con alcance mundial.
 
 #### IRC
 
+![IRC en el pidgin](img/irc.png "IRC en el pidgin")
+
+
 ##### Comandos básicos
 
-Recuerda que todos los comandos van precedidos de la barra "/" y pueden ser ejecutados en cualquier ventana.
+Recuerda que todos los comandos van precedidos de la barra `/` y pueden ser ejecutados en cualquier ventana.
 
 Comando      | Descripción                                                    | Ejemplo
 ------------ | -------------------------------------------------------------- | ------------------------------------
@@ -304,7 +307,9 @@ Comando      | Descripción                                                    |
 /omsg        | Envia un mensaje a todos los Operadores del canal.             | /omsg \#canal Atentos, desde este momento moderamos el canal.
 /onotice     | Envia una notificación a todos los Operadores del canal.       | /onotice \#canal hoy tenemos pocos usuarios !
 
-##### Glosario
+##### Terminologia
+
+En los IRC suelen usarse palabras propias de este tipo de servicio y muchas fueron apropiadas para toda la web como **troll**, acá una lista de las mas comunes.
 
 * **Topic (Tema)** Es el mensaje de entrada del canal, en el se anuncia el objetivo y varios enlaces e información de interes, por favor, antes de preguntar, echa un vistazo al Topic.
 * **Kick (Patear)** Quiere decir que has sido expulsado del canal, puedes volver a entrar de nuevo, pero vigila los modales, puesto que la próxima vez, podría ser un baneo.
@@ -313,7 +318,9 @@ Comando      | Descripción                                                    |
 * **Troll** Es una persona que entra a un chat, foro o página web de internet, con el fin de provocar mal ambiente, crear discursiones o, simplemente, molestar.
 * **Lurker** Que viene a mirar y no participa, muchas veces con mala intención.
 
+
 - de modo externos se puede usar [Freenode](http://freenode.net/)
+
 
 ### Externa
 
