@@ -221,9 +221,8 @@ Termino quemándose, seguramente, por el calor dentro del dispositivo.
 
 ![poster de inteligencia](...)
 
-Para soportar toda la actividad en las calles se necesita de varios equipos de inteligencia que coordinen y retransmitan todo lo que 
-ocurre creando medios de comunicación tanto para difundir como para coordinar. 
-Sobre todos necesitan tener GNU/Linux hay varias versiones y cada una sirve para las diferentes actividades que el equipo de coordinación, difusion, organización necestan.
+Para soportar toda la actividad en las calles se necesita de varios equipos de inteligencia que coordinen y retransmitan todo lo que ocurre creando medios de comunicación tanto para difundir como para coordinar. 
+Sobre todos necesitan tener **GNU/Linux** hay varias versiones y cada una sirve para las diferentes actividades que el equipo de coordinación, difusion, organización necestan.
 
 - Conceptos de Logs
 - Anonimato real
@@ -260,7 +259,6 @@ Es una red local con alcance mundial.
 #### IRC
 
 ![IRC en el pidgin](img/irc.png "IRC en el pidgin")
-
 
 ##### Comandos básicos
 
@@ -507,14 +505,12 @@ Basicamente es un texto plano (TXT) con algunos simbolos para marcar titulos, su
 ##### Ejemplo
 
 <pre>
-# Titulo
-## Subtitulo
+# Ejemplo de Markdown
+## Un minitutorial de este formato de marcado
 
 Este es un parrafo de ejemplo de **markdown**, asi podemos ver como se pone la *cursiva*
-
 * Esto es una lista
 * Esto es una lista
-
 Para conocer [más de markdown](textos/markdown.md "Descripción del enlace")
 </pre>
 
