@@ -249,69 +249,28 @@ Es una red local con alcance mundial.
 
 Recuerda que todos los comandos van precedidos de la barra "/" y pueden ser ejecutados en cualquier ventana.
 
-###### Moviéndonos por la Red:
+###### Moviéndonos por la Red
 
--   **/server**  
-    Nos conecta al servidor de IRC.  
-    Ejemplo: /server irc.irc-hispano.org
+Comando      | Descripción                                                    | Ejemplo
+------------ | -------------------------------------------------------------- | ------------------------------------
+/server      | Nos conecta al servidor de IRC.                                | `/server irc.irc-hispano.org`
+/nick        | Nos permite cambiar nuestro nick por el que le indiquemos.     | `/nick Nombre`
+/list        | Nos muestra la lista de canales disponibles.                   | `/list filtro (opcional)`
+/join        | Nos permite unirnos a un canal en concreto.                    | `/join \#irc-hispano`
+/part        | Nos permite salir de un canal en concreto.                     | `/part \#irc-hispano`
+/partall     | Nos permite salir de todos los canales en los que estemos.     | `/partall`
+/quit        | Nos desconecta del servidor de IRC. Podemos, opcionalmente,    | `/quit Nos vemos en otro momento :)`
 
--   **/nick**  
-    Nos permite cambiar nuestro nick por el que le indiquemos.  
-    Ejemplo: /nick Groucho
+###### Hablando en la Red
 
--   **/list**  
-    Nos muestra la lista de canales disponibles. Podemos,
-    opcionalmente, indicarle un patrón de búsqueda.  
-    Ejemplo: /list  
-    Ejemplo: /list \*granada\*
-
--   **/join**  
-    Nos permite unirnos a un canal en concreto.  
-    Ejemplo: /join \#irc-hispano
-
--   **/part**  
-    Nos permite salir de un canal en concreto.  
-    Ejemplo: /part \#irc-hispano
-
--   **/partall**  
-    Nos permite salir de todos los canales en los que estemos.
-
--   **/hop**  
-    Nos permite salir y volver a entrar de un canal.
-
--   **/quit**  
-    Nos desconecta del servidor de IRC. Podemos, opcionalmente,
-    indicarle un mensaje de salida.  
-    Ejemplo: /quit  
-    Ejemplo: /quit Nos vemos en otro momento :)
-
-###### Hablando en la Red:
-
--   **/msg**  
-    Para hablar a un usuario o a un canal.  
-    Ejemplo: /msg Groucho hola, qué tal ?  
-    Ejemplo: /msg \#irc-hispano hola amigos del canal !
-
--   **/amsg**  
-    Para hablar al mismo tiempo en todos los canales a los que estemos
-    concetados.  
-    Ejemplo: /amsg hola a todos !quit
-
--   **/notice**  
-    Para mandar un texto en forma de notificación.  
-    Ejemplo: /notice GloyD hazme caso cuando tengas un momento
-
--   **/me**  
-    Nos permite hablar en tercera persona.  
-    Ejemplo: /me se va a comer y vuelve dentro de un rato
-
--   **/ame**  
-    Hace lo mismo que el comando anterior, pero en todos los canales a
-    los que estemos conectados.
-
--   **/query**  
-    Abre un privado con el nick que le indiquemos.  
-    Ejemplo: /query Groucho
+Comando      | Descripción                                                    | Ejemplo
+------------ | -------------------------------------------------------------- | ------------------------------------
+/query       | Abre un privado con el nick que le indiquemos.                 | `/query Contacto`
+/msg         | Para hablar a un usuario o a un canal.                         | `/msg Contacto hola, ¿qué tal?`
+/amsg        | Envia un mensaje a todos los canales conectados                | `/amsg nos vemos... !quit`
+/notice      | Para mandar un texto en forma de notificación.                 | `/notice Contacto hablame cuando tengas un momento`
+/me          | Nos permite hablar en tercera persona.  	                      | `/me se va a comer y vuelve dentro de un rato`
+/ame         | Envia un mensaje en tercera persona a todos los canales        | `/ame me voy a comer`
 
 ###### Solicitando Información:
 
@@ -331,7 +290,7 @@ Recuerda que todos los comandos van precedidos de la barra "/" y pueden ser ejec
 ###### Siendo Operador de un Canal:
 
 -   **/mode**  
-    Cambia los modos de un canal.  
+    Cambia los modos (?) de un canal.  
     Ejemplo: /mode \#canal +o Groucho
 
 -   **/ban**  
@@ -403,7 +362,7 @@ Recuerda que todos los comandos van precedidos de la barra "/" y pueden ser ejec
 * **Baneo** Expulsión del chat, puede ser permanente o temporal, depende de la gravedad de la infracción.
 * **Bot** Usuario del canal automatizado que puede estar programado para varias funciones, desde kikear o banear por utilizar mayúsculas, por repetir un mensaje muchas veces, por usar colores... Los bots también pueden avisarte por privado mediante el mensaje que haya programado su dueño...
 * **Troll** Es una persona que entra a un chat, foro o página web de internet, con el fin de provocar mal ambiente, crear discursiones o, simplemente, molestar.
-* **Lurker** Que viene a mirar que se hace pero no participa, muchas veces con mala intención.
+* **Lurker** Que viene a mirar y no participa, muchas veces con mala intención.
 
 - de modo externos se puede usar [Freenode](http://freenode.net/)
 

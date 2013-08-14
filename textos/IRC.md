@@ -78,10 +78,6 @@ Recuerda que todos los comandos van precedidos de la barra "/" y pueden ser ejec
     Nos muestra información más específica sobre un nick.  
     Ejemplo: /whois Luzdegas
 
--   **/ison**  
-    Nos indica si un nick está conectado o no al IRC.  
-    Ejemplo: /ison CHaN
-
 -   **/help**  
     Nos muestra la ayuda interna del mIRC.
 
@@ -152,28 +148,3 @@ Recuerda que todos los comandos van precedidos de la barra "/" y pueden ser ejec
 
 -   **/log on/off**  
     Activa o desactiva la grabación de la conversación actual.
-
- 
-## Registrar tu nick
-
-[![Registra tu nick gratis para chatear en la red del Chat IRC Hispano](/images/stories/dev/sec-regnick.jpg "Registra tu nick gratis 
-para chatear en la red del Chat IRC Hispano")](http://www.irc-hispano.es/regnick "Registra tu nick gratis para chatear en la red del 
-Chat IRC Hispano") Registrando tu nick en el Chat IRC Hispano te asegurarás de que nadie pueda suplantar tu identidad ya que éste 
-quedará protegido con una clave para que solamente tú puedas usarlo. Además tendrás acceso a servicios restringidos únicamente a 
-usuarios registrados. Registrar un nick para chatear es totalmente gratis en IRC-Hispano, puedes hacerlo desde 
-[aquí](http://www.irc-hispano.es/regnick "Registra tu nick gratis para chatear en la red del Chat IRC Hispano").	
-
-## Registrar un canal
-
-![Registra gratis una sala de chat o canal en la red del Chat IRC Hispano](/images/stories/dev/sec-regchan.jpg "Registra gratis una 
-sala de chat o canal en la red del Chat IRC Hispano") Registrar una sala de chat o canal en la red del Chat IRC Hispano es gratis. Para 
-solicitar el registro de un canal o sala de chat deberás hacerlo desde el propio chat, una vez conecta escribe**/msg creg help** . 
-Recuerda que el nombre de un canal siempre comienza por una \# (almohadilla).
-
-## Cambiar IPVIRTUAL
-
-  
-[![Cambiar IP VIRTUAL](/images/stories/dev/sec-ipv.jpg)](http://www.irc-hispano.es/ipv "Crea o cambia gratis tu IPVIRTUAL :: Servicios de la Red del Chat IRC-Hispano")
-
-Desde aqui puedes activar o cambiar gratis tu IP VIRTUAL personalizada para chatear en la red del Chat IRC Hispano. Si quieres, incluso 
-puedes ponerla de colores. Recuerda que solamente podrás efectuar un cambio de IP VIRTUAL cada 24 horas.
