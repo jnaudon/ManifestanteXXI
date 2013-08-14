@@ -36,9 +36,22 @@ En Android podemos usar el programas [ObscuraCam](https://guardianproject.info/a
 
 # Publicidad
 
-## Programa para generar poster
+![Diseño de volante](img/poster.png "Como diseñar un volante")
 
+Un volante para que sea facíl de leer, proponer una acción concreta.
+Tiene que decir, donde, cuando y como nos tenemos que manifestar.
+Usar valores de alto contraste para soportar fotocopias.
+Para diseñarlo podemos usar [Inkscape](http://inkscape.org).
 
+## Errores más comunes
+
+- Volviendose demaciado extenso
+- Contar detalles innecesarios o muy puntuales
+- Un volante NO es un diario
+- Poner imagenes de fondo
+- Usar grises y al fotocopiarlo se vea feo 
+- No proponer acciones, lo cual deja al lector imposibilitado a participar
+- Que el formato no soperte varios tamaños diferentes
 
 ## Engrudo
 
