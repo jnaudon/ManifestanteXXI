@@ -43,9 +43,7 @@ Tiene que decir, donde, cuando y como nos tenemos que manifestar o que es lo que
 Usar valores de alto contraste (blanco y negro) para soportar fotocopias.
 Para diseñarlo podemos usar [Inkscape](http://inkscape.org). Y el formato que usemos tiene que servir para hacer posters y volantes.
 
-### Que formatos usar
-
-Para diseñarlo lo mejor es usar SVG y para imprimirlo PDF o JPG (no menores a 5000px de ancho o alto)
+Para diseñarlo lo mejor es usar **SVG **y para imprimirlo **PDF** o **JPG** como minimo 5000px de ancho o alto.
 
 ### Errores más comunes
 
