@@ -1,0 +1,24 @@
+#!/bin/bash
+#
+#	Cifrado de mensaje en un archivo de imagen o audio
+#
+
+ARCHIVO=`zenity --title "Elige una imagen para contener el mensaje" --file-selection`
+k=`zenity --title "Clave" --text "Introduce la clave" --entry`
+
+if [ ! "$ARCHIVO" == "" ]; then
+	if [ "$(echo $ARCHIVO | grep '\.nc$')" ]; then
+		# descifra
+		mcrypt -d "$ARCHIVO" -k "$k"
+	else
+		# a="-a `mcrypt --list | sed 's/\ .*$//' | zenity --title "Mcrypt" --text "Elige el metodo de cifrado" --list --column "" --hide-header'`
+		# cifra
+		mcrypt $d -z "$ARCHIVO" -k "$k"
+	fi
+fi
+
+exit
+
+# Quehaceres
+
+- ver si son buenos los otros cifrados
