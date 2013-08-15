@@ -17,7 +17,7 @@
 > * [Linterna estroboscópica](#linterna-estroboscopica) para calmar a las fieras
 > * Protección para [identificaciones con RFID](#proteccin-para-documentos-con-rfid)
 
-# Reconocimiento facial
+## Reconocimiento facial
 
 En el 2011 Cristina Fernández de Kirchner emitió un Decreto ordenando la creación del Sistema Federal de Identificación Biométrica ([SIBIOS](textos/SIBIOS.md)), un servicio de identificación biométrica centralizado, con cobertura nacional, que permitirá a las agencias de seguridad hacer "referencias cruzadas" de información con datos biométricos, con la posibilidad de vincular el sistema de registro facial obtenido a través de las cámaras de vigilancia en la vía pública con las imágenes obtenidas a través de sistema SIBIOS.
 
@@ -27,14 +27,14 @@ El reconocimiento de rostros es cada más simple y barato, por ejemplo en la Ciu
 
 En Android podemos usar el programas [ObscuraCam](https://guardianproject.info/apps/obscuracam/) que oculta las caras de forma automática.
 
-## ¿Que podemos hacer?
+### ¿Que podemos hacer?
 
 * Bloquear o deshabilitar las cámaras de seguridad
 * No etiquetar fotos en redes sociales
 * Solo compartir fotos de manifestaciones con rostro borrados
 * Borrar datos de localización y metadatos de las fotos. 
 
-# Volantes y Poster
+## Volantes y Poster
 
 ![Diseño de volante](img/poster.png "Como diseñar un volante")
 
@@ -43,7 +43,7 @@ Tiene que decir, donde, cuando y como nos tenemos que manifestar o que es lo que
 Usar valores de alto contraste (blanco y negro) para soportar fotocopias.
 Para diseñarlo podemos usar [Inkscape](http://inkscape.org).
 
-## Errores más comunes
+### Errores más comunes
 
 - Ser demaciado extenso
 - Contar detalles innecesarios o muy puntuales
@@ -53,7 +53,7 @@ Para diseñarlo podemos usar [Inkscape](http://inkscape.org).
 - Un volante NO es un diario
 - Que el formato no soperte impresiones a varios tamaños
 
-## Engrudo
+### Engrudo
 
 En una olla disolver la harina en un poco de agua, hasta que no haya grumos y luego añadir la otra revolviendo para integrar ambos 
 ingredientes. Llevar la preparación a fuego suave y revolver con cuchara de madera. Continuar revolviendo hasta que comience a hervir y 
@@ -61,12 +61,12 @@ en ese momento, retirar del fuego. Dejar enfriar. Tambien se le puede agregar un
 
 _**Nota:** puede hacerse sin cocinar._
 
-### Ingredientes
+#### Ingredientes
 
 * 100 gramos de harina
 * 1 litro de agua fría
 
-# Protección para documentos con RFID
+## Protección para documentos con RFID
 
 Los sistemas [SUBE](textos/SUBE.md), [AFA plus](textos/AFA.md) y los nuevos DNI dan la posibilidad identificar a personas a distancia. La tarjeta SUBE genera un registro de todos los viajes que realiza, violando el derecho a la privacidad, y los guarda en una base de datos controlada por la Secretaría de Transporte. En algunos países ya se a usado este sistema para identificar manifestantes, ya que los lectores de RFID pueden ser leídos a la distancia, como puede verse en el documental "[La Police Totale](http://websuterfuge.free.fr/rfid.html)"
 
@@ -74,14 +74,14 @@ Los sistemas [SUBE](textos/SUBE.md), [AFA plus](textos/AFA.md) y los nuevos DNI 
 
 > Estuche **anti-RFID**, armado con un tetra pak, bloquea las ondas de radio así no es detectable a larga distancia. En el caso de la tarjeta SUBE para utilizarla hay que sacarla de su estuche. 
 
-## ¿Que podemos hacer?
+### ¿Que podemos hacer?
 
 * No usarlos
 * No renovar el DNI
 * Intercambiar tarjetas SUBE
 * Usar el estuche
 
-# [ManifestDroid](apk/)
+## [ManifestDroid](apk/)
 
 Tanto en las computadoras como los dispositivos portátiles (celulares, pad, tablet, etc) estamos muy mal acostumbrados a comunicarnos de modo inseguro, conectándonos a cualquier red disponible, comunicarnos y navegar sin criptografía, pudiendo cualquier persona cercana a nosotros interceptar lo que estamos haciendo, además de la compañía de celular o internet pueden hacerlo todo el tiempo.
 
@@ -105,7 +105,7 @@ Hay que tener en cuenta que cuantos más seamos usando estos recursos (cifrado, 
 
 Para instalar muchas de estas cosas vamos a necesitar tener [Superuser](https://f-droid.org/repository/browse/?fdfilter=superuser&fdid=org.fdroid.superuser).
 
-## Comunicación segura y coordinación
+### Comunicación segura y coordinación
 
 Una de las grandes ventajas de los policías en una manifestación, es que se encuentran organizados, pueden comunicarse en tiempo real, modificar sus movimientos y planificar en base a lo ocurrido. Para esto cuentan con un grupo dedicado a esta función que esta fuera y dentro de la acción.
 
@@ -122,24 +122,24 @@ Es recomendable **no usar** la red telefónica convencional, pero en caso de nec
 * [RedPhone](http://www.whispersystems.org/) Llamadas con criptografía sobre telefonía móvil.
 * [TextSecure](http://www.whispersystems.org/) SMS con criptografía.
 
-### Difusión con Android
+#### Difusión con Android
 
 * [ObscuraCam](https://guardianproject.info/apps/obscuracam/) protege a los manifestantes borrando sus caras y quita los datos de GPS y modelo de celular cuando compartís sus fotos internet.
 * [Multi Sms](http://f-droid.org/repository/browse/?fdfilter=sms&fdid=com.hectorone.multismssender) enviar SMS en cadena, puede usarse para la difusión previa o comunicarse con teléfonos sin Android.
 * [Wifi Camera](https://f-droid.org/repository/browse/?fdfilter=webcam&fdid=teaonly.droideye) Transmision en vivo y directo de video y audio con tu Android. A través de la red 2G y 3G puede llegar directamente a internet.
 
-### Red libre con Android
+#### Red libre con Android
 
 Muchos dispositivos con Android no son celulares, así que no tienen acceso a internet permanente y en el caso de los celulares internet puede ser interrumpida, limitada o bloqueada, por eso es preferible armar nuestra propia red así podremos chatear con Bounjour, compartir archivos y conectarnos con diversos equipos. Además muchos dispositivos permite compartir internet dentro de la misma red libre usando el 3G.
 
 * [Barnacle Wifi Tether](https://f-droid.org/repository/browse/?fdfilter=Barnacle%20Wifi%20Tether&fdid=net.szym.barnacle) arma tu propia red libre en malla con Android.
 * [Share via HTTP](https://f-droid.org/repository/browse/?fdfilter=share%20via%20http&fdid=com.MarcosDiez.shareviahttp) comparte archivos en la red.
 
-# Gas lacrimógeno
+## Gas lacrimógeno
 
 De verse afectado de forma real o potencial por este tipo de armas, es necesario conocer las medidas utilizadas para mantener el control de la situación.
 
-## Mascara
+### Mascara
 
 ![mascara de contra gras lacrimogeno](planos/mascara.png)
 
@@ -151,14 +151,14 @@ De verse afectado de forma real o potencial por este tipo de armas, es necesario
 
 Generalmente, la "bomba" se puede agarra y lanzar a otra dirección, aunque hay que protegerse las manos con un **paño húmedo grueso** o **guantes** de protección, ya que la bomba se calienta hasta alcanzar altas temperaturas, además, hay que considerar que, quien la tome se verá rodeado de gas momentáneamente.
 
-## Neutralizante
+### Neutralizante
 
 ![neutralizante](planos/lacrimogeno_neutralizante.png)
 
 > Prepare un neutralizador en **un roseador** con agua potable con 5% de **bicarbonato de sodio**.
 > El roseador no tiene que ser mayor que 500cm3 (medio litro) por que se vuelve pesado, difícil de manejar o llevar colgado.
 
-### ¿Que podemos hacer?
+#### ¿Que podemos hacer?
 
 - Rosearse neutralizante en ojos y boca, sin frotar.
 - Protegerse la nariz y la boca con un trapo empapado de vinagre, neutralizante o jugo de limón.
@@ -166,7 +166,7 @@ Generalmente, la "bomba" se puede agarra y lanzar a otra dirección, aunque hay 
 - No llevar lentes de contacto o [usar protección](#mascara).
 - Evitar que el gas alcance los ojos, para ello se pueden llevar preparadas gafas de buceo, una [mascara](#mascara) o en todo caso cerrarlos y llevarlos hacia el suelo, ya que el gas se disipa hacia arriba.
 
-# Linterna estroboscópica
+## Linterna estroboscópica
 
 Estas luces se usa para control mental, inducir al sueño o poner en estado de trance en las velocidades adecuadas producen estado de calma, somnolencia o la sensación de falta de tiempo. 
 En las frecuencias entre _5hz_ a _7hz_ produce un estado de calma, eso es lo que intenta generar el este circuito. Podemos modificar una linterna que use entre 5v a 12v con este circuito, y reutilizar su lamparas LED y baterías.
@@ -181,11 +181,11 @@ _**Nota:** Si usas una mascara anti gas lacrimogeno de color verde podes poner u
 Además podes mejorar el efecto con sonidos binaural amplificado con un megáfono o amplificador. Se puede reproducirlo "debajo" de música o cuando alguien habla en los posible este sonido tiene que ser escuchado inconscientemente.
 Hay un generador para Android llamado [binauralbeat](https://f-droid.org/repository/browse/?fdfilter=binaural&fdid=com.ihunda.android.binauralbeat).
 
-# Laser de alta potencia
+## Laser de alta potencia
 
 Estos se pueden usar para molestar a la vision de los policias (en Brasil) y en turquia casi derriban un helicoptero de monitoreo.
 
-# Mochila WIFI
+## Mochila WIFI
 
 Es un router dentro de una mochila (bolso, cartera, etc) con baterías para sostener su funcionamiento por horas.
 Sirve para mejorar el acceso a la red, compartir contenido, difundir lo que ocurre, tanto con una webcam todo el tiempo y un [portal cautivo](https://es.wikipedia.org/wiki/Portal_cautivo) para los vecinos.
@@ -194,7 +194,7 @@ Sirve para mejorar el acceso a la red, compartir contenido, difundir lo que ocur
 
 _Por ahora falta la documentación, podes leer la experiencia del [Nodo de Guerrilla](https://github.com/b4zz4/NodoDeGuerrilla/) y el 'satelite' hogareño [Mogul](https://github.com/b4zz4/mogul/)._
 
-## Edison Carter
+### Edison Carter
 
 Cámara para transmitir lo que ocurren en el momento en vivo y en directo, a la vez sirve para grabar y publicar.
 
@@ -205,7 +205,7 @@ Cámara para transmitir lo que ocurren en el momento en vivo y en directo, a la 
 Como esta pensada apra salir a la calle y transmitir del modo más economico, usa las redes disponibles, transmite en baja resolucion, en formatos muy simples (JPG, [MJPEG](https://es.wikipedia.org/wiki/MJPEG)), y siempre esta disponible en un portal cautivo. 
 Tiene la posibilidad de contectarlo a 3G pero todavia no ha sido probado.
 
-### Experiencias
+#### Experiencias
 
 **Primera experiencia** con una webcam ZX30.., se conectaba a cualquier red abierta o cerrada, de la que conociera la clave, tomando en cuenta la calidad de la señal y salida a internet. 
 Y con punto de acceso para que los vecinos conozcan la problemática a difundir.
@@ -237,7 +237,7 @@ Sobre todos necesitan tener **GNU/Linux** hay varias versiones y cada una sirve 
 > * Difusión con bots para redes sociales
 > * Icecast e IDJC para transmitir television y [radios](#transmisión-de-radio)
 > * [Feed2tv]() herramienta para crear canales de televisión de modo muy simple
-> * Pidgin para chatear en IRC, Jabber, crytocat, Chattor o usar Tor para anonimizar
+> * Pidgin para chatear en [IRC](#IRC), [Jabber](#Jabber), [Cryptocat](#cryptocat), TorChat o usar Tor para anonimizar
 > * Servidor hogareño hecho con viejas maquinas
 > * Umap para organizar la accion en la calles
 > * espeak para dar comunicados sin ser descubiertos.
@@ -246,23 +246,24 @@ Sobre todos necesitan tener **GNU/Linux** hay varias versiones y cada una sirve 
 
 ## Coordinación
 
-### Interna
+Para organizarse **internamente** necesitamos no generar demaciado trafico transparente en internet.
+Entiendase transparente por cualquier cosa que puede ser guardada en un servidor, tráfico del proveedor de internet o el de mail, red social, IRC, sin usar ningun tipo de cifrado.
+Asi que una de las mejores cosas que podemos hacer es tener una VPN, Darknet y/o metodo de publicación anónimo.
 
-- Concepto de red local
+Nada que pueda ser comunicado en una **red local** debe pasar por una internet. Por eso esta bueno usar [LibreVPN](http://librevpn.org.ar).
+En una red local podemos chatear usando **Bounjour** para chatear entre todos los disponibles en la misma red. Aun asi debemos usar OTR.
 
-#### LibreVPN
+### LibreVPN
 
-Es una red local con alcance mundial.
+LibreVPN es una red local con alcance mundial. Podemos tener nuestros Propios servicios y comprartirlos con nuestros amigos.
 
-#### Bounjour
-
-- minimanual de bonjour
-
-#### IRC
+### IRC
 
 ![IRC en el pidgin](img/irc.png "IRC en el pidgin")
 
-##### Comandos básicos
+Uno de los más populares **servicios de IRC** de modo externos que se puede usar es [Freenode](http://freenode.net/).
+
+#### Comandos básicos
 
 Recuerda que todos los comandos van precedidos de la barra `/` y pueden ser ejecutados en cualquier ventana.
 
@@ -276,7 +277,7 @@ Comando      | Descripción                                                    |
 /partall     | Nos permite salir de todos los canales en los que estemos.     | /partall
 /quit        | Nos desconecta del servidor de IRC. Podemos, opcionalmente,    | /quit Nos vemos en otro momento :)
 
-###### Hablando en la Red
+#### Hablando en la Red
 
 Comando      | Descripción                                                    | Ejemplo
 ------------ | -------------------------------------------------------------- | ------------------------------------
@@ -287,7 +288,7 @@ Comando      | Descripción                                                    |
 /me          | Nos permite hablar en tercera persona.  	                      | /me se va a comer y vuelve dentro de un rato
 /ame         | Envia un mensaje en tercera persona a todos los canales        | /ame me voy a comer
 
-###### Información
+#### Información
 
 Comando      | Descripción                                                    | Ejemplo
 ------------ | -------------------------------------------------------------- | ------------------------------------
@@ -295,7 +296,7 @@ Comando      | Descripción                                                    |
 /whois       |  Nos muestra información más específica sobre un nick.         | /whois Luzdegas
 /help        |  Nos muestra la ayuda interna del mIRC.                        | 
 
-###### Otros comandos usuales
+#### Otros comandos usuales
 
 Comando      | Descripción                                                    | Ejemplo
 ------------ | -------------------------------------------------------------- | ------------------------------------
@@ -308,7 +309,7 @@ Comando      | Descripción                                                    |
 /close       | Cierra todos los privados que tengas abiertos.                 | /close -m
 /log         | Activa o desactiva la grabación de la conversación actual.     | /log on/off
 
-###### Comandos para operadores 
+#### Comandos para operadores 
 
 Comando      | Descripción                                                    | Ejemplo
 ------------ | -------------------------------------------------------------- | ------------------------------------
@@ -320,7 +321,7 @@ Comando      | Descripción                                                    |
 /omsg        | Envia un mensaje a todos los Operadores del canal.             | /omsg \#canal Atentos, desde este momento moderamos el canal.
 /onotice     | Envia una notificación a todos los Operadores del canal.       | /onotice \#canal hoy tenemos pocos usuarios !
 
-##### Terminologia
+#### Terminologia
 
 En los IRC suelen usarse palabras propias de este tipo de servicio y muchas fueron apropiadas para toda la web como **troll**, acá una lista de las mas comunes.
 
@@ -331,19 +332,25 @@ En los IRC suelen usarse palabras propias de este tipo de servicio y muchas fuer
 * **Troll** Es una persona que entra a un chat, foro o página web de internet, con el fin de provocar mal ambiente, crear discursiones o, simplemente, molestar.
 * **Lurker** Que viene a mirar y no participa, muchas veces con mala intención.
 
+### Jabber
 
-- de modo externos se puede usar [Freenode](http://freenode.net/)
+Es un protocolo para chatear que funciona de modo descentralizado y puede comunicarse entre diferentes nodos. 
+El hecho de que sea una servicio descentralizado nos da la posibilidad de tener una cuenta en diferente servidor que nuestro contacto.
+Aunque existen varios servicios cerrados como Facebook, que no nos da la posibilidad de contactar con nadie fuera de este sitio.
 
+Como cliente de chat de **Jabber** podemos usar Pidgin al igual que IRC.
 
-### Externa
+#### Sacar una cuenta
 
-- XMPP de **Servidores:** [Riseup](https://riseup.net/es), [Autistici](http://www.autistici.org/es), [Jabberes](http://jabber.es/)
-  - Cryptocat
-- Torchat
+* [Riseup](https://riseup.net/es)
+* [Autistici](http://www.autistici.org/es)
+* [Jabberes](http://jabber.es/)
 
-### En las calles
+#### Cryptocat
 
-- Umap, Openstreetmap, Barricada.
+![Cryptocat](img/cryptocat.png "Cryptocat en el navegador")
+
+Podemos usar el plugin de [Cryptcat](https://crypto.cat/) para Mozilla o TorBrowser.
 
 ## Anonimato
 
@@ -382,11 +389,15 @@ Que aparecera en nuestro navegador. Tambien esta la opcion del [Botón de Tor](h
 - Ejemplo de como configurar Pidgin
 - Ejemplo de TorChat
 
-### LOIC con Tor
+### Coordinación (Con Tor)
 
-- Tengo que ver como funciona
+- Umap, Openstreetmap, Barricada.
 
 ## Difusión
+
+### LOIC
+
+- Tengo que ver como funciona
 
 ### Transmision de Video
 
