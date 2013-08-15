@@ -41,7 +41,11 @@ En Android podemos usar el programas [ObscuraCam](https://guardianproject.info/a
 Un volante tiene que ser facíl de leer, expresar facilmente una problematica, proponer una acción concreta.
 Tiene que decir, donde, cuando y como nos tenemos que manifestar o que es lo que se necesita hacer.
 Usar valores de alto contraste (blanco y negro) para soportar fotocopias.
-Para diseñarlo podemos usar [Inkscape](http://inkscape.org).
+Para diseñarlo podemos usar [Inkscape](http://inkscape.org). Y el formato que usemos tiene que servir para hacer posters y volantes.
+
+### Que formatos usar
+
+Para diseñarlo lo mejor es usar SVG y para imprimirlo PDF o JPG (no menores a 5000px de ancho o alto)
 
 ### Errores más comunes
 
@@ -51,7 +55,7 @@ Para diseñarlo podemos usar [Inkscape](http://inkscape.org).
 - NO proponer acciones, lo cual deja al lector imposibilitado a participar
 - Usar grises y al fotocopiarlo se vea feo 
 - Un volante NO es un diario
-- Que el formato no soperte impresiones a varios tamaños
+- Que el formato no soperte impresiones a varios tamaños.
 
 ### Engrudo
 
@@ -351,7 +355,7 @@ Como cliente de chat de **Jabber** podemos usar Pidgin al igual que IRC.
 ![Cryptocat](img/cryptocat.png "Cryptocat en el navegador")
 
 Podemos usar [Cryptcat](https://crypto.cat/) un complemento para Mozilla o TorBrowser. 
-Solo tenemos que coordinar en que canal hablar y ¡listo!.
+Solo tenemos que coordinar en que canal hablar y **¡listo!**.
 Esto es muy bueno para coordinarse de modo seguro tanto en grupo y privado.
 Se puede usar la red Tor para mayor seguridad.
 
@@ -365,7 +369,7 @@ Tor es un conjunto de Proxy's que rebotan nuestros paquetes entre ellos hasta ll
 estamos casi Anonimizados, usando la Red Tor, tenemos un 99,9% de anonimato. Al ser un conjunto de Proxys, tampoco será efectivo el 
 ataque **DDoS** convinandolo con Tor.
 
-_**Nota:** NO usar para nada que necesite cuenta _(redes sociales, mail, foros)_. Excepto que estan fuesen creadas con la misma red Tor_
+_**Nota:** NO usar para nada que necesite cuenta (redes sociales, mail, foros), excepto que esta fuese creada con la misma red Tor y NUNCA debes usarla sin Tor_
 
 #### Instalación simple
 
@@ -377,7 +381,7 @@ sudo apt-get install vidalia
 
 #### Navegar con Tor
 
-El navegador [tor Browser](https://www.torproject.org/projects/torbrowser.html.en) debe descargarse de la pagina oficial, por lo general no esta en los repositorios del sistema.
+El navegador [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) debe descargarse de la pagina oficial, por lo general no esta en los repositorios del sistema.
 
 #### Botón de Tor
 
@@ -397,10 +401,6 @@ Que aparecera en nuestro navegador. Tambien esta la opcion del [Botón de Tor](h
 - Umap, Openstreetmap, Barricada.
 
 ## Difusión
-
-### LOIC
-
-- Tengo que ver como funciona
 
 ### Transmision de Video
 
@@ -479,6 +479,9 @@ Difunsión, coordinacion de "ataques" a servidores, convocatoria.
 #### Convocatorias
 
 ##### LOIC
+
+- Tengo que ver como funciona
+- Canales de IRC que usa anonimous
 
 ##### Mensajes al publico
 
@@ -581,7 +584,7 @@ Colocará tanto el archivo con la información, por ejemplo un documento de text
 Este programa solo sirve para ocultar archivos JPG, BMP, WAV y AU.
 
 <pre>
-steghide --embed -p "clave segura" -K -z -N -cf imagen.jpg -ef archivo_secreto.txt 
+steghide --embed -p "clave segura" -K -z 9 -N -cf imagen.jpg -ef archivo_secreto.txt 
 </pre>
 
 _**Nota** la clave NUNCA debe pasarse junto al archivo. Las claves SIEMPRE deben ser transmitidas de un modo seguro._
@@ -594,6 +597,9 @@ steghide --extract -p "clave segura" -xf archivo_secreto.txt -sf imagen2.jpg
 
 [Manual completo en español](http://steghide.sourceforge.net/documentation/manpage_es.php)
 
+###### Quehaceres
+
+* Crear un programa que use la red Tor busque una imagen al azar, la descarge, la modifique, le agrege el mensaje y la publique. Por ejemplo en http://uploadpie.com/
 
 #### Cifrado de mesajes
 
