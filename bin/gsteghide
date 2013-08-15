@@ -1,0 +1,16 @@
+#!/bin/bash
+#
+# piccolo script per nascondere file di testo all'interno di foto jpg
+# wget  http://uploadpie.com/xcTag -qO /tmp/a && steghide --extract -sf /tmp/a -p "" -xf -; shred -uz -n 10 /tmp/a
+
+menu=` zenity --title "Estenografiame" --list --column "" "cifrar" "descrifrar" `
+if [ "$menu" = "cifrar" ]; then
+	b=`zenity --title "Elige una imagen para contener el mensaje" --file-selection --filename='*.jpg, *.png, *.wav, *.au'`
+	if [ "$b" ]; then
+		zenity --title "Mensaje" --text="introduce el mensaje" --entry | steghide embed -ef - -p "" -cf "$b"
+	fi
+else
+	sf=`zenity --title "elije el archivo con el archivo oculto" --file-selection `
+	# p=`zenity --title "Clave" --text "Introduce la clave" --entry`
+	steghide extract -p "" -sf "$sf" -xf - | zenity --text-info
+fi
