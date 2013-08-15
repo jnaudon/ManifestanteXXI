@@ -350,7 +350,10 @@ Como cliente de chat de **Jabber** podemos usar Pidgin al igual que IRC.
 
 ![Cryptocat](img/cryptocat.png "Cryptocat en el navegador")
 
-Podemos usar el plugin de [Cryptcat](https://crypto.cat/) para Mozilla o TorBrowser.
+Podemos usar [Cryptcat](https://crypto.cat/) un complemento para Mozilla o TorBrowser. 
+Solo tenemos que coordinar en que canal hablar y ¡listo!.
+Esto es muy bueno para coordinarse de modo seguro tanto en grupo y privado.
+Se puede usar la red Tor para mayor seguridad.
 
 ## Anonimato
 
