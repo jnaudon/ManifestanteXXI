@@ -1,16 +1,26 @@
 #!/bin/bash
 #
-# piccolo script per nascondere file di testo all'interno di foto jpg
-# wget  http://uploadpie.com/xcTag -qO /tmp/a && steghide --extract -sf /tmp/a -p "" -xf -; shred -uz -n 10 /tmp/a
+#	Cifrado de mensaje en un archivo de imagen o audio
+#
 
-menu=` zenity --title "Estenografiame" --list --column "" "cifrar" "descrifrar" `
+menu=` zenity --title "Estenografiame" --text "¿Que queres hacer?" --list --column "" --hide-header "cifrar" "descrifrar" `
 if [ "$menu" = "cifrar" ]; then
-	b=`zenity --title "Elige una imagen para contener el mensaje" --file-selection --filename='*.jpg, *.png, *.wav, *.au'`
+	b=`zenity --title "Elige una imagen para contener el mensaje" --file-selection --file-filter='Imagen o Audio | *.jpg *.bmp *.wav *.au'`
 	if [ "$b" ]; then
-		zenity --title "Mensaje" --text="introduce el mensaje" --entry | steghide embed -ef - -p "" -cf "$b"
+		p=`zenity --title "Clave" --text "Introduce la clave" --entry`
+		zenity --title "Mensaje" --text="introduce el mensaje" --entry | steghide embed -ef - -p "$p" -cf "$b"
 	fi
 else
 	sf=`zenity --title "elije el archivo con el archivo oculto" --file-selection `
-	# p=`zenity --title "Clave" --text "Introduce la clave" --entry`
-	steghide extract -p "" -sf "$sf" -xf - | zenity --text-info
+	p=`zenity --title "Clave" --text "Introduce la clave" --entry`
+	steghide extract -p "$p" -sf "$sf" -xf - | zenity --text-info
 fi
+
+exit
+
+# Quehaceres
+
+- restringir extensiones de entrada
+- opcion de entrada como URL
+- opcion de publicacion
+- opcion para cifrar otro tipo de archivos, que no sean textos
