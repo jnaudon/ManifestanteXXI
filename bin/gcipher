@@ -3,7 +3,7 @@
 #	con en bash de gcipher pero mas efectivo
 #
 
-menu=` zenity --title "Estenografiame" --text "¿Que queres hacer?" --list --column "" --hide-header "cifrar" "descrifrar" `
+menu=` zenity --title "Mensajes cifrados" --text "¿Que queres hacer?" --list --column "" --hide-header "cifrar" "descrifrar" ` || exit
 
 # clave
 k=`zenity --title "Clave" --text "Introduce la clave" --entry`
@@ -15,7 +15,7 @@ texto=`zenity --text-info --editable --cancel-label=$men`
 if [ ! "$texto" = "" ]; then
 	if [ "$menu" = "cifrar" ]; then
 		# cifrado
-		m=` echo "texto" | mcrypt - -k "$k" -F | base64 -w0`
+		m=`echo "texto" | mcrypt - -k "$k" -F | base64 -w0`
 		# lo guarda en la papelera
 		echo $m | xsel -b
 	else

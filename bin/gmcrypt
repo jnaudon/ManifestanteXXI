@@ -3,7 +3,7 @@
 #	Cifrado de mensaje en un archivo de imagen o audio
 #
 
-ARCHIVO=`zenity --title "Elige una imagen para contener el mensaje" --file-selection`
+ARCHIVO=`zenity --title "Elige el archivo a cifrar o descifrar" --file-selection` || exit
 k=`zenity --title "Clave" --text "Introduce la clave" --entry`
 
 if [ ! "$ARCHIVO" == "" ]; then
@@ -11,9 +11,11 @@ if [ ! "$ARCHIVO" == "" ]; then
 		# descifra
 		mcrypt -d "$ARCHIVO" -k "$k"
 	else
+		# metodo de cifrado
 		# a="-a `mcrypt --list | sed 's/\ .*$//' | zenity --title "Mcrypt" --text "Elige el metodo de cifrado" --list --column "" --hide-header'`
+
 		# cifra
-		mcrypt $d -z "$ARCHIVO" -k "$k"
+		mcrypt -z "$ARCHIVO" -k "$k"
 	fi
 fi
 

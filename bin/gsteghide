@@ -1,18 +1,25 @@
 #!/bin/bash
 #
-#	Cifrado de mensaje en un archivo de imagen o audio
+#	Mensaje cifrado dentro de un archivo de audio o imagen
 #
 
-menu=` zenity --title "Estenografiame" --text "¿Que queres hacer?" --list --column "" --hide-header "cifrar" "descrifrar" `
-if [ "$menu" = "cifrar" ]; then
-	b=`zenity --title "Elige una imagen para contener el mensaje" --file-selection --file-filter='Imagen o Audio | *.jpg *.bmp *.wav *.au'`
-	if [ "$b" ]; then
-		p=`zenity --title "Clave" --text "Introduce la clave" --entry`
-		zenity --title "Mensaje" --text="introduce el mensaje" --entry | steghide embed -ef - -p "$p" -cf "$b"
-	fi
-else
-	sf=`zenity --title "elije el archivo con el archivo oculto" --file-selection `
+# cifrado o descifrado
+menu=`zenity --title "Estenografiame" --text "¿Que queres hacer?" --list --column "" --hide-header "cifrar" "descrifrar"`
+if [ "$menu" == "cifrar" ]; then
+	# --- cifrado ---
+	# archivo
+	b=`zenity --title "Elige una imagen para contener el mensaje" --file-selection --file-filter='Imagen o Audio | *.jpg *.bmp *.wav *.au'` || exit
+	# clave
 	p=`zenity --title "Clave" --text "Introduce la clave" --entry`
+	# introduccion del mensaje
+	zenity --title "Mensaje" --text="introduce el mensaje" --entry | steghide embed -ef - -p "$p" -cf "$b"
+else
+	# --- descifrado ---
+	# archivo
+	sf=`zenity --title "elije el archivo con el archivo oculto" --file-selection ` || exit
+	# clave
+	p=`zenity --title "Clave" --text "Introduce la clave" --entry`
+	# mensaje descifrado
 	steghide extract -p "$p" -sf "$sf" -xf - | zenity --text-info
 fi
 
