@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-#	con en bash de gcipher pero mas efectivo
+#	bash de gcipher pero mas efectivo
 #
 
 menu=` zenity --title "Mensajes cifrados" --text "¿Que queres hacer?" --list --column "" --hide-header "cifrar" "descrifrar" ` || exit

@@ -36,14 +36,15 @@ En Android podemos usar el programas [ObscuraCam](https://guardianproject.info/a
 
 ## Volantes y Poster
 
-![Diseño de volante](img/poster.png "Como diseñar un volante")
-
 Un volante tiene que ser facíl de leer, expresar facilmente una problematica, proponer una acción concreta.
 Tiene que decir, donde, cuando y como nos tenemos que manifestar o que es lo que se necesita hacer.
 Usar valores de alto contraste (blanco y negro) para soportar fotocopias.
-Para diseñarlo podemos usar [Inkscape](http://inkscape.org). Y el formato que usemos tiene que servir para hacer posters y volantes.
 
-Para diseñarlo lo mejor es usar **SVG **y para imprimirlo **PDF** o **JPG** como minimo 5000px de ancho o alto.
+
+![Diseño de volante](img/poster.png "Como diseñar un volante")
+
+> Para diseñarlo podemos usar [Inkscape](http://inkscape.org). Y el formato que usemos tiene que servir para hacer posters y volantes. \
+> Para diseñarlo lo mejor es usar **SVG** y para imprimirlo **PDF** o **JPG** como minimo 5000px de ancho o alto.
 
 ### Errores más comunes
 
@@ -348,6 +349,8 @@ Como cliente de chat de **Jabber** podemos usar Pidgin al igual que IRC.
 * [Autistici](http://www.autistici.org/es)
 * [Jabberes](http://jabber.es/)
 
+## Anonimato
+
 #### Cryptocat
 
 ![Cryptocat](img/cryptocat.png "Cryptocat en el navegador")
@@ -356,10 +359,6 @@ Podemos usar [Cryptcat](https://crypto.cat/) un complemento para Mozilla o TorBr
 Solo tenemos que coordinar en que canal hablar y **¡listo!**.
 Esto es muy bueno para coordinarse de modo seguro tanto en grupo y privado.
 Se puede usar la red Tor para mayor seguridad.
-
-## Anonimato
-
-- Tor, Tails, VPN, Proxys, Darknet, LibreVPN.
 
 ### Tor
 
@@ -380,14 +379,6 @@ sudo apt-get install vidalia
 #### Navegar con Tor
 
 El navegador [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) debe descargarse de la pagina oficial, por lo general no esta en los repositorios del sistema.
-
-#### Botón de Tor
-
-<pre>
-sudo apt-get install torbutton-extension
-</pre>
-
-Que aparecera en nuestro navegador. Tambien esta la opcion del [Botón de Tor](https://www.torproject.org/torbutton/index.html.en).
 
 ### Chatear con Tor
 
@@ -478,8 +469,11 @@ Difunsión, coordinacion de "ataques" a servidores, convocatoria.
 
 ##### LOIC
 
-- Tengo que ver como funciona
-- Canales de IRC que usa anonimous
+Es un ataque de denegación de servicio del objetivo enviando una gran cantidad de paquetes TCP, paquetes UDP o peticiones HTTP con objeto de determinar cuál es la cantidad de peticiones por segundo que puede resolver la red objetivo antes de dejar de funcionar.
+
+Nosotros vamos a usar JSLOIC qe es facil de difundir.
+
++ Hacer una version html5 con pycryptocat + irc en nc + proxychains
 
 ##### Mensajes al publico
 
@@ -642,6 +636,8 @@ Todos los datos que borramos en nuestras computadoras pueden ser recuperables, s
 <pre>
 shred -uz -n 10 archivo
 </pre>
+
+_**Nota:** El archivo se elminará para siempre._
 
 Buscar premail
 
