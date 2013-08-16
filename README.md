@@ -36,31 +36,31 @@ En Android podemos usar el programas [ObscuraCam](https://guardianproject.info/a
 
 ## Volantes y Poster
 
-Un volante tiene que ser facíl de leer, expresar facilmente una problematica, proponer una acción concreta.
+Un volante tiene que ser fácil de leer, expresar fácilmente una problemática, proponer una acción concreta.
 Tiene que decir, donde, cuando y como nos tenemos que manifestar o que es lo que se necesita hacer.
 Usar valores de alto contraste (blanco y negro) para soportar fotocopias.
 
 
 ![Diseño de volante](img/poster.png "Como diseñar un volante")
 
-> Para diseñarlo podemos usar [Inkscape](http://inkscape.org). Y el formato que usemos tiene que servir para hacer posters y volantes. \
-> Para diseñarlo lo mejor es usar **SVG** y para imprimirlo **PDF** o **JPG** como minimo 5000px de ancho o alto.
+> Para diseñarlo podemos usar [Inkscape](http://inkscape.org). Y el formato que usemos tiene que servir para hacer postres y volantes. \
+> Para diseñarlo lo mejor es usar **SVG** y para imprimirlo **PDF** o **JPG** como mínimo 5000px de ancho o alto.
 
 ### Errores más comunes
 
-- Ser demaciado extenso
+- Ser demacrado extenso
 - Contar detalles innecesarios o muy puntuales
-- Poner imagenes de fondo
+- Poner imágenes de fondo
 - NO proponer acciones, lo cual deja al lector imposibilitado a participar
 - Usar grises y al fotocopiarlo se vea feo 
 - Un volante NO es un diario
-- Que el formato no soperte impresiones a varios tamaños.
+- Que el formato no soporte impresiones a varios tamaños.
 
 ### Engrudo
 
 En una olla disolver la harina en un poco de agua, hasta que no haya grumos y luego añadir la otra revolviendo para integrar ambos 
 ingredientes. Llevar la preparación a fuego suave y revolver con cuchara de madera. Continuar revolviendo hasta que comience a hervir y 
-en ese momento, retirar del fuego. Dejar enfriar. Tambien se le puede agregar un poco de sodacaustica que mejora la efectividad del pegamento.
+en ese momento, retirar del fuego. Dejar enfriar. También se le puede agregar un poco de sodacaustica que mejora la efectividad del pegamento.
 
 _**Nota:** puede hacerse sin cocinar._
 
@@ -129,7 +129,7 @@ Es recomendable **no usar** la red telefónica convencional, pero en caso de nec
 
 * [ObscuraCam](https://guardianproject.info/apps/obscuracam/) protege a los manifestantes borrando sus caras y quita los datos de GPS y modelo de celular cuando compartís sus fotos internet.
 * [Multi Sms](http://f-droid.org/repository/browse/?fdfilter=sms&fdid=com.hectorone.multismssender) enviar SMS en cadena, puede usarse para la difusión previa o comunicarse con teléfonos sin Android.
-* [Wifi Camera](https://f-droid.org/repository/browse/?fdfilter=webcam&fdid=teaonly.droideye) Transmision en vivo y directo de video y audio con tu Android. A través de la red 2G y 3G puede llegar directamente a internet.
+* [Wifi Camera](https://f-droid.org/repository/browse/?fdfilter=webcam&fdid=teaonly.droideye) Transmisión en vivo y directo de vídeo y audio con tu Android. A través de la red 2G y 3G puede llegar directamente a internet.
 
 #### Red libre con Android
 
@@ -144,7 +144,7 @@ De verse afectado de forma real o potencial por este tipo de armas, es necesario
 
 ### Mascara
 
-![mascara de contra gras lacrimogeno](planos/mascara.png)
+![mascara de contra gas lacrimógeno](planos/mascara.png)
 
 > Corte la **botella de 2 litros** con la forma de su rostro y colocar los **elásticos** de manera que la botella quede firme a la cabeza.
 > Colocar **cinta aisladora**, en los bordes, de modo de evitar que entre gas en la máscara, sino puede lastimar los ojos.
@@ -184,9 +184,9 @@ _**Nota:** Si usas una mascara anti gas lacrimogeno de color verde podes poner u
 Además podes mejorar el efecto con sonidos binaural amplificado con un megáfono o amplificador. Se puede reproducirlo "debajo" de música o cuando alguien habla en los posible este sonido tiene que ser escuchado inconscientemente.
 Hay un generador para Android llamado [binauralbeat](https://f-droid.org/repository/browse/?fdfilter=binaural&fdid=com.ihunda.android.binauralbeat).
 
-## Laser de alta potencia
+## Láser de alta potencia
 
-Estos se pueden usar para molestar a la vision de los policias (en Brasil) y en turquia casi derriban un helicoptero de monitoreo.
+Estos se pueden usar para molestar a la visión de los policías (en Brasil) y en Turquía casi derriban un helicóptero de monitoreo.
 
 ## Mochila WIFI
 
@@ -195,7 +195,7 @@ Sirve para mejorar el acceso a la red, compartir contenido, difundir lo que ocur
 
 ![mochila WIFI](img/media/PIC_0041.jpg)
 
-_Por ahora falta la documentación, podes leer la experiencia del [Nodo de Guerrilla](https://github.com/b4zz4/NodoDeGuerrilla/) y el 'satelite' hogareño [Mogul](https://github.com/b4zz4/mogul/)._
+_Por ahora falta la documentación, podes leer la experiencia del [Nodo de Guerrilla](https://github.com/b4zz4/NodoDeGuerrilla/) y el 'satélite' hogareño [Mogul](https://github.com/b4zz4/mogul/)._
 
 ### Edison Carter
 
@@ -205,8 +205,8 @@ Cámara para transmitir lo que ocurren en el momento en vivo y en directo, a la 
 
 > Esta basada en un router WIFI, una webcam. Puede alimentarse con pilas, baterías y panel solar.
 
-Como esta pensada apra salir a la calle y transmitir del modo más economico, usa las redes disponibles, transmite en baja resolucion, en formatos muy simples (JPG, [MJPEG](https://es.wikipedia.org/wiki/MJPEG)), y siempre esta disponible en un portal cautivo. 
-Tiene la posibilidad de contectarlo a 3G pero todavia no ha sido probado.
+Como esta pensada para salir a la calle y transmitir del modo más económico, usa las redes disponibles, transmite en baja resolución, en formatos muy simples (JPG, [MJPEG](https://es.wikipedia.org/wiki/MJPEG)), y siempre esta disponible en un portal cautivo. 
+Tiene la posibilidad de conectarlo a 3G pero todavía no ha sido probado.
 
 #### Experiencias
 
@@ -217,7 +217,7 @@ Para transmitir desde cualquier locación usaba [librevpn](http://librevpn.org).
 * En pruebas locales funcionó perfectamente.
 * En la calle no se pudieron hacer demasiadas pruebas. Aun así filmó perfectamente, escaneó redes y conectó.
 
-_En los intentos por ponerles batería incorporada, y contactarla al revéz, termino quemándose la camara._
+_En los intentos por ponerles batería incorporada, y contactarla al revéz, termino quemándose la cámara._
 
 **Segundo experiencia** con una webcam Datavision no fue muy buena, la imagen tenia muchos problemas de calidad o tan solo aparecía en gris.
 Termino quemándose, seguramente, por el calor dentro del dispositivo.
@@ -227,18 +227,18 @@ Termino quemándose, seguramente, por el calor dentro del dispositivo.
 ![poster de inteligencia](...)
 
 Para soportar toda la actividad en las calles se necesita de varios equipos de inteligencia que coordinen y retransmitan todo lo que ocurre creando medios de comunicación tanto para difundir como para coordinar. 
-Sobre todos necesitan tener **GNU/Linux** hay varias versiones y cada una sirve para las diferentes actividades que el equipo de coordinación, difusion, organización necestan.
+Sobre todos necesitan tener **GNU/Linux** hay varias versiones y cada una sirve para las diferentes actividades que el equipo de coordinación, difusión, organización necesitan.
 
 - Conceptos de Logs
 - Anonimato real
   - Metadata y datos falsos
-  - Impersonalismo
-  - Publicacion anonima
+  - Impersonales
+  - Publicación anónima
 
 > * Sistema operativo Tails pensado para manifestantes y activistas
-> * Ciboulette para anonimizar la red, usando tecnologia Tor y VPN usado como tunel para anonimizar la navegación
+> * Ciboulette para anonimizar la red, usando tecnología Tor y VPN usado como túnel para anonimizar la navegación
 > * Difusión con bots para redes sociales
-> * Icecast e IDJC para transmitir television y [radios](#transmisión-de-radio)
+> * Icecast e IDJC para transmitir televisión y [radios](#transmisión-de-radio)
 > * [Feed2tv]() herramienta para crear canales de televisión de modo muy simple
 > * Pidgin para chatear en [IRC](#IRC), [Jabber](#Jabber), [Cryptocat](#cryptocat), TorChat o usar Tor para anonimizar
 > * Servidor hogareño hecho con viejas maquinas
@@ -249,16 +249,16 @@ Sobre todos necesitan tener **GNU/Linux** hay varias versiones y cada una sirve 
 
 ## Coordinación
 
-Para organizarse **internamente** necesitamos no generar demaciado trafico transparente en internet.
-Entiendase transparente por cualquier cosa que puede ser guardada en un servidor, tráfico del proveedor de internet o el de mail, red social, IRC, sin usar ningun tipo de cifrado.
-Asi que una de las mejores cosas que podemos hacer es tener una VPN, Darknet y/o metodo de publicación anónimo.
+Para organizarse **internamente** necesitamos no generar demacrado trafico transparente en internet.
+Entiéndase transparente por cualquier cosa que puede ser guardada en un servidor, tráfico del proveedor de internet o el de mail, red social, IRC, sin usar ningún tipo de cifrado.
+Así que una de las mejores cosas que podemos hacer es tener una VPN, Darknet y/o método de publicación anónimo.
 
 Nada que pueda ser comunicado en una **red local** debe pasar por una internet. Por eso esta bueno usar [LibreVPN](http://librevpn.org.ar).
-En una red local podemos chatear usando **Bounjour** para chatear entre todos los disponibles en la misma red. Aun asi debemos usar OTR.
+En una red local podemos chatear usando **Bounjour** para chatear entre todos los disponibles en la misma red. Aun así debemos usar OTR.
 
 ### LibreVPN
 
-LibreVPN es una red local con alcance mundial. Podemos tener nuestros Propios servicios y comprartirlos con nuestros amigos.
+LibreVPN es una red local con alcance mundial. Podemos tener nuestros Propios servicios y compartirlos con nuestros amigos.
 
 ### IRC
 
@@ -286,10 +286,10 @@ Comando      | Descripción                                                    |
 ------------ | -------------------------------------------------------------- | ------------------------------------
 /query       | Abre un privado con el nick que le indiquemos.                 | /query Contacto
 /msg         | Para hablar a un usuario o a un canal.                         | /msg Contacto hola, ¿qué tal?
-/amsg        | Envia un mensaje a todos los canales conectados                | /amsg nos vemos... !quit
-/notice      | Para mandar un texto en forma de notificación.                 | /notice Contacto hablame cuando tengas un momento
+/amsg        | Envía un mensaje a todos los canales conectados                | /amsg nos vemos... !quit
+/notice      | Para mandar un texto en forma de notificación.                 | /notice Contacto habla me cuando tengas un momento
 /me          | Nos permite hablar en tercera persona.  	                      | /me se va a comer y vuelve dentro de un rato
-/ame         | Envia un mensaje en tercera persona a todos los canales        | /ame me voy a comer
+/ame         | Envía un mensaje en tercera persona a todos los canales        | /ame me voy a comer
 
 #### Información
 
@@ -321,18 +321,18 @@ Comando      | Descripción                                                    |
 /kick        | Expulsa a un usuario de un canal.                              | /kick \#canal Pepito No te quiero en este canal.
 /invite      | Invita a un usuario a entrar en el canal.                      | /invite DiGGeR \#madrid
 /topic       | Nos permite cambiar el TOPIC del canal.                        | /topic \#canal Hoy hablamos del tiempo :)
-/omsg        | Envia un mensaje a todos los Operadores del canal.             | /omsg \#canal Atentos, desde este momento moderamos el canal.
-/onotice     | Envia una notificación a todos los Operadores del canal.       | /onotice \#canal hoy tenemos pocos usuarios !
+/omsg        | Envía un mensaje a todos los Operadores del canal.             | /omsg \#canal Atentos, desde este momento moderamos el canal.
+/onotice     | Envía una notificación a todos los Operadores del canal.       | /onotice \#canal hoy tenemos pocos usuarios !
 
-#### Terminologia
+#### Terminología
 
 En los IRC suelen usarse palabras propias de este tipo de servicio y muchas fueron apropiadas para toda la web como **troll**, acá una lista de las mas comunes.
 
-* **Topic (Tema)** Es el mensaje de entrada del canal, en el se anuncia el objetivo y varios enlaces e información de interes, por favor, antes de preguntar, echa un vistazo al Topic.
-* **Kick (Patear)** Quiere decir que has sido expulsado del canal, puedes volver a entrar de nuevo, pero vigila los modales, puesto que la próxima vez, podría ser un baneo.
-* **Baneo** Expulsión del chat, puede ser permanente o temporal, depende de la gravedad de la infracción.
+* **Topic (Tema)** Es el mensaje de entrada del canal, en el se anuncia el objetivo y varios enlaces e información de interés, por favor, antes de preguntar, echa un vistazo al Topic.
+* **Kick (Patear)** Quiere decir que has sido expulsado del canal, puedes volver a entrar de nuevo, pero vigila los modales, puesto que la próxima vez, podría ser un banear.
+* **Banear** Expulsión del chat, puede ser permanente o temporal, depende de la gravedad de la infracción.
 * **Bot** Usuario del canal automatizado que puede estar programado para varias funciones, desde kikear o banear por utilizar mayúsculas, por repetir un mensaje muchas veces, por usar colores... Los bots también pueden avisarte por privado mediante el mensaje que haya programado su dueño...
-* **Troll** Es una persona que entra a un chat, foro o página web de internet, con el fin de provocar mal ambiente, crear discursiones o, simplemente, molestar.
+* **Troll** Es una persona que entra a un chat, foro o página web de internet, con el fin de provocar mal ambiente, crear discusiones o, simplemente, molestar.
 * **Lurker** Que viene a mirar y no participa, muchas veces con mala intención.
 
 ### Jabber
@@ -363,7 +363,7 @@ Se puede usar la red Tor para mayor seguridad.
 ### Tor
 
 Tor es un conjunto de Proxy's que rebotan nuestros paquetes entre ellos hasta llegar al destino, de esta manera, si con un Proxy 
-estamos casi Anonimizados, usando la Red Tor, tenemos un 99,9% de anonimato. Al ser un conjunto de Proxys, tampoco será efectivo el 
+estamos casi Anonimizar, usando la Red Tor, tenemos un 99,9% de anonimato. Al ser un conjunto de Proxys, tampoco será efectivo el 
 ataque **DDoS** convinandolo con Tor.
 
 _**Nota:** NO usar para nada que necesite cuenta (redes sociales, mail, foros), excepto que esta fuese creada con la misma red Tor y NUNCA debes usarla sin Tor_
@@ -391,7 +391,7 @@ El navegador [Tor Browser](https://www.torproject.org/projects/torbrowser.html.e
 
 ## Difusión
 
-### Transmision de Video
+### Transmisión de Video
 
 Este programa no es muy buena pero tiene scripts interesante: http://gollum.artefacte.org/tss/
 
@@ -402,8 +402,8 @@ Este programa no es muy buena pero tiene scripts interesante: http://gollum.arte
 
 #### Quehaceres
 
-- Transmisor de video muy simple
-- Conversor MJPEG + MP3 y/o OGA a OGG
+- Transmisor de Video muy simple
+- Conversor JPG + MP3 y/o OGA a OGG
   - Lo que sea a OGG :P
 - Conversor Feed a OGG (Feed2TV)
 
@@ -428,7 +428,7 @@ En esta pantalla se puede crea la secuencia musical que se utilizará en el prog
 
 ![Vista general del programa](img/IDJC/IDJC.png "Vista general del programa")
 
-Para agregar música arrastrar carpetas y/o archivos sobre alguna de las listas de reproduccion. 
+Para agregar música arrastrar carpetas y/o archivos sobre alguna de las listas de reproducción. 
 Haciendo doble click sobre una canción, ésta comenzará a reproducirse.
 
 - **Stream** es el audio de lo que se transmite (al presionar los botones de dos estados “Stream” indicados en el punto anterior se activa o desactiva el audio que sale en la transmisión).
@@ -463,7 +463,7 @@ Algo que podemos hacer para evitar cortes es abrir **preferencias (prefs)** y po
 
 ### Redes sociales
 
-Difunsión, coordinacion de "ataques" a servidores, convocatoria.
+Difusión, coordinación de "ataques" a servidores, convocatoria.
 
 #### Convocatorias
 
@@ -471,9 +471,9 @@ Difunsión, coordinacion de "ataques" a servidores, convocatoria.
 
 Es un ataque de denegación de servicio del objetivo enviando una gran cantidad de paquetes TCP, paquetes UDP o peticiones HTTP con objeto de determinar cuál es la cantidad de peticiones por segundo que puede resolver la red objetivo antes de dejar de funcionar.
 
-Nosotros vamos a usar JSLOIC qe es facil de difundir.
+Nosotros vamos a usar JSLOIC que es fácil de difundir.
 
-+ Hacer una version html5 con pycryptocat + irc en nc + proxychains
++ Hacer una versión html5 con pycryptocat + irc en nc + proxychains
 
 ##### Mensajes al publico
 
@@ -488,10 +488,10 @@ sudo apt-get install gespeaker espeak mbrola mbrola-voice-es
 
 ### Metadatos
 
-Muchos hacktivistas fueron detenidos por los metadatos de sus fotos, conviene por las dudas no compartir fotos, videos o sonidos que puedan ser detectados su origen de modo automatico, más si utilizamos Tor.
-Por esto en una publicación anonima hay que borrar los metadatos de cualquier material que los pueda contener.
+Muchos hacktivistas fueron detenidos por los metadatos de sus fotos, conviene por las dudas no compartir fotos, vídeos o sonidos que puedan ser detectados su origen de modo automático, más si utilizamos Tor.
+Por esto en una publicación anónima hay que borrar los metadatos de cualquier material que los pueda contener.
 
-A la vez, nosotros, podemos usar la misma tecnologia para conocer el origen de los materiales digitales que conseguimos.
+A la vez, nosotros, podemos usar la misma tecnología para conocer el origen de los materiales digitales que conseguimos.
 
 #### Quitar metadatos a archivos de imagen
 
@@ -503,7 +503,7 @@ convert -strip nombre_archivo.png nombre_archivo.png
 
 Para difundir textos, tanto por su falta de practicidad, como funcionales **NO** usar doc, docx o pdf.
 Siempre conviene utilizar textos "planos" el mas común es TXT, Makrdown y HTML. 
-Que no pueden contener metadatos, y son muy faciles de interpretar.
+Que no pueden contener metadatos, y son muy fáciles de interpretar.
 
 * como usar textos planos
 * UTF8
@@ -511,7 +511,7 @@ Que no pueden contener metadatos, y son muy faciles de interpretar.
 #### Markdown
 
 Markdown es un lenguaje de marcado ligero que trata de conseguir la máxima legibilidad y "publicabilidad" tanto en sus forma de entrada como de salida.
-Basicamente es un texto plano (TXT) con algunos simbolos para marcar titulos, subtitulos, negrita, cursiva, etc.
+Básicamente es un texto plano (TXT) con algunos símbolos para marcar títulos, subtítulos, negrita, cursiva, etc.
 
 ##### Ejemplo
 
@@ -519,10 +519,10 @@ Basicamente es un texto plano (TXT) con algunos simbolos para marcar titulos, su
 # Ejemplo de Markdown
 ## Un minitutorial de este formato de marcado
 
-Este es un parrafo de ejemplo de **markdown**, asi podemos ver como se pone la *cursiva*
+Este es un párrafo de ejemplo de **Markdown**, así podemos ver como se pone la *cursiva*
 * Esto es una lista
 * Esto es una lista
-Para conocer [más de markdown](textos/markdown.md "Descripción del enlace")
+Para conocer [más de Markdown](textos/markdown.md "Descripción del enlace")
 </pre>
 
 ###### Resultado
@@ -530,7 +530,7 @@ Para conocer [más de markdown](textos/markdown.md "Descripción del enlace")
 > # Ejemplo de Markdown
 > ## Un minitutorial de este formato de marcado
 >
-> Este es un parrafo de ejemplo de **markdown**, asi podemos ver como se pone la *cursiva*
+> Este es un párrafo de ejemplo de **markdown**, así podemos ver como se pone la *cursiva*
 > * Esto es una lista
 > * Esto es una lista
 > Para conocer [más de markdown](textos/markdown.md "Descripción del enlace")
@@ -539,35 +539,35 @@ Para conocer [más de markdown](textos/markdown.md "Descripción del enlace")
 
 - convertir html a pandoc y viceversa
 
-#### Publicación anonima
+#### Publicación anónima
 
-- [Pasties](http://pastebin.com) Muchos no guardan "logs" pensando en la publicaciones anonimas aun asi conviene usarlos con Tor
+- [Pasties](http://pastebin.com) Muchos no guardan "logs" pensando en la publicaciones anónimas aun así conviene usarlos con Tor
 - Publicar Base64 en tinyURL
 
 #### Cifrados de una carpeta
 
-Cifrar una carpeta con todos su contenido de manera ocultar a cualquier persona que acceda fisicamente a nuestra computadora.
+Cifrar una carpeta con todos su contenido de manera ocultar a cualquier persona que acceda físicamente a nuestra computadora.
 	
-![Cryptkeeper](img/cryptkeeper.png "Crptkeeper en el menu de notificaciones")
+![Cryptkeeper](img/cryptkeeper.png "Crptkeeper en el menú de notificaciones")
 
 <pre>
 sudo apt-get install cryptkeeper
 </pre>
 
-Luego podemos correr **Cryptkeeper** desde el menu (Aplicaciones -> Herramientas del sistema -> Cryptkeeper).
+Luego podemos correr **Cryptkeeper** desde el menú (Aplicaciones -> Herramientas del sistema -> Cryptkeeper).
 En el panel de notificaciones tendrán un nuevo icono con unas llaves, pulsan con el botón izquierdo del ratón y seleccionan: "New encrypted folder".
-Se les abrirá un cuadro de diálogo en el que deberán introducir el nombre y el destino de la carpeta a cifrar, y luego presionar el boton "Forward" y poner la contraseña dos veces.
+Se les abrirá un cuadro de diálogo en el que deberán introducir el nombre y el destino de la carpeta a cifrar, y luego presionar el botón "Forward" y poner la contraseña dos veces.
 
-Para desmontarlo solo hay que usar el menu en el panel de notificaciones.
-En las Preferencias de la aplicación (boton derecho sobre el icono) podes configurar el tiempo que queres que tu carpeta se mantenga montada.
+Para desmontarlo solo hay que usar el menú en el panel de notificaciones.
+En las Preferencias de la aplicación (boton derecho sobre el icono) podes configurar el tiempo que que res que tu carpeta se mantenga montada.
 Esto es muy útil, pues sirve para cuando te olvidas de desmontarla y/o tuviste que salir con urgencia.
 
 #### Ocultar un mensaje dentro de una imagen
 
-Esto proceso nos permitirá guardar información de cualquier tipo dentro de una imagen, audio o video.
+Esto proceso nos permitirá guardar información de cualquier tipo dentro de una imagen, audio o Video.
 Puede resultar útil si pretendemos enviar una información confidencial a una persona y no queremos que la información sea interceptada por otros.
-A la vez esta informacion puede estar disponible de modo público y sin la clave correspondiente nunca acceder a los datos ocultos. 
-Esta tecnica se llama [esteganografía](https://es.wikipedia.org/wiki/Esteganograf%C3%ADa) para ocultar información dentro de la imagen.
+A la vez esta información puede estar disponible de modo público y sin la clave correspondiente nunca acceder a los datos ocultos. 
+Esta técnica se llama [esteganografía](https://es.wikipedia.org/wiki/Esteganograf%C3%ADa) para ocultar información dentro de la imagen.
 
 ##### Por parte de la persona emisora
 
@@ -593,7 +593,7 @@ steghide --extract -p "clave segura" -xf archivo_secreto.txt -sf imagen2.jpg
 
 * Crear un programa que use la red Tor busque una imagen al azar, la descarge, la modifique, le agrege el mensaje y la publique. Por ejemplo en http://uploadpie.com/
 
-#### Cifrado de mesajes
+#### Cifrado de me sajes
 
 <pre>
 sudo apt-get install gcipher
