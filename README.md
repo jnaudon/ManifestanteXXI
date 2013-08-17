@@ -45,6 +45,9 @@ Usar valores de alto contraste (blanco y negro) para soportar fotocopias.
 > Para diseñarlo podemos usar [Inkscape](http://inkscape.org). Y el formato que usemos tiene que servir para hacer postres y volantes.
 > Para diseñarlo lo mejor es usar **SVG** y para imprimirlo **PDF** o **JPG** como mínimo 5000px de ancho o alto.
 
+![Phatch](img/phatch.png "Quitar los metadatos")
+> Con **phatcht** es muy fácil imprimir varias copias por pagina con la función rejilla.
+
 ### Errores comunes
 
 - Ser demacrado extenso
@@ -457,7 +460,7 @@ sudo apt-get install gespeaker espeak mbrola mbrola-voice-es
 Muchos hacktivistas fueron detenidos por los metadatos de sus fotos, conviene por las dudas no compartir fotos, vídeos o sonidos que puedan ser detectados su origen de modo automático, más si utilizamos Tor.
 Por esto en una publicación anónima hay que borrar los metadatos de cualquier material que los pueda contener.
 
-![Phacht](img/phacht.png "Quitar los metadatos")
+![Phatch](img/phatch.png "Quitar los metadatos")
 
 A la vez, nosotros, podemos usar la misma tecnología para conocer el origen de los materiales digitales que conseguimos.
 
