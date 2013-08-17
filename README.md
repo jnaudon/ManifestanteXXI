@@ -113,28 +113,22 @@ Una de las grandes ventajas de los policías en una manifestación, es que se en
 
 Lo mismo podemos hacer los manifestantes, organizándonos con **herramientas similares**, **libres** y **seguras**. Lo mejor es que un grupo en particular se dedique a la coordinación, utilizando con Bounjour, Jabber o telefonía sobre internet. Al igual que los policías, puede coordinarse la inteligencia por fuera de la manifestación, las personas calmadas piensan mejor, en este caso el grupo de acción debe pasar reportes precisos de lo que ocurre. La mayoría de la comunicación (a nivel inteligencia) debe hacerse por chat, en medio de una manifestación hablar se tornarse complicado e inseguro. Además escribiendo de modo preciso se puede logran mejores resultados, sobre todo en grandes grupos. **Es sumamente necesario que se usen métodos criptográficos**, el más común y seguro es el [OTR](textos/OTR.md).
 
-[Gibberbot](https://guardianproject.info/apps/gibber/) chatea de modo [criptográfico](http://wiki.partidopirata.com.ar/Gibberbot_con_OTR) y seguro en bounjour, jabber, facebook, googletalk, etc.
-
-![yaaic](img/manifestdroid/yaaic.png) [Yaaic](https://f-droid.org/repository/browse/?fdfilter=irc&fdid=org.yaaic) Cliente para IRC
-
-![csipsimple](img/manifestdroid/csipsimple.png) [CsipSimple](https://code.google.com/p/csipsimple/) telefonía por internet con criptografía, podes crear un cuenta local para la red libre y una cuenta en [ekiga.org](https://www.ekiga.net/?page=register) para acceso desde internet.
-
-[Ostel](https://ostel.co/) Llamadas con criptografía.
-
-[Umap](http://umap.openstreetmap.org.ar) mapas para coordinarse en las calles.
+* [Gibberbot](https://guardianproject.info/apps/gibber/) chatea de modo [criptográfico](http://wiki.partidopirata.com.ar/Gibberbot_con_OTR) y seguro en bounjour, jabber, facebook, googletalk, etc.
+* ![yaaic](img/manifestdroid/yaaic.png) [Yaaic](https://f-droid.org/repository/browse/?fdfilter=irc&fdid=org.yaaic) Cliente para IRC.
+* ![csipsimple](img/manifestdroid/csipsimple.png) [CsipSimple](https://code.google.com/p/csipsimple/) telefonía por internet con criptografía, podes crear un cuenta local para la red libre y una cuenta en [ekiga.org](https://www.ekiga.net/?page=register) para acceso desde internet.
+* [Ostel](https://ostel.co/) Llamadas con criptografía.
+* [Umap](http://umap.openstreetmap.org.ar) mapas para coordinarse en las calles.
 
 Es recomendable **no usar** la red telefónica convencional, pero en caso de necesitarse estos programas resultan muy útiles.
 
-[RedPhone](http://www.whispersystems.org/) Llamadas con criptografía sobre telefonía móvil.
-[TextSecure](http://www.whispersystems.org/) SMS con criptografía.
+* [RedPhone](http://www.whispersystems.org/) Llamadas con criptografía sobre telefonía móvil.
+* [TextSecure](http://www.whispersystems.org/) SMS con criptografía.
 
 #### Difusión con Android
 
-[ObscuraCam](https://guardianproject.info/apps/obscuracam/) protege a los manifestantes borrando sus caras y quita los datos de GPS y modelo de celular cuando compartís sus fotos internet.
-
-![Multi Sms](img/manifestdroid/multisms.png) [Multi Sms](http://f-droid.org/repository/browse/?fdfilter=sms&fdid=com.hectorone.multismssender) enviar SMS en cadena, puede usarse para la difusión previa o comunicarse con teléfonos sin Android.
-
-![Wifi Camera](img/manifestdroid/wificamera.png) [Wifi Camera](https://f-droid.org/repository/browse/?fdfilter=webcam&fdid=teaonly.droideye) Transmisión en vivo y directo de vídeo y audio con tu Android. A través de la red 2G y 3G puede llegar directamente a internet.
+* [ObscuraCam](https://guardianproject.info/apps/obscuracam/) protege a los manifestantes borrando sus caras y quita los datos de GPS y modelo de celular cuando compartís sus fotos internet.
+* ![Multi Sms](img/manifestdroid/multisms.png) [Multi Sms](http://f-droid.org/repository/browse/?fdfilter=sms&fdid=com.hectorone.multismssender) enviar SMS en cadena, puede usarse para la difusión previa o comunicarse con teléfonos sin Android.
+* ![Wifi Camera](img/manifestdroid/wificamera.png) [Wifi Camera](https://f-droid.org/repository/browse/?fdfilter=webcam&fdid=teaonly.droideye) Transmisión en vivo y directo de vídeo y audio con tu Android. A través de la red 2G y 3G puede llegar directamente a internet.
 
 #### Red libre con Android
 
@@ -443,15 +437,6 @@ Esto es muy bueno por que no es posible reconocer quien habla, a la vez se puede
 sudo apt-get install gespeaker espeak mbrola mbrola-voice-es 
 </pre>
 
-### Metadatos
-
-Muchos hacktivistas fueron detenidos por los metadatos de sus fotos, conviene por las dudas no compartir fotos, vídeos o sonidos que puedan ser detectados su origen de modo automático, más si utilizamos Tor.
-Por esto en una publicación anónima hay que borrar los metadatos de cualquier material que los pueda contener.
-
-![Phatch](img/phatch.png "Quitar los metadatos")
-
-A la vez, nosotros, podemos usar la misma tecnología para conocer el origen de los materiales digitales que conseguimos.
-
 ## Textos
 
 Para difundir textos, tanto por su falta de practicidad, como funcionales **NO** usar doc, docx o pdf.
@@ -527,6 +512,7 @@ Esto es muy útil, pues sirve para cuando te olvidas de desmontarla y/o tuviste 
 Este programa permite **cifrar** y **descifrar** mensaje para enviarlos por correo electronico, publicarlo, compartir de modo anonimo.
 Tambien nos permitirá guardar información de cualquier tipo dentro de una imagen o audio. 
 Esta técnica se llama [esteganografía](https://es.wikipedia.org/wiki/Esteganograf%C3%ADa)
+Por esto en una publicación anónima hay que borrar los **metadatos** de cualquier material que los pueda contenerlo.
 Y borrar archivos definitivamente.
 
 ![Cifrado](img/cifrado.png "Cifrado y Descifrado")
@@ -534,11 +520,14 @@ Y borrar archivos definitivamente.
 Puede resultar útil si pretendemos enviar una información confidencial a una persona y no queremos que la información sea interceptada por otros.
 A la vez esta información puede estar disponible de modo público y sin la clave correspondiente nunca nadie podrá acceder a los datos ocultos. 
 
+Muchos hacktivistas fueron detenidos por los **metadatos** de sus fotos, conviene por las dudas no compartir fotos, vídeos o sonidos que puedan ser detectados su origen de modo automático, más si utilizamos Tor.
+
 #### Consejos
 
 * Las claves NUNCA en el mismo modo que el archivo.
   * Compartirlas en vivo
   * En un chat con OTR 
+* Borrar los metadatos de fotos de cámaras y celulares antes de publicarlas
 
 ##### Quehaceres
 
