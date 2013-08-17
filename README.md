@@ -262,13 +262,15 @@ LibreVPN es una red local con alcance mundial. Podemos tener nuestros Propios se
 ### IRC
 
 Los servidores de **IRC** son servidores de chat con muchas salas.
-Son muy buenos por que no necesitan cuenta, pueden usarse muchos servidores descentralizando la conversación.
-Puede conectarse usando **Tor**, hablar en salas publicas y chatear en privado (en los posible usando **OTR**).
+No necesitan cuenta, pueden usarse muchos servidores; descentralizando la conversación.
+Si queres probar el **IRC** podes probar [Webchat](https://webchat.freenode.net/) de Freenode.
+Es tan simple como ponerte un **nick** y un **canal** (sala de chat) donde hablar.
 
 ![IRC en el pidgin](img/irc.png "IRC en el pidgin")
 
-> Si queres probar el **IRC** podes probar [Webchat](https://webchat.freenode.net/) de Freenode.
-> Es tan simple como ponerte un **nick** y un **canal** (sala de chat) donde hablar.
+> Lo recomendable es usar **Pidgin** que tiene soporte para **OTR**.
+> Para hablar con alguien, en particular, conocido solo tenes que pasarle el **canal** y servidor.
+> Y podemos conectarnos usando **Tor**, hablar en salas publicas y chatear en privado (en los posible usando **OTR**).
 
 #### Comandos básicos
 
@@ -276,63 +278,26 @@ Recuerda que todos los comandos van precedidos de la barra `/` y pueden ser ejec
 
 Comando      | Descripción                                                    | Ejemplo
 ------------ | -------------------------------------------------------------- | ------------------------------------
-/server      | Nos conecta al servidor de IRC.                                | /server irc.irc-hispano.org
 /nick        | Nos permite cambiar nuestro nick por el que le indiquemos.     | /nick Nombre
 /list        | Nos muestra la lista de canales disponibles.                   | /list filtro (opcional)
 /join        | Nos permite unirnos a un canal en concreto.                    | /join \#irc-hispano
-/part        | Nos permite salir de un canal en concreto.                     | /part \#irc-hispano
-/partall     | Nos permite salir de todos los canales en los que estemos.     | /partall
 /quit        | Nos desconecta del servidor de IRC. Podemos, opcionalmente,    | /quit Nos vemos en otro momento :)
-
-#### Hablando en la Red
-
-Comando      | Descripción                                                    | Ejemplo
------------- | -------------------------------------------------------------- | ------------------------------------
 /query       | Abre un privado con el nick que le indiquemos.                 | /query Contacto
 /msg         | Para hablar a un usuario o a un canal.                         | /msg Contacto hola, ¿qué tal?
-/amsg        | Envía un mensaje a todos los canales conectados                | /amsg nos vemos... !quit
 /notice      | Para mandar un texto en forma de notificación.                 | /notice Contacto habla me cuando tengas un momento
 /me          | Nos permite hablar en tercera persona.  	                      | /me se va a comer y vuelve dentro de un rato
-/ame         | Envía un mensaje en tercera persona a todos los canales        | /ame me voy a comer
-
-#### Información
-
-Comando      | Descripción                                                    | Ejemplo
------------- | -------------------------------------------------------------- | ------------------------------------
+/away        | Nos permite entrar o salir en el sistema de ausencia.          | /away ahora mismo no estoy porque es la hora de comer
 /who         |  Nos muestra información sobre un canal o un usuario           | /who Groucho  o /who \#amistad
 /whois       |  Nos muestra información más específica sobre un nick.         | /whois Luzdegas
-/help        |  Nos muestra la ayuda interna del mIRC.                        | 
-
-#### Otros comandos usuales
-
-Comando      | Descripción                                                    | Ejemplo
------------- | -------------------------------------------------------------- | ------------------------------------
-/away        | Nos permite entrar o salir en el sistema de ausencia.          | /away ahora mismo no estoy porque es la hora de comer
-/ignore      | Permite ignorar a un usuario molesto.                          | /ignore Pepito
-/dccchat     | Permite abrir una conversación privada con otro usuario.       | /dccchat Chenon
-/send        | Permite enviar un archivo a otro usuario.                      | /send Groucho cancion.mp3
+/help        |  Nos muestra la ayuda interna del cliente de IRC.              | 
 /clear       | Limpia la ventana en la que se ejecuta el comando.             | 
 /clearall    | Limpia todas las ventanas.                                     | 
-/close       | Cierra todos los privados que tengas abiertos.                 | /close -m
-/log         | Activa o desactiva la grabación de la conversación actual.     | /log on/off
-
-#### Comandos para operadores 
-
-Comando      | Descripción                                                    | Ejemplo
------------- | -------------------------------------------------------------- | ------------------------------------
-/mode        | Cambia los modos (?) de un canal.                              | /mode \#canal +o Groucho
-/ban         | Pone un ban al nick o la máscara indicada.                     | /ban \#canal quiensea
-/kick        | Expulsa a un usuario de un canal.                              | /kick \#canal Pepito No te quiero en este canal.
-/invite      | Invita a un usuario a entrar en el canal.                      | /invite DiGGeR \#madrid
-/topic       | Nos permite cambiar el TOPIC del canal.                        | /topic \#canal Hoy hablamos del tiempo :)
-/omsg        | Envía un mensaje a todos los Operadores del canal.             | /omsg \#canal Atentos, desde este momento moderamos el canal.
-/onotice     | Envía una notificación a todos los Operadores del canal.       | /onotice \#canal hoy tenemos pocos usuarios !
 
 #### Terminología
 
 En los IRC suelen usarse palabras propias de este tipo de servicio y muchas fueron apropiadas para toda la web como **troll**, acá una lista de las mas comunes.
 
-* **Canal** La sala de chat
+* **Canal** La sala de chat.
 * **Topic (Tema)** Es el mensaje de entrada del canal, en el se anuncia el objetivo y varios enlaces e información de interés, por favor, antes de preguntar, echa un vistazo al Topic.
 * **Kick (Patear)** Quiere decir que has sido expulsado del canal, puedes volver a entrar de nuevo, pero vigila los modales, puesto que la próxima vez, podría ser un banear.
 * **Banear** Expulsión del chat, puede ser permanente o temporal, depende de la gravedad de la infracción.
