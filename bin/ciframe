@@ -1,6 +1,7 @@
 #!/bin/bash
 #
-#	un meta cifrador, descrifrador con soporte para estenografia
+#	Un meta cifrador, descrifrador y estenografia
+#
 #
 
 # funciones
@@ -8,91 +9,134 @@
 function opciones {
 	# parametros
 	# -t "Eleccion" -m "que elegis" -c '"A" "B" "C"'
-	menu=`zenity --title "$titulo" --text "$mensaje" --list --column "" --hide-header $columna` || exit
+	menu=`zenity --title "$titulo" --text "$mensaje" --list --column "" --column "" --hide-header $columna` || exit
 }
 function clave {
 	zenity --title "Clave" --text "Introduce la clave" --entry
 }
+function url {
+	zenity --title "URL" --text "Introducir dirección" --entry "http://"
+}
 function archivo {
-	zenity --title "elije el archivo con el archivo oculto" --file-selection
+	zenity --title "elije el archivo" --file-selection
+}
+function archivos {
+	echo -e "$(zenity --title "elije el archivo" --file-selection --multiple --separator="\n")"
 }
 function mensaje {
-	zenity --title "Mensaje" --text="introduce el mensaje" --entry
+	zenity --title "Mensaje" --text="introduce el mensaje" --text-info --editable
 }
 function mostrar {
-	cat /dev/stdin | zenity --text-info
+	cat /dev/stdin | zenity --text="¡Listo!" --text-info
 }
 function papelera {
-	cat /dev/stdin | xsel -b 2> /dev/null > /dev/null
-	cat /dev/stdin
+	cat /dev/stdin | xsel
 }
-
-
+function progreso {
+	zenity  --progress --pulsate  --auto-close  --auto-kill
+}
 
 # programa
 
 # ¿Que queres hacer?
-MENU=`zenity --title "Ciframatic" --text "¿Que queres hacer?" --list --column "" --hide-header "Cifrar" "Descrifrar"`
+MENU=`zenity --title "Ciframatic" --text "¿Que queres hacer?" --list --column "" --column "" --hide-column 1 --hide-header \
+0 "Cifrar" 1 "Descrifrar" 2 "Quitar metadatos" 3 "Eliminar archivos" `
+
 case $MENU in
-"Cifrar" )
-
-	MENU=`zenity --title "Ciframe" --text "¿Que deseas ocultar?" --list \
+	0 )
+	# Cifrar
+	MENU=`zenity --title "Ciframe" --text "¿Que deseas proteger?" --list \
 	--column "" --hide-header "Mensaje" "Archivo"` || exit
-
 	case $MENU in
-	"Mensaje" )
-		ef=`mktemp`
-		mensaje > $ef
+		"Mensaje" )
+			ef=`mensaje`
 		;;
-	"Archivo" )
-		ef=archivo
-		
+		"Archivo" )
+			ef=`cat $(archivo || exit)`
 		;;
 	esac
+	echo $ef > /dev/stderr
 
-	MENU=`zenity --title "Ocultar" --text "Donde lo queres ocultar" --list \
-	--column "" --hide-header "Mensaje" "Archivo"  "Publicar"`|| exit
+	k=`clave`
+
+	MENU=`zenity --title "En donde" --text "¿Donde lo queres ocultar?" --list \
+	--column "" --hide-header "Mensaje" "Archivo"`|| exit
 
 	case $MENU in
 	"Mensaje" )
-		p=clave
 		# genera el mensaje y lo muestra en base64
-		mcrypt "$ef" -k "$k" -F | base64 -w0 | papelear | mostrar
+		m=` echo "$ef" | mcrypt -z -u -k "$k" -F | base64 -w0 `
+		echo "$m" | papelera
+		echo "$m" | mostrar
+		exit
 		;;
 	"Archivo" )
 		MENU=`zenity --title "Ocultar" --text "Donde lo queres ocultar" --list \
 		--column "" --hide-header "Elegir" "Azar"`|| exit
-		p=clave
 		case $MENU in
 			"Elegir" )
+				b=`archivo || exit`
+				echo "$ef" | steghide embed -ef - -p "$k" -cf "$b"
 				;;
 			"Azar" )
+				# busca una imagen al azar en la web (con tor)
+				p=`clave`
+				echo "$ef" | steghide embed -ef - -p "$k" -cf "$b"
 				;;
 			esac
 		;;
-	"Publicar" )
-		;;
 	esac
 	;;
-"Descrifrar" )
+1 )
+	# Descrifrar
+
 	# mensaje archivo o URL
 	MENU=`zenity --title "Ciframatic" --text "Donde queres buscar el mensaje" --list \
-	--column "" --hide-header "Mensaje" "Archivo" "Dirección de internet"`|| exit
+	--column "" --column "" --hide-column 1 --hide-header 0 "Mensaje" 1 "Archivo" 2 "Dirección de internet"`|| exit
 	case $MENU in
-	"Mensaje" )
+	0 )
 		# descifrado
-		m=`mensaje | base64 -d | mdecrypt - -k "$(clave)" -F` || exit
+		k=`clave`
+		m=`mensaje | sed 's/\ [^1-9A-Za-z]=//g'| base64 -d | mdecrypt - -z -k "$k" -F` || exit
 		# lo guarda en la papelera y lo muestra
-		echo "$m" | papelera | mostrar
+		echo "$m" | papelera
+		echo "$m" | mostrar
 		;;
-	"Archivo" )
+	1 )
 		# archivo
-		sf=archivo || exit
+		sf=`archivo || exit`
 		# mensaje descifrado en archivo
-		steghide extract -p "$(clave)" -sf "$sf" -xf - | mostrar
+		p=`clave`
+		steghide extract -p "$p" -sf "$sf" -xf - | mostrar
+		;;
+	2 )
+		# archivo
+		URL=`url || exit`
+		# mensaje descifrado en archivo
+		p=`clave`
+		sf=`mktemp`
+		proxychains wget "$URL" -O $sf | progreso
+		m=`steghide extract -p "$p" -sf $sf -xf -`
+		shred -uz -n 10	$sf
+		echo "$m" | mostrar
 		;;
 	esac
 
+	;;
+	2 )
+		# Quitar metadatos
+		archivos  || exit | while read ARCHIVO; do
+			echo $ARCHIVO > /dev/stderr
+			convert -strip "$ARCHIVO" "$ARCHIVO"
+			# falta quitar las caras
+		done | progreso
+	;;
+	3 )
+		# Eliminar archivos de modo seguro
+		archivos || exit | while read ARCHIVO; do
+			echo $ARCHIVO > /dev/stderr
+			shred -uz -n 10	"$(archivo)" | progreso
+		done | progreso
 	;;
 esac
 
