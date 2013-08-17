@@ -343,9 +343,9 @@ _**Nota:** NO usar para nada que necesite cuenta (redes sociales, mail, foros), 
 
 #### Instalación
 
-'''
+@
 sudo apt-get install tor
-'''
+@
 	
 #### Navegar con Tor
 
