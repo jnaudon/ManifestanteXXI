@@ -94,7 +94,7 @@ Esto sirve para que nadie pueda interceptar la conversación.
 Algo muy sencillo que se puede hacer es navegar en paginas con _https://_ en lugar de _http://_, esto funciona en muchas paginas populares.
 Lo mejor es usar [HTTPS Everywhere](https://www.eff.org/https-everywhere) en Firefox que lo hace automáticamente.
 
-Los **proxys** nos permite pasar por internet sin que nadie pueda ver que estamos haciendo. Uno de los mas populares es Tor que su particularidad es que esta compuesto por miles de computadoras que se coordinan de modo descentralizado, haciéndolo muy seguro y confiable. 
+Los **proxys** nos permite pasar por internet sin que nadie pueda ver que estamos haciendo. Uno de los mas populares es Tor que su particularidad es que esta compuesto por miles de computadoras que se coordinan de modo descentralizado, haciéndolo muy seguro y confiable.
 La versión para Android se llama [Orbot](https://f-droid.org/repository/browse/?fdfilter=browser&fdid=org.torproject.android), nos permite navegar con [Orweb](https://f-droid.org/repository/browse/?fdfilter=browser&fdid=info.guardianproject.browser), chatear de anónimo y seguro con [Gibberbot](https://guardianproject.info/apps/gibber/) y buscar en [Duck Duck GO](http://f-droid.org/repository/browse/?fdfilter=duck&fdid=se.johanhil.duckduckgo).
 
 Los **túneles** nos permite pasar por la red sin que se pueda ver que estamos haciendo, como su nombre lo dice, generamos un _"túnel"_ dentro de la red y salimos por otro de modo anónimo. 
@@ -105,8 +105,6 @@ Los **filtros** más simple que podemos usar son los de publicidad como [Adblock
 
 Hay que tener en cuenta que cuantos más seamos usando estos recursos (cifrado, proxys, túneles, etc) **todo el tiempo**, no solo para hacktivismos, **más seguro** se tornan, por que generamos tráfico cifrado todo el tiempo y más complicado se vuelve encontrar los grupos de activistas.
 
-Para instalar muchas de estas cosas vamos a necesitar tener [Superuser](https://f-droid.org/repository/browse/?fdfilter=superuser&fdid=org.fdroid.superuser).
-
 ### Comunicación segura y coordinación
 
 Una de las grandes ventajas de los policías en una manifestación, es que se encuentran organizados, pueden comunicarse en tiempo real, modificar sus movimientos y planificar en base a lo ocurrido. Para esto cuentan con un grupo dedicado a esta función que esta fuera y dentro de la acción.
@@ -114,8 +112,8 @@ Una de las grandes ventajas de los policías en una manifestación, es que se en
 Lo mismo podemos hacer los manifestantes, organizándonos con **herramientas similares**, **libres** y **seguras**. Lo mejor es que un grupo en particular se dedique a la coordinación, utilizando con Bounjour, Jabber o telefonía sobre internet. Al igual que los policías, puede coordinarse la inteligencia por fuera de la manifestación, las personas calmadas piensan mejor, en este caso el grupo de acción debe pasar reportes precisos de lo que ocurre. La mayoría de la comunicación (a nivel inteligencia) debe hacerse por chat, en medio de una manifestación hablar se tornarse complicado e inseguro. Además escribiendo de modo preciso se puede logran mejores resultados, sobre todo en grandes grupos. **Es sumamente necesario que se usen métodos criptográficos**, el más común y seguro es el [OTR](textos/OTR.md).
 
 * [Gibberbot](https://guardianproject.info/apps/gibber/) chatea de modo [criptográfico](http://wiki.partidopirata.com.ar/Gibberbot_con_OTR) y seguro en bounjour, jabber, facebook, googletalk, etc.
-* ![yaaic](img/manifestdroid/yaaic.png) [Yaaic](https://f-droid.org/repository/browse/?fdfilter=irc&fdid=org.yaaic) Cliente para IRC.
-* ![csipsimple](img/manifestdroid/csipsimple.png) [CsipSimple](https://code.google.com/p/csipsimple/) telefonía por internet con criptografía, podes crear un cuenta local para la red libre y una cuenta en [ekiga.org](https://www.ekiga.net/?page=register) para acceso desde internet.
+* ![yaaic](img/manifestdroid/yaaic.png)\ [Yaaic](https://f-droid.org/repository/browse/?fdfilter=irc&fdid=org.yaaic) Cliente para IRC.
+* ![csipsimple](img/manifestdroid/csipsimple.png)\ [CsipSimple](https://code.google.com/p/csipsimple/) telefonía por internet con criptografía, podes crear un cuenta local para la red libre y una cuenta en [ekiga.org](https://www.ekiga.net/?page=register) para acceso desde internet.
 * [Ostel](https://ostel.co/) Llamadas con criptografía.
 * [Umap](http://umap.openstreetmap.org.ar) mapas para coordinarse en las calles.
 
@@ -127,8 +125,8 @@ Es recomendable **no usar** la red telefónica convencional, pero en caso de nec
 #### Difusión con Android
 
 * [ObscuraCam](https://guardianproject.info/apps/obscuracam/) protege a los manifestantes borrando sus caras y quita los datos de GPS y modelo de celular cuando compartís sus fotos internet.
-* ![Multi Sms](img/manifestdroid/multisms.png) [Multi Sms](http://f-droid.org/repository/browse/?fdfilter=sms&fdid=com.hectorone.multismssender) enviar SMS en cadena, puede usarse para la difusión previa o comunicarse con teléfonos sin Android.
-* ![Wifi Camera](img/manifestdroid/wificamera.png) [Wifi Camera](https://f-droid.org/repository/browse/?fdfilter=webcam&fdid=teaonly.droideye) Transmisión en vivo y directo de vídeo y audio con tu Android. A través de la red 2G y 3G puede llegar directamente a internet.
+* ![Multi Sms](img/manifestdroid/multisms.png)\ [Multi Sms](http://f-droid.org/repository/browse/?fdfilter=sms&fdid=com.hectorone.multismssender) enviar SMS en cadena, puede usarse para la difusión previa o comunicarse con teléfonos sin Android.
+* ![Wifi Camera](img/manifestdroid/wificamera.png)\ [Wifi Camera](https://f-droid.org/repository/browse/?fdfilter=webcam&fdid=teaonly.droideye) Transmisión en vivo y directo de vídeo y audio con tu Android. A través de la red 2G y 3G puede llegar directamente a internet.
 
 #### Red libre con Android
 
@@ -136,6 +134,8 @@ Muchos dispositivos con Android no son celulares, así que no tienen acceso a in
 
 * [Barnacle Wifi Tether](https://f-droid.org/repository/browse/?fdfilter=Barnacle%20Wifi%20Tether&fdid=net.szym.barnacle) arma tu propia red libre en malla con Android.
 * [Share via HTTP](https://f-droid.org/repository/browse/?fdfilter=share%20via%20http&fdid=com.MarcosDiez.shareviahttp) comparte archivos en la red.
+
+_**Nota:** Para instalar muchas de estas cosas vamos a necesitar tener [Superuser](https://f-droid.org/repository/browse/?fdfilter=superuser&fdid=org.fdroid.superuser)_
 
 ## Gas lacrimógeno
 
@@ -509,8 +509,8 @@ Esto es muy útil, pues sirve para cuando te olvidas de desmontarla y/o tuviste 
 
 #### Ocultar datos
 
-Este programa permite **cifrar** y **descifrar** mensaje para enviarlos por correo electronico, publicarlo, compartir de modo anonimo.
-Tambien nos permitirá guardar información de cualquier tipo dentro de una imagen o audio. 
+Este programa permite **cifrar** y **descifrar** mensaje para enviarlos por correo electronico, publicarlo, compartir de modo anónimo.
+También nos permitirá guardar información de cualquier tipo dentro de una imagen o audio. 
 Esta técnica se llama [esteganografía](https://es.wikipedia.org/wiki/Esteganograf%C3%ADa)
 Por esto en una publicación anónima hay que borrar los **metadatos** de cualquier material que los pueda contenerlo.
 Y borrar archivos definitivamente.
