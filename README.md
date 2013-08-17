@@ -343,9 +343,9 @@ _**Nota:** NO usar para nada que necesite cuenta (redes sociales, mail, foros), 
 
 #### Instalación
 
-<pre>
+'''
 sudo apt-get install tor
-</pre>
+'''
 	
 #### Navegar con Tor
 
@@ -382,9 +382,9 @@ Este programa no es muy buena pero tiene scripts interesante: http://gollum.arte
 
 #### Instalación
 
-<pre>
+'''
 sudo apt-get install idjc
-</pre>
+'''
 
 Además, vamos a necesitar un punto de monaje en un servidor Icecast, podes conseguir uno en [giss.tv](http://giss.tv/addmount.html).
 
@@ -430,13 +430,7 @@ Este manual es muy superficial más datos en [Juan Carlos Radio](http://juancarl
 Mientras se realiza la transmisión es posible monitorear la calidad de la conexión y la cantidad de usuarios conectados en la ventana principal de **IDJC**.
 Algo que podemos hacer para evitar cortes es abrir **preferencias (prefs)** y poner reconexión automática y sin mostrar el cartel de dialogo.
 
-### Redes sociales
-
-Difusión, coordinación de "ataques" a servidores, convocatoria.
-
-#### Convocatorias
-
-##### LOIC
+#### LOIC
 
 Es un ataque de denegación de servicio del objetivo enviando una gran cantidad de paquetes TCP, paquetes UDP o peticiones HTTP con objeto de determinar cuál es la cantidad de peticiones por segundo que puede resolver la red objetivo antes de dejar de funcionar.
 
@@ -444,16 +438,20 @@ Nosotros vamos a usar JSLOIC que es fácil de difundir.
 
 + Hacer una versión html5 con pycryptocat + irc en nc + proxychains
 
-##### Mensajes al publico
+### Compartir información de modo seguro
+
+Difusión, coordinación de "ataques" a servidores, convocatoria.
+
+##### Mensajes al pùblico
 
 ![Interface de Gespeak](img/gespeak.png "Interface de Gespeak")
 
 Anonymous hace tiempo que usa sintetizadores de voz para difundir sus noticias y campañas. 
 Esto es muy bueno por que no es posible reconocer quien habla, a la vez se puede programar mensajes automáticos para enviar mensajes al publico.
 
-<pre>
+'''
 sudo apt-get install gespeaker espeak mbrola mbrola-voice-es 
-</pre>
+'''
 
 ### Metadatos
 
@@ -468,7 +466,7 @@ A la vez, nosotros, podemos usar la misma tecnología para conocer el origen de 
 
 Para difundir textos, tanto por su falta de practicidad, como funcionales **NO** usar doc, docx o pdf.
 Siempre conviene utilizar textos "planos" el mas común es TXT, Makrdown y HTML. 
-Que no pueden contener metadatos, y son muy fáciles de interpretar.
+Que no pueden contener metadatos, y son muy fáciles de interpretar, analizar el origen, etc.
 
 ### Markdown
 
@@ -477,7 +475,7 @@ Básicamente es un texto plano (TXT) con algunos símbolos para marcar títulos,
 
 #### Ejemplo
 
-<pre>
+'''
 # Ejemplo de Markdown
 ## Un minitutorial de este formato de marcado
 
@@ -485,7 +483,7 @@ Este es un párrafo de ejemplo de **Markdown**, así podemos ver como se pone la
 * Esto es una lista
 * Esto es una lista
 Para conocer [más de Markdown](textos/markdown.md "Descripción del enlace")
-</pre>
+'''
 
 ##### Resultado
 
@@ -520,9 +518,9 @@ Cifrar una carpeta con todos su contenido de manera ocultar a cualquier persona 
 	
 ![Cryptkeeper](img/cryptkeeper.png "Crptkeeper en el menú de notificaciones")
 
-<pre>
+'''
 sudo apt-get install cryptkeeper
-</pre>
+'''
 
 Luego podemos correr **Cryptkeeper** desde el menú (Aplicaciones -> Herramientas del sistema -> Cryptkeeper).
 En el panel de notificaciones tendrán un nuevo icono con unas llaves, pulsan con el botón izquierdo del ratón y seleccionan: "New encrypted folder".
@@ -545,17 +543,17 @@ Elegirá una clave segura con al menos 9 caracteres entre letras, números y sí
 Colocará tanto el archivo con la información, por ejemplo un documento de texto, como la imagen en un mismo directorio
 Este programa solo sirve para ocultar archivos JPG, BMP, WAV y AU.
 
-<pre>
+'''
 steghide --embed -p "clave segura" -K -z 9 -N -cf imagen.jpg -ef archivo_secreto.txt 
-</pre>
+'''
 
 _**Nota** la clave NUNCA debe pasarse junto al archivo. Las claves SIEMPRE deben ser transmitidas de un modo seguro._
 
 ##### Por parte de la persona receptora
 
-<pre>
+'''
 steghide --extract -p "clave segura" -xf archivo_secreto.txt -sf imagen2.jpg
-</pre>
+'''
 
 [Manual completo en español](http://steghide.sourceforge.net/documentation/manpage_es.php)
 
@@ -565,9 +563,9 @@ steghide --extract -p "clave segura" -xf archivo_secreto.txt -sf imagen2.jpg
 
 #### Cifrado de me sajes
 
-<pre>
+'''
 sudo apt-get install gcipher
-</pre>
+'''
 
 ![Gcipher](img/gcipher.png "Gcipher cifrando un mensaje")
 
@@ -579,23 +577,23 @@ Este programa permite cifrar mensaje para enviarlos por mail....
 
 _**Nota:** Esto se pueden enviar adjuntos en una imagen o sonido._
 
-<pre>
+'''
 apt-get install mcrypt
-</pre>
+'''
 
 ##### Emisor
 
-<pre>
+'''
 mcrypt archivo.txt -z -u -k "clave segura"
-</pre>
+'''
 
 Nos pedirá la clave dos veces y una ves introducidas cifrara el archivo agregando la extensión `.nc`
 
 ##### Receptor
 
-<pre>
+'''
 mdecrypt archivo.txt.nc -k "clave segura"
-</pre>
+'''
 
 Tendra que conocer la clave de antemano, recuerda que esta tiene que ser enviada de un modo seguro y NUNCA en el mismo modo que el archivo.
 
@@ -603,9 +601,9 @@ Tendra que conocer la clave de antemano, recuerda que esta tiene que ser enviada
 
 Todos los datos que borramos en nuestras computadoras pueden ser recuperables, si queremos asegurarnos que estos se borren de manera definitiva podesmos usar **shred**.
 
-<pre>
+'''
 shred -uz -n 10 archivo
-</pre>
+'''
 
 _**Nota:** El archivo se elminará para siempre._
 
