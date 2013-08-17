@@ -40,13 +40,12 @@ Un volante tiene que ser fácil de leer, expresar fácilmente una problemática,
 Tiene que decir, donde, cuando y como nos tenemos que manifestar o que es lo que se necesita hacer.
 Usar valores de alto contraste (blanco y negro) para soportar fotocopias.
 
-
 ![Diseño de volante](img/poster.png "Como diseñar un volante")
 
-> Para diseñarlo podemos usar [Inkscape](http://inkscape.org). Y el formato que usemos tiene que servir para hacer postres y volantes. \
+> Para diseñarlo podemos usar [Inkscape](http://inkscape.org). Y el formato que usemos tiene que servir para hacer postres y volantes.
 > Para diseñarlo lo mejor es usar **SVG** y para imprimirlo **PDF** o **JPG** como mínimo 5000px de ancho o alto.
 
-### Errores más comunes
+### Errores comunes
 
 - Ser demacrado extenso
 - Contar detalles innecesarios o muy puntuales
@@ -262,9 +261,14 @@ LibreVPN es una red local con alcance mundial. Podemos tener nuestros Propios se
 
 ### IRC
 
+Los servidores de **IRC** son servidores de chat con muchas salas.
+Son muy buenos por que no necesitan cuenta, pueden usarse muchos servidores descentralizando la conversación.
+Puede conectarse usando **Tor**, hablar en salas publicas y chatear en privado (en los posible usando **OTR**).
+
 ![IRC en el pidgin](img/irc.png "IRC en el pidgin")
 
-Uno de los más populares **servicios de IRC** de modo externos que se puede usar es [Freenode](http://freenode.net/).
+> Si queres probar el **IRC** podes probar [Webchat](https://webchat.freenode.net/) de Freenode.
+> Es tan simple como ponerte un **nick** y un **canal** (sala de chat) donde hablar.
 
 #### Comandos básicos
 
@@ -328,6 +332,7 @@ Comando      | Descripción                                                    |
 
 En los IRC suelen usarse palabras propias de este tipo de servicio y muchas fueron apropiadas para toda la web como **troll**, acá una lista de las mas comunes.
 
+* **Canal** La sala de chat
 * **Topic (Tema)** Es el mensaje de entrada del canal, en el se anuncia el objetivo y varios enlaces e información de interés, por favor, antes de preguntar, echa un vistazo al Topic.
 * **Kick (Patear)** Quiere decir que has sido expulsado del canal, puedes volver a entrar de nuevo, pero vigila los modales, puesto que la próxima vez, podría ser un banear.
 * **Banear** Expulsión del chat, puede ser permanente o temporal, depende de la gravedad de la infracción.
