@@ -1,0 +1,128 @@
+#!/bin/bash
+#
+#	un meta cifrador, descrifrador con soporte para estenografia
+#
+
+# funciones
+
+function opciones {
+	# parametros
+	# -t "Eleccion" -m "que elegis" -c '"A" "B" "C"'
+	menu=`zenity --title "$titulo" --text "$mensaje" --list --column "" --hide-header $columna` || exit
+}
+function clave {
+	zenity --title "Clave" --text "Introduce la clave" --entry
+}
+function archivo {
+	zenity --title "elije el archivo con el archivo oculto" --file-selection
+}
+function mensaje {
+	zenity --title "Mensaje" --text="introduce el mensaje" --entry
+}
+function mostrar {
+	cat /dev/stdin | zenity --text-info
+}
+function papelera {
+	cat /dev/stdin | xsel -b 2> /dev/null > /dev/null
+	cat /dev/stdin
+}
+
+
+
+# programa
+
+# ¿Que queres hacer?
+MENU=`zenity --title "Ciframatic" --text "¿Que queres hacer?" --list --column "" --hide-header "Cifrar" "Descrifrar"`
+case $MENU in
+"Cifrar" )
+
+	MENU=`zenity --title "Ciframe" --text "¿Que deseas ocultar?" --list \
+	--column "" --hide-header "Mensaje" "Archivo"` || exit
+
+	case $MENU in
+	"Mensaje" )
+		ef=`mktemp`
+		mensaje > $ef
+		;;
+	"Archivo" )
+		ef=archivo
+		
+		;;
+	esac
+
+	MENU=`zenity --title "Ocultar" --text "Donde lo queres ocultar" --list \
+	--column "" --hide-header "Mensaje" "Archivo"  "Publicar"`|| exit
+
+	case $MENU in
+	"Mensaje" )
+		p=clave
+		# genera el mensaje y lo muestra en base64
+		mcrypt "$ef" -k "$k" -F | base64 -w0 | papelear | mostrar
+		;;
+	"Archivo" )
+		MENU=`zenity --title "Ocultar" --text "Donde lo queres ocultar" --list \
+		--column "" --hide-header "Elegir" "Azar"`|| exit
+		p=clave
+		case $MENU in
+			"Elegir" )
+				;;
+			"Azar" )
+				;;
+			esac
+		;;
+	"Publicar" )
+		;;
+	esac
+	;;
+"Descrifrar" )
+	# mensaje archivo o URL
+	MENU=`zenity --title "Ciframatic" --text "Donde queres buscar el mensaje" --list \
+	--column "" --hide-header "Mensaje" "Archivo" "Dirección de internet"`|| exit
+	case $MENU in
+	"Mensaje" )
+		# descifrado
+		m=`mensaje | base64 -d | mdecrypt - -k "$(clave)" -F` || exit
+		# lo guarda en la papelera y lo muestra
+		echo "$m" | papelera | mostrar
+		;;
+	"Archivo" )
+		# archivo
+		sf=archivo || exit
+		# mensaje descifrado en archivo
+		steghide extract -p "$(clave)" -sf "$sf" -xf - | mostrar
+		;;
+	esac
+
+	;;
+esac
+
+exit
+
+# Como funciona
+
+- ¿Que queres hacer?
+
+  1a. buscar mensaje
+     1a. ¿campo de entrada para el mensaje?
+     1b. ¿desde un archivo?
+       a. buscar archivo
+     1b. ¿desde una URL?
+       a. Feed (busca descifra y se queda a la espera) con Tor
+       b. Archivo lo descarga con Tor descifra y borra (de modo seguro)
+     2. poner password
+     3. mensaje descifrado
+
+  1b. ¿Que queres ocultar?
+     1a. Mensaje
+       a. campo de entrada para el mensaje de texto
+     1b. Archivo
+       b. campo para elegir el archivo
+     2. generar archivo con mensaje oculto
+       1a. ¿elige un archivo?
+         b. campo para elegir el archivo
+       1b. ¿descarga una imagen o audio al azar?
+       2. la modifica sustancialmente
+       3. agrega el mensaje al archivo
+     3a. Publicación
+       4. publica de modo anonimo usando Tor
+     3b. Guardar (sobre escribe el archivo)
