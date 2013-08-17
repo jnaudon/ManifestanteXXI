@@ -377,11 +377,7 @@ Este programa no es muy buena pero tiene scripts interesante: http://gollum.arte
 
 ### Transmisión de Radio
 
-#### Manual de uso IDJC
-
-Este manual es muy superficial más datos en [Juan Carlos Radio](http://juancarlosradio.com.ar)
-
-##### Instalación
+#### Instalación
 
 <pre>
 sudo apt-get install idjc
@@ -389,7 +385,7 @@ sudo apt-get install idjc
 
 Además, vamos a necesitar un punto de monaje en un servidor Icecast, podes conseguir uno en [giss.tv](http://giss.tv/addmount.html).
 
-##### Ventana principal
+#### Ventana principal
 
 **Internet DJ Console** es una herramienta poderosa, flexible y dinámica que permite crear programación radial vía Internet. 
 En esta pantalla se puede crea la secuencia musical que se utilizará en el programa de radio, activar y desactivar el micrófono.
@@ -402,7 +398,7 @@ Haciendo doble click sobre una canción, ésta comenzará a reproducirse.
 - **Stream** es el audio de lo que se transmite (al presionar los botones de dos estados “Stream” indicados en el punto anterior se activa o desactiva el audio que sale en la transmisión).
 - **DJ** es otro canal de audio, que permite poder escuchar otra cosa mientras se transmite (al presionar los botones de dos estados “DJ” se activa o desactiva el audio que sale en el modo DJ). 
 
-###### Configurar la estación (Streaming)
+##### Configurar la estación (Streaming)
 
 La configuración de servidores de streaming en **IDJC** se hace en la ventana de **"Salidas" (Output)**, al que se accede desde la ventana principal de **IDJC**. 
 Para agregar un servidor, dentro de la sección **"Configuración" (Configuration)**, usar el botón **"Nuevo" (New)**.
@@ -424,7 +420,9 @@ Si la colección de temas se encuentra en diferentes formatos, **IDJC** lo convi
 
 ¡Para comenzar a transmitir presionar el botón **Conectar (Connect)**!
 
-##### Monitoreo del streaming
+Este manual es muy superficial más datos en [Juan Carlos Radio](http://juancarlosradio.com.ar)
+
+#### Monitoreo del streaming
 
 Mientras se realiza la transmisión es posible monitorear la calidad de la conexión y la cantidad de usuarios conectados en la ventana principal de **IDJC**.
 Algo que podemos hacer para evitar cortes es abrir **preferencias (prefs)** y poner reconexión automática y sin mostrar el cartel de dialogo.
@@ -459,22 +457,15 @@ sudo apt-get install gespeaker espeak mbrola mbrola-voice-es
 Muchos hacktivistas fueron detenidos por los metadatos de sus fotos, conviene por las dudas no compartir fotos, vídeos o sonidos que puedan ser detectados su origen de modo automático, más si utilizamos Tor.
 Por esto en una publicación anónima hay que borrar los metadatos de cualquier material que los pueda contener.
 
+![Phacht](img/phacht.png "Quitar los metadatos")
+
 A la vez, nosotros, podemos usar la misma tecnología para conocer el origen de los materiales digitales que conseguimos.
-
-#### Quitar metadatos a archivos de imagen
-
-<pre>
-convert -strip nombre_archivo.png nombre_archivo.png
-</pre>
 
 ## Textos
 
 Para difundir textos, tanto por su falta de practicidad, como funcionales **NO** usar doc, docx o pdf.
 Siempre conviene utilizar textos "planos" el mas común es TXT, Makrdown y HTML. 
 Que no pueden contener metadatos, y son muy fáciles de interpretar.
-
-* como usar textos planos
-* UTF8
 
 ### Markdown
 
