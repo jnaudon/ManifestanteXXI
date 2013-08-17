@@ -250,7 +250,7 @@ Sobre todos necesitan tener **GNU/Linux** hay varias versiones y cada una sirve 
 
 Para organizarse **internamente** necesitamos no generar demacrado trafico transparente en internet.
 Entiéndase transparente por cualquier cosa que puede ser guardada en un servidor, tráfico del proveedor de internet o el de mail, red social, IRC, sin usar ningún tipo de cifrado.
-Así que una de las mejores cosas que podemos hacer es tener una VPN, Darknet y/o método de publicación anónimo.
+Así que una de las mejores cosas que podemos hacer es tener una VPN, red de pares y/o método de publicación anónimo.
 
 Nada que pueda ser comunicado en una **red local** debe pasar por una internet. Por eso esta bueno usar [LibreVPN](http://librevpn.org.ar).
 En una red local podemos chatear usando **Bounjour** para chatear entre todos los disponibles en la misma red. Aun así debemos usar OTR.
@@ -321,7 +321,7 @@ Como cliente de chat de **Jabber** podemos usar Pidgin al igual que IRC.
 
 ## Anonimato
 
-#### Cryptocat
+### Cryptocat
 
 ![Cryptocat](img/cryptocat.png "Cryptocat en el navegador")
 
@@ -338,14 +338,12 @@ ataque **DDoS** convinandolo con Tor.
 
 _**Nota:** NO usar para nada que necesite cuenta (redes sociales, mail, foros), excepto que esta fuese creada con la misma red Tor y NUNCA debes usarla sin Tor_
 
-#### Instalación simple
+#### Instalación
 
 <pre>
-sudo apt-get install vidalia
+sudo apt-get install tor
 </pre>
 	
-![panel de control de vidalia](img/vidalia.png "Panel de control de Vidalia")
-
 #### Navegar con Tor
 
 El navegador [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) debe descargarse de la pagina oficial, por lo general no esta en los repositorios del sistema.
@@ -469,7 +467,7 @@ A la vez, nosotros, podemos usar la misma tecnología para conocer el origen de 
 convert -strip nombre_archivo.png nombre_archivo.png
 </pre>
 
-### Textos
+## Textos
 
 Para difundir textos, tanto por su falta de practicidad, como funcionales **NO** usar doc, docx o pdf.
 Siempre conviene utilizar textos "planos" el mas común es TXT, Makrdown y HTML. 
@@ -478,12 +476,12 @@ Que no pueden contener metadatos, y son muy fáciles de interpretar.
 * como usar textos planos
 * UTF8
 
-#### Markdown
+### Markdown
 
 Markdown es un lenguaje de marcado ligero que trata de conseguir la máxima legibilidad y "publicabilidad" tanto en sus forma de entrada como de salida.
 Básicamente es un texto plano (TXT) con algunos símbolos para marcar títulos, subtítulos, negrita, cursiva, etc.
 
-##### Ejemplo
+#### Ejemplo
 
 <pre>
 # Ejemplo de Markdown
@@ -495,7 +493,7 @@ Este es un párrafo de ejemplo de **Markdown**, así podemos ver como se pone la
 Para conocer [más de Markdown](textos/markdown.md "Descripción del enlace")
 </pre>
 
-###### Resultado
+##### Resultado
 
 > # Ejemplo de Markdown
 > ## Un minitutorial de este formato de marcado
@@ -507,7 +505,15 @@ Para conocer [más de Markdown](textos/markdown.md "Descripción del enlace")
 
 #### HTML
 
-- convertir html a pandoc y viceversa
+Para convertir markdown en HTML podemos usar **Markdown** podemos usar pandoc
+
+'''
+sudo apt-get install pandoc
+'''
+
+'''
+pandoc markdown.md -o markdown.html
+'''
 
 #### Publicación anónima
 
