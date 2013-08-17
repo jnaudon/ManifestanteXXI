@@ -45,9 +45,6 @@ Usar valores de alto contraste (blanco y negro) para soportar fotocopias.
 > Para diseñarlo podemos usar [Inkscape](http://inkscape.org). Y el formato que usemos tiene que servir para hacer postres y volantes.
 > Para diseñarlo lo mejor es usar **SVG** y para imprimirlo **PDF** o **JPG** como mínimo 5000px de ancho o alto.
 
-![Phatch](img/phatch.png "Quitar los metadatos")
-> Con **phatcht** es muy fácil imprimir varias copias por pagina con la función rejilla.
-
 ### Errores comunes
 
 - Ser demacrado extenso
@@ -116,11 +113,11 @@ Una de las grandes ventajas de los policías en una manifestación, es que se en
 
 Lo mismo podemos hacer los manifestantes, organizándonos con **herramientas similares**, **libres** y **seguras**. Lo mejor es que un grupo en particular se dedique a la coordinación, utilizando con Bounjour, Jabber o telefonía sobre internet. Al igual que los policías, puede coordinarse la inteligencia por fuera de la manifestación, las personas calmadas piensan mejor, en este caso el grupo de acción debe pasar reportes precisos de lo que ocurre. La mayoría de la comunicación (a nivel inteligencia) debe hacerse por chat, en medio de una manifestación hablar se tornarse complicado e inseguro. Además escribiendo de modo preciso se puede logran mejores resultados, sobre todo en grandes grupos. **Es sumamente necesario que se usen métodos criptográficos**, el más común y seguro es el [OTR](textos/OTR.md).
 
-* [Gibberbot](https://guardianproject.info/apps/gibber/) chatea de modo [criptográfico](http://wiki.partidopirata.com.ar/Gibberbot_con_OTR) y seguro en bounjour, jabber, facebook, googletalk, etc.
-* [Yaaic](https://f-droid.org/repository/browse/?fdfilter=irc&fdid=org.yaaic) Cliente para IRC
-* [CsipSimple](https://code.google.com/p/csipsimple/) telefonía por internet con criptografía, podes crear un cuenta local para la red libre y una cuenta en [ekiga.org](https://www.ekiga.net/?page=register) para acceso desde internet.
-* [Ostel](https://ostel.co/) Llamadas con criptografía.
-* [Umap](http://umap.openstreetmap.org.ar) mapas para coordinarse en las calles.
+* [Gibberbot](https://guardianproject.info/apps/gibber/) chatea de modo [criptográfico](http://wiki.partidopirata.com.ar/Gibberbot_con_OTR) y seguro en bounjour, jabber, facebook, googletalk, etc.\
+![yaaic](img/manifestdroid/yaaic.png) [Yaaic](https://f-droid.org/repository/browse/?fdfilter=irc&fdid=org.yaaic) Cliente para IRC\
+![csipsimple](img/manifestdroid/csipsimple.png) [CsipSimple](https://code.google.com/p/csipsimple/) telefonía por internet con criptografía, podes crear un cuenta local para la red libre y una cuenta en [ekiga.org](https://www.ekiga.net/?page=register) para acceso desde internet.\
+* [Ostel](https://ostel.co/) Llamadas con criptografía.\
+* [Umap](http://umap.openstreetmap.org.ar) mapas para coordinarse en las calles.\
 
 Es recomendable **no usar** la red telefónica convencional, pero en caso de necesitarse estos programas resultan muy útiles.
 
@@ -129,9 +126,9 @@ Es recomendable **no usar** la red telefónica convencional, pero en caso de nec
 
 #### Difusión con Android
 
-* [ObscuraCam](https://guardianproject.info/apps/obscuracam/) protege a los manifestantes borrando sus caras y quita los datos de GPS y modelo de celular cuando compartís sus fotos internet.
-* [Multi Sms](http://f-droid.org/repository/browse/?fdfilter=sms&fdid=com.hectorone.multismssender) enviar SMS en cadena, puede usarse para la difusión previa o comunicarse con teléfonos sin Android.
-* [Wifi Camera](https://f-droid.org/repository/browse/?fdfilter=webcam&fdid=teaonly.droideye) Transmisión en vivo y directo de vídeo y audio con tu Android. A través de la red 2G y 3G puede llegar directamente a internet.
+* [ObscuraCam](https://guardianproject.info/apps/obscuracam/) protege a los manifestantes borrando sus caras y quita los datos de GPS y modelo de celular cuando compartís sus fotos internet.\
+![Multi Sms](img/manifestdroid/multisms.png) [Multi Sms](http://f-droid.org/repository/browse/?fdfilter=sms&fdid=com.hectorone.multismssender) enviar SMS en cadena, puede usarse para la difusión previa o comunicarse con teléfonos sin Android.\
+![Wifi Camera](img/manifestdroid/wificamera.png) [Wifi Camera](https://f-droid.org/repository/browse/?fdfilter=webcam&fdid=teaonly.droideye) Transmisión en vivo y directo de vídeo y audio con tu Android. A través de la red 2G y 3G puede llegar directamente a internet.\
 
 #### Red libre con Android
 
@@ -237,11 +234,10 @@ Sobre todos necesitan tener **GNU/Linux** hay varias versiones y cada una sirve 
   - Impersonales
   - Publicación anónima
 
-> * Sistema operativo Tails pensado para manifestantes y activistas
-> * Ciboulette para anonimizar la red, usando tecnología Tor y VPN usado como túnel para anonimizar la navegación
+> * Sistema operativo Tails pensado para manifestantes y activistas.
+> * Navegación anonima Tor, VPN, tuneles para anonimizar la navegación
 > * Difusión con bots para redes sociales
 > * Icecast e IDJC para transmitir televisión y [radios](#transmisión-de-radio)
-> * [Feed2tv]() herramienta para crear canales de televisión de modo muy simple
 > * Pidgin para chatear en [IRC](#IRC), [Jabber](#Jabber), [Cryptocat](#cryptocat), TorChat o usar Tor para anonimizar
 > * Servidor hogareño hecho con viejas maquinas
 > * Umap para organizar la accion en la calles
@@ -343,9 +339,9 @@ _**Nota:** NO usar para nada que necesite cuenta (redes sociales, mail, foros), 
 
 #### Instalación
 
-@
-sudo apt-get install tor
-@
+<pre>
+sudo apt-get install tor proxychains
+</pre>
 	
 #### Navegar con Tor
 
@@ -362,7 +358,7 @@ El navegador [Tor Browser](https://www.torproject.org/projects/torbrowser.html.e
 
 ## Difusión
 
-### Transmisión de Video
+### Transmisión de Vídeo
 
 Este programa no es muy buena pero tiene scripts interesante: http://gollum.artefacte.org/tss/
 
@@ -382,9 +378,9 @@ Este programa no es muy buena pero tiene scripts interesante: http://gollum.arte
 
 #### Instalación
 
-'''
+<pre>
 sudo apt-get install idjc
-'''
+</pre>
 
 Además, vamos a necesitar un punto de monaje en un servidor Icecast, podes conseguir uno en [giss.tv](http://giss.tv/addmount.html).
 
@@ -407,13 +403,13 @@ La configuración de servidores de streaming en **IDJC** se hace en la ventana d
 Para agregar un servidor, dentro de la sección **"Configuración" (Configuration)**, usar el botón **"Nuevo" (New)**.
 Para configurar el servidor de streaming al que **IDJC** se conecta primero hay que conocer los siguientes datos:
 
-> - **Servidor de streaming:** http://giss.tv
-> - **Número de puerto:** 8000
-> - **Punto de montaje (nombre de la radio):** /nuestraradio.ogg
-> - **Nombre de usuario:** nuestraradio
-> - **Contraseña:** clave
+> **Servidor de streaming:** http://giss.tv \
+> **Número de puerto:** 8000 \
+> **Punto de montaje (nombre de la radio):** /nuestra_radio.ogg \
+> **Nombre de usuario:** nuestra_radio \
+> **Contraseña:** clave \
 
-La unión de servidor, puerto y punto de montaje dan la dirección de la radio: [http://giss.tv:8000/nuestraradio.ogg](http://giss.tv:8000/nuestraradio.ogg)
+La unión de servidor, puerto y punto de montaje dan la dirección de la radio: [http://giss.tv:8000/nuestra_radio.ogg](http://giss.tv:8000/nuestra_radio.ogg)
 
 Luego corresponde configurar el formato de salida.
 Poner los **metadatos (metadata)** en blanco, los reproductores todavía no soportan metadatos en **OGG**.
@@ -428,30 +424,18 @@ Este manual es muy superficial más datos en [Juan Carlos Radio](http://juancarl
 #### Monitoreo del streaming
 
 Mientras se realiza la transmisión es posible monitorear la calidad de la conexión y la cantidad de usuarios conectados en la ventana principal de **IDJC**.
-Algo que podemos hacer para evitar cortes es abrir **preferencias (prefs)** y poner reconexión automática y sin mostrar el cartel de dialogo.
+Algo que podemos hacer para evitar cortes es abrir **preferencias (prefs)** y poner conexión automática y sin mostrar el cartel de dialogo.
 
-#### LOIC
-
-Es un ataque de denegación de servicio del objetivo enviando una gran cantidad de paquetes TCP, paquetes UDP o peticiones HTTP con objeto de determinar cuál es la cantidad de peticiones por segundo que puede resolver la red objetivo antes de dejar de funcionar.
-
-Nosotros vamos a usar JSLOIC que es fácil de difundir.
-
-+ Hacer una versión html5 con pycryptocat + irc en nc + proxychains
-
-### Compartir información de modo seguro
-
-Difusión, coordinación de "ataques" a servidores, convocatoria.
-
-##### Mensajes al pùblico
+#### Mensajes al pùblico
 
 ![Interface de Gespeak](img/gespeak.png "Interface de Gespeak")
 
-Anonymous hace tiempo que usa sintetizadores de voz para difundir sus noticias y campañas. 
+Anonymous hace tiempo que usa sintetizadores de voz para difundir sus noticias y campañas.
 Esto es muy bueno por que no es posible reconocer quien habla, a la vez se puede programar mensajes automáticos para enviar mensajes al publico.
 
-'''
+<pre>
 sudo apt-get install gespeaker espeak mbrola mbrola-voice-es 
-'''
+</pre>
 
 ### Metadatos
 
@@ -470,12 +454,12 @@ Que no pueden contener metadatos, y son muy fáciles de interpretar, analizar el
 
 ### Markdown
 
-Markdown es un lenguaje de marcado ligero que trata de conseguir la máxima legibilidad y "publicabilidad" tanto en sus forma de entrada como de salida.
-Básicamente es un texto plano (TXT) con algunos símbolos para marcar títulos, subtítulos, negrita, cursiva, etc.
+Markdown es un lenguaje de marcado ligero que trata de conseguir la máxima legibilidad y facilidad de publicación, tanto en sus forma de entrada como de salida.
+Básicamente es un texto plano con algunos símbolos para marcar títulos, subtítulos, negrita, cursiva, etc.
 
 #### Ejemplo
 
-'''
+<pre>
 # Ejemplo de Markdown
 ## Un minitutorial de este formato de marcado
 
@@ -483,7 +467,7 @@ Este es un párrafo de ejemplo de **Markdown**, así podemos ver como se pone la
 * Esto es una lista
 * Esto es una lista
 Para conocer [más de Markdown](textos/markdown.md "Descripción del enlace")
-'''
+</pre>
 
 ##### Resultado
 
@@ -499,18 +483,20 @@ Para conocer [más de Markdown](textos/markdown.md "Descripción del enlace")
 
 Para convertir markdown en HTML podemos usar **Markdown** podemos usar pandoc
 
-'''
+<pre>
 sudo apt-get install pandoc
-'''
+</pre>
 
-'''
+<pre>
 pandoc markdown.md -o markdown.html
-'''
+</pre>
 
 #### Publicación anónima
 
 - [Pasties](http://pastebin.com) Muchos no guardan "logs" pensando en la publicaciones anónimas aun así conviene usarlos con Tor
 - Publicar Base64 en tinyURL
+
+### Proteger información
 
 #### Cifrados de una carpeta
 
@@ -518,9 +504,9 @@ Cifrar una carpeta con todos su contenido de manera ocultar a cualquier persona 
 	
 ![Cryptkeeper](img/cryptkeeper.png "Crptkeeper en el menú de notificaciones")
 
-'''
+<pre>
 sudo apt-get install cryptkeeper
-'''
+</pre>
 
 Luego podemos correr **Cryptkeeper** desde el menú (Aplicaciones -> Herramientas del sistema -> Cryptkeeper).
 En el panel de notificaciones tendrán un nuevo icono con unas llaves, pulsan con el botón izquierdo del ratón y seleccionan: "New encrypted folder".
@@ -530,84 +516,36 @@ Para desmontarlo solo hay que usar el menú en el panel de notificaciones.
 En las Preferencias de la aplicación (boton derecho sobre el icono) podes configurar el tiempo que que res que tu carpeta se mantenga montada.
 Esto es muy útil, pues sirve para cuando te olvidas de desmontarla y/o tuviste que salir con urgencia.
 
-#### Ocultar un mensaje dentro de una imagen
+#### Ocultar datos
 
-Esto proceso nos permitirá guardar información de cualquier tipo dentro de una imagen, audio o Video.
+Este programa permite **cifrar** y **descifrar** mensaje para enviarlos por correo electronico, publicarlo, compartir de modo anonimo.
+Tambien nos permitirá guardar información de cualquier tipo dentro de una imagen o audio. 
+Esta técnica se llama [esteganografía](https://es.wikipedia.org/wiki/Esteganograf%C3%ADa)
+Y borrar archivos definitivamente.
+
+![Cifrado](img/cifrado.png "Cifrado y Descifrado")
+
 Puede resultar útil si pretendemos enviar una información confidencial a una persona y no queremos que la información sea interceptada por otros.
-A la vez esta información puede estar disponible de modo público y sin la clave correspondiente nunca acceder a los datos ocultos. 
-Esta técnica se llama [esteganografía](https://es.wikipedia.org/wiki/Esteganograf%C3%ADa) para ocultar información dentro de la imagen.
+A la vez esta información puede estar disponible de modo público y sin la clave correspondiente nunca nadie podrá acceder a los datos ocultos. 
 
-##### Por parte de la persona emisora
+#### Consejos
 
-Elegirá una clave segura con al menos 9 caracteres entre letras, números y símbolos. 
-Colocará tanto el archivo con la información, por ejemplo un documento de texto, como la imagen en un mismo directorio
-Este programa solo sirve para ocultar archivos JPG, BMP, WAV y AU.
+* Las claves NUNCA en el mismo modo que el archivo.
+  * Compartirlas en vivo
+  * En un chat con OTR 
 
-'''
-steghide --embed -p "clave segura" -K -z 9 -N -cf imagen.jpg -ef archivo_secreto.txt 
-'''
+##### Quehaceres
 
-_**Nota** la clave NUNCA debe pasarse junto al archivo. Las claves SIEMPRE deben ser transmitidas de un modo seguro._
+* Crear un programa que use la red Tor busque una imagen al azar, la descargue, la modifique, le agregue el mensaje y la publique. 
+Por ejemplo en http://uploadpie.com/
 
-##### Por parte de la persona receptora
+### LOIC
 
-'''
-steghide --extract -p "clave segura" -xf archivo_secreto.txt -sf imagen2.jpg
-'''
+Es una aplicación desarrollada por **Anonymous** que se encarga de realizar ataques de denegación de servicios a páginas web **DDoS**. Nosotros vamos a usar [JSLOIC](html/jsloic.html) que es fácil de difundir.
 
-[Manual completo en español](http://steghide.sourceforge.net/documentation/manpage_es.php)
+### Compartir información de modo seguro
 
-###### Quehaceres
-
-* Crear un programa que use la red Tor busque una imagen al azar, la descarge, la modifique, le agrege el mensaje y la publique. Por ejemplo en http://uploadpie.com/
-
-#### Cifrado de me sajes
-
-'''
-sudo apt-get install gcipher
-'''
-
-![Gcipher](img/gcipher.png "Gcipher cifrando un mensaje")
-
-Este programa permite cifrar mensaje para enviarlos por mail.... 
-
-#### Cifrado de archivos
-
-[Introducción]
-
-_**Nota:** Esto se pueden enviar adjuntos en una imagen o sonido._
-
-'''
-apt-get install mcrypt
-'''
-
-##### Emisor
-
-'''
-mcrypt archivo.txt -z -u -k "clave segura"
-'''
-
-Nos pedirá la clave dos veces y una ves introducidas cifrara el archivo agregando la extensión `.nc`
-
-##### Receptor
-
-'''
-mdecrypt archivo.txt.nc -k "clave segura"
-'''
-
-Tendra que conocer la clave de antemano, recuerda que esta tiene que ser enviada de un modo seguro y NUNCA en el mismo modo que el archivo.
-
-#### Borar archivos para SIEMPRE
-
-Todos los datos que borramos en nuestras computadoras pueden ser recuperables, si queremos asegurarnos que estos se borren de manera definitiva podesmos usar **shred**.
-
-'''
-shred -uz -n 10 archivo
-'''
-
-_**Nota:** El archivo se elminará para siempre._
-
-Buscar premail
+Difusión, coordinación de "ataques" a servidores, convocatoria.
 
 # Notas relacionadas
 
@@ -632,13 +570,11 @@ Se permite el uso comercial de la obra y de las posibles obras derivadas, la dis
 
 # Quehaceres
 
-* ~~Agregar NSA++ (http://noscript.net/nsa/)~~
-* ~~Hacer vectores de la mascara anti-lacrimogeno~~
 * Hacer svg interactivo (1/2)
 * Traducir
 * Referencia a los tutti bianchi que se protegían de los policías
 * Programa para tapar caras en HTML5
-* GNU/Manifest: GNU para manifestante
+* ~~GNU/Manifest: GNU para manifestante~~
   * ManifestWRT: versión de OpenWRT para manifestante
 * ManifestDroid
   * P2P ver la posibilidad de compartir archivos
