@@ -2,32 +2,52 @@
 #
 #	Un meta cifrador, descrifrador y estenografia
 #
+#	version 0.1 alfa
 #
-
-# funciones
+# --------------------------- funciones ---------------------------------
 
 function opciones {
+
+	while getopts t:m: OPCION
+	do
+	        case $OPCION in
+	                t) TITULO=${OPTARG}
+	                ;;
+	                m) MENSAJE=${OPTARG}
+	                ;;
+	        esac
+	done
 	# parametros
-	# -t "Eleccion" -m "que elegis" -c '"A" "B" "C"'
-	menu=`zenity --title "$titulo" --text "$mensaje" --list --column "" --column "" --hide-header $columna` || exit
+	N=0
+	for T in $(cat /dev/stdin); do
+		T=$(echo $T | sed 's/_/\ /g')
+		C="$C $N \"$T\""
+		N=$(($N+1))
+	done
+	# genera el menu
+	eval "zenity --title \"$TITULO\" --text \"$MENSAJE\" --list --column \"\" --column \"\" --hide-column 1  --hide-header $C"
+
+}
+function error {
+	zenity --error
 }
 function clave {
 	zenity --title "Clave" --text "Introduce la clave" --entry
 }
 function url {
-	zenity --title "URL" --text "Introducir dirección" --entry "http://"
+	zenity --title "URL" --text "Introducir dirección" --entry
 }
 function archivo {
 	zenity --title "elije el archivo" --file-selection
 }
 function archivos {
-	echo -e "$(zenity --title "elije el archivo" --file-selection --multiple --separator="\n")"
+	echo -e "$(zenity --title "Archivos" --title "Elije el archivos" --file-selection --multiple --separator="\n")"
 }
 function mensaje {
 	zenity --title "Mensaje" --text="introduce el mensaje" --text-info --editable
 }
 function mostrar {
-	cat /dev/stdin | zenity --text="¡Listo!" --text-info
+	cat /dev/stdin | zenity --title "Mensaje" --text="¡Listo!" --text-info
 }
 function papelera {
 	cat /dev/stdin | xsel
@@ -36,89 +56,106 @@ function progreso {
 	zenity  --progress --pulsate  --auto-close  --auto-kill
 }
 
-# programa
+# -------------------------- programa ----------------------------------
+
 
 # ¿Que queres hacer?
-MENU=`zenity --title "Ciframatic" --text "¿Que queres hacer?" --list --column "" --column "" --hide-column 1 --hide-header \
-0 "Cifrar" 1 "Descrifrar" 2 "Quitar metadatos" 3 "Eliminar archivos" `
+MENU=`echo  "Cifrar Descrifrar Quitar_metadatos Eliminar_archivos" | opciones -t "Ciframatic" -m "¿Que queres hacer?"`
 
 case $MENU in
 	0 )
 	# Cifrar
-	MENU=`zenity --title "Ciframe" --text "¿Que deseas proteger?" --list \
-	--column "" --hide-header "Mensaje" "Archivo"` || exit
+	#------------------ entrada ----------------------
+	MENU=`echo -e "Mensaje Archivo" | opciones -t "Ciframe" -m "¿Que deseas proteger?"` || exit
 	case $MENU in
-		"Mensaje" )
+		0 )
 			ef=`mensaje`
 		;;
-		"Archivo" )
+		1 )
 			ef=`cat $(archivo || exit)`
 		;;
 	esac
-	echo $ef > /dev/stderr
-
-	k=`clave`
-
-	MENU=`zenity --title "En donde" --text "¿Donde lo queres ocultar?" --list \
-	--column "" --hide-header "Mensaje" "Archivo"`|| exit
-
+	k=`pwgen  -1 -s |clave`
+	MENU=`echo -e "Mensaje Archivo Imagen_al_azar tinyURL Publicar" | opciones -t "¿En donde?" -m "¿Donde lo queres ocultar?"` || exit
 	case $MENU in
-	"Mensaje" )
+	0 )
 		# genera el mensaje y lo muestra en base64
 		m=` echo "$ef" | mcrypt -z -u -k "$k" -F | base64 -w0 `
 		echo "$m" | papelera
 		echo "$m" | mostrar
-		exit
 		;;
-	"Archivo" )
-		MENU=`zenity --title "Ocultar" --text "Donde lo queres ocultar" --list \
-		--column "" --hide-header "Elegir" "Azar"`|| exit
-		case $MENU in
-			"Elegir" )
-				b=`archivo || exit`
-				echo "$ef" | steghide embed -ef - -p "$k" -cf "$b"
-				;;
-			"Azar" )
-				# busca una imagen al azar en la web (con tor)
-				p=`clave`
-				echo "$ef" | steghide embed -ef - -p "$k" -cf "$b"
-				;;
-			esac
+	1 )
+		# guardar en un archivo (propio)
+		b=`archivo || exit`
+		echo "$ef" | steghide embed -ef - -p "$k" -cf "$b"
+		;;
+	2 )
+		# busca una imagen al azar en la web (con tor)
+		# http://thepaperwall.com/rss.recentfifty.php
+		# 
+		p=`clave`
+		echo "$ef" | steghide embed -ef - -p "$k" -cf "$b"
+		;;
+	3 )
+		# publicar en tinyURL con Tor
+		# genera el mensaje y lo muestra en base64
+		m=`echo "$ef" | mcrypt -z -u -k "$k" -F | base64 -w0`
+		u=`wget -U Mozilla "https://tinyurl.com/create.php?url=data:text/html;charset=utf-8;base64,$m" -qO - \
+		| grep "https://tinyurl.com/"` | progreso
+		echo "$u" > /dev/stderr
+		echo "$u" | papelera
+		echo "$u" | mostrar
+		# no se por que no genera la tinyurl a veces
+		;;
+	3 )
+		# publicar en Uploader con Tor
+		# genera el mensaje y lo muestra en base64
+		m=`echo "$ef" | mcrypt -z -u -k "$k" -F | base64 -w0`
+		# http://uploadpie.com/
+		u=`wget -U Mozilla "https://tinyurl.com/create.php?url=data:text/html;charset=utf-8;base64,$m" -qO - \
+		| grep "https://tinyurl.com/"` | progreso
+		echo "$u" > /dev/stderr
+		echo "$u" | papelera
+		echo "$u" | mostrar
+		# no se por que no genera la tinyurl a veces
 		;;
 	esac
 	;;
-1 )
-	# Descrifrar
+	1 )
+	# Descifrar
 
 	# mensaje archivo o URL
-	MENU=`zenity --title "Ciframatic" --text "Donde queres buscar el mensaje" --list \
-	--column "" --column "" --hide-column 1 --hide-header 0 "Mensaje" 1 "Archivo" 2 "Dirección de internet"`|| exit
+	MENU=`echo -e "Mensaje Archivo Dirección_de_internet" | opciones -t "Descifrar" -m "¿Donde queres buscar?"` || exit
 	case $MENU in
-	0 )
-		# descifrado
-		k=`clave`
-		m=`mensaje | sed 's/\ [^1-9A-Za-z]=//g'| base64 -d | mdecrypt - -z -k "$k" -F` || exit
-		# lo guarda en la papelera y lo muestra
-		echo "$m" | papelera
-		echo "$m" | mostrar
+		0 )
+			# descifrado
+			t=`mensaje` || exit
+			k=`clave`
+			m=`$t | sed 's/\ [^1-9A-Za-z]=//g'| base64 -d | mdecrypt - -z -k "$k" -F` || error && exit
+
+			# lo guarda en la papelera y lo muestra
+			echo "$m" | papelera
+			echo "$m" | mostrar
 		;;
-	1 )
-		# archivo
-		sf=`archivo || exit`
-		# mensaje descifrado en archivo
-		p=`clave`
-		steghide extract -p "$p" -sf "$sf" -xf - | mostrar
+		1 )
+			# archivo
+			sf=`archivo` || exit
+			# mensaje descifrado en archivo
+			p=`clave`
+			steghide extract -p "$p" -sf "$sf" -xf - | mostrar
 		;;
-	2 )
-		# archivo
-		URL=`url || exit`
-		# mensaje descifrado en archivo
-		p=`clave`
-		sf=`mktemp`
-		proxychains wget "$URL" -O $sf | progreso
-		m=`steghide extract -p "$p" -sf $sf -xf -`
-		shred -uz -n 10	$sf
-		echo "$m" | mostrar
+		2 )
+			# url
+			URL=`url` || exit
+			# mensaje descifrado en archivo
+			p=`clave`
+			sf=`mktemp`
+			# visitar la pagina de internet con Tor
+			proxychains wget "$URL" -O $sf | progreso
+			m=`steghide extract -p "$p" -sf $sf -xf -`
+			# borrar el archivo temporal para siempre
+			shred -uz -n 10	$sf
+			echo "$m" | mostrar
 		;;
 	esac
 
@@ -126,15 +163,15 @@ case $MENU in
 	2 )
 		# Quitar metadatos
 		archivos  || exit | while read ARCHIVO; do
-			echo $ARCHIVO > /dev/stderr
-			convert -strip "$ARCHIVO" "$ARCHIVO"
 			# falta quitar las caras
+			# opcion para romper pixels
+			convert -strip "$ARCHIVO" "$ARCHIVO"
 		done | progreso
 	;;
 	3 )
 		# Eliminar archivos de modo seguro
 		archivos || exit | while read ARCHIVO; do
-			echo $ARCHIVO > /dev/stderr
+			# borra el archivo para simpre
 			shred -uz -n 10	"$(archivo)" | progreso
 		done | progreso
 	;;
