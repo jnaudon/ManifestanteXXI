@@ -509,30 +509,24 @@ Esto es muy útil, pues sirve para cuando te olvidas de desmontarla y/o tuviste 
 
 #### Ocultar datos
 
-Este programa permite **cifrar** y **descifrar** mensaje para enviarlos por correo electronico, publicarlo, compartir de modo anónimo.
-También nos permitirá guardar información de cualquier tipo dentro de una imagen o audio. 
-Esta técnica se llama [esteganografía](https://es.wikipedia.org/wiki/Esteganograf%C3%ADa)
-Por esto en una publicación anónima hay que borrar los **metadatos** de cualquier material que los pueda contenerlo.
-Y borrar archivos definitivamente.
+Este programa permite **cifrar** y **descifrar** mensaje o archivos para enviarlos por correo electronico, publicarlo, compartir de modo anónimo.
+También nos permitirá guardar información de cualquier tipo dentro de una imagen o audio. Esta técnica se llama [esteganografía](https://es.wikipedia.org/wiki/Esteganograf%C3%ADa).
+Y tambien permite borrar archivos definitivamente.
 
 ![Cifrado](img/cifrado.png "Cifrado y Descifrado")
 
 Puede resultar útil si pretendemos enviar una información confidencial a una persona y no queremos que la información sea interceptada por otros.
 A la vez esta información puede estar disponible de modo público y sin la clave correspondiente nunca nadie podrá acceder a los datos ocultos. 
 
-Muchos hacktivistas fueron detenidos por los **metadatos** de sus fotos, conviene por las dudas no compartir fotos, vídeos o sonidos que puedan ser detectados su origen de modo automático, más si utilizamos Tor.
+Muchos hacktivistas fueron detenidos por los **metadatos** de sus fotos.
+Por esto en una publicación anónima hay que borrar los **metadatos** de cualquier material que los pueda contenerlo.
 
 #### Consejos
 
-* Las claves NUNCA en el mismo modo que el archivo.
-  * Compartirlas en vivo
-  * En un chat con OTR 
-* Borrar los metadatos de fotos de cámaras y celulares antes de publicarlas
-
-##### Quehaceres
-
-* Crear un programa que use la red Tor busque una imagen al azar, la descargue, la modifique, le agregue el mensaje y la publique. 
-Por ejemplo en http://uploadpie.com/
+* **NUNCA** envies las claves junto al archivo o mensaje cifrado
+  * Compartirlas en vivo (de persona a persona)
+  * En un chat con OTR
+* Borrar los **metadatos** de fotos de cámaras y celulares antes de publicarlas
 
 ### LOIC
 
