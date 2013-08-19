@@ -23,7 +23,7 @@ En el 2011 Cristina Fernández de Kirchner emitió un Decreto ordenando la creac
 
 El reconocimiento de rostros es cada más simple y barato, por ejemplo en la Ciudad de Buenos Aires las [cámaras de seguridad](http://camaras.buenosaires.gob.ar/) superan las mil y las redes sociales con reconocimiento facial: facebook, google+, flickr, etc, son cada vez más populares y la actualización permanentemente por parte de sus usuarios mejora las bases de datos constantemente.
 
-![Aerosol a Distancia](img/aerosol_a_distancia.png)
+![Aerosol a Distancia](planos/aerosol_a_distancia.png)
 
 En Android podemos usar el programas [ObscuraCam](https://guardianproject.info/apps/obscuracam/) que oculta las caras de forma automática.
 
@@ -389,7 +389,7 @@ Además, vamos a necesitar un punto de monaje en un servidor Icecast, podes cons
 **Internet DJ Console** es una herramienta poderosa, flexible y dinámica que permite crear programación radial vía Internet. 
 En esta pantalla se puede crea la secuencia musical que se utilizará en el programa de radio, activar y desactivar el micrófono.
 
-![Vista general del programa](img/IDJC.png "Vista general del programa")
+![Vista general del programa](planos/IDJC.png "Vista general del programa")
 
 Para agregar música arrastrar carpetas y/o archivos sobre alguna de las listas de reproducción. 
 Haciendo doble click sobre una canción, ésta comenzará a reproducirse.
