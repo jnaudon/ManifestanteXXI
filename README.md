@@ -40,7 +40,7 @@ Un volante tiene que ser fácil de leer, expresar fácilmente una problemática,
 Tiene que decir, donde, cuando y como nos tenemos que manifestar o que es lo que se necesita hacer.
 Usar valores de alto contraste (blanco y negro) para soportar fotocopias.
 
-![Diseño de volante](img/poster.png "Como diseñar un volante")
+![Diseño de volante](planos/poster.png "Como diseñar un volante")
 
 > Para diseñarlo podemos usar [Inkscape](http://inkscape.org). Y el formato que usemos tiene que servir para hacer postres y volantes.
 > Para diseñarlo lo mejor es usar **SVG** y para imprimirlo **PDF** o **JPG** como mínimo 5000px de ancho o alto.
