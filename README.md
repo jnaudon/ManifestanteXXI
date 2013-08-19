@@ -389,7 +389,7 @@ Además, vamos a necesitar un punto de monaje en un servidor Icecast, podes cons
 **Internet DJ Console** es una herramienta poderosa, flexible y dinámica que permite crear programación radial vía Internet. 
 En esta pantalla se puede crea la secuencia musical que se utilizará en el programa de radio, activar y desactivar el micrófono.
 
-![Vista general del programa](img/IDJC/IDJC.png "Vista general del programa")
+![Vista general del programa](img/IDJC.png "Vista general del programa")
 
 Para agregar música arrastrar carpetas y/o archivos sobre alguna de las listas de reproducción. 
 Haciendo doble click sobre una canción, ésta comenzará a reproducirse.
