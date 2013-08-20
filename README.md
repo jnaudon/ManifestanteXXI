@@ -311,12 +311,7 @@ El hecho de que sea una servicio descentralizado nos da la posibilidad de tener 
 Aunque existen varios servicios cerrados como Facebook, que no nos da la posibilidad de contactar con nadie fuera de este sitio.
 
 Como cliente de chat de **Jabber** podemos usar Pidgin al igual que IRC.
-
-#### Sacar una cuenta
-
-* [Riseup](https://riseup.net/es)
-* [Autistici](http://www.autistici.org/es)
-* [Jabberes](http://jabber.es/)
+Podes crear tu cuenta de jabber en [Riseup](https://riseup.net/es), [Autistici](http://www.autistici.org/es) o [Jabberes](http://jabber.es/).
 
 ## Anonimato
 
@@ -331,9 +326,8 @@ Se puede usar la red Tor para mayor seguridad.
 
 ### Tor
 
-Tor es un conjunto de Proxy's que rebotan nuestros paquetes entre ellos hasta llegar al destino, de esta manera, si con un Proxy 
-estamos casi Anonimizar, usando la Red Tor, tenemos un 99,9% de anonimato. Al ser un conjunto de Proxys, tampoco será efectivo el 
-ataque **DDoS** convinandolo con Tor.
+Tor es un conjunto de Proxy's que rebotan nuestros paquetes entre ellos hasta llegar al destino, de esta manera, 
+si con un Proxy estamos casi Anonimizar, usando la Red Tor, tenemos un 99,9% de anonimato. 
 
 _**Nota:** NO usar para nada que necesite cuenta (redes sociales, mail, foros), excepto que esta fuese creada con la misma red Tor y NUNCA debes usarla sin Tor_
 
@@ -341,38 +335,13 @@ _**Nota:** NO usar para nada que necesite cuenta (redes sociales, mail, foros), 
 
 <pre>
 sudo apt-get install tor proxychains
-</pre>
-	
+</pre>	
+
 #### Navegar con Tor
 
 El navegador [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) debe descargarse de la pagina oficial, por lo general no esta en los repositorios del sistema.
 
-### Chatear con Tor
-
-- Ejemplo de como configurar Pidgin
-- Ejemplo de TorChat
-
-### Coordinación (Con Tor)
-
-- Umap, Openstreetmap, Barricada.
-
 ## Difusión
-
-### Transmisión de Vídeo
-
-Este programa no es muy buena pero tiene scripts interesante: http://gollum.artefacte.org/tss/
-
-- http://www.muylinux.com/2010/03/02/y-seguimos-dandole-vueltas-al-h-264/
-- https://www.fsf.org/blogs/community/google-free-on2-vp8-for-youtube
-- https://hacks.mozilla.org/2012/03/video-mobile-and-the-open-web/
-- http://www.nomaspatanes.com/2012/04/video-html5-la-guerra-ha-terminado-y.html
-
-#### Quehaceres
-
-- Transmisor de Video muy simple
-- Conversor JPG + MP3 y/o OGA a OGG
-  - Lo que sea a OGG :P
-- Conversor Feed a OGG (Feed2TV)
 
 ### Transmisión de Radio
 
@@ -403,11 +372,11 @@ La configuración de servidores de streaming en **IDJC** se hace en la ventana d
 Para agregar un servidor, dentro de la sección **"Configuración" (Configuration)**, usar el botón **"Nuevo" (New)**.
 Para configurar el servidor de streaming al que **IDJC** se conecta primero hay que conocer los siguientes datos:
 
-> **Servidor de streaming:** http://giss.tv \n
-> **Número de puerto:** 8000 \n
-> **Punto de montaje (nombre de la radio):** /nuestra_radio.ogg \n
-> **Nombre de usuario:** nuestra_radio \n
-> **Contraseña:** clave 
+> * **Servidor de streaming:** http://giss.tv
+> * **Número de puerto:** 8000
+> * **Punto de montaje (nombre de la radio):** /nuestra_radio.ogg
+> * **Nombre de usuario:** nuestra_radio 
+> * **Contraseña:** clave 
 
 La unión de servidor, puerto y punto de montaje dan la dirección de la radio: [http://giss.tv:8000/nuestra_radio.ogg](http://giss.tv:8000/nuestra_radio.ogg)
 
@@ -420,11 +389,6 @@ Si la colección de temas se encuentra en diferentes formatos, **IDJC** lo convi
 ¡Para comenzar a transmitir presionar el botón **Conectar (Connect)**!
 
 Este manual es muy superficial más datos en [Juan Carlos Radio](http://juancarlosradio.com.ar)
-
-#### Monitoreo del streaming
-
-Mientras se realiza la transmisión es posible monitorear la calidad de la conexión y la cantidad de usuarios conectados en la ventana principal de **IDJC**.
-Algo que podemos hacer para evitar cortes es abrir **preferencias (prefs)** y poner conexión automática y sin mostrar el cartel de dialogo.
 
 ### Mensajes al pùblico
 
@@ -567,6 +531,16 @@ Se permite el uso comercial de la obra y de las posibles obras derivadas, la dis
   * P2P ver la posibilidad de compartir archivos
 * [codigos QR](http://f-droid.org/repository/browse/?fdid=com.google.zxing.client.android) da la posibilidad de compartir URL facilmente de pantalla a pantalla
 * [mapeo de datos](http://f-droid.org/repository/browse/?fdid=at.univie.sensorium.o3gm) no se que onda
+* Chatear con Tor
+  - Ejemplo de como configurar Pidgin
+  - Ejemplo de TorChat
+  - Umap, Openstreetmap, Barricada.
+* Transmisión de Vídeo
+  - Este programa no es muy buena pero tiene scripts interesante: http://gollum.artefacte.org/tss/
+  - http://www.muylinux.com/2010/03/02/y-seguimos-dandole-vueltas-al-h-264/
+  - https://www.fsf.org/blogs/community/google-free-on2-vp8-for-youtube
+  - https://hacks.mozilla.org/2012/03/video-mobile-and-the-open-web/
+  - http://www.nomaspatanes.com/2012/04/video-html5-la-guerra-ha-terminado-y.html
 
 # Donaciones ❤
 
