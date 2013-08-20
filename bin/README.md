@@ -7,6 +7,7 @@ Este programa permite cifrar y descifrar mensaje o archivos para enviarlos por c
 ## Instalar
 
 <pre>
+cd /tmp
 wget https://raw.github.com/b4zz4/ManifestanteXXI/master/bin/secreto
 wget https://raw.github.com/b4zz4/ManifestanteXXI/master/bin/wgetpaste
 chmod +x secreto
