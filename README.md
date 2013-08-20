@@ -482,11 +482,6 @@ sudo apt-get install pandoc
 pandoc markdown.md -o markdown.html
 </pre>
 
-#### Publicación anónima
-
-- [Pasties](http://pastebin.com) Muchos no guardan "logs" pensando en la publicaciones anónimas aun así conviene usarlos con Tor
-- Publicar Base64 en tinyURL
-
 ### Proteger información
 
 #### Cifrados de una carpeta
@@ -507,19 +502,24 @@ Para desmontarlo solo hay que usar el menú en el panel de notificaciones.
 En las Preferencias de la aplicación (boton derecho sobre el icono) podes configurar el tiempo que que res que tu carpeta se mantenga montada.
 Esto es muy útil, pues sirve para cuando te olvidas de desmontarla y/o tuviste que salir con urgencia.
 
-#### Ocultar datos
+#### Secreto
 
 Este programa permite **cifrar** y **descifrar** mensaje o archivos para enviarlos por correo electronico, publicarlo, compartir de modo anónimo.
-También nos permitirá guardar información de cualquier tipo dentro de una imagen o audio. Esta técnica se llama [esteganografía](https://es.wikipedia.org/wiki/Esteganograf%C3%ADa).
-Y tambien permite borrar archivos definitivamente.
+También nos permitirá guardar información de cualquier tipo dentro de una imagen o audio. 
+Esta técnica se llama [esteganografía](https://es.wikipedia.org/wiki/Esteganograf%C3%ADa).
+
+Como alguno de los datos que podemos tener en nuestra maquina puede ser peligroso. 
+Podemos borrar archivos definitivamente y sin dejar rastros.
 
 ![Cifrado](img/cifrado.png "Cifrado y Descifrado")
 
 Puede resultar útil si pretendemos enviar una información confidencial a una persona y no queremos que la información sea interceptada por otros.
-A la vez esta información puede estar disponible de modo público y sin la clave correspondiente nunca nadie podrá acceder a los datos ocultos. 
+La información puede estar disponible de modo público y sin la clave correspondiente nunca nadie podrá acceder a los datos ocultos. 
 
 Muchos hacktivistas fueron detenidos por los **metadatos** de sus fotos.
 Por esto en una publicación anónima hay que borrar los **metadatos** de cualquier material que los pueda contenerlo.
+
+Si tenemos datos a develar o tan solo queremos publicar de modo anónimo podemos hacerlo con esta aplicación.
 
 #### Consejos
 
