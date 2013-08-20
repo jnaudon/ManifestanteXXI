@@ -426,7 +426,7 @@ Este manual es muy superficial más datos en [Juan Carlos Radio](http://juancarl
 Mientras se realiza la transmisión es posible monitorear la calidad de la conexión y la cantidad de usuarios conectados en la ventana principal de **IDJC**.
 Algo que podemos hacer para evitar cortes es abrir **preferencias (prefs)** y poner conexión automática y sin mostrar el cartel de dialogo.
 
-#### Mensajes al pùblico
+### Mensajes al pùblico
 
 ![Interface de Gespeak](img/gespeak.png "Interface de Gespeak")
 
@@ -436,6 +436,51 @@ Esto es muy bueno por que no es posible reconocer quien habla, a la vez se puede
 <pre>
 sudo apt-get install gespeaker espeak mbrola mbrola-voice-es 
 </pre>
+
+## Proteger información
+
+### Cifrados de una carpeta
+
+Cifrar una carpeta con todos su contenido de manera ocultar a cualquier persona que acceda físicamente a nuestra computadora.
+	
+![Cryptkeeper](img/cryptkeeper.png "Crptkeeper en el menú de notificaciones")
+
+<pre>
+sudo apt-get install cryptkeeper
+</pre>
+
+Luego podemos correr **Cryptkeeper** desde el menú (Aplicaciones -> Herramientas del sistema -> Cryptkeeper).
+En el panel de notificaciones tendrán un nuevo icono con unas llaves, pulsan con el botón izquierdo del ratón y seleccionan: "New encrypted folder".
+Se les abrirá un cuadro de diálogo en el que deberán introducir el nombre y el destino de la carpeta a cifrar, y luego presionar el botón "Forward" y poner la contraseña dos veces.
+
+Para desmontarlo solo hay que usar el menú en el panel de notificaciones.
+En las Preferencias de la aplicación (boton derecho sobre el icono) podes configurar el tiempo que que res que tu carpeta se mantenga montada.
+Esto es muy útil, pues sirve para cuando te olvidas de desmontarla y/o tuviste que salir con urgencia.
+
+### Secreto
+
+Este programa permite **cifrar** y **descifrar** mensaje o archivos para enviarlos por correo electronico, publicarlo, compartir de modo anónimo.
+También nos permitirá guardar información de cualquier tipo dentro de una imagen o audio. 
+Esta técnica se llama [esteganografía](https://es.wikipedia.org/wiki/Esteganograf%C3%ADa).
+
+![Cifrado](img/cifrado.png "Cifrado y Descifrado")
+
+Puede resultar útil si pretendemos enviar una información confidencial a una persona y no queremos que la información sea interceptada por otros.
+La información puede estar disponible de modo público y sin la clave correspondiente nunca nadie podrá acceder a los datos ocultos.
+
+Si tenemos datos a develar o tan solo queremos **publicar** de modo **anónimo** podemos hacerlo con esta aplicación.
+Muchos hacktivistas fueron detenidos por los **metadatos** de sus fotos.
+Por esto en una publicación anónima hay que borrar los **metadatos** de cualquier material que los pueda contenerlo.
+
+Como alguno de los datos que podemos tener en nuestra maquina puede ser peligroso, luego de publicarlos. 
+Podemos **borrar archivos definitivamente** y sin dejar rastros.
+
+#### Consejos
+
+* **NUNCA** envies las claves junto al archivo o mensaje cifrado
+  * Compartirlas en vivo (de persona a persona)
+  * En un chat con OTR
+* Borrar los **metadatos** de fotos de cámaras y celulares antes de publicarlas
 
 ## Textos
 
@@ -482,59 +527,14 @@ sudo apt-get install pandoc
 pandoc markdown.md -o markdown.html
 </pre>
 
-### Proteger información
-
-#### Cifrados de una carpeta
-
-Cifrar una carpeta con todos su contenido de manera ocultar a cualquier persona que acceda físicamente a nuestra computadora.
-	
-![Cryptkeeper](img/cryptkeeper.png "Crptkeeper en el menú de notificaciones")
-
-<pre>
-sudo apt-get install cryptkeeper
-</pre>
-
-Luego podemos correr **Cryptkeeper** desde el menú (Aplicaciones -> Herramientas del sistema -> Cryptkeeper).
-En el panel de notificaciones tendrán un nuevo icono con unas llaves, pulsan con el botón izquierdo del ratón y seleccionan: "New encrypted folder".
-Se les abrirá un cuadro de diálogo en el que deberán introducir el nombre y el destino de la carpeta a cifrar, y luego presionar el botón "Forward" y poner la contraseña dos veces.
-
-Para desmontarlo solo hay que usar el menú en el panel de notificaciones.
-En las Preferencias de la aplicación (boton derecho sobre el icono) podes configurar el tiempo que que res que tu carpeta se mantenga montada.
-Esto es muy útil, pues sirve para cuando te olvidas de desmontarla y/o tuviste que salir con urgencia.
-
-#### Secreto
-
-Este programa permite **cifrar** y **descifrar** mensaje o archivos para enviarlos por correo electronico, publicarlo, compartir de modo anónimo.
-También nos permitirá guardar información de cualquier tipo dentro de una imagen o audio. 
-Esta técnica se llama [esteganografía](https://es.wikipedia.org/wiki/Esteganograf%C3%ADa).
-
-Como alguno de los datos que podemos tener en nuestra maquina puede ser peligroso. 
-Podemos borrar archivos definitivamente y sin dejar rastros.
-
-![Cifrado](img/cifrado.png "Cifrado y Descifrado")
-
-Puede resultar útil si pretendemos enviar una información confidencial a una persona y no queremos que la información sea interceptada por otros.
-La información puede estar disponible de modo público y sin la clave correspondiente nunca nadie podrá acceder a los datos ocultos. 
-
-Muchos hacktivistas fueron detenidos por los **metadatos** de sus fotos.
-Por esto en una publicación anónima hay que borrar los **metadatos** de cualquier material que los pueda contenerlo.
-
-Si tenemos datos a develar o tan solo queremos publicar de modo anónimo podemos hacerlo con esta aplicación.
-
-#### Consejos
-
-* **NUNCA** envies las claves junto al archivo o mensaje cifrado
-  * Compartirlas en vivo (de persona a persona)
-  * En un chat con OTR
-* Borrar los **metadatos** de fotos de cámaras y celulares antes de publicarlas
+## Protestas
 
 ### LOIC
 
-Es una aplicación desarrollada por **Anonymous** que se encarga de realizar ataques de denegación de servicios a páginas web **DDoS**. Nosotros vamos a usar [JSLOIC](html/jsloic.html) que es fácil de difundir.
+Es una aplicación popularizada por **Anonymous** que se encarga de realizar ataques de denegación de servicios a páginas web **DDoS**.
+Nosotros vamos a usar [JSLOIC](html/jsloic.html) que es fácil de difundir.
 
-### Compartir información de modo seguro
-
-Difusión, coordinación de "ataques" a servidores, convocatoria.
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # Notas relacionadas
 
