@@ -403,11 +403,11 @@ La configuración de servidores de streaming en **IDJC** se hace en la ventana d
 Para agregar un servidor, dentro de la sección **"Configuración" (Configuration)**, usar el botón **"Nuevo" (New)**.
 Para configurar el servidor de streaming al que **IDJC** se conecta primero hay que conocer los siguientes datos:
 
-> **Servidor de streaming:** http://giss.tv \
-> **Número de puerto:** 8000 \
-> **Punto de montaje (nombre de la radio):** /nuestra_radio.ogg \
-> **Nombre de usuario:** nuestra_radio \
-> **Contraseña:** clave \
+> **Servidor de streaming:** http://giss.tv \n
+> **Número de puerto:** 8000 \n
+> **Punto de montaje (nombre de la radio):** /nuestra_radio.ogg \n
+> **Nombre de usuario:** nuestra_radio \n
+> **Contraseña:** clave 
 
 La unión de servidor, puerto y punto de montaje dan la dirección de la radio: [http://giss.tv:8000/nuestra_radio.ogg](http://giss.tv:8000/nuestra_radio.ogg)
 
@@ -533,8 +533,6 @@ pandoc markdown.md -o markdown.html
 
 Es una aplicación popularizada por **Anonymous** que se encarga de realizar ataques de denegación de servicios a páginas web **DDoS**.
 Nosotros vamos a usar [JSLOIC](html/jsloic.html) que es fácil de difundir.
-
-~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # Notas relacionadas
 
