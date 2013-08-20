@@ -47,7 +47,7 @@ Usar valores de alto contraste (blanco y negro) para soportar fotocopias.
 
 ### Errores comunes
 
-- Ser demacrado extenso
+- Ser demasiado extenso
 - Contar detalles innecesarios o muy puntuales
 - Poner imágenes de fondo
 - NO proponer acciones, lo cual deja al lector imposibilitado a participar
@@ -448,8 +448,8 @@ Podemos **borrar archivos definitivamente** y sin dejar rastros.
 
 ## Textos
 
-Para difundir textos, tanto por su falta de practicidad, como funcionales **NO** usar doc, docx o pdf.
-Siempre conviene utilizar textos "planos" el mas común es TXT, Makrdown y HTML. 
+Para difundir textos, tanto por su falta de practicidad, como funcionales **NO** usar doc, docx ni pdf.
+Siempre conviene utilizar textos "planos" el mas común es TXT, Markdown o HTML. 
 Que no pueden contener metadatos, y son muy fáciles de interpretar, analizar el origen, etc.
 
 ### Markdown
@@ -463,7 +463,7 @@ Básicamente es un texto plano con algunos símbolos para marcar títulos, subt�
 # Ejemplo de Markdown
 ## Un minitutorial de este formato de marcado
 
-Este es un párrafo de ejemplo de **Markdown**, así podemos ver como se pone la *cursiva*
+Este es un párrafo de ejemplo de **Markdown**, así podemos ver como se pone la _cursiva_
 * Esto es una lista
 * Esto es una lista
 Para conocer [más de Markdown](textos/markdown.md "Descripción del enlace")
@@ -474,28 +474,17 @@ Para conocer [más de Markdown](textos/markdown.md "Descripción del enlace")
 > # Ejemplo de Markdown
 > ## Un minitutorial de este formato de marcado
 >
-> Este es un párrafo de ejemplo de **markdown**, así podemos ver como se pone la *cursiva*
+> Este es un párrafo de ejemplo de **markdown**, así podemos ver como se pone la _cursiva_
 > * Esto es una lista
 > * Esto es una lista
 > Para conocer [más de markdown](textos/markdown.md "Descripción del enlace")
-
-#### HTML
-
-Para convertir markdown en HTML podemos usar **Markdown** podemos usar pandoc
-
-<pre>
-sudo apt-get install pandoc
-</pre>
-
-<pre>
-pandoc markdown.md -o markdown.html
-</pre>
 
 ## Protestas
 
 ### LOIC
 
 Es una aplicación popularizada por **Anonymous** que se encarga de realizar ataques de denegación de servicios a páginas web **DDoS**.
+
 Nosotros vamos a usar [JSLOIC](html/jsloic.html) que es fácil de difundir.
 
 # Notas relacionadas
@@ -541,6 +530,7 @@ Se permite el uso comercial de la obra y de las posibles obras derivadas, la dis
   - https://www.fsf.org/blogs/community/google-free-on2-vp8-for-youtube
   - https://hacks.mozilla.org/2012/03/video-mobile-and-the-open-web/
   - http://www.nomaspatanes.com/2012/04/video-html5-la-guerra-ha-terminado-y.html
+* editor de markdown que exporte HTML
 
 # Donaciones ❤
 
