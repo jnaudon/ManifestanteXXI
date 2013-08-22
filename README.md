@@ -221,9 +221,9 @@ _En los intentos por ponerles batería incorporada, y contactarla al revéz, ter
 **Segundo experiencia** con una webcam Datavision no fue muy buena, la imagen tenia muchos problemas de calidad o tan solo aparecía en gris.
 Termino quemándose, seguramente, por el calor dentro del dispositivo.
 
-# Inteligencia DIY
+# Logistica DIY
 
-![poster de inteligencia](...)
+![poster de inteligencia](poster/logistica_chico.png)
 
 Para soportar toda la actividad en las calles se necesita de varios equipos de inteligencia que coordinen y retransmitan todo lo que ocurre creando medios de comunicación tanto para difundir como para coordinar. 
 Sobre todos necesitan tener **GNU/Linux** hay varias versiones y cada una sirve para las diferentes actividades que el equipo de coordinación, difusión, organización necesitan.
