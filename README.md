@@ -421,7 +421,7 @@ Para desmontarlo solo hay que usar el menú en el panel de notificaciones.
 En las Preferencias de la aplicación (boton derecho sobre el icono) podes configurar el tiempo que que res que tu carpeta se mantenga montada.
 Esto es muy útil, pues sirve para cuando te olvidas de desmontarla y/o tuviste que salir con urgencia.
 
-### Secreto
+### Bufanda Rosa
 
 Este programa permite **cifrar** y **descifrar** mensaje o archivos para enviarlos por correo electronico, publicarlo, compartir de modo anónimo.
 También nos permitirá guardar información de cualquier tipo dentro de una imagen o audio. 
