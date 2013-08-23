@@ -508,6 +508,8 @@ Se permite el uso comercial de la obra y de las posibles obras derivadas, la dis
   - Ejemplo de como configurar Pidgin
   - Ejemplo de TorChat
   - Umap, Openstreetmap, Barricada.
+* Lista de mails
+* Lector de Feed
 * Transmisión de Vídeo
   - Este programa no es muy buena pero tiene scripts interesante: http://gollum.artefacte.org/tss/
   - http://www.muylinux.com/2010/03/02/y-seguimos-dandole-vueltas-al-h-264/
