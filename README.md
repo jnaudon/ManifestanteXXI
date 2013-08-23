@@ -225,14 +225,8 @@ Termino quemándose, seguramente, por el calor dentro del dispositivo.
 
 ![poster de inteligencia](poster/logistica_chico.png)
 
-Para soportar toda la actividad en las calles se necesita de varios equipos de inteligencia que coordinen y retransmitan todo lo que ocurre creando medios de comunicación tanto para difundir como para coordinar. 
-Sobre todos necesitan tener **GNU/Linux** hay varias versiones y cada una sirve para las diferentes actividades que el equipo de coordinación, difusión, organización necesitan.
-
-- Conceptos de Logs
-- Anonimato real
-  - Metadata y datos falsos
-  - Impersonales
-  - Publicación anónima
+> Para soportar toda la actividad en las calles se necesita de varios equipos de inteligencia que coordinen y retransmitan todo lo que ocurre creando medios de comunicación tanto para difundir como para coordinar. 
+> Sobre todos necesitan tener **GNU/Linux** hay varias versiones y cada una sirve para las diferentes actividades que el equipo de coordinación, difusión, organización necesitan.
 
 > * Sistema operativo Tails pensado para manifestantes y activistas.
 > * Navegación anonima Tor, VPN, tuneles para anonimizar la navegación
@@ -251,12 +245,12 @@ Para organizarse **internamente** necesitamos no generar demacrado trafico trans
 Entiéndase transparente por cualquier cosa que puede ser guardada en un servidor, tráfico del proveedor de internet o el de mail, red social, IRC, sin usar ningún tipo de cifrado.
 Así que una de las mejores cosas que podemos hacer es tener una VPN, red de pares y/o método de publicación anónimo.
 
-Nada que pueda ser comunicado en una **red local** debe pasar por una internet. Por eso esta bueno usar [LibreVPN](http://librevpn.org.ar).
+Nada que pueda ser comunicado en una **red local** debe pasar por una internet. 
 En una red local podemos chatear usando **Bounjour** para chatear entre todos los disponibles en la misma red. Aun así debemos usar OTR.
 
-### LibreVPN
-
-LibreVPN es una red local con alcance mundial. Podemos tener nuestros Propios servicios y compartirlos con nuestros amigos.
+Por eso esta bueno usar [LibreVPN](http://librevpn.org.ar). 
+Que es una red local con alcance mundial.
+Podemos tener nuestros Propios servicios y compartirlos con nuestros amigos.
 
 ### IRC
 
@@ -310,8 +304,10 @@ Es un protocolo para chatear que funciona de modo descentralizado y puede comuni
 El hecho de que sea una servicio descentralizado nos da la posibilidad de tener una cuenta en diferente servidor que nuestro contacto.
 Aunque existen varios servicios cerrados como Facebook, que no nos da la posibilidad de contactar con nadie fuera de este sitio.
 
-Como cliente de chat de **Jabber** podemos usar Pidgin al igual que IRC.
-Podes crear tu cuenta de jabber en [Riseup](https://riseup.net/es), [Autistici](http://www.autistici.org/es) o [Jabberes](http://jabber.es/).
+![Jabber](img/jabber.png)
+
+> Como cliente de chat de **Jabber** podemos usar Pidgin al igual que IRC.
+> Podes crear tu cuenta de jabber en [Riseup](https://riseup.net/es), [Autistici](http://www.autistici.org/es) o [Jabberes](http://jabber.es/).
 
 ## Anonimato
 
@@ -319,10 +315,10 @@ Podes crear tu cuenta de jabber en [Riseup](https://riseup.net/es), [Autistici](
 
 ![Cryptocat](img/cryptocat.png "Cryptocat en el navegador")
 
-Podemos usar [Cryptcat](https://crypto.cat/) un complemento para Mozilla o TorBrowser. 
-Solo tenemos que coordinar en que canal hablar y **¡listo!**.
-Esto es muy bueno para coordinarse de modo seguro tanto en grupo y privado.
-Se puede usar la red Tor para mayor seguridad.
+> Podemos usar [Cryptcat](https://crypto.cat/) un complemento para Mozilla o TorBrowser. 
+> Solo tenemos que coordinar en que canal hablar y **¡listo!**.
+> Esto es muy bueno para coordinarse de modo seguro tanto en grupo y privado.
+> Se puede usar la red Tor para mayor seguridad.
 
 ### Tor
 
@@ -330,12 +326,6 @@ Tor es un conjunto de Proxy's que rebotan nuestros paquetes entre ellos hasta ll
 si con un Proxy estamos casi Anonimizar, usando la Red Tor, tenemos un 99,9% de anonimato. 
 
 _**Nota:** NO usar para nada que necesite cuenta (redes sociales, mail, foros), excepto que esta fuese creada con la misma red Tor y NUNCA debes usarla sin Tor_
-
-#### Instalación
-
-<pre>
-sudo apt-get install tor proxychains
-</pre>	
 
 #### Navegar con Tor
 
@@ -345,13 +335,7 @@ El navegador [Tor Browser](https://www.torproject.org/projects/torbrowser.html.e
 
 ### Transmisión de Radio
 
-#### Instalación
-
-<pre>
-sudo apt-get install idjc
-</pre>
-
-Además, vamos a necesitar un punto de monaje en un servidor Icecast, podes conseguir uno en [giss.tv](http://giss.tv/addmount.html).
+Vamos a necesitar un punto de monaje en un servidor Icecast, podes conseguir uno en [giss.tv](http://giss.tv/addmount.html) e instalarnos IDJC (Internet DJ Console).
 
 #### Ventana principal
 
