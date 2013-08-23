@@ -411,7 +411,7 @@ Este programa permite **cifrar** y **descifrar** mensaje o archivos para enviarl
 También nos permitirá guardar información de cualquier tipo dentro de una imagen o audio. 
 Esta técnica se llama [esteganografía](https://es.wikipedia.org/wiki/Esteganograf%C3%ADa).
 
-![Cifrado](bin/img/cifrado.png "Cifrado y Descifrado")
+![Cifrado](img/cifrado.png "Cifrado y Descifrado")
 
 Puede resultar útil si pretendemos enviar una información confidencial a una persona y no queremos que la información sea interceptada por otros.
 La información puede estar disponible de modo público y sin la clave correspondiente nunca nadie podrá acceder a los datos ocultos.
