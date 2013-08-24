@@ -246,11 +246,23 @@ Entiéndase transparente por cualquier cosa que puede ser guardada en un servido
 Así que una de las mejores cosas que podemos hacer es tener una VPN, red de pares y/o método de publicación anónimo.
 
 Nada que pueda ser comunicado en una **red local** debe pasar por una internet. 
-En una red local podemos chatear usando **Bounjour** para chatear entre todos los disponibles en la misma red. Aun así debemos usar OTR.
+En una red local podemos chatear usando **Bounjour** para chatear entre todos los disponibles en la misma red. 
+Aun así debemos usar [OTR](textos/Pidgin_con_OTR.md).
 
-Por eso esta bueno usar [LibreVPN](http://librevpn.org.ar). 
-Que es una red local con alcance mundial.
-Podemos tener nuestros Propios servicios y compartirlos con nuestros amigos.
+![Bonjour y LibreVPN]()
+
+> Por eso esta bueno usar [LibreVPN](http://librevpn.org.ar). 
+> Que es una red local con alcance mundial.
+> Podemos tener nuestros Propios servicios y compartirlos con nuestros amigos.
+
+### Lista de mails
+
+Las listas de correo son excelentes para organizarse en grupos sin la necesidad de estar todo el día conectado.
+Para ser más efectivos lo más recomendables es respetar las [Netiquetas](textos/Netiquetas.md) 
+y generar filtros de mail para organizarlos por listas y temas.
+
+Vale la pena indicar que los mails son descentralizados por ende podemos tener la lista en [Riseup](https://lists.riseup.net/www/) 
+y usar mails de [MyKolab](https://mykolab.com/), [Autistici](http://www.autistici.org/es/index.html) o donde sea.
 
 ### IRC
 
@@ -300,36 +312,41 @@ En los IRC suelen usarse palabras propias de este tipo de servicio y muchas fuer
 
 ### Jabber
 
-Es un protocolo para chatear que funciona de modo descentralizado y puede comunicarse entre diferentes nodos. 
+Es un protocolo para chatear que funciona de modo descentralizado y puede comunicarse entre diferentes nodos.
+Siempre con [OTR](textos/Pidgin_con_OTR.md) que esta disponible con el [Pidgin](http://pidgin.im/).
 El hecho de que sea una servicio descentralizado nos da la posibilidad de tener una cuenta en diferente servidor que nuestro contacto.
 Aunque existen varios servicios cerrados como Facebook, que no nos da la posibilidad de contactar con nadie fuera de este sitio.
 
-![Jabber](img/jabber.png)
+![Jabber](http://www.pidgin.im/shared/img/contact_window.p)
 
 > Como cliente de chat de **Jabber** podemos usar Pidgin al igual que IRC.
-> Podes crear tu cuenta de jabber en [Riseup](https://riseup.net/es), [Autistici](http://www.autistici.org/es) o [Jabberes](http://jabber.es/).
+> Podes crear tu cuenta de jabber en [Riseup](https://riseup.net/es), [Autistici](http://www.autistici.org/es) o [Jabber.es](http://jabber.es/).
 
 ## Anonimato
+
+### Navegar con Tor
+
+![Tor Browser Bundel](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Tails_screenshot.png/640px-Tails_screenshot.png)
+
+> El navegador [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) debe descargarse de la pagina oficial.
 
 ### Cryptocat
 
 ![Cryptocat](img/cryptocat.png "Cryptocat en el navegador")
 
-> Podemos usar [Cryptcat](https://crypto.cat/) un complemento para Mozilla o TorBrowser. 
+> Podemos usar [Cryptcat](https://crypto.cat/) un complemento para Mozilla o TorBrowser (para mayor seguridad). 
+> Aunque es un chat en el navegador Cryptocat es un chat Jabber.
 > Solo tenemos que coordinar en que canal hablar y **¡listo!**.
 > Esto es muy bueno para coordinarse de modo seguro tanto en grupo y privado.
-> Se puede usar la red Tor para mayor seguridad.
 
-### Tor
+### Lector de Noticias
 
-Tor es un conjunto de Proxy's que rebotan nuestros paquetes entre ellos hasta llegar al destino, de esta manera, 
-si con un Proxy estamos casi Anonimizar, usando la Red Tor, tenemos un 99,9% de anonimato. 
+Muchas paginas, blogs, centrales de noticias tiene RSS o Atom con la que podemos mantenernos actualizados de las novedades, noticas, o eventos y actividades de colegas y amigos.
 
-_**Nota:** NO usar para nada que necesite cuenta (redes sociales, mail, foros), excepto que esta fuese creada con la misma red Tor y NUNCA debes usarla sin Tor_
+![NewsFox](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/KDE4.2-Akregator.png/762px-KDE4.2-Akregator.png)
 
-#### Navegar con Tor
-
-El navegador [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) debe descargarse de la pagina oficial, por lo general no esta en los repositorios del sistema.
+> Los lectores de noticias son un modo muy simple y no rastreable de mantenernos informados y actualizados.
+> Como [NewsFox](https://addons.mozilla.org/es/firefox/addon/newsfox/) es un complemento de Firefox podemos instarlo en Tor Browser, anonimizando nuestras fuentes de noticias.
 
 ## Difusión
 
@@ -337,20 +354,12 @@ El navegador [Tor Browser](https://www.torproject.org/projects/torbrowser.html.e
 
 Vamos a necesitar un punto de monaje en un servidor Icecast, podes conseguir uno en [giss.tv](http://giss.tv/addmount.html) e instalarnos IDJC (Internet DJ Console).
 
-#### Ventana principal
-
-**Internet DJ Console** es una herramienta poderosa, flexible y dinámica que permite crear programación radial vía Internet. 
-En esta pantalla se puede crea la secuencia musical que se utilizará en el programa de radio, activar y desactivar el micrófono.
-
 ![Vista general del programa](planos/IDJC.png "Vista general del programa")
 
-Para agregar música arrastrar carpetas y/o archivos sobre alguna de las listas de reproducción. 
-Haciendo doble click sobre una canción, ésta comenzará a reproducirse.
+>**Internet DJ Console** es una herramienta poderosa, flexible y dinámica que permite crear programación radial vía Internet. 
+> En esta pantalla se puede crea la secuencia musical que se utilizará en el programa de radio, activar y desactivar el micrófono. \
 
-- **Stream** es el audio de lo que se transmite (al presionar los botones de dos estados “Stream” indicados en el punto anterior se activa o desactiva el audio que sale en la transmisión).
-- **DJ** es otro canal de audio, que permite poder escuchar otra cosa mientras se transmite (al presionar los botones de dos estados “DJ” se activa o desactiva el audio que sale en el modo DJ). 
-
-##### Configurar la estación (Streaming)
+#### Configurar la estación (Streaming)
 
 La configuración de servidores de streaming en **IDJC** se hace en la ventana de **"Salidas" (Output)**, al que se accede desde la ventana principal de **IDJC**. 
 Para agregar un servidor, dentro de la sección **"Configuración" (Configuration)**, usar el botón **"Nuevo" (New)**.
@@ -427,7 +436,7 @@ Podemos **borrar archivos definitivamente** y sin dejar rastros.
 
 * **NUNCA** envies las claves junto al archivo o mensaje cifrado
   * Compartirlas en vivo (de persona a persona)
-  * En un chat con OTR
+  * En un [chat con OTR](textos/Pidgin_con_OTR.md)
 * Borrar los **metadatos** de fotos de cámaras y celulares antes de publicarlas
 
 ## Textos
@@ -508,8 +517,6 @@ Se permite el uso comercial de la obra y de las posibles obras derivadas, la dis
   - Ejemplo de como configurar Pidgin
   - Ejemplo de TorChat
   - Umap, Openstreetmap, Barricada.
-* Lista de mails
-* Lector de Feed
 * Transmisión de Vídeo
   - Este programa no es muy buena pero tiene scripts interesante: http://gollum.artefacte.org/tss/
   - http://www.muylinux.com/2010/03/02/y-seguimos-dandole-vueltas-al-h-264/
