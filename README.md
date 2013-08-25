@@ -326,7 +326,7 @@ Aunque existen varios servicios cerrados como Facebook, que no nos da la posibil
 
 ### Navegar con Tor
 
-![Tor Browser Bundel](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Tails_screenshot.png/640px-Tails_screenshot.png)
+![Tor Browser Bundel](img/torbrowser.png)
 
 > El navegador [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) debe descargarse de la pagina oficial.
 
@@ -343,7 +343,7 @@ Aunque existen varios servicios cerrados como Facebook, que no nos da la posibil
 
 Muchas paginas, blogs, centrales de noticias tiene RSS o Atom con la que podemos mantenernos actualizados de las novedades, noticas, o eventos y actividades de colegas y amigos.
 
-![NewsFox](img/lector_de_noticias)
+![NewsFox](img/lector_de_noticias.png)
 
 > Los lectores de noticias son un modo muy simple y no rastreable de mantenernos informados y actualizados.
 > Como [NewsFox](https://addons.mozilla.org/es/firefox/addon/newsfox/) es un complemento de Firefox podemos instarlo en Tor Browser, anonimizando nuestras fuentes de noticias.
