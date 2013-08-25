@@ -343,7 +343,7 @@ Aunque existen varios servicios cerrados como Facebook, que no nos da la posibil
 
 Muchas paginas, blogs, centrales de noticias tiene RSS o Atom con la que podemos mantenernos actualizados de las novedades, noticas, o eventos y actividades de colegas y amigos.
 
-![NewsFox](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/KDE4.2-Akregator.png/762px-KDE4.2-Akregator.png)
+![NewsFox](img/lector_de_noticias)
 
 > Los lectores de noticias son un modo muy simple y no rastreable de mantenernos informados y actualizados.
 > Como [NewsFox](https://addons.mozilla.org/es/firefox/addon/newsfox/) es un complemento de Firefox podemos instarlo en Tor Browser, anonimizando nuestras fuentes de noticias.
