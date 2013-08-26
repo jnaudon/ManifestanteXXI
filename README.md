@@ -226,7 +226,8 @@ Termino quemándose, seguramente, por el calor dentro del dispositivo.
 ![poster de inteligencia](poster/logistica_chico.png)
 
 > Para soportar toda la actividad en las calles se necesita de varios equipos de inteligencia que coordinen y retransmitan todo lo que ocurre creando medios de comunicación tanto para difundir como para coordinar. 
-> Sobre todos necesitan tener **GNU/Linux** hay varias versiones y cada una sirve para las diferentes actividades que el equipo de coordinación, difusión, organización necesitan. Si no probaste ninguna podes generar tu propio [pendrive vivo](http://live.learnfree.eu/download) con el que podrás iniciar tu computadora usar gnu/linux y luego instarlo en ella.
+Sobre todos necesitan tener **GNU/Linux** hay varias versiones y cada una sirve para las diferentes actividades que el equipo de coordinación, difusión, organización necesitan. 
+Si no probaste ninguna podes generar tu propio [pendrive vivo](http://live.learnfree.eu/download) con el que podrás iniciar tu computadora usar gnu/linux y luego instalarlo.
 
 > * Sistema operativo Tails pensado para manifestantes y activistas.
 > * Navegación anonima Tor, VPN, tuneles para anonimizar la navegación
@@ -237,13 +238,13 @@ Termino quemándose, seguramente, por el calor dentro del dispositivo.
 > * Umap para organizar la accion en la calles
 > * espeak para dar comunicados sin ser descubiertos.
 > * Quitar metadatos a los archivos
-> * Eliminar algo para siempre
+> * Eliminar sin dejar rastros.
 
 ## Coordinación
 
-Para organizarse **internamente** necesitamos no generar demacrado trafico transparente en internet.
-Entiéndase transparente por cualquier cosa que puede ser guardada en un servidor, tráfico del proveedor de internet o el de mail, red social, IRC, sin usar ningún tipo de cifrado.
-Así que una de las mejores cosas que podemos hacer es tener una VPN, red de pares y/o método de publicación anónimo.
+Para organizarse **internamente** necesitamos no generar demasiado trafico rastreable en internet.
+O sea por cualquier cosa que puede ser guardada por servidor, proveedor de internet o el de mail, red social, IRC.
+Así que una de las mejores cosas que podemos hacer es tener una VPN, red de pares y/o método de publicación anónimo o usar conexiones cifradas.
 
 Nada que pueda ser comunicado en una **red local** debe pasar por una internet. 
 En una red local podemos chatear usando **Bounjour** para chatear entre todos los disponibles en la misma red. 
@@ -271,9 +272,9 @@ No necesitan cuenta, pueden usarse muchos servidores; descentralizando la conver
 Si queres probar el **IRC** podes probar [Webchat](https://webchat.freenode.net/) de Freenode.
 Es tan simple como ponerte un **nick** y un **canal** (sala de chat) donde hablar.
 
-![IRC en el pidgin](img/irc.png "IRC en el pidgin")
+![IRC en el pidgin](img/irc.png "IRC en pidgin")
 
-> Lo recomendable es usar **Pidgin** que tiene soporte para **OTR**.
+> Lo recomendable es usar [Pidgin](http://pidgin.im) que tiene soporte para  [OTR](textos/Pidgin_con_OTR.md).
 > Para hablar con alguien, en particular, conocido solo tenes que pasarle el **canal** y servidor.
 > Y podemos conectarnos usando **Tor**, hablar en salas publicas y chatear en privado (en los posible usando **OTR**).
 
@@ -352,12 +353,13 @@ Muchas paginas, blogs, centrales de noticias tiene RSS o Atom con la que podemos
 
 ### Transmisión de Radio
 
-Vamos a necesitar un punto de monaje en un servidor Icecast, podes conseguir uno en [giss.tv](http://giss.tv/addmount.html) e instalarnos IDJC (Internet DJ Console).
+Para poder transmitir radio en internet necesitamos un **punto de montaje** en un servidor Icecast, 
+una especie de antena de transmisión en internet. Podemos conseguir uno en [giss.tv](http://giss.tv/addmount.html) e instalarnos IDJC (Internet DJ Console).
 
 ![Vista general del programa](planos/IDJC.png "Vista general del programa")
 
 >**Internet DJ Console** es una herramienta poderosa, flexible y dinámica que permite crear programación radial vía Internet. 
-> En esta pantalla se puede crea la secuencia musical que se utilizará en el programa de radio, activar y desactivar el micrófono. \
+> En esta pantalla se puede crea la secuencia musical que se utilizará en el programa de radio, activar y desactivar el micrófono.
 
 #### Configurar la estación (Streaming)
 
@@ -442,35 +444,14 @@ Podemos **borrar archivos definitivamente** y sin dejar rastros.
 ## Textos
 
 Para difundir textos, tanto por su falta de practicidad, como funcionales **NO** usar doc, docx ni pdf.
-Siempre conviene utilizar textos "planos" el mas común es TXT, Markdown o HTML. 
-Que no pueden contener metadatos, y son muy fáciles de interpretar, analizar el origen, etc.
+Siempre conviene utilizar textos "planos" el mas común es TXT, Markdown o HTML.
+Estos son muy fáciles de interpretar, reutilizar.
+Que no pueden contener metadatos y no es nada fácil analizar el origen. 
 
-### Markdown
+![markdown](img/markdown.png)
 
-Markdown es un lenguaje de marcado ligero que trata de conseguir la máxima legibilidad y facilidad de publicación, tanto en sus forma de entrada como de salida.
-Básicamente es un texto plano con algunos símbolos para marcar títulos, subtítulos, negrita, cursiva, etc.
-
-#### Ejemplo
-
-<pre>
-# Ejemplo de Markdown
-## Un minitutorial de este formato de marcado
-
-Este es un párrafo de ejemplo de **Markdown**, así podemos ver como se pone la _cursiva_
-* Esto es una lista
-* Esto es una lista
-Para conocer [más de Markdown](textos/markdown.md "Descripción del enlace")
-</pre>
-
-##### Resultado
-
-> # Ejemplo de Markdown
-> ## Un minitutorial de este formato de marcado
->
-> Este es un párrafo de ejemplo de **markdown**, así podemos ver como se pone la _cursiva_
-> * Esto es una lista
-> * Esto es una lista
-> Para conocer [más de markdown](textos/markdown.md "Descripción del enlace")
+> Markdown es un lenguaje de marcado ligero que trata de conseguir la máxima legibilidad y facilidad de publicación, tanto en sus forma de entrada como de salida.
+> Básicamente es un texto plano con algunos símbolos para marcar títulos, subtítulos, negrita, cursiva, etc.
 
 ## Protestas
 
