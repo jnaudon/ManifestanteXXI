@@ -226,7 +226,7 @@ Termino quemándose, seguramente, por el calor dentro del dispositivo.
 ![poster de inteligencia](poster/logistica_chico.png)
 
 > Para soportar toda la actividad en las calles se necesita de varios equipos de inteligencia que coordinen y retransmitan todo lo que ocurre creando medios de comunicación tanto para difundir como para coordinar. 
-> Sobre todos necesitan tener **GNU/Linux** hay varias versiones y cada una sirve para las diferentes actividades que el equipo de coordinación, difusión, organización necesitan.
+> Sobre todos necesitan tener **GNU/Linux** hay varias versiones y cada una sirve para las diferentes actividades que el equipo de coordinación, difusión, organización necesitan. Si no probaste ninguna podes generar tu propio [pendrive vivo](http://live.learnfree.eu/download) con el que podrás iniciar tu computadora usar gnu/linux y luego instarlo en ella.
 
 > * Sistema operativo Tails pensado para manifestantes y activistas.
 > * Navegación anonima Tor, VPN, tuneles para anonimizar la navegación
