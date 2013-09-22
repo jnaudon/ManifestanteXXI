@@ -13,15 +13,18 @@ function parse_form() {
 		# verificar todos los valores y los copia
                 name=`echo "$1" | sed -n "$i"p | tr ' ' "\n" | grep 'name' | cut -d '"' -f 2`
                 value=`echo "$1" | sed -n "$i"p | tr ' ' "\n" | grep 'value' | cut -d '"' -f 2`
-		# comprueba si puede reemplazar los valores por los existentes
-		eval $(echo "$VAR" | while read A B; do
-			if [ "$A" == "$name" ]; then
-				# reemplaza valor por los de entrada
-				echo "value=$B"
-				echo "cambiando '$A' => '$B'" > /dev/stderr
-			fi
-		done)
-                params="$params$name=$value&"
+		if [ ! "$name" == "" ]; then
+			echo " '$name' => '$value'" > /dev/stderr
+			# comprueba si puede reemplazar los valores por los existentes
+			eval $(echo "$VAR" | while read A B; do
+				if [ "$A" == "$name" ]; then
+					# reemplaza valor por los de entrada
+					echo "value=$B"
+					echo "cambiando '$A' => '$B'" > /dev/stderr
+				fi
+			done)
+	                params="$params$name=$value&"
+		fi
         done
 	echo $params
 }
