@@ -416,30 +416,33 @@ Para desmontarlo solo hay que usar el menú en el panel de notificaciones.
 En las Preferencias de la aplicación (boton derecho sobre el icono) podes configurar el tiempo que que res que tu carpeta se mantenga montada.
 Esto es muy útil, pues sirve para cuando te olvidas de desmontarla y/o tuviste que salir con urgencia.
 
-### Bufanda Rosa
+### [Bufanda Rosa](https://github.com/b4zz4/BufandaRosa)
 
 Este programa permite **cifrar** y **descifrar** mensaje o archivos para enviarlos por correo electronico, publicarlo, compartir de modo anónimo.
 También nos permitirá guardar información de cualquier tipo dentro de una imagen o audio. 
 Esta técnica se llama [esteganografía](https://es.wikipedia.org/wiki/Esteganograf%C3%ADa).
 
-![Cifrado](img/cifrado.png "Cifrado y Descifrado")
+![Pantalla principal de Bufanda Rosa](img/bufandarosa.png "Cifrado y Descifrado")
 
 Puede resultar útil si pretendemos enviar una información confidencial a una persona y no queremos que la información sea interceptada por otros.
 La información puede estar disponible de modo público y sin la clave correspondiente nunca nadie podrá acceder a los datos ocultos.
+Un modo muy simple de usar esto es publicar datos en imagenes u audios de un blog.
 
 Si tenemos datos a develar o tan solo queremos **publicar** de modo **anónimo** podemos hacerlo con esta aplicación.
 Muchos hacktivistas fueron detenidos por los **metadatos** de sus fotos.
 Por esto en una publicación anónima hay que borrar los **metadatos** de cualquier material que los pueda contenerlo.
 
-Como alguno de los datos que podemos tener en nuestra maquina puede ser peligroso, luego de publicarlos. 
+Como alguno de los datos que podemos tener en nuestra maquina puede ser peligroso, luego de publicarlos.
 Podemos **borrar archivos definitivamente** y sin dejar rastros.
+Este programa además se encarga de muchas de las funcionalidades necesarias para un activista.
 
 #### Consejos
 
 * **NUNCA** envies las claves junto al archivo o mensaje cifrado
   * Compartirlas en vivo (de persona a persona)
   * En un [chat con OTR](textos/Pidgin_con_OTR.md)
-* Borrar los **metadatos** de fotos de cámaras y celulares antes de publicarlas
+* Cambia tus claves periodicamente
+* Borrar los **metadatos** de fotos de cámaras y celulares antes de publicarlas en noticias, redes sociales, blogs.
 
 ## Textos
 
