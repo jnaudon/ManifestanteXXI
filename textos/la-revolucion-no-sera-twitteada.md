@@ -17,7 +17,7 @@ vez de canal. Otro tipo de adaptaciones del IRC a la web en el pasado han sido l
 llamarlo canal lo mismo lo llamaban habitación.
 
 
-El IRC permite crear cualquier canal como por ejemplo \#tengoqueiramearahoraregresoysigo y twitter también. **En el IRC un mensaje 
+El IRC permite crear cualquier canal como por ejemplo \#tengoqueiramearahoraregresoysigo y twitter también**. En el IRC un mensaje 
 privado se llama "Query"** y en twitter lo llaman DM para ser más molones y poder decir aquello de *"mandame un MDMA de esos"*.La @ 
 para nombrar a alguien es una copia también. Los usuarios en las redes IRC tenían sus perfiles y para verlos podías hacerles un whois 
 **El problema principal de twitter es que es una red centralizada.** Esto supone que todo el mundo conecta a un mismo sitio donde se va 
@@ -66,8 +66,8 @@ estructura federada que permite una red distribuida totalmente. Son software lib
 puedes registrate o este otro pumity.net y hablar con gente que esta en otros servidores. Es una maravilla y pump.io aunque esta 
 naciendo es muy muy prometedor.
 
-Algunas personas dicen aquello de *"Es que la gente esta en twitter y facebook"* y otras dicen aquello de* "Es que la gente lee el país 
-y el ABC" *a pesar de que existen otras redes sociales distintas y otros medios informativos independientes. La gente puede decir por 
+Algunas personas dicen aquello de *"Es que la gente esta en twitter y facebook"* y otras dicen aquello de *"Es que la gente lee el país 
+y el ABC"* a pesar de que existen otras redes sociales distintas y otros medios informativos independientes. La gente puede decir por 
 tanto misa.
 
 **La revolución no puede ser con medios que se auto-censuran** si han de hablar de Bankia como por ejemplo pasa con el grupo PRISA no 
@@ -82,4 +82,4 @@ La revolución no puede ser en Twitter y si sobre redes independientes. Es posib
 medio es independiente no hace falta mucho, con mirar cual es su fuente de financiación es suficiente. ¿Cual es la fuente de 
 financiación de twitter? Pues eso. La revolución no puede ser fomentando twitter y su uso, twitter no es revolucionario, twitter es más 
 de lo mismo y** twittear la revolución no es posible** **por la simple razón de que si se esta twitteando es que no hemos aprendido 
-nada ni cambiado nada.**
+nada ni cambiado nada**.
