@@ -221,18 +221,13 @@ _En los intentos por ponerles batería incorporada, y contactarla al revéz, ter
 **Segundo experiencia** con una webcam Datavision no fue muy buena, la imagen tenia muchos problemas de calidad o tan solo aparecía en gris.
 Termino quemándose, seguramente, por el calor dentro del dispositivo.
 
-# Inteligencia DIY
+# Logistica DIY
 
-![poster de inteligencia](...)
+![poster de inteligencia](poster/logistica_chico.png)
 
-Para soportar toda la actividad en las calles se necesita de varios equipos de inteligencia que coordinen y retransmitan todo lo que ocurre creando medios de comunicación tanto para difundir como para coordinar. 
-Sobre todos necesitan tener **GNU/Linux** hay varias versiones y cada una sirve para las diferentes actividades que el equipo de coordinación, difusión, organización necesitan.
-
-- Conceptos de Logs
-- Anonimato real
-  - Metadata y datos falsos
-  - Impersonales
-  - Publicación anónima
+> Para soportar toda la actividad en las calles se necesita de varios equipos de inteligencia que coordinen y retransmitan todo lo que ocurre creando medios de comunicación tanto para difundir como para coordinar. 
+Sobre todos necesitan tener **GNU/Linux** hay varias versiones y cada una sirve para las diferentes actividades que el equipo de coordinación, difusión, organización necesitan. 
+Si no probaste ninguna podes generar tu propio [pendrive vivo](http://live.learnfree.eu/download) con el que podrás iniciar tu computadora usar gnu/linux y luego instalarlo.
 
 > * Sistema operativo Tails pensado para manifestantes y activistas.
 > * Navegación anonima Tor, VPN, tuneles para anonimizar la navegación
@@ -243,20 +238,32 @@ Sobre todos necesitan tener **GNU/Linux** hay varias versiones y cada una sirve 
 > * Umap para organizar la accion en la calles
 > * espeak para dar comunicados sin ser descubiertos.
 > * Quitar metadatos a los archivos
-> * Eliminar algo para siempre
+> * Eliminar sin dejar rastros.
 
 ## Coordinación
 
-Para organizarse **internamente** necesitamos no generar demacrado trafico transparente en internet.
-Entiéndase transparente por cualquier cosa que puede ser guardada en un servidor, tráfico del proveedor de internet o el de mail, red social, IRC, sin usar ningún tipo de cifrado.
-Así que una de las mejores cosas que podemos hacer es tener una VPN, red de pares y/o método de publicación anónimo.
+Para organizarse **internamente** necesitamos no generar demasiado trafico rastreable en internet.
+O sea por cualquier cosa que puede ser guardada por servidor, proveedor de internet o el de mail, red social, IRC.
+Así que una de las mejores cosas que podemos hacer es tener una VPN, red de pares y/o método de publicación anónimo o usar conexiones cifradas.
 
-Nada que pueda ser comunicado en una **red local** debe pasar por una internet. Por eso esta bueno usar [LibreVPN](http://librevpn.org.ar).
-En una red local podemos chatear usando **Bounjour** para chatear entre todos los disponibles en la misma red. Aun así debemos usar OTR.
+Nada que pueda ser comunicado en una **red local** debe pasar por una internet. 
+En una red local podemos chatear usando **Bounjour** para chatear entre todos los disponibles en la misma red. 
+Aun así debemos usar [OTR](textos/Pidgin_con_OTR.md).
 
-### LibreVPN
+![Bonjour y LibreVPN]()
 
-LibreVPN es una red local con alcance mundial. Podemos tener nuestros Propios servicios y compartirlos con nuestros amigos.
+> Por eso esta bueno usar [LibreVPN](http://librevpn.org.ar). 
+> Que es una red local con alcance mundial.
+> Podemos tener nuestros Propios servicios y compartirlos con nuestros amigos.
+
+### Lista de mails
+
+Las listas de correo son excelentes para organizarse en grupos sin la necesidad de estar todo el día conectado.
+Para ser más efectivos lo más recomendables es respetar las [Netiquetas](textos/Netiquetas.md) 
+y generar filtros de mail para organizarlos por listas y temas.
+
+Vale la pena indicar que los mails son descentralizados por ende podemos tener la lista en [Riseup](https://lists.riseup.net/www/) 
+y usar mails de [MyKolab](https://mykolab.com/), [Autistici](http://www.autistici.org/es/index.html) o donde sea.
 
 ### IRC
 
@@ -265,9 +272,9 @@ No necesitan cuenta, pueden usarse muchos servidores; descentralizando la conver
 Si queres probar el **IRC** podes probar [Webchat](https://webchat.freenode.net/) de Freenode.
 Es tan simple como ponerte un **nick** y un **canal** (sala de chat) donde hablar.
 
-![IRC en el pidgin](img/irc.png "IRC en el pidgin")
+![IRC en el pidgin](img/irc.png "IRC en pidgin")
 
-> Lo recomendable es usar **Pidgin** que tiene soporte para **OTR**.
+> Lo recomendable es usar [Pidgin](http://pidgin.im) que tiene soporte para  [OTR](textos/Pidgin_con_OTR.md).
 > Para hablar con alguien, en particular, conocido solo tenes que pasarle el **canal** y servidor.
 > Y podemos conectarnos usando **Tor**, hablar en salas publicas y chatear en privado (en los posible usando **OTR**).
 
@@ -306,67 +313,55 @@ En los IRC suelen usarse palabras propias de este tipo de servicio y muchas fuer
 
 ### Jabber
 
-Es un protocolo para chatear que funciona de modo descentralizado y puede comunicarse entre diferentes nodos. 
+Es un protocolo para chatear que funciona de modo descentralizado y puede comunicarse entre diferentes nodos.
+Siempre con [OTR](textos/Pidgin_con_OTR.md) que esta disponible con el [Pidgin](http://pidgin.im/).
 El hecho de que sea una servicio descentralizado nos da la posibilidad de tener una cuenta en diferente servidor que nuestro contacto.
 Aunque existen varios servicios cerrados como Facebook, que no nos da la posibilidad de contactar con nadie fuera de este sitio.
 
-Como cliente de chat de **Jabber** podemos usar Pidgin al igual que IRC.
-Podes crear tu cuenta de jabber en [Riseup](https://riseup.net/es), [Autistici](http://www.autistici.org/es) o [Jabberes](http://jabber.es/).
+![Jabber](http://www.pidgin.im/shared/img/contact_window.p)
+
+> Como cliente de chat de **Jabber** podemos usar Pidgin al igual que IRC.
+> Podes crear tu cuenta de jabber en [Riseup](https://riseup.net/es), [Autistici](http://www.autistici.org/es) o [Jabber.es](http://jabber.es/).
 
 ## Anonimato
+
+### Navegar con Tor
+
+![Tor Browser Bundel](img/torbrowser.png)
+
+> El navegador [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) debe descargarse de la pagina oficial.
 
 ### Cryptocat
 
 ![Cryptocat](img/cryptocat.png "Cryptocat en el navegador")
 
-Podemos usar [Cryptcat](https://crypto.cat/) un complemento para Mozilla o TorBrowser. 
-Solo tenemos que coordinar en que canal hablar y **¡listo!**.
-Esto es muy bueno para coordinarse de modo seguro tanto en grupo y privado.
-Se puede usar la red Tor para mayor seguridad.
+> Podemos usar [Cryptcat](https://crypto.cat/) un complemento para Mozilla o TorBrowser (para mayor seguridad). 
+> Aunque es un chat en el navegador Cryptocat es un chat Jabber.
+> Solo tenemos que coordinar en que canal hablar y **¡listo!**.
+> Esto es muy bueno para coordinarse de modo seguro tanto en grupo y privado.
 
-### Tor
+### Lector de Noticias
 
-Tor es un conjunto de Proxy's que rebotan nuestros paquetes entre ellos hasta llegar al destino, de esta manera, 
-si con un Proxy estamos casi Anonimizar, usando la Red Tor, tenemos un 99,9% de anonimato. 
+Muchas paginas, blogs, centrales de noticias tiene RSS o Atom con la que podemos mantenernos actualizados de las novedades, noticas, o eventos y actividades de colegas y amigos.
 
-_**Nota:** NO usar para nada que necesite cuenta (redes sociales, mail, foros), excepto que esta fuese creada con la misma red Tor y NUNCA debes usarla sin Tor_
+![NewsFox](img/lector_de_noticias.png)
 
-#### Instalación
-
-<pre>
-sudo apt-get install tor proxychains
-</pre>	
-
-#### Navegar con Tor
-
-El navegador [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) debe descargarse de la pagina oficial, por lo general no esta en los repositorios del sistema.
+> Los lectores de noticias son un modo muy simple y no rastreable de mantenernos informados y actualizados.
+> Como [NewsFox](https://addons.mozilla.org/es/firefox/addon/newsfox/) es un complemento de Firefox podemos instarlo en Tor Browser, anonimizando nuestras fuentes de noticias.
 
 ## Difusión
 
 ### Transmisión de Radio
 
-#### Instalación
-
-<pre>
-sudo apt-get install idjc
-</pre>
-
-Además, vamos a necesitar un punto de monaje en un servidor Icecast, podes conseguir uno en [giss.tv](http://giss.tv/addmount.html).
-
-#### Ventana principal
-
-**Internet DJ Console** es una herramienta poderosa, flexible y dinámica que permite crear programación radial vía Internet. 
-En esta pantalla se puede crea la secuencia musical que se utilizará en el programa de radio, activar y desactivar el micrófono.
+Para poder transmitir radio en internet necesitamos un **punto de montaje** en un servidor Icecast, 
+una especie de antena de transmisión en internet. Podemos conseguir uno en [giss.tv](http://giss.tv/addmount.html) e instalarnos IDJC (Internet DJ Console).
 
 ![Vista general del programa](planos/IDJC.png "Vista general del programa")
 
-Para agregar música arrastrar carpetas y/o archivos sobre alguna de las listas de reproducción. 
-Haciendo doble click sobre una canción, ésta comenzará a reproducirse.
+>**Internet DJ Console** es una herramienta poderosa, flexible y dinámica que permite crear programación radial vía Internet. 
+> En esta pantalla se puede crea la secuencia musical que se utilizará en el programa de radio, activar y desactivar el micrófono.
 
-- **Stream** es el audio de lo que se transmite (al presionar los botones de dos estados “Stream” indicados en el punto anterior se activa o desactiva el audio que sale en la transmisión).
-- **DJ** es otro canal de audio, que permite poder escuchar otra cosa mientras se transmite (al presionar los botones de dos estados “DJ” se activa o desactiva el audio que sale en el modo DJ). 
-
-##### Configurar la estación (Streaming)
+#### Configurar la estación (Streaming)
 
 La configuración de servidores de streaming en **IDJC** se hace en la ventana de **"Salidas" (Output)**, al que se accede desde la ventana principal de **IDJC**. 
 Para agregar un servidor, dentro de la sección **"Configuración" (Configuration)**, usar el botón **"Nuevo" (New)**.
@@ -421,7 +416,7 @@ Para desmontarlo solo hay que usar el menú en el panel de notificaciones.
 En las Preferencias de la aplicación (boton derecho sobre el icono) podes configurar el tiempo que que res que tu carpeta se mantenga montada.
 Esto es muy útil, pues sirve para cuando te olvidas de desmontarla y/o tuviste que salir con urgencia.
 
-### Secreto
+### Bufanda Rosa
 
 Este programa permite **cifrar** y **descifrar** mensaje o archivos para enviarlos por correo electronico, publicarlo, compartir de modo anónimo.
 También nos permitirá guardar información de cualquier tipo dentro de una imagen o audio. 
@@ -443,41 +438,20 @@ Podemos **borrar archivos definitivamente** y sin dejar rastros.
 
 * **NUNCA** envies las claves junto al archivo o mensaje cifrado
   * Compartirlas en vivo (de persona a persona)
-  * En un chat con OTR
+  * En un [chat con OTR](textos/Pidgin_con_OTR.md)
 * Borrar los **metadatos** de fotos de cámaras y celulares antes de publicarlas
 
 ## Textos
 
 Para difundir textos, tanto por su falta de practicidad, como funcionales **NO** usar doc, docx ni pdf.
-Siempre conviene utilizar textos "planos" el mas común es TXT, Markdown o HTML. 
-Que no pueden contener metadatos, y son muy fáciles de interpretar, analizar el origen, etc.
+Siempre conviene utilizar textos "planos" el mas común es TXT, Markdown o HTML.
+Estos son muy fáciles de interpretar, reutilizar.
+Que no pueden contener metadatos y no es nada fácil analizar el origen. 
 
-### Markdown
+![markdown](img/markdown.png)
 
-Markdown es un lenguaje de marcado ligero que trata de conseguir la máxima legibilidad y facilidad de publicación, tanto en sus forma de entrada como de salida.
-Básicamente es un texto plano con algunos símbolos para marcar títulos, subtítulos, negrita, cursiva, etc.
-
-#### Ejemplo
-
-<pre>
-# Ejemplo de Markdown
-## Un minitutorial de este formato de marcado
-
-Este es un párrafo de ejemplo de **Markdown**, así podemos ver como se pone la _cursiva_
-* Esto es una lista
-* Esto es una lista
-Para conocer [más de Markdown](textos/markdown.md "Descripción del enlace")
-</pre>
-
-##### Resultado
-
-> # Ejemplo de Markdown
-> ## Un minitutorial de este formato de marcado
->
-> Este es un párrafo de ejemplo de **markdown**, así podemos ver como se pone la _cursiva_
-> * Esto es una lista
-> * Esto es una lista
-> Para conocer [más de markdown](textos/markdown.md "Descripción del enlace")
+> Markdown es un lenguaje de marcado ligero que trata de conseguir la máxima legibilidad y facilidad de publicación, tanto en sus forma de entrada como de salida.
+> Básicamente es un texto plano con algunos símbolos para marcar títulos, subtítulos, negrita, cursiva, etc.
 
 ## Protestas
 
@@ -500,7 +474,8 @@ Algunas experiencias relacionadas.
 * [Ataque laser contra helicopteros](http://www.biobiochile.cl/2013/06/30/manifestantes-realizan-impresionante-ataque-laser-contra-helicoptero-militar-en-egipto.shtml)
 * [MidiNinja](https://knightcenter.utexas.edu/es/blog/00-14203-midia-ninja-un-fenomeno-del-periodismo-alternativo-que-emergio-de-las-protestas-en-bra) colectivo que transmite usando 4G directamente desde las calles 
 * [CamOver](http://noticias.lainformacion.com/mundo/camover-el-juego-que-pretende-acabar-a-golpes-con-todas-las-camaras-de-videovigilancia-de-berlin_8z9GyH5P4kGbnLAcjE1vC/) El juego para destruir las camaras de seguridad de Berlín.
-
+* [Tech Tools For Activism](https://techtoolsforactivism.org/) Herramientas digitales para activistas (en ingles)
+ 
 # Licencia
 
 Se permite el uso comercial de la obra y de las posibles obras derivadas, la distribución de las cuales se debe hacer con una licencia igual a la que regula la obra original.
