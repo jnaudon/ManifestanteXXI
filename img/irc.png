@@ -1,0 +1,5 @@
+--2013-10-06 18:45:14--  https://upload.wikimedia.org/wikipedia/commons/3/30/IRC-Wikibooks29.png
+Resolviendo upload.wikimedia.org... 208.80.154.235, 2620:0:861:ed1a::b
+Conectando a upload.wikimedia.org|208.80.154.235|:443... conectado.
+ERROR: el nombre común certificado «*.wikipedia.org» no coincide con el nombre de anfitrión solicitado «upload.wikimedia.org».
+Para conectar con upload.wikimedia.org de forma no segura, use «--no-check-certificate».
