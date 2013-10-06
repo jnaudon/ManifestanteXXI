@@ -81,5 +81,5 @@ importe de casi 400 millones, hasta los años 2014 y 2015".*
 La revolución no puede ser en Twitter y si sobre redes independientes. Es posible usar sus redes con cultura de cifrado. Para ver si un 
 medio es independiente no hace falta mucho, con mirar cual es su fuente de financiación es suficiente. ¿Cual es la fuente de 
 financiación de twitter? Pues eso. La revolución no puede ser fomentando twitter y su uso, twitter no es revolucionario, twitter es más 
-de lo mismo y** twittear la revolución no es posible** **por la simple razón de que si se esta twitteando es que no hemos aprendido 
+de lo mismo y **twittear la revolución no es posible** **por la simple razón de que si se esta twitteando es que no hemos aprendido 
 nada ni cambiado nada**.
