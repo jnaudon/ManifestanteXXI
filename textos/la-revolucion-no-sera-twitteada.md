@@ -17,7 +17,7 @@ vez de canal. Otro tipo de adaptaciones del IRC a la web en el pasado han sido l
 llamarlo canal lo mismo lo llamaban habitación.
 
 
-El IRC permite crear cualquier canal como por ejemplo \#tengoqueiramearahoraregresoysigo y twitter también**. En el IRC un mensaje 
+El IRC permite crear cualquier canal como por ejemplo \#tengoqueiramearahoraregresoysigo y twitter también. **En el IRC un mensaje 
 privado se llama "Query"** y en twitter lo llaman DM para ser más molones y poder decir aquello de *"mandame un MDMA de esos"*.La @ 
 para nombrar a alguien es una copia también. Los usuarios en las redes IRC tenían sus perfiles y para verlos podías hacerles un whois 
 **El problema principal de twitter es que es una red centralizada.** Esto supone que todo el mundo conecta a un mismo sitio donde se va 
@@ -74,9 +74,8 @@ tanto misa.
 informando de toqueabankia.net: [http://blogs.tercerainformacion.es/diseccionandoelpais/2013/05/11/sin-noticias-sobre-el- 
 toqueabankia-en-el-pais/](http://blogs.tercerainformacion.es/diseccionandoelpais/2013/05/11/sin-noticias-sobre-el-toqueabankia-en-el-pais/)
 
-*"El País prefiere que no cunda el ejemplo de esta guerra de guerrillas contra la banca, y menos  
-aún contra la entidad financiera que accedió a extender vencimientos al grupo PRISA por  
-importe de casi 400 millones, hasta los años 2014 y 2015".*
+*"El País prefiere que no cunda el ejemplo de esta guerra de guerrillas contra la banca, y menos aún contra la entidad financiera que 
+accedió a extender vencimientos al grupo PRISA por importe de casi 400 millones, hasta los años 2014 y 2015".*
 
 La revolución no puede ser en Twitter y si sobre redes independientes. Es posible usar sus redes con cultura de cifrado. Para ver si un 
 medio es independiente no hace falta mucho, con mirar cual es su fuente de financiación es suficiente. ¿Cual es la fuente de 
