@@ -267,7 +267,7 @@ y usar mails de [MyKolab](https://mykolab.com/), [Autistici](http://www.autistic
 
 ### IRC
 
-Los servidores de **IRC** son servidores de chat con muchas salas.
+Los servidores de **IRC** son servidores de chat con muchas salas tematicas (canales).
 No necesitan cuenta, pueden usarse muchos servidores; descentralizando la conversación.
 Si queres probar el **IRC** podes probar [Webchat](https://webchat.freenode.net/) de Freenode.
 Es tan simple como ponerte un **nick** y un **canal** (sala de chat) donde hablar.
@@ -278,39 +278,6 @@ Es tan simple como ponerte un **nick** y un **canal** (sala de chat) donde habla
 > Para hablar con alguien, en particular, conocido solo tenes que pasarle el **canal** y servidor.
 > Y podemos conectarnos usando **Tor**, hablar en salas publicas y chatear en privado (en los posible usando **OTR**).
 
-#### Comandos básicos
-
-Recuerda que todos los comandos van precedidos de la barra `/` y pueden ser ejecutados en cualquier ventana.
-
-Comando      | Descripción                                                    | Ejemplo
------------- | -------------------------------------------------------------- | ------------------------------------
-/nick        | Nos permite cambiar nuestro nick por el que le indiquemos.     | /nick Nombre
-/list        | Nos muestra la lista de canales disponibles.                   | /list filtro (opcional)
-/join        | Nos permite unirnos a un canal en concreto.                    | /join \#irc-hispano
-/quit        | Nos desconecta del servidor de IRC. Podemos, opcionalmente,    | /quit Nos vemos en otro momento :)
-/query       | Abre un privado con el nick que le indiquemos.                 | /query Contacto
-/msg         | Para hablar a un usuario o a un canal.                         | /msg Contacto hola, ¿qué tal?
-/notice      | Para mandar un texto en forma de notificación.                 | /notice Contacto habla me cuando tengas un momento
-/me          | Nos permite hablar en tercera persona.  	                      | /me se va a comer y vuelve dentro de un rato
-/away        | Nos permite entrar o salir en el sistema de ausencia.          | /away ahora mismo no estoy porque es la hora de comer
-/who         |  Nos muestra información sobre un canal o un usuario           | /who Groucho  o /who \#amistad
-/whois       |  Nos muestra información más específica sobre un nick.         | /whois Luzdegas
-/help        |  Nos muestra la ayuda interna del cliente de IRC.              | 
-/clear       | Limpia la ventana en la que se ejecuta el comando.             | 
-/clearall    | Limpia todas las ventanas.                                     | 
-
-#### Terminología
-
-En los IRC suelen usarse palabras propias de este tipo de servicio y muchas fueron apropiadas para toda la web como **troll**, acá una lista de las mas comunes.
-
-* **Canal** La sala de chat.
-* **Topic (Tema)** Es el mensaje de entrada del canal, en el se anuncia el objetivo y varios enlaces e información de interés, por favor, antes de preguntar, echa un vistazo al Topic.
-* **Kick (Patear)** Quiere decir que has sido expulsado del canal, puedes volver a entrar de nuevo, pero vigila los modales, puesto que la próxima vez, podría ser un banear.
-* **Banear** Expulsión del chat, puede ser permanente o temporal, depende de la gravedad de la infracción.
-* **Bot** Usuario del canal automatizado que puede estar programado para varias funciones, desde kikear o banear por utilizar mayúsculas, por repetir un mensaje muchas veces, por usar colores... Los bots también pueden avisarte por privado mediante el mensaje que haya programado su dueño...
-* **Troll** Es una persona que entra a un chat, foro o página web de internet, con el fin de provocar mal ambiente, crear discusiones o, simplemente, molestar.
-* **Lurker** Que viene a mirar y no participa, muchas veces con mala intención.
-
 ### Jabber
 
 Es un protocolo para chatear que funciona de modo descentralizado y puede comunicarse entre diferentes nodos.
@@ -318,20 +285,14 @@ Siempre con [OTR](textos/Pidgin_con_OTR.md) que esta disponible con el [Pidgin](
 El hecho de que sea una servicio descentralizado nos da la posibilidad de tener una cuenta en diferente servidor que nuestro contacto.
 Aunque existen varios servicios cerrados como Facebook, que no nos da la posibilidad de contactar con nadie fuera de este sitio.
 
-![Jabber](http://www.pidgin.im/shared/img/contact_window.p)
+![Jabber](http://www.pidgin.im/shared/img/contact_window.png)
 
 > Como cliente de chat de **Jabber** podemos usar Pidgin al igual que IRC.
 > Podes crear tu cuenta de jabber en [Riseup](https://riseup.net/es), [Autistici](http://www.autistici.org/es) o [Jabber.es](http://jabber.es/).
 
-## Anonimato
-
-### Navegar con Tor
-
-![Tor Browser Bundel](img/torbrowser.png)
-
-> El navegador [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) debe descargarse de la pagina oficial.
-
 ### Cryptocat
+
+Es un chat cifrado y seguro, pensado para ser fácil de instalar y correr.
 
 ![Cryptocat](img/cryptocat.png "Cryptocat en el navegador")
 
@@ -340,7 +301,14 @@ Aunque existen varios servicios cerrados como Facebook, que no nos da la posibil
 > Solo tenemos que coordinar en que canal hablar y **¡listo!**.
 > Esto es muy bueno para coordinarse de modo seguro tanto en grupo y privado.
 
-### Lector de Noticias
+## Navegar con Tor
+
+Es un modo de navegación anonima. Este no debe usarse para cuentas personales, si no para la navegación convencional, buscar datos, visitar blog, etc.
+
+![Tor Browser Bundel](img/torbrowser.png)
+> El navegador [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) debe descargarse de la pagina oficial.
+
+## Lector de Noticias
 
 Muchas paginas, blogs, centrales de noticias tiene RSS o Atom con la que podemos mantenernos actualizados de las novedades, noticas, o eventos y actividades de colegas y amigos.
 
@@ -418,23 +386,11 @@ Esto es muy útil, pues sirve para cuando te olvidas de desmontarla y/o tuviste 
 
 ### [Bufanda Rosa](https://github.com/b4zz4/BufandaRosa)
 
-Este programa permite **cifrar** y **descifrar** mensaje o archivos para enviarlos por correo electronico, publicarlo, compartir de modo anónimo.
-También nos permitirá guardar información de cualquier tipo dentro de una imagen o audio. 
-Esta técnica se llama [esteganografía](https://es.wikipedia.org/wiki/Esteganograf%C3%ADa).
+Este programa permite **cifrar** y **descifrar** mensaje, archivos para enviarlos por correo electronico, publicarlo, guardar información de cualquier tipo dentro de una imagen o audio.
+La información puede estar disponible de modo público y sin la clave correspondiente nunca nadie podrá acceder a los datos ocultos.
 
 ![Pantalla principal de Bufanda Rosa](img/bufandarosa.png "Cifrado y Descifrado")
-
-Puede resultar útil si pretendemos enviar una información confidencial a una persona y no queremos que la información sea interceptada por otros.
-La información puede estar disponible de modo público y sin la clave correspondiente nunca nadie podrá acceder a los datos ocultos.
-Un modo muy simple de usar esto es publicar datos en imagenes u audios de un blog.
-
-Si tenemos datos a develar o tan solo queremos **publicar** de modo **anónimo** podemos hacerlo con esta aplicación.
-Muchos hacktivistas fueron detenidos por los **metadatos** de sus fotos.
-Por esto en una publicación anónima hay que borrar los **metadatos** de cualquier material que los pueda contenerlo.
-
-Como alguno de los datos que podemos tener en nuestra maquina puede ser peligroso, luego de publicarlos.
-Podemos **borrar archivos definitivamente** y sin dejar rastros.
-Este programa además se encarga de muchas de las funcionalidades necesarias para un activista.
+> Puede resultar útil si pretendemos enviar una información confidencial a una persona y no queremos que la información sea interceptada por otros.
 
 #### Consejos
 
