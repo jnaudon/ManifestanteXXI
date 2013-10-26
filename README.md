@@ -126,6 +126,7 @@ Es recomendable **no usar** la red telefónica convencional, pero en caso de nec
 
 * [ObscuraCam](https://guardianproject.info/apps/obscuracam/) protege a los manifestantes borrando sus caras y quita los datos de GPS y modelo de celular cuando compartís sus fotos internet.
 * ![Multi Sms](img/manifestdroid/multisms.png)\ [Multi Sms](http://f-droid.org/repository/browse/?fdfilter=sms&fdid=com.hectorone.multismssender) enviar SMS en cadena, puede usarse para la difusión previa o comunicarse con teléfonos sin Android.
+* ![MobileWebCam](img/manifestdroid/mobilewebcam.png)\ [MobileWebCam](https://f-droid.org/repository/browse/?fdfilter=cam&fdid=com.dngames.mobilewebcam) Sube imagenes en vivo y directo de la camara de tu Android. A través de la red 2G y 3G puede llegar directamente a internet usando un FTP.
 * ![Wifi Camera](img/manifestdroid/wificamera.png)\ [Wifi Camera](https://f-droid.org/repository/browse/?fdfilter=webcam&fdid=teaonly.droideye) Transmisión en vivo y directo de vídeo y audio con tu Android. A través de la red 2G y 3G puede llegar directamente a internet.
 
 #### Red libre con Android
