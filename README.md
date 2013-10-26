@@ -418,7 +418,8 @@ Que no pueden contener metadatos y no es nada fácil analizar el origen.
 
 Es una aplicación popularizada por **Anonymous** que se encarga de realizar ataques de denegación de servicios a páginas web **DDoS**.
 
-Nosotros vamos a usar [JSLOIC](html/jsloic.html) que es fácil de difundir.
+![JSLOIC](img/jsloic.png "Versión Mobile de LOIC")
+> Nosotros vamos a usar [JSLOIC](html/jsloic.html) que es fácil de difundir.
 
 # Notas relacionadas
 
