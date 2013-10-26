@@ -382,13 +382,15 @@ Para desmontarlo solo hay que usar el menú en el panel de notificaciones.
 En las Preferencias de la aplicación (boton derecho sobre el icono) podes configurar el tiempo que que res que tu carpeta se mantenga montada.
 Esto es muy útil, pues sirve para cuando te olvidas de desmontarla y/o tuviste que salir con urgencia.
 
-### [Bufanda Rosa](https://github.com/b4zz4/BufandaRosa)
+### Bufanda Rosa
 
 Este programa permite **cifrar** y **descifrar** mensaje, archivos para enviarlos por correo electronico, publicarlo, guardar información de cualquier tipo dentro de una imagen o audio.
 La información puede estar disponible de modo público y sin la clave correspondiente nunca nadie podrá acceder a los datos ocultos.
 
 ![Pantalla principal de Bufanda Rosa](img/bufandarosa.png "Cifrado y Descifrado")
 > Puede resultar útil si pretendemos enviar una información confidencial a una persona y no queremos que la información sea interceptada por otros.
+
+[Descargar](https://github.com/b4zz4/BufandaRosa)
 
 #### Consejos
 
