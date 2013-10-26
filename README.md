@@ -115,7 +115,6 @@ Lo mismo podemos hacer los manifestantes, organizándonos con **herramientas sim
 * ![yaaic](img/manifestdroid/yaaic.png) [Yaaic](https://f-droid.org/repository/browse/?fdfilter=irc&fdid=org.yaaic) Cliente para IRC.
 * ![csipsimple](img/manifestdroid/csipsimple.png) [CsipSimple](https://code.google.com/p/csipsimple/) telefonía por internet con criptografía, podes crear un cuenta local para la red libre y una cuenta en [linphone.org](http://www.linphone.org/) para acceso desde internet.
 * [Ostel](https://ostel.co/) Llamadas con criptografía.
-* [Umap](http://umap.openstreetmap.org.ar) mapas para coordinarse en las calles.
 
 Es recomendable **no usar** la red telefónica convencional, pero en caso de necesitarse estos programas resultan muy útiles.
 
@@ -420,6 +419,11 @@ Es una aplicación popularizada por **Anonymous** que se encarga de realizar ata
 
 ![LOIC para Firefox](img/jsloic.png "Versión de LOIC")
 > Nosotros vamos a usar [JSLOIC](http://b4zz4.github.io/loic/release/loic.firefox.xpi) que es fácil de difundir y corre sobre Mozilla Firefox.
+
+### Mapas
+
+![Umap](img/umap.png)
+> [Umap](https://umap.openstreetmap.fr) mapas para coordinarse en las calles.
 
 # Notas relacionadas
 
