@@ -310,12 +310,12 @@ Es un modo de navegación anonima. Este no debe usarse para cuentas personales, 
 
 ## Lector de Noticias
 
-Muchas paginas, blogs, centrales de noticias tiene RSS o Atom con la que podemos mantenernos actualizados de las novedades, noticas, o eventos y actividades de colegas y amigos.
+Muchas paginas, blogs, centrales de noticias tiene ![](img/rss.png) RSS o Atom con la que podemos mantenernos actualizados de las novedades, noticas, o eventos y actividades de colegas y amigos.
 
 ![Brief](img/lector_de_noticias.png)
 
-> Los lectores de noticias son un modo muy simple y no rastreable de mantenernos informados y actualizados.
-> Como [Brief](http://brief.mozdev.org/) es un complemento de Firefox podemos instarlo en Tor Browser, anonimizando nuestras fuentes de noticias.
+> Los lectores de noticias son un modo practivo y no rastreable (usando **Tor**) de mantenernos informados y actualizados.
+> Podes usar [Brief](http://brief.mozdev.org/), es un complemento de Firefox podemos instarlo en Tor Browser, anonimizando nuestras fuentes de noticias.
 
 ## Difusión
 
