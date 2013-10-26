@@ -112,8 +112,8 @@ Una de las grandes ventajas de los policías en una manifestación, es que se en
 Lo mismo podemos hacer los manifestantes, organizándonos con **herramientas similares**, **libres** y **seguras**. Lo mejor es que un grupo en particular se dedique a la coordinación, utilizando con Bounjour, Jabber o telefonía sobre internet. Al igual que los policías, puede coordinarse la inteligencia por fuera de la manifestación, las personas calmadas piensan mejor, en este caso el grupo de acción debe pasar reportes precisos de lo que ocurre. La mayoría de la comunicación (a nivel inteligencia) debe hacerse por chat, en medio de una manifestación hablar se tornarse complicado e inseguro. Además escribiendo de modo preciso se puede logran mejores resultados, sobre todo en grandes grupos. **Es sumamente necesario que se usen métodos criptográficos**, el más común y seguro es el [OTR](textos/OTR.md).
 
 * [Gibberbot](https://guardianproject.info/apps/gibber/) chatea de modo [criptográfico](http://wiki.partidopirata.com.ar/Gibberbot_con_OTR) y seguro en bounjour, jabber, facebook, googletalk, etc.
-* ![yaaic](img/manifestdroid/yaaic.png)\ [Yaaic](https://f-droid.org/repository/browse/?fdfilter=irc&fdid=org.yaaic) Cliente para IRC.
-* ![csipsimple](img/manifestdroid/csipsimple.png)\ [CsipSimple](https://code.google.com/p/csipsimple/) telefonía por internet con criptografía, podes crear un cuenta local para la red libre y una cuenta en [ekiga.org](https://www.ekiga.net/?page=register) para acceso desde internet.
+* ![yaaic](img/manifestdroid/yaaic.png) [Yaaic](https://f-droid.org/repository/browse/?fdfilter=irc&fdid=org.yaaic) Cliente para IRC.
+* ![csipsimple](img/manifestdroid/csipsimple.png) [CsipSimple](https://code.google.com/p/csipsimple/) telefonía por internet con criptografía, podes crear un cuenta local para la red libre y una cuenta en [linphone.org](http://www.linphone.org/) para acceso desde internet.
 * [Ostel](https://ostel.co/) Llamadas con criptografía.
 * [Umap](http://umap.openstreetmap.org.ar) mapas para coordinarse en las calles.
 
@@ -125,9 +125,9 @@ Es recomendable **no usar** la red telefónica convencional, pero en caso de nec
 #### Difusión con Android
 
 * [ObscuraCam](https://guardianproject.info/apps/obscuracam/) protege a los manifestantes borrando sus caras y quita los datos de GPS y modelo de celular cuando compartís sus fotos internet.
-* ![Multi Sms](img/manifestdroid/multisms.png)\ [Multi Sms](http://f-droid.org/repository/browse/?fdfilter=sms&fdid=com.hectorone.multismssender) enviar SMS en cadena, puede usarse para la difusión previa o comunicarse con teléfonos sin Android.
-* ![MobileWebCam](img/manifestdroid/mobilewebcam.png)\ [MobileWebCam](https://f-droid.org/repository/browse/?fdfilter=cam&fdid=com.dngames.mobilewebcam) Sube imagenes en vivo y directo de la camara de tu Android. A través de la red 2G y 3G puede llegar directamente a internet usando un FTP.
-* ![Wifi Camera](img/manifestdroid/wificamera.png)\ [Wifi Camera](https://f-droid.org/repository/browse/?fdfilter=webcam&fdid=teaonly.droideye) Transmisión en vivo y directo de vídeo y audio con tu Android. A través de la red 2G y 3G puede llegar directamente a internet.
+* ![Multi Sms](img/manifestdroid/multisms.png) [Multi Sms](http://f-droid.org/repository/browse/?fdfilter=sms&fdid=com.hectorone.multismssender) enviar SMS en cadena, puede usarse para la difusión previa o comunicarse con teléfonos sin Android.
+* ![MobileWebCam](img/manifestdroid/mobilewebcam.png) [MobileWebCam](https://f-droid.org/repository/browse/?fdfilter=cam&fdid=com.dngames.mobilewebcam) Sube imagenes en vivo y directo de la camara de tu Android. A través de la red 2G y 3G puede llegar directamente a internet usando un FTP.
+* ![Wifi Camera](img/manifestdroid/wificamera.png) [Wifi Camera](https://f-droid.org/repository/browse/?fdfilter=webcam&fdid=teaonly.droideye) Transmisión en vivo y directo de vídeo y audio con tu Android. A través de la red 2G y 3G puede llegar directamente a internet.
 
 #### Red libre con Android
 
@@ -251,20 +251,17 @@ Nada que pueda ser comunicado en una **red local** debe pasar por una internet.
 En una red local podemos chatear usando **Bounjour** para chatear entre todos los disponibles en la misma red. 
 Aun así debemos usar [OTR](textos/Pidgin_con_OTR.md).
 
-![Bonjour y LibreVPN]()
-
-> Por eso esta bueno usar [LibreVPN](http://librevpn.org.ar). 
-> Que es una red local con alcance mundial.
-> Podemos tener nuestros Propios servicios y compartirlos con nuestros amigos.
-
 ### Lista de mails
 
 Las listas de correo son excelentes para organizarse en grupos sin la necesidad de estar todo el día conectado.
 Para ser más efectivos lo más recomendables es respetar las [Netiquetas](textos/Netiquetas.md) 
 y generar filtros de mail para organizarlos por listas y temas.
 
-Vale la pena indicar que los mails son descentralizados por ende podemos tener la lista en [Riseup](https://lists.riseup.net/www/) 
-y usar mails de [MyKolab](https://mykolab.com/), [Autistici](http://www.autistici.org/es/index.html) o donde sea.
+![Lista de correos](img/lista_de_mail.png "Lista de correo por conversación")
+> Lista de correos en Thunderbird
+
+Vale la pena indicar que los mails son descentralizados por ende podemos tener la lista en [Riseup](https://lists.riseup.net/www/) o 
+[Autistici](http://www.autistici.org/es/services/lists.html) y asociarlas a cuentas de mail en otros servidores.
 
 ### IRC
 
@@ -325,7 +322,7 @@ Muchas paginas, blogs, centrales de noticias tiene ![](img/rss.png) RSS o Atom c
 Para poder transmitir radio en internet necesitamos un **punto de montaje** en un servidor Icecast, 
 una especie de antena de transmisión en internet. Podemos conseguir uno en [giss.tv](http://giss.tv/addmount.html) e instalarnos IDJC (Internet DJ Console).
 
-![Vista general del programa](planos/IDJC.png "Vista general del programa")
+![Vista general del programa](img/idjc.png "Vista general del programa")
 
 >**Internet DJ Console** es una herramienta poderosa, flexible y dinámica que permite crear programación radial vía Internet. 
 > En esta pantalla se puede crea la secuencia musical que se utilizará en el programa de radio, activar y desactivar el micrófono.
