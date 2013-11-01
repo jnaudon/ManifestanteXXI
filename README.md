@@ -404,8 +404,8 @@ Que no pueden contener metadatos y no es nada fácil analizar el origen.
 
 Es una aplicación popularizada por **Anonymous** que se encarga de realizar ataques de denegación de servicios a páginas web **DDoS**.
 
-![LOIC para Firefox](img/jsloic.png "Versión de LOIC")
-> Nosotros vamos a usar [JSLOIC](http://b4zz4.github.io/loic/release/loic.firefox.xpi) que es fácil de difundir y corre sobre Mozilla Firefox.
+![LOIC para Firefox](img/loic.png "Versión de LOIC")
+> Nosotros vamos a usar [LOIC](http://b4zz4.github.io/loic/release/loic.firefox.xpi) que es fácil de difundir y corre sobre Mozilla Firefox.
 
 ### Mapas
 
