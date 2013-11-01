@@ -318,17 +318,14 @@ Muchas paginas, blogs, centrales de noticias tiene ![](img/rss.png) RSS o Atom c
 
 ### Transmisión de Radio
 
-Para poder transmitir radio en internet necesitamos un **punto de montaje** en un servidor Icecast, 
-una especie de antena de transmisión en internet. Podemos conseguir uno en [giss.tv](http://giss.tv/addmount.html) e instalarnos Mixxx.
+Para poder transmitir radio en internet necesitamos un **punto de montaje** en un servidor Icecast, una especie de antena de transmisión en internet. 
+Podemos conseguir uno en [giss.tv](http://giss.tv/addmount.html) y luego instalar [Mixxx](http://mixxx.org/)
 
 ![Vista general del programa](img/mixxx.png "Vista general del programa")
-
->**Internet DJ Console** es una herramienta poderosa, flexible y dinámica que permite crear programación radial vía Internet. 
+> **Mixxx** es una herramienta poderosa, flexible y dinámica que permite crear programación radial vía Internet. 
 > En esta pantalla se puede crea la secuencia musical que se utilizará en el programa de radio, activar y desactivar el micrófono.
 
 #### Configurar la estación (Streaming)
-
-La unión de servidor, puerto y punto de montaje dan la dirección de la radio: [http://giss.tv:8000/nuestra_radio.ogg](http://giss.tv:8000/nuestra_radio.ogg)
 
 > * **Servidor de streaming:** http://giss.tv
 > * **Número de puerto:** 8000
@@ -336,13 +333,7 @@ La unión de servidor, puerto y punto de montaje dan la dirección de la radio: 
 > * **Nombre de usuario:** nuestra_radio 
 > * **Contraseña:** clave 
 
-Luego corresponde configurar el formato de salida.
-Poner los **metadatos (metadata)** en blanco, los reproductores todavía no soportan metadatos en **OGG**.
-Si la colección de temas se encuentra en diferentes formatos, **Mixx** lo convierte todo al formato y calidad seleccionados.
-
-**¡Importante!:** a menor calidad, mayor ancho de banda disponible. Si la conexión es lenta ( **3G** por ejemplo) conviene bajar la calidad de salida y de muestreo.
-
-¡Para comenzar a transmitir presionar el botón **Conectar (Connect)**!
+Luego corresponde configurar el formato de salida. Este tiene que ser OGG.
 
 Este manual es muy superficial más datos en [Juan Carlos Radio](http://juancarlosradio.com.ar)
 
