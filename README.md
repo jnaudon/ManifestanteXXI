@@ -232,7 +232,7 @@ Si no probaste ninguna podes generar tu propio [pendrive vivo](http://live.learn
 > * Sistema operativo Tails pensado para manifestantes y activistas.
 > * Navegación anonima Tor, VPN, tuneles para anonimizar la navegación
 > * Difusión con bots para redes sociales
-> * Icecast e IDJC para transmitir televisión y [radios](#transmisión-de-radio)
+> * Icecast e Mixxx para transmitir televisión y [radios](#transmisión-de-radio)
 > * Pidgin para chatear en [IRC](#IRC), [Jabber](#Jabber), [Cryptocat](#cryptocat), TorChat o usar Tor para anonimizar
 > * Servidor hogareño hecho con viejas maquinas
 > * Umap para organizar la accion en la calles
@@ -319,18 +319,16 @@ Muchas paginas, blogs, centrales de noticias tiene ![](img/rss.png) RSS o Atom c
 ### Transmisión de Radio
 
 Para poder transmitir radio en internet necesitamos un **punto de montaje** en un servidor Icecast, 
-una especie de antena de transmisión en internet. Podemos conseguir uno en [giss.tv](http://giss.tv/addmount.html) e instalarnos IDJC (Internet DJ Console).
+una especie de antena de transmisión en internet. Podemos conseguir uno en [giss.tv](http://giss.tv/addmount.html) e instalarnos Mixxx.
 
-![Vista general del programa](img/idjc.png "Vista general del programa")
+![Vista general del programa](img/mixxx.png "Vista general del programa")
 
 >**Internet DJ Console** es una herramienta poderosa, flexible y dinámica que permite crear programación radial vía Internet. 
 > En esta pantalla se puede crea la secuencia musical que se utilizará en el programa de radio, activar y desactivar el micrófono.
 
 #### Configurar la estación (Streaming)
 
-La configuración de servidores de streaming en **IDJC** se hace en la ventana de **"Salidas" (Output)**, al que se accede desde la ventana principal de **IDJC**. 
-Para agregar un servidor, dentro de la sección **"Configuración" (Configuration)**, usar el botón **"Nuevo" (New)**.
-Para configurar el servidor de streaming al que **IDJC** se conecta primero hay que conocer los siguientes datos:
+La unión de servidor, puerto y punto de montaje dan la dirección de la radio: [http://giss.tv:8000/nuestra_radio.ogg](http://giss.tv:8000/nuestra_radio.ogg)
 
 > * **Servidor de streaming:** http://giss.tv
 > * **Número de puerto:** 8000
@@ -338,11 +336,9 @@ Para configurar el servidor de streaming al que **IDJC** se conecta primero hay 
 > * **Nombre de usuario:** nuestra_radio 
 > * **Contraseña:** clave 
 
-La unión de servidor, puerto y punto de montaje dan la dirección de la radio: [http://giss.tv:8000/nuestra_radio.ogg](http://giss.tv:8000/nuestra_radio.ogg)
-
 Luego corresponde configurar el formato de salida.
 Poner los **metadatos (metadata)** en blanco, los reproductores todavía no soportan metadatos en **OGG**.
-Si la colección de temas se encuentra en diferentes formatos, **IDJC** lo convierte todo al formato y calidad seleccionados.
+Si la colección de temas se encuentra en diferentes formatos, **Mixx** lo convierte todo al formato y calidad seleccionados.
 
 **¡Importante!:** a menor calidad, mayor ancho de banda disponible. Si la conexión es lenta ( **3G** por ejemplo) conviene bajar la calidad de salida y de muestreo.
 
