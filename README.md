@@ -327,6 +327,8 @@ Podemos conseguir uno en [giss.tv](http://giss.tv/addmount.html) y luego instala
 
 #### Configurar la estación (Streaming)
 
+![Vista general del programa](img/mixxx_icecast.png "Vista general del programa")
+
 > * **Servidor de streaming:** http://giss.tv
 > * **Número de puerto:** 8000
 > * **Punto de montaje (nombre de la radio):** /nuestra_radio.ogg
