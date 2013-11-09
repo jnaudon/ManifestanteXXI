@@ -64,13 +64,15 @@ function detectNewImage(src, async) {
 		elapsed_time = (new Date()).getTime();
 		function post(comp) {
 			ctx.lineWidth = 2;
-			ctx.strokeStyle = 'rgba(230,87,0,0.8)';
 			/* draw detected area */
 			for (var i = 0; i < comp.length; i++) {
+				r = Math.floor(Math.random()*255);
+				g = Math.floor(Math.random()*255);
+				b = Math.floor(Math.random()*255);
+				ctx.fillStyle = 'rgba('+r+', '+g+', '+b+', 1)';
 				ctx.beginPath();
 				ctx.arc((comp[i].x + comp[i].width * 0.5) * scale, (comp[i].y + comp[i].height * 0.5) * scale,
-						(comp[i].width + comp[i].height) * 0.25 * scale * 1.2, 0, Math.PI * 2);
-				ctx.stroke();
+						(comp[i].width + comp[i].height) * 0.25 * scale * 1.3, 0, Math.PI * 2);
 				ctx.fill();
 			}
 		}
