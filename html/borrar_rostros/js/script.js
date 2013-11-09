@@ -92,6 +92,7 @@ function detectNewImage(src, async) {
 				ctx.arc((comp[i].x + comp[i].width * 0.5) * scale, (comp[i].y + comp[i].height * 0.5) * scale,
 						(comp[i].width + comp[i].height) * 0.25 * scale * 1.2, 0, Math.PI * 2);
 				ctx.stroke();
+				ctx.fill();
 			}
 		}
 		/* call main detect_objects function */
