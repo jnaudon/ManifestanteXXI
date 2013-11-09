@@ -22,19 +22,6 @@ agent = (function( ua ) {
 
 var async = true;
 
-if (Modernizr.webworkers) {
-	async = (agent.browser == "mozilla");
-	document.getElementById("webworker-switch").innerHTML = (async) ? "On" : "Off";
-	document.getElementById("webworker-switch").addEventListener("click", function (e) {
-		if (async) {
-			async = false;
-			document.getElementById("webworker-switch").innerHTML = "Off";
-		} else {
-			async = true;
-			document.getElementById("webworker-switch").innerHTML = "On";
-		}
-	});
-}
 
 function getImageDim(image) {
 	var result = {};
@@ -46,20 +33,14 @@ function getImageDim(image) {
 }
 
 function detectNewImage(src, async) {
-	document.getElementById("load-time").innerHTML = "Measuring ...";
-	document.getElementById("detection-time").innerHTML = "None";
-	document.getElementById("num-faces").innerHTML = "?";
-	document.getElementById("image-dim").innerHTML = "?x?";
+
 	var elapsed_time = (new Date()).getTime();
 	var image = new Image();
 	var canvas = document.getElementById("output");
 	var ctx = canvas.getContext("2d");
 	image.onload = function () {
 		/* load image, and draw it to canvas */
-		document.getElementById("load-time").innerHTML = Math.round((new Date()).getTime() - elapsed_time).toString() + "ms";
-		document.getElementById("detection-time").innerHTML = "Measuring ...";
 		var dim = getImageDim(image);
-		document.getElementById("image-dim").innerHTML = dim.width.toString() + "x" + dim.height.toString();
 		var boundingWidth = document.getElementById("content").offsetWidth - 4;
 		var boundingHeight = window.innerHeight - (document.getElementById("header").offsetHeight + document.getElementById("footer").offsetHeight + document.getElementById("urlbox").offsetHeight + document.getElementById("stats").offsetHeight) - 120;
 		var viewport = document.getElementById("viewport");
@@ -82,8 +63,6 @@ function detectNewImage(src, async) {
 		ctx.drawImage(image, 0, 0, newWidth, newHeight);
 		elapsed_time = (new Date()).getTime();
 		function post(comp) {
-			document.getElementById("num-faces").innerHTML = comp.length.toString();
-			document.getElementById("detection-time").innerHTML = Math.round((new Date()).getTime() - elapsed_time).toString() + "ms";
 			ctx.lineWidth = 2;
 			ctx.strokeStyle = 'rgba(230,87,0,0.8)';
 			/* draw detected area */
@@ -96,20 +75,11 @@ function detectNewImage(src, async) {
 			}
 		}
 		/* call main detect_objects function */
-		if (async) {
-			ccv.detect_objects({ "canvas" : ccv.grayscale(ccv.pre(image)),
-								 "cascade" : cascade,
-								 "interval" : 5,
-								 "min_neighbors" : 1,
-								 "async" : true,
-								 "worker" : 1 })(post);
-		} else {
-			var comp = ccv.detect_objects({ "canvas" : ccv.grayscale(ccv.pre(image)),
-											"cascade" : cascade,
-											"interval" : 5,
-											"min_neighbors" : 1 });
-			post(comp);
-		}
+		var comp = ccv.detect_objects({ "canvas" : ccv.grayscale(ccv.pre(image)),
+										"cascade" : cascade,
+										"interval" : 5,
+										"min_neighbors" : 1 });
+		post(comp);
 	};
 	image.src = src;
 }
