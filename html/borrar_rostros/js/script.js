@@ -20,7 +20,7 @@ agent = (function( ua ) {
 	return { browser: match[1] || "", version: match[2] || "0" };
 })(navigator.userAgent);
 
-var async = false;
+var async = true;
 
 if (Modernizr.webworkers) {
 	async = (agent.browser == "mozilla");
