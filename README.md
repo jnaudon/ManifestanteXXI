@@ -445,13 +445,12 @@ Se permite el uso comercial de la obra y de las posibles obras derivadas, la dis
 * ~~GNU/Manifest: GNU para manifestante~~
   * ManifestWRT: versión de OpenWRT para manifestante
 * ManifestDroid
-  * P2P ver la posibilidad de compartir archivos
+  * P2P ver la posibilidad de compartir archivos (probar [i2p](https://f-droid.org/repository/browse/?fdid=net.i2p.android.router))
 * [codigos QR](http://f-droid.org/repository/browse/?fdid=com.google.zxing.client.android) da la posibilidad de compartir URL facilmente de pantalla a pantalla
 * [mapeo de datos](http://f-droid.org/repository/browse/?fdid=at.univie.sensorium.o3gm) no se que onda
 * Chatear con Tor
   - Ejemplo de como configurar Pidgin
   - Ejemplo de TorChat
-  - Umap, Openstreetmap, Barricada.
 * Transmisión de Vídeo
   - Este programa no es muy buena pero tiene scripts interesante: http://gollum.artefacte.org/tss/
   - http://www.muylinux.com/2010/03/02/y-seguimos-dandole-vueltas-al-h-264/
