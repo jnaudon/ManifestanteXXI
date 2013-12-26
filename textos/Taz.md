@@ -828,35 +828,6 @@ por Hakim Bey.
 
 * * * * *
 
-[![Tugurium](/web/20080315083300im_/http://www.tugurium.com/images/Tugurium_mini.gif)](/web/20080315083300/http://www.tugurium.com/index.htm)
-
-
-
-[![Wayback Machine](/static/images/toolbar/wayback-toolbar-logo.png)](/web/ "Wayback Machine home page")
-[**FEB**](/web/20080213015432/http://www.tugurium.com/Taz_2.htm "13 Feb 2008")
-MAR
-[**MAY**](/web/20080516161924/http://www.tugurium.com/Taz_2.htm "16 May 2008")
-[![Previous capture](/static/images/toolbar/wm_tb_prv_on.png)](/web/20080213015432/http://www.tugurium.com/Taz_2.htm "1:54:32 Feb 13, 2008")
-15
-[![Next capture](/static/images/toolbar/wm_tb_nxt_on.png)](/web/20080415043445/http://www.tugurium.com/Taz_2.htm "4:34:45 Apr 15, 2008")
-2007
-2008
-[**2011**](/web/20110816173059/http://www.tugurium.com/Taz_2.htm "16 Aug 2011")
-[**9 captures**](/web/20080315134604*/http://www.tugurium.com/Taz_2.htm "See a list of every capture for this URL")
-12 Jun 07 - 16 Aug 11
-[]()
-![sparklines](/web/jsp/graph.jsp?graphdata=450_27_1996:-1:000000000000_1997:-1:000000000000_1998:-1:000000000000_1999:-1:000000000000_2000:-1:000000000000_2001:-1:000000000000_2002:-1:000000000000_2003:-1:000000000000_2004:-1:000000000000_2005:-1:000000000000_2006:-1:000000000000_2007:-1:000001001000_2008:2:111110010000_2009:-1:000000000000_2010:-1:000000000000_2011:-1:000000010000_2012:-1:000000000000_2013:-1:000000000000)
-![image](/static/images/toolbar/transp-yellow-pixel.png)
-![image](/static/images/toolbar/transp-red-pixel.png)
-[Close](javascript:; "Close the toolbar")
-[Help](http://faq.web.archive.org/ "Get some help using the Wayback Machine")
-## TAZ. La zona temporalmente autónoma - 2/2
-
-### Hakim Bey
-
-
-* * * * *
-
 #### Nos vamos a Croatan
 
 No tenemos deseo alguno de definir la TAZ o de elaborar dogmas
