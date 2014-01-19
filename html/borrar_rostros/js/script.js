@@ -73,7 +73,18 @@ function detectNewImage(src, async) {
 				ctx.beginPath();
 				ctx.arc((comp[i].x + comp[i].width * 0.5) * scale, (comp[i].y + comp[i].height * 0.5) * scale,
 						(comp[i].width + comp[i].height) * 0.25 * scale * 1.3, 0, Math.PI * 2);
+				/*
+				ctx.arc((comp[i].x + comp[i].width * 0.5) * scale, (comp[i].y + comp[i].height * 0.5) * scale,
+						(comp[i].width + comp[i].height) * 0.25 * scale * .3, 0, Math.PI * 2);
+				ctx.arc((comp[i].x + comp[i].width * 0.5) * scale - 50, (comp[i].y + comp[i].height * 0.5 - 50) * scale,
+						(comp[i].width + comp[i].height) * 0.25 * scale * .2, 0, Math.PI * 2);
+				ctx.arc((comp[i].x + comp[i].width * 0.5) * scale + 50, (comp[i].y + comp[i].height * 0.5 - 50) * scale,
+						(comp[i].width + comp[i].height) * 0.25 * scale * .2, 0, Math.PI * 2);
+				ctx.arc((comp[i].x + comp[i].width * 0.5) * scale, (comp[i].y + comp[i].height * 0.5) * scale,
+						(comp[i].width + comp[i].height) * 0.25 * scale * 1, 0, Math.PI );
+				*/
 				ctx.fill();
+				ctx.stroke();
 			}
 		}
 		/* call main detect_objects function */
