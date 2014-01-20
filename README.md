@@ -99,7 +99,7 @@ La versión para Android se llama ![orbot](img/manifestdroid/orbot.png) [Orbot](
 
 Los **túneles** nos permite pasar por la red sin que se pueda ver que estamos haciendo, como su nombre lo dice, generamos un _"túnel"_ dentro de la red y salimos por otro de modo anónimo. 
 Hay que tener en cuenta que la maquina de salida a diferencia de **tor** conoce el lugar de procedencia, siendo que nuestra conección es directa, por ende tenemos que confiar en él.
-Podemos usar la VPN de Riseup descargando [Open VPN setting](http://f-droid.org/repository/browse/?fdfilter=openvpn&fdid=de.schaeuffelhut.android.openvpn) y [configurandolo](https://help.riseup.net/es/openvpn-android) para Android.
+Podemos usar la VPN de Riseup descargando ![Open VPN setting](img/manifestdroid/openvpn.png)[Open VPN setting](http://f-droid.org/repository/browse/?fdfilter=openvpn&fdid=de.schaeuffelhut.android.openvpn) y [configurandolo](https://help.riseup.net/es/openvpn-android) para Android.
 
 Los **filtros** más simple que podemos usar son los de publicidad como [Adblock](img/manifestdroid/adblock.png) [Adblock](https://f-droid.org/repository/browse/?fdfilter=adblock&fdid=org.adblockplus.android) quita la publicidad de las paginas web, aunque parezca algo trivial mejora muchísimo la velocidad de navegación, y al igual que ![NoScript](img/manifestdroid/noscript.png) [NoScript](http://noscript.net/nsa/) que nos permite mejorar la seguridad de nuestra navegación por la web.
 
