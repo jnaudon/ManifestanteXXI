@@ -111,19 +111,18 @@ Una de las grandes ventajas de los policías en una manifestación, es que se en
 
 Lo mismo podemos hacer los manifestantes, organizándonos con **herramientas similares**, **libres** y **seguras**. Lo mejor es que un grupo en particular se dedique a la coordinación, utilizando con Bounjour, Jabber o telefonía sobre internet. Al igual que los policías, puede coordinarse la inteligencia por fuera de la manifestación, las personas calmadas piensan mejor, en este caso el grupo de acción debe pasar reportes precisos de lo que ocurre. La mayoría de la comunicación (a nivel inteligencia) debe hacerse por chat, en medio de una manifestación hablar se tornarse complicado e inseguro. Además escribiendo de modo preciso se puede logran mejores resultados, sobre todo en grandes grupos. **Es sumamente necesario que se usen métodos criptográficos**, el más común y seguro es el [OTR](textos/OTR.md).
 
-* [Gibberbot](https://guardianproject.info/apps/gibber/) chatea de modo [criptográfico](http://wiki.partidopirata.com.ar/Gibberbot_con_OTR) y seguro en bounjour, jabber, facebook, googletalk, etc.
+* ![GibverBot](img/manifestdroid/gibberbot.png) [Gibberbot](https://guardianproject.info/apps/gibber/) chatea de modo [criptográfico](http://wiki.partidopirata.com.ar/Gibberbot_con_OTR) y seguro en bounjour, jabber, facebook, googletalk, etc.
 * ![yaaic](img/manifestdroid/yaaic.png) [Yaaic](https://f-droid.org/repository/browse/?fdfilter=irc&fdid=org.yaaic) Cliente para IRC.
-* ![csipsimple](img/manifestdroid/csipsimple.png) [CsipSimple](https://code.google.com/p/csipsimple/) telefonía por internet con criptografía, podes crear un cuenta local para la red libre y una cuenta en [linphone.org](http://www.linphone.org/) para acceso desde internet.
-* [Ostel](https://ostel.co/) Llamadas con criptografía.
+* ![Linphone](img/manifestdroid/linphone.png) [Linphone](https://f-droid.org/repository/browse/?fdfilter=linphone&fdid=org.linphone&fdstyle=grid) telefonía por internet con criptografía, podes crear un cuenta local para la red libre y una cuenta en [linphone.org](https://www.linphone.org/eng/linphone/register-a-linphone-account.html) para acceso desde internet. Este tambien corre en GNU/Linux, Mac y windows.
 
 Es recomendable **no usar** la red telefónica convencional, pero en caso de necesitarse estos programas resultan muy útiles.
 
-* [RedPhone](http://www.whispersystems.org/) Llamadas con criptografía sobre telefonía móvil.
-* [TextSecure](http://www.whispersystems.org/) SMS con criptografía.
+* ![RedPhone](img/manifestdroid/redphone.png) [RedPhone](http://www.whispersystems.org/) Llamadas con criptografía sobre telefonía móvil.
+* ![TextSecure](img/manifestdroid/textsecure.png) [TextSecure](http://www.whispersystems.org/) SMS con criptografía.
 
 #### Difusión con Android
 
-* [ObscuraCam](https://guardianproject.info/apps/obscuracam/) protege a los manifestantes borrando sus caras y quita los datos de GPS y modelo de celular cuando compartís sus fotos internet.
+* ![ObscuraCam](img/manifestdroid/obscuracam.png) [ObscuraCam](https://guardianproject.info/apps/obscuracam/) protege a los manifestantes borrando sus caras y quita los datos de GPS y modelo de celular cuando compartís sus fotos internet.
 * ![Multi Sms](img/manifestdroid/multisms.png) [Multi Sms](http://f-droid.org/repository/browse/?fdfilter=sms&fdid=com.hectorone.multismssender) enviar SMS en cadena, puede usarse para la difusión previa o comunicarse con teléfonos sin Android.
 * ![MobileWebCam](img/manifestdroid/mobilewebcam.png) [MobileWebCam](https://f-droid.org/repository/browse/?fdfilter=cam&fdid=com.dngames.mobilewebcam) Sube imagenes en vivo y directo de la camara de tu Android. A través de la red 2G y 3G puede llegar directamente a internet usando un FTP.
 * ![Wifi Camera](img/manifestdroid/wificamera.png) [Wifi Camera](https://f-droid.org/repository/browse/?fdfilter=webcam&fdid=teaonly.droideye) Transmisión en vivo y directo de vídeo y audio con tu Android. A través de la red 2G y 3G puede llegar directamente a internet.
@@ -132,10 +131,10 @@ Es recomendable **no usar** la red telefónica convencional, pero en caso de nec
 
 Muchos dispositivos con Android no son celulares, así que no tienen acceso a internet permanente y en el caso de los celulares internet puede ser interrumpida, limitada o bloqueada, por eso es preferible armar nuestra propia red así podremos chatear con Bounjour, compartir archivos y conectarnos con diversos equipos. Además muchos dispositivos permite compartir internet dentro de la misma red libre usando el 3G.
 
-* [Barnacle Wifi Tether](https://f-droid.org/repository/browse/?fdfilter=Barnacle%20Wifi%20Tether&fdid=net.szym.barnacle) arma tu propia red libre en malla con Android.
-* [Share via HTTP](https://f-droid.org/repository/browse/?fdfilter=share%20via%20http&fdid=com.MarcosDiez.shareviahttp) comparte archivos en la red.
+* ![Barnacle Wifi Tether](img/manifestdroid/barnacle.png) [Barnacle Wifi Tether](https://f-droid.org/repository/browse/?fdfilter=Barnacle%20Wifi%20Tether&fdid=net.szym.barnacle) arma tu propia red libre en malla con Android.
+* ![Share via HTTP](img/manifestdroid/shareviahttp.png) [Share via HTTP](https://f-droid.org/repository/browse/?fdfilter=share%20via%20http&fdid=com.MarcosDiez.shareviahttp) comparte archivos en la red.
 
-_**Nota:** Para instalar muchas de estas cosas vamos a necesitar tener [Superuser](https://f-droid.org/repository/browse/?fdfilter=superuser&fdid=org.fdroid.superuser)_
+_**Nota:** Para instalar muchas de estas cosas vamos a necesitar tener ![Multi Sms](img/manifestdroid/superuser.png) [Superuser](https://f-droid.org/repository/browse/?fdfilter=superuser&fdid=org.fdroid.superuser)_
 
 ## Gas lacrimógeno
 
