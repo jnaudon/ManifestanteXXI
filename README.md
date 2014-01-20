@@ -114,6 +114,7 @@ Lo mismo podemos hacer los manifestantes, organizándonos con **herramientas sim
 * ![GibverBot](img/manifestdroid/gibberbot.png) [Gibberbot](https://guardianproject.info/apps/gibber/) chatea de modo [criptográfico](http://wiki.partidopirata.com.ar/Gibberbot_con_OTR) y seguro en bounjour, jabber, facebook, googletalk, etc.
 * ![yaaic](img/manifestdroid/yaaic.png) [Yaaic](https://f-droid.org/repository/browse/?fdfilter=irc&fdid=org.yaaic) Cliente para IRC.
 * ![Linphone](img/manifestdroid/linphone.png) [Linphone](https://f-droid.org/repository/browse/?fdfilter=linphone&fdid=org.linphone&fdstyle=grid) telefonía por internet con criptografía, podes crear un cuenta local para la red libre y una cuenta en [linphone.org](https://www.linphone.org/eng/linphone/register-a-linphone-account.html) para acceso desde internet. Este tambien corre en GNU/Linux, Mac y windows.
+* ![Lector de Novedades](img/manifestdroid/feedex.png) [FeedEx](https://f-droid.org/repository/browse/?fdfilter=feedex&page_id=0) Los lectores de noticias o fuentes web son un excelente modo de comunicar noticias sin más intermediarios que la red.
 
 Es recomendable **no usar** la red telefónica convencional, pero en caso de necesitarse estos programas resultan muy útiles.
 
@@ -306,7 +307,7 @@ Es un modo de navegación anonima. Este no debe usarse para cuentas personales, 
 
 ## Lector de Noticias
 
-Muchas paginas, blogs, centrales de noticias tiene ![](img/rss.png) RSS o Atom con la que podemos mantenernos actualizados de las novedades, noticas, o eventos y actividades de colegas y amigos.
+Muchas paginas, blogs, centrales de noticias tiene ![RSS](img/rss.png) RSS o Atom con la que podemos mantenernos actualizados de las novedades, noticas, o eventos y actividades de colegas y amigos.
 
 ![Brief](img/lector_de_noticias.png)
 
