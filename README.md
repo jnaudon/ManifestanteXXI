@@ -92,7 +92,7 @@ Para solucionar este problema se pueden usar varias tecnologías de criptografí
 La **criptografía** es como si inventáramos nuestro propio idioma para hablar con una persona, aun así para nosotros sigue siendo totalmente legible.
 Esto sirve para que nadie pueda interceptar la conversación.
 Algo muy sencillo que se puede hacer es navegar en paginas con _https://_ en lugar de _http://_, esto funciona en muchas paginas populares.
-Lo mejor es usar [HTTPS Everywhere](https://www.eff.org/https-everywhere) en Firefox que lo hace automáticamente.
+Lo mejor es usar [HTTPS Everywhere](https://www.eff.org/files/https-everywhere-android.xpi) en [Firefox](https://f-droid.org/repository/browse/?fdfilter=firefox&fdid=org.mozilla.firefox) que lo hace automáticamente.
 
 Los **proxys** nos permite pasar por internet sin que nadie pueda ver que estamos haciendo. Uno de los mas populares es Tor que su particularidad es que esta compuesto por miles de computadoras que se coordinan de modo descentralizado, haciéndolo muy seguro y confiable.
 La versión para Android se llama ![orbot](img/manifestdroid/orbot.png) [Orbot](https://f-droid.org/repository/browse/?fdfilter=browser&fdid=org.torproject.android), nos permite navegar con ![OrWeb](img/manifestdroid/orweb.png) [Orweb](https://f-droid.org/repository/browse/?fdfilter=browser&fdid=info.guardianproject.browser), chatear de anónimo y seguro con [Gibberbot](https://guardianproject.info/apps/gibber/) y buscar en ![Duck Duck GO](img/manifestdroid/duckduckgo.png) [Duck Duck GO](http://f-droid.org/repository/browse/?fdfilter=duck&fdid=se.johanhil.duckduckgo).
