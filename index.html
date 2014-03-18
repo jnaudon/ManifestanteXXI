@@ -1,192 +1,1078 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-  <meta charset="utf-8">
-  <meta name="generator" content="pandoc">
   <title></title>
-  <!--[if lt IE 9]>
-    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-  <link rel="stylesheet" href="css/markdown.css">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="date" content="" />
+  <link rel="stylesheet" href="css/markdown.css" type="text/css" />
 </head>
 <body>
-<figure>
-<img src="poster/poster_revolucionario_de_accion_chico.png" alt="Póster"><figcaption>Póster</figcaption>
-</figure>
-<ul>
-<li><a href="http://b4zz4.github.io/ManifestanteXXI/poster/poster.png">Descargar Poster para imprimir</a></li>
-<li><a href="http://b4zz4.github.io/ManifestanteXXI/ManifestanteDIY.epub">Descargar EPUB</a></li>
-</ul>
-<blockquote>
-<ul>
-<li>Casco y protección para la bici para protegerse de la represión</li>
-<li>Pañuelo en la cara, pasamontaña o <a href="#mascara">mascara</a>: contra el gas lacrimógeno y el <a href="#reconocimiento-facial">reconocimiento facial</a></li>
-<li><a href="#guante-de-cuero-curtido">Guante de cuero curtido</a>, para sostener las bombas de gas lacrimógeno</li>
-<li>Ropa de la <a href="textos/Gratiferia.md">gratisferia</a> para que no te identifiquen con ella y taparte la cara</li>
-<li><a href="#edison-carter">Edison Carter</a>: cámara grabando y transmitiendo en vivo</li>
-<li>Teléfono con <a href="#manifestdroid">ManifestDroid</a>: comunicación criptográfica (SMS, llamadas, chat, etc), publicar fotos sin exponer a los manifestantes, etc.</li>
-<li>Botella con vinagre, jugo de limón o <a href="#neutralizante">neutralizante</a>: para protegerse del gas lacrimógeno</li>
-<li><a href="#mochila-wifi">Mochila con router WIFI</a> para mejorar el acceso a la red</li>
-<li>Antenas para transmitir con mayor potencia</li>
-<li><a href="#linterna-estroboscopica">Linterna estroboscópica</a> para calmar a las fieras</li>
-<li>Protección para <a href="#proteccin-para-documentos-con-rfid">identificaciones con RFID</a></li>
-</ul>
-</blockquote>
-<h1 id="reconocimiento-facial">Reconocimiento facial</h1>
-<p>En el 2011 Cristina Fernández de Kirchner emitió un Decreto ordenando la creación del Sistema Federal de Identificación Biométrica (<a href="textos/SIBIOS.md">SIBIOS</a>), un servicio de identificación biométrica centralizado, con cobertura nacional, que permitirá a las agencias de seguridad hacer &quot;referencias cruzadas&quot; de información con datos biométricos, con la posibilidad de vincular el sistema de registro facial obtenido a través de las cámaras de vigilancia en la vía pública con las imágenes obtenidas a través de sistema SIBIOS.</p>
-<p>El reconocimiento de rostros es cada más simple y barato, por ejemplo en la Ciudad de Buenos Aires las <a href="http://camaras.buenosaires.gob.ar/">cámaras de seguridad</a> superan las mil y las redes sociales con reconocimiento facial: facebook, google+, flickr, etc, son cada vez más populares y la actualización permanentemente por parte de sus usuarios mejora las bases de datos constantemente.</p>
-<p>En Android podemos usar el programas <a href="https://guardianproject.info/apps/obscuracam/">ObscuraCam</a> que oculta las caras de forma automática.</p>
-<h2 id="que-podemos-hacer">¿Que podemos hacer?</h2>
-<ul>
-<li>Bloquear o deshabilitar las cámaras de seguridad</li>
-<li>No etiquetar fotos en redes sociales</li>
-<li>Solo compartir fotos de manifestaciones con rostro borrados</li>
-<li>Borrar datos de localización y metadatos de las fotos.</li>
-</ul>
-<h1 id="protección-para-documentos-con-rfid">Protección para documentos con RFID</h1>
-<p>Los sistemas <a href="textos/SUBE.md">SUBE</a>, <a href="textos/AFA.md">AFA plus</a> y los nuevos DNI dan la posibilidad identificar a personas a distancia. La tarjeta SUBE genera un registro de todos los viajes que realiza, violando el derecho a la privacidad, y los guarda en una base de datos controlada por la Secretaría de Transporte. En algunos países ya se a usado este sistema para identificar manifestantes, ya que los lectores de RFID pueden ser leídos a la distancia, como puede verse en el documental &quot;<a href="http://websuterfuge.free.fr/rfid.html">La Police Totale</a>&quot;</p>
-<figure>
-<img src="planos/porta_sube.png" alt="Estuche anti-RFID"><figcaption>Estuche anti-RFID</figcaption>
-</figure>
-<blockquote>
-<p>Estuche <strong>anti-RFID</strong>, armado con un tetra pak, bloquea las ondas de radio así no es detectable a larga distancia. En el caso de la tarjeta SUBE para utilizarla hay que sacarla de su estuche.</p>
-</blockquote>
-<h2 id="que-podemos-hacer-1">¿Que podemos hacer?</h2>
-<ul>
-<li>No usarlos</li>
-<li>No renovar el DNI</li>
-<li>Intercambiar tarjetas SUBE</li>
-<li>Usar el estuche</li>
-</ul>
-<h1 id="manifestdroid"><a href="apk/">ManifestDroid</a></h1>
-<p>Tanto en las computadoras como los dispositivos portátiles (celulares, pad, tablet, etc) estamos muy mal acostumbrados a comunicarnos de modo inseguro, conectándonos a cualquier red disponible, comunicarnos y navegar sin criptografía, pudiendo cualquier persona cercana a nosotros interceptar lo que estamos haciendo, además de la compañía de celular o internet pueden hacerlo todo el tiempo.</p>
-<p>Para solucionar este problema se pueden usar varias tecnologías de criptografía, tuneles, filtros y proxys en particular para dispositivos que usan <strong>Android</strong> solamente usando <a href="https://www.gnu.org/philosophy/free-sw.es.html">software libre</a> fáciles de instalar y usar.</p>
-<p>La <strong>criptografía</strong> es como si inventáramos nuestro propio idioma para hablar con una persona, aun así para nosotros sigue siendo totalmente legible. Esto sirve para que nadie pueda interceptar la conversación. Algo muy sencillo que se puede hacer es navegar en paginas con <em>https://</em> en lugar de <em>http://</em>, esto funciona en muchas paginas populares. Lo mejor es usar <a href="https://www.eff.org/https-everywhere">HTTPS Everywhere</a> en Firefox que lo hace automáticamente.</p>
-<p>Los <strong>proxys</strong> nos permite pasar por internet sin que nadie pueda ver que estamos haciendo. Uno de los mas populares es Tor que su particularidad es que esta compuesto por miles de computadoras que se coordinan de modo descentralizado, haciéndolo muy seguro y confiable. La versión para Android se llama <a href="https://f-droid.org/repository/browse/?fdfilter=browser&amp;fdid=org.torproject.android">Orbot</a>, nos permite navegar con <a href="https://f-droid.org/repository/browse/?fdfilter=browser&amp;fdid=info.guardianproject.browser">Orweb</a>, chatear de anónimo y seguro con <a href="https://guardianproject.info/apps/gibber/">Gibberbot</a> y buscar en <a href="http://f-droid.org/repository/browse/?fdfilter=duck&amp;fdid=se.johanhil.duckduckgo">Duck Duck GO</a>.</p>
-<p>Los <strong>túneles</strong> nos permite pasar por la red sin que se pueda ver que estamos haciendo, como su nombre lo dice, generamos un <em>&quot;túnel&quot;</em> dentro de la red y salimos por otro de modo anónimo. Hay que tener en cuenta que la maquina de salida a diferencia de <strong>Tor</strong> conoce el lugar de procedencia, siendo que nuestra conección es directa, por ende tenemos que confiar en él. Podemos usar la VPN de Riseup descargando <a href="http://f-droid.org/repository/browse/?fdfilter=openvpn&amp;fdid=de.schaeuffelhut.android.openvpn">Open VPN setting</a> y <a href="https://help.riseup.net/es/openvpn-android">configurandolo</a> para Android.</p>
-<p>Los <strong>filtros</strong> más simple que podemos usar son los de publicidad como <a href="https://f-droid.org/repository/browse/?fdfilter=adblock&amp;fdid=org.adblockplus.android">Adblock</a> quita la publicidad de las paginas web, aunque parezca algo trivial mejora muchísimo la velocidad de navegación.</p>
-<p>Hay que tener en cuenta que cuantos más seamos usando estos recursos (cifrado, proxys, túneles, etc) <strong>todo el tiempo</strong>, no solo para hacktivismos, <strong>más seguro</strong> se tornan, por que generamos tráfico cifrado todo el tiempo y más complicado se vuelve encontrar los grupos de activistas.</p>
-<h2 id="comunicación-segura-y-coordinación">Comunicación segura y coordinación</h2>
-<p>Una de las grandes ventajas de los policías en una manifestación, es que se encuentran organizados, pueden comunicarse en tiempo real, modificar sus movimientos y planificar en base a lo ocurrido. Para esto cuentan con un grupo dedicado a esta función que esta fuera y dentro de la acción.</p>
-<p>Lo mismo podemos hacer los manifestantes, organizándonos con <strong>herramientas similares</strong>, <strong>libres</strong> y <strong>seguras</strong>. Lo mejor es que un grupo en particular se dedique a la coordinación, utilizando con Bounjour, Jabber o telefonía sobre internet. Al igual que los policías, puede coordinarse la inteligencia por fuera de la manifestación, las personas calmadas piensan mejor, en este caso el grupo de acción debe pasar reportes precisos de lo que ocurre. La mayoría de la comunicación (a nivel inteligencia) debe hacerse por chat, en medio de una manifestación hablar se tornarse complicado e inseguro. Además escribiendo de modo preciso se puede logran mejores resultados, sobre todo en grandes grupos. <strong>Es sumamente necesario que se usen métodos criptográficos</strong>, el más común y seguro es el <a href="textos/OTR.md">OTR</a>.</p>
-<ul>
-<li><a href="https://guardianproject.info/apps/gibber/">Gibberbot</a> chatea de modo <a href="http://wiki.partidopirata.com.ar/Gibberbot_con_OTR">criptográfico</a> y seguro en bounjour, jabber, facebook, googletalk, etc.</li>
-<li><a href="https://code.google.com/p/csipsimple/">CsipSimple</a> telefonía por internet con criptografía, podes crear un cuenta local para la red libre y una cuenta en <a href="https://www.ekiga.net/?page=register">ekiga.org</a> para acceso desde internet.</li>
-<li><a href="https://ostel.co/">Ostel</a> Llamadas con criptografía.</li>
-<li><a href="https://guardianproject.info/apps/obscuracam/">ObscuraCam</a> protege a los manifestantes borrando sus caras y quita los datos de GPS y modelo de celular cuando compartís sus fotos internet.</li>
-<li><a href="http://umap.openstreetmap.org.ar">Umap</a> mapas para coordinarse en las calles.</li>
-</ul>
-<p>Es recomendable <strong>no usar</strong> la red telefónica convencional, pero en caso de necesitarse estos programas resultan muy útiles.</p>
-<ul>
-<li><a href="http://f-droid.org/repository/browse/?fdfilter=sms&amp;fdid=com.hectorone.multismssender">Multi Sms</a> enviar SMS en cadena, puede usarse para la difusión previa o comunicarse con teléfonos sin Android.</li>
-<li><a href="http://www.whispersystems.org/">RedPhone</a> Llamadas con criptografía sobre telefonía móvil.</li>
-<li><a href="http://www.whispersystems.org/">TextSecure</a> SMS con criptografía.</li>
-</ul>
-<h3 id="red-libre-con-android">Red libre con Android</h3>
-<p>Muchos dispositivos con Android no son celulares, así que no tienen acceso a internet permanente y en el caso de los celulares internet puede ser interrumpida, limitada o bloqueada, por eso es preferible armar nuestra propia red así podremos chatear con Bounjour, compartir archivos y conectarnos con diversos equipos. Además muchos dispositivos permite compartir internet dentro de la misma red libre usando el 3G.</p>
-<ul>
-<li><a href="https://f-droid.org/repository/browse/?fdfilter=Barnacle%20Wifi%20Tether&amp;fdid=net.szym.barnacle">Barnacle Wifi Tether</a> arma tu propia red libre en malla con Android.</li>
-<li><a href="https://f-droid.org/repository/browse/?fdfilter=share%20via%20http&amp;fdid=com.MarcosDiez.shareviahttp">Share via HTTP</a> comparte archivos en la red.</li>
-</ul>
-<h1 id="gas-lacrimógeno">Gas lacrimógeno</h1>
-<p>De verse afectado de forma real o potencial por este tipo de armas, es necesario conocer las medidas utilizadas para mantener el control de la situación.</p>
-<h2 id="mascara">Mascara</h2>
-<figure>
-<img src="planos/mascara.png" alt="mascara de contra gras lacrimogeno"><figcaption>mascara de contra gras lacrimogeno</figcaption>
-</figure>
-<blockquote>
-<p>Corte la <strong>botella de 2 litros</strong> con la forma de su rostro y colocar los <strong>elásticos</strong> de manera que la botella quede firme a la cabeza. Colocar <strong>cinta aisladora</strong>, en los bordes, de modo de evitar que entre gas en la máscara, sino puede lastimar los ojos. Encastre en la base <strong>un barbijo</strong> o trapo humedecido con vinagre, jugo de limón o <strong>neutralizante</strong></p>
-</blockquote>
-<h2 id="guante-de-cuero-curtido">Guante de cuero curtido</h2>
-<p>Generalmente, la &quot;bomba&quot; se puede agarra y lanzar a otra dirección, aunque hay que protegerse las manos con un <strong>paño húmedo grueso</strong> o <strong>guantes</strong> de protección, ya que la bomba se calienta hasta alcanzar altas temperaturas, además, hay que considerar que, quien la tome se verá rodeado de gas momentáneamente.</p>
-<h2 id="neutralizante">Neutralizante</h2>
-<figure>
-<img src="planos/lacrimogeno_neutralizante.png" alt="neutralizante"><figcaption>neutralizante</figcaption>
-</figure>
-<blockquote>
-<p>Prepare un neutralizador en <strong>un roseador</strong> con agua potable con 5% de <strong>bicarbonato de sodio</strong>. El roseador no tiene que ser mayor que 500cm3 (medio litro) por que se vuelve pesado, difícil de manejar o llevar colgado.</p>
-</blockquote>
-<h3 id="que-podemos-hacer-2">¿Que podemos hacer?</h3>
-<ul>
-<li>Rosearse neutralizante en ojos y boca, sin frotar.</li>
-<li>Protegerse la nariz y la boca con un trapo empapado de vinagre, neutralizante o jugo de limón.</li>
-<li>Ponerse un pedazo de limón en la boca.</li>
-<li>No llevar lentes de contacto o <a href="#mascara">usar protección</a>.</li>
-<li>Evitar que el gas alcance los ojos, para ello se pueden llevar preparadas gafas de buceo, una <a href="#mascara">mascara</a> o en todo caso cerrarlos y llevarlos hacia el suelo, ya que el gas se disipa hacia arriba.</li>
-</ul>
-<h1 id="linterna-estroboscópica">Linterna estroboscópica</h1>
-<p>Estas luces se usa para control mental, inducir al sueño o poner en estado de trance en las velocidades adecuadas producen estado de calma, somnolencia o la sensación de falta de tiempo. En las frecuencias entre <em>5hz</em> a <em>7hz</em> produce un estado de calma, eso es lo que intenta generar el este circuito. Podemos modificar una linterna que use entre 5v a 12v con este circuito, y reutilizar su lamparas LED y baterías.</p>
-<figure>
-<img src="planos/555_Estroboscopica.png" alt="circuito"><figcaption>circuito</figcaption>
-</figure>
-<blockquote>
-<p>Uno o más LED, circuito integrado 555, resistencias de 47k, 82k y 1k, capacitor electrolítico 1mf, capacitor cerámico 1mf, pilas. <em>Estos componentes se pueden comprar en cualquier casa de electrónica</em></p>
-</blockquote>
-<p><em><strong>Nota:</strong> Si usas una mascara anti gas lacrimogeno de color verde podes poner un filtro a la lampara para que no te afecte.</em></p>
-<p>Además podes mejorar el efecto con sonidos binaural amplificado con un megáfono o amplificador. Se puede reproducirlo &quot;debajo&quot; de música o cuando alguien habla en los posible este sonido tiene que ser escuchado inconscientemente. Hay un generador para Android llamado <a href="https://f-droid.org/repository/browse/?fdfilter=binaural&amp;fdid=com.ihunda.android.binauralbeat">binauralbeat</a>.</p>
-<h1 id="laser-de-alta-potencia">Laser de alta potencia</h1>
-<p>Estos se pueden usar para molestar a la vision de los policias. Se pueden hacer laser de alta potencia con un viejo reproductor de CD-ROM</p>
-<h1 id="mochila-wifi">Mochila WIFI</h1>
-<p>Es un router dentro de una mochila (bolso, cartera, etc) con baterías para sostener su funcionamiento por horas. Sirve para mejorar el acceso a la red, compartir contenido, difundir lo que ocurre, tanto con una webcam todo el tiempo y un <a href="https://es.wikipedia.org/wiki/Portal_cautivo">portal cautivo</a> para los vecinos.</p>
-<figure>
-<img src="img/media/PIC_0041.jpg" alt="mochila WIFI"><figcaption>mochila WIFI</figcaption>
-</figure>
-<p><em>Por ahora falta la documentación, podes leer la experiencia del <a href="https://github.com/b4zz4/NodoDeGuerrilla/">Nodo de Guerrilla</a> y el 'satelite' hogareño <a href="https://github.com/b4zz4/mogul/">Mogul</a>.</em></p>
-<h2 id="edison-carter">Edison Carter</h2>
-<p>Cámara para transmitir lo que ocurren en el momento en vivo y en directo, a la vez sirve para grabar y publicar.</p>
-<p><img src="img/media/PIC_0175.jpg" alt="cámara WIFI con el panel solar"> <img src="img/media/PIC_0176.jpg" alt="cámara wifi con panel solar"></p>
-<blockquote>
-<p>Esta basada en un router WIFI, una webcam. Puede alimentarse con pilas, baterías y panel solar.</p>
-</blockquote>
-<p>Como esta pensada apra salir a la calle y transmitir del modo más economico, usa las redes disponibles, transmite en baja resolucion, en formatos muy simples (JPG, <a href="https://es.wikipedia.org/wiki/MJPEG">MJPEG</a>), y siempre esta disponible en un portal cautivo. Tiene la posibilidad de contectarlo a 3G pero todavia no ha sido probado.</p>
-<h3 id="experiencias">Experiencias</h3>
-<p><strong>Primera experiencia</strong> con una webcam ZX30.., se conectaba a cualquier red abierta o cerrada, de la que conociera la clave, tomando en cuenta la calidad de la señal y salida a internet. Y con punto de acceso para que los vecinos conozcan la problemática a difundir. Para transmitir desde cualquier locación usaba <a href="http://librevpn.org">librevpn</a>.</p>
-<ul>
-<li>En pruebas locales funcionó perfectamente.</li>
-<li>En la calle no se pudieron hacer demasiadas pruebas. Aun así filmó perfectamente, escaneó redes y conectó.</li>
-</ul>
-<p><em>En los intentos por ponerles batería incorporada, y contactarla al revéz, termino quemándose la camara.</em></p>
-<p><strong>Segundo experiencia</strong> con una webcam Datavision no fue muy buena, la imagen tenia muchos problemas de calidad o tan solo aparecía en gris. Termino quemándose, seguramente, por el calor dentro del dispositivo.</p>
-<h1 id="notas-relacionadas">Notas relacionadas</h1>
-<p>Algunas experiencias relacionadas.</p>
-<ul>
-<li>Experiencias de los <a href="https://es.wikipedia.org/wiki/Contracumbre_del_G8_en_G%C3%A9nova">movimientos anti-globalizadores</a> en 2001 como el &quot;Tute Bianchi&quot;</li>
-<li>Mapa con el <a href="http://www.microsiervos.com/archivo/tecnologia/manifestantes-turquia-controlar-policia.html">movimientos de la Policía en Estambul</a>, como los manifestantes turcos vigilan a la policía.</li>
-<li>Los manifestantes hacen <a href="https://www.youtube.com/watch?v=H42UJIszoaQ">huir a la policia</a> en Brasil</li>
-<li>Los manifestantes españoles tiene un <a href="https://www.youtube.com/watch?v=h-oO8I5vR5s">helicoptero</a> para ver lo que hace la policía.</li>
-<li><a href="http://prism.hackcoop.com.ar/#es">Prism Break</a> - Lucha contra la NSA.</li>
-<li><a href="https://guardianproject.info/apps/tutorials/">Tutoriales</a> de software libre para Android. (en ingles)</li>
-</ul>
-<h1 id="licencia">Licencia</h1>
-<p>Se permite el uso comercial de la obra y de las posibles obras derivadas, la distribución de las cuales se debe hacer con una licencia igual a la que regula la obra original.</p>
-<p><img src="img/128px-GFDL_Logo.svg.png" alt="GFDL"> <img src="img/by-sa-125px.png" alt="Creado para la comunidad compartir con la misma licencia"></p>
-<h1 id="quehaceres">Quehaceres</h1>
-<ul>
-<li>Hacer vectores de la mascara anti-lacrimogeno</li>
-<li>Hacer svg interactivo (1/2)</li>
-<li>Traducir</li>
-<li>Referencia a los italiano que se protegían de los policías</li>
-<li>Programa para tapar caras en HTML5</li>
-<li>GNU/Manifest: GNU para manifestante</li>
-<li>ManifestWRT: versión de OpenWRT para manifestante</li>
-<li>P2P ver la posibilidad de compartir archivos</li>
-<li><a href="http://f-droid.org/repository/browse/?fdid=com.google.zxing.client.android">codigos QR</a> da la posibilidad de compartir URL facilmente de pantalla a pantalla</li>
-<li><a href="http://f-droid.org/repository/browse/?fdid=at.univie.sensorium.o3gm">mapeo de datos</a> no se que onda</li>
-</ul>
-<h1 id="donaciones">Donaciones ❤</h1>
-<ul>
-<li><a href="https://argentina.dineromail.com/Shop/Shop_Ingreso.asp?NombreItem=Donativo&amp;TipoMoneda=1&amp;PrecioItem=50%2E00&amp;E_Comercio=205889&amp;NroItem=-&amp;image_url=http%3A%2F%2F&amp;DireccionExito=http%3A%2F%2F&amp;DireccionFracaso=http%3A%2F%2F&amp;DireccionEnvio=1&amp;Mensaje=1">Dinero Mail</a> (Argentina, Brasil, Chile y México)</li>
-<li>Carga credito, como en un celular, en <strong>mi modem 3G</strong> para transmitir en vivo: (+5411) 3246-5497 (empresa &quot;Claro&quot;)</li>
-</>
-<script type="text/javascript" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
-<script type="text/javascript">
-   jQuery.ajaxSetup({cache: true});
-   
-   jQuery.getScript("https://static.jappix.com/php/get.php?l=en&t=js&g=mini.xml", function() {
-      MINI_GROUPCHATS = ["bazza@chat.riseup.net"];
-      MINI_ANIMATE = true;
-      launchMini(false, true, "anonymous.jappix.com");
-   });
-</script>
+<div id="manifestante-diy"
+><h1
+  >Manifestante DIY</h1
+  ><div class="figure"
+  ><img src="poster/poster_revolucionario_de_accion_chico.png" alt="P&#243;ster"
+     /><p class="caption"
+    >Póster</p
+    ></div
+  ><ul
+  ><li
+    ><a href="http://b4zz4.github.io/ManifestanteXXI/poster/poster.png"
+      >Descargar Poster para imprimir</a
+      ></li
+    ><li
+    ><a href="http://b4zz4.github.io/ManifestanteXXI/ManifestanteDIY.epub"
+      >Descargar EPUB</a
+      ></li
+    ></ul
+  ><blockquote
+  ><ul
+    ><li
+      >Casco y protección para la bici para protegerse de la represión</li
+      ><li
+      >Pañuelo en la cara, pasamontaña o <a href="#mascara"
+	>mascara</a
+	>: contra el gas lacrimógeno y el <a href="#reconocimiento-facial"
+	>reconocimiento facial</a
+	></li
+      ><li
+      ><a href="#guante-de-cuero-curtido"
+	>Guante de cuero curtido</a
+	>, para sostener las bombas de gas lacrimógeno</li
+      ><li
+      >Ropa de la <a href="textos/Gratiferia.md"
+	>gratisferia</a
+	> para que no te identifiquen con ella y taparte la cara</li
+      ><li
+      ><a href="#edison-carter"
+	>Edison Carter</a
+	>: cámara grabando y transmitiendo en vivo</li
+      ><li
+      >Teléfono con <a href="#manifestdroid"
+	>ManifestDroid</a
+	>: comunicación criptográfica (SMS, llamadas, chat, etc), publicar fotos sin exponer a los manifestantes, etc.</li
+      ><li
+      >Botella con vinagre, jugo de limón o <a href="#neutralizante"
+	>neutralizante</a
+	>: para protegerse del gas lacrimógeno</li
+      ><li
+      ><a href="#mochila-wifi"
+	>Mochila con router WIFI</a
+	> para mejorar el acceso a la red</li
+      ><li
+      >Antenas para transmitir con mayor potencia</li
+      ><li
+      ><a href="#linterna-estroboscopica"
+	>Linterna estroboscópica</a
+	> para calmar a las fieras</li
+      ><li
+      >Protección para <a href="#proteccin-para-documentos-con-rfid"
+	>identificaciones con RFID</a
+	></li
+      ></ul
+    ></blockquote
+  ><div id="reconocimiento-facial"
+  ><h2
+    >Reconocimiento facial</h2
+    ><p
+    >En el 2011 Cristina Fernández de Kirchner emitió un Decreto ordenando la creación del Sistema Federal de Identificación Biométrica (<a href="textos/SIBIOS.md"
+      >SIBIOS</a
+      >), un servicio de identificación biométrica centralizado, con cobertura nacional, que permitirá a las agencias de seguridad hacer &quot;referencias cruzadas&quot; de información con datos biométricos, con la posibilidad de vincular el sistema de registro facial obtenido a través de las cámaras de vigilancia en la vía pública con las imágenes obtenidas a través de sistema SIBIOS.</p
+    ><p
+    >El reconocimiento de rostros es cada más simple y barato, por ejemplo en la Ciudad de Buenos Aires las <a href="http://camaras.buenosaires.gob.ar/"
+      >cámaras de seguridad</a
+      > superan las mil y las redes sociales con reconocimiento facial: facebook, google+, flickr, etc, son cada vez más populares y la actualización permanentemente por parte de sus usuarios mejora las bases de datos constantemente.</p
+    ><div class="figure"
+    ><img src="planos/aerosol_a_distancia.png" alt="Aerosol a Distancia"
+       /><p class="caption"
+      >Aerosol a Distancia</p
+      ></div
+    ><p
+    >En Android podemos usar el programas <a href="https://guardianproject.info/apps/obscuracam/"
+      >ObscuraCam</a
+      > que oculta las caras de forma automática.</p
+    ><div id="que-podemos-hacer"
+    ><h3
+      >¿Que podemos hacer?</h3
+      ><ul
+      ><li
+	>Bloquear o deshabilitar las cámaras de seguridad</li
+	><li
+	>No etiquetar fotos en redes sociales</li
+	><li
+	>Solo compartir fotos de manifestaciones con rostro borrados</li
+	><li
+	>Borrar datos de localización y metadatos de las fotos.</li
+	></ul
+      ></div
+    ></div
+  ><div id="volantes-y-poster"
+  ><h2
+    >Volantes y Poster</h2
+    ><p
+    >Un volante tiene que ser fácil de leer, expresar fácilmente una problemática, proponer una acción concreta. Tiene que decir, donde, cuando y como nos tenemos que manifestar o que es lo que se necesita hacer. Usar valores de alto contraste (blanco y negro) para soportar fotocopias.</p
+    ><div class="figure"
+    ><img src="planos/poster.png" title="Como dise&#241;ar un volante" alt="Dise&#241;o de volante"
+       /><p class="caption"
+      >Diseño de volante</p
+      ></div
+    ><blockquote
+    ><p
+      >Para diseñarlo podemos usar <a href="http://inkscape.org"
+	>Inkscape</a
+	>. Y el formato que usemos tiene que servir para hacer postres y volantes. Para diseñarlo lo mejor es usar <strong
+	>SVG</strong
+	> y para imprimirlo <strong
+	>PDF</strong
+	> o <strong
+	>JPG</strong
+	> como mínimo 5000px de ancho o alto.</p
+      ></blockquote
+    ><div id="errores-comunes"
+    ><h3
+      >Errores comunes</h3
+      ><ul
+      ><li
+	>Ser demasiado extenso</li
+	><li
+	>Contar detalles innecesarios o muy puntuales</li
+	><li
+	>Poner imágenes de fondo</li
+	><li
+	>NO proponer acciones, lo cual deja al lector imposibilitado a participar</li
+	><li
+	>Usar grises y al fotocopiarlo se vea feo</li
+	><li
+	>Un volante NO es un diario</li
+	><li
+	>Que el formato no soporte impresiones a varios tamaños.</li
+	></ul
+      ></div
+    ><div id="engrudo"
+    ><h3
+      >Engrudo</h3
+      ><p
+      >En una olla disolver la harina en un poco de agua, hasta que no haya grumos y luego añadir la otra revolviendo para integrar ambos ingredientes. Llevar la preparación a fuego suave y revolver con cuchara de madera. Continuar revolviendo hasta que comience a hervir y en ese momento, retirar del fuego. Dejar enfriar. También se le puede agregar un poco de sodacaustica que mejora la efectividad del pegamento.</p
+      ><p
+      ><em
+	><strong
+	  >Nota:</strong
+	  > puede hacerse sin cocinar.</em
+	></p
+      ><div id="ingredientes"
+      ><h4
+	>Ingredientes</h4
+	><ul
+	><li
+	  >100 gramos de harina</li
+	  ><li
+	  >1 litro de agua fría</li
+	  ></ul
+	></div
+      ></div
+    ></div
+  ><div id="protecci&#243;n-para-documentos-con-rfid"
+  ><h2
+    >Protección para documentos con RFID</h2
+    ><p
+    >Los sistemas <a href="textos/SUBE.md"
+      >SUBE</a
+      >, <a href="textos/AFA.md"
+      >AFA plus</a
+      > y los nuevos DNI dan la posibilidad identificar a personas a distancia. La tarjeta SUBE genera un registro de todos los viajes que realiza, violando el derecho a la privacidad, y los guarda en una base de datos controlada por la Secretaría de Transporte. En algunos países ya se a usado este sistema para identificar manifestantes, ya que los lectores de RFID pueden ser leídos a la distancia, como puede verse en el documental &quot;<a href="http://websuterfuge.free.fr/rfid.html"
+      >La Police Totale</a
+      >&quot;</p
+    ><div class="figure"
+    ><img src="planos/porta_sube.png" alt="Estuche anti-RFID"
+       /><p class="caption"
+      >Estuche anti-RFID</p
+      ></div
+    ><blockquote
+    ><p
+      >Estuche <strong
+	>anti-RFID</strong
+	>, armado con un tetra pak, bloquea las ondas de radio así no es detectable a larga distancia. En el caso de la tarjeta SUBE para utilizarla hay que sacarla de su estuche.</p
+      ></blockquote
+    ><div id="que-podemos-hacer-1"
+    ><h3
+      >¿Que podemos hacer?</h3
+      ><ul
+      ><li
+	>No usarlos</li
+	><li
+	>No renovar el DNI</li
+	><li
+	>Intercambiar tarjetas SUBE</li
+	><li
+	>Usar el estuche</li
+	></ul
+      ></div
+    ></div
+  ><div id="manifestdroid"
+  ><h2
+    ><a href="apk/"
+      >ManifestDroid</a
+      ></h2
+    ><p
+    >Tanto en las computadoras como los dispositivos portátiles (celulares, pad, tablet, etc) estamos muy mal acostumbrados a comunicarnos de modo inseguro, conectándonos a cualquier red disponible, comunicarnos y navegar sin criptografía, pudiendo cualquier persona cercana a nosotros interceptar lo que estamos haciendo, además de la compañía de celular o internet pueden hacerlo todo el tiempo.</p
+    ><p
+    >Para solucionar este problema se pueden usar varias tecnologías de criptografía, tuneles, filtros y proxys en particular para dispositivos que usan <strong
+      >Android</strong
+      > solamente usando <a href="https://www.gnu.org/philosophy/free-sw.es.html"
+      >software libre</a
+      > fáciles de instalar y usar.</p
+    ><p
+    >La <strong
+      >criptografía</strong
+      > es como si inventáramos nuestro propio idioma para hablar con una persona, aun así para nosotros sigue siendo totalmente legible. Esto sirve para que nadie pueda interceptar la conversación. Algo muy sencillo que se puede hacer es navegar en paginas con <em
+      >https://</em
+      > en lugar de <em
+      >http://</em
+      >, esto funciona en muchas paginas populares. Lo mejor es usar <a href="https://www.eff.org/files/https-everywhere-android.xpi"
+      >HTTPS Everywhere</a
+      > en <a href="https://f-droid.org/repository/browse/?fdfilter=firefox&amp;fdid=org.mozilla.firefox"
+      >Firefox</a
+      > que lo hace automáticamente.</p
+    ><p
+    >Los <strong
+      >proxys</strong
+      > nos permite pasar por internet sin que nadie pueda ver que estamos haciendo. Uno de los mas populares es Tor que su particularidad es que esta compuesto por miles de computadoras que se coordinan de modo descentralizado, haciéndolo muy seguro y confiable. La versión para Android se llama <img src="img/manifestdroid/orbot.png" alt="orbot"
+       /> <a href="https://f-droid.org/repository/browse/?fdfilter=browser&amp;fdid=org.torproject.android"
+      >Orbot</a
+      >, nos permite navegar con <img src="img/manifestdroid/orweb.png" alt="OrWeb"
+       /> <a href="https://f-droid.org/repository/browse/?fdfilter=browser&amp;fdid=info.guardianproject.browser"
+      >Orweb</a
+      >, chatear de anónimo y seguro con <a href="https://guardianproject.info/apps/gibber/"
+      >Gibberbot</a
+      > y buscar en <img src="img/manifestdroid/duckduckgo.png" alt="Duck Duck GO"
+       /> <a href="http://f-droid.org/repository/browse/?fdfilter=duck&amp;fdid=se.johanhil.duckduckgo"
+      >Duck Duck GO</a
+      >.</p
+    ><p
+    >Los <strong
+      >túneles</strong
+      > nos permite pasar por la red sin que se pueda ver que estamos haciendo, como su nombre lo dice, generamos un <em
+      >&quot;túnel&quot;</em
+      > dentro de la red y salimos por otro de modo anónimo. Hay que tener en cuenta que la maquina de salida a diferencia de <strong
+      >tor</strong
+      > conoce el lugar de procedencia, siendo que nuestra conección es directa, por ende tenemos que confiar en él. Podemos usar la VPN de Riseup descargando <img src="img/manifestdroid/openvpn.png" alt="Open VPN setting"
+       /><a href="http://f-droid.org/repository/browse/?fdfilter=openvpn&amp;fdid=de.schaeuffelhut.android.openvpn"
+      >Open VPN setting</a
+      > y <a href="https://help.riseup.net/es/openvpn-android"
+      >configurandolo</a
+      > para Android.</p
+    ><p
+    >Los <strong
+      >filtros</strong
+      > más simple que podemos usar son los de publicidad como <a href="img/manifestdroid/adblock.png"
+      >Adblock</a
+      > <a href="https://f-droid.org/repository/browse/?fdfilter=adblock&amp;fdid=org.adblockplus.android"
+      >Adblock</a
+      > quita la publicidad de las paginas web, aunque parezca algo trivial mejora muchísimo la velocidad de navegación, y al igual que <img src="img/manifestdroid/noscript.png" alt="NoScript"
+       /> <a href="http://noscript.net/nsa/"
+      >NoScript</a
+      > que nos permite mejorar la seguridad de nuestra navegación por la web.</p
+    ><p
+    >Hay que tener en cuenta que cuantos más seamos usando estos recursos (cifrado, proxys, túneles, etc) <strong
+      >todo el tiempo</strong
+      >, no solo para hacktivismos, <strong
+      >más seguro</strong
+      > se tornan, por que generamos tráfico cifrado todo el tiempo y más complicado se vuelve encontrar los grupos de activistas.</p
+    ><div id="comunicaci&#243;n-segura-y-coordinaci&#243;n"
+    ><h3
+      >Comunicación segura y coordinación</h3
+      ><p
+      >Una de las grandes ventajas de los policías en una manifestación, es que se encuentran organizados, pueden comunicarse en tiempo real, modificar sus movimientos y planificar en base a lo ocurrido. Para esto cuentan con un grupo dedicado a esta función que esta fuera y dentro de la acción.</p
+      ><p
+      >Lo mismo podemos hacer los manifestantes, organizándonos con <strong
+	>herramientas similares</strong
+	>, <strong
+	>libres</strong
+	> y <strong
+	>seguras</strong
+	>. Lo mejor es que un grupo en particular se dedique a la coordinación, utilizando con Bounjour, Jabber o telefonía sobre internet. Al igual que los policías, puede coordinarse la inteligencia por fuera de la manifestación, las personas calmadas piensan mejor, en este caso el grupo de acción debe pasar reportes precisos de lo que ocurre. La mayoría de la comunicación (a nivel inteligencia) debe hacerse por chat, en medio de una manifestación hablar se tornarse complicado e inseguro. Además escribiendo de modo preciso se puede logran mejores resultados, sobre todo en grandes grupos. <strong
+	>Es sumamente necesario que se usen métodos criptográficos</strong
+	>, el más común y seguro es el <a href="textos/OTR.md"
+	>OTR</a
+	>.</p
+      ><ul
+      ><li
+	><img src="img/manifestdroid/gibberbot.png" alt="GibverBot"
+	   /> <a href="https://guardianproject.info/apps/gibber/"
+	  >Gibberbot</a
+	  > chatea de modo <a href="http://wiki.partidopirata.com.ar/Gibberbot_con_OTR"
+	  >criptográfico</a
+	  > y seguro en bounjour, jabber, facebook, googletalk, etc.</li
+	><li
+	><img src="img/manifestdroid/yaaic.png" alt="yaaic"
+	   /> <a href="https://f-droid.org/repository/browse/?fdfilter=irc&amp;fdid=org.yaaic"
+	  >Yaaic</a
+	  > Cliente para IRC.</li
+	><li
+	><img src="img/manifestdroid/linphone.png" alt="Linphone"
+	   /> <a href="https://f-droid.org/repository/browse/?fdfilter=linphone&amp;fdid=org.linphone&amp;fdstyle=grid"
+	  >Linphone</a
+	  > telefonía por internet con criptografía, podes crear un cuenta local para la red libre y una cuenta en <a href="https://www.linphone.org/eng/linphone/register-a-linphone-account.html"
+	  >linphone.org</a
+	  > para acceso desde internet. Este tambien corre en GNU/Linux, Mac y windows.</li
+	><li
+	><img src="img/manifestdroid/feedex.png" alt="Lector de Novedades"
+	   /> <a href="https://f-droid.org/repository/browse/?fdfilter=feedex&amp;page_id=0"
+	  >FeedEx</a
+	  > Los lectores de noticias o fuentes web son un excelente modo de comunicar noticias sin más intermediarios que la red.</li
+	></ul
+      ><p
+      >Es recomendable <strong
+	>no usar</strong
+	> la red telefónica convencional, pero en caso de necesitarse estos programas resultan muy útiles.</p
+      ><ul
+      ><li
+	><img src="img/manifestdroid/redphone.png" alt="RedPhone"
+	   /> <a href="http://www.whispersystems.org/"
+	  >RedPhone</a
+	  > Llamadas con criptografía sobre telefonía móvil.</li
+	><li
+	><img src="img/manifestdroid/textsecure.png" alt="TextSecure"
+	   /> <a href="http://www.whispersystems.org/"
+	  >TextSecure</a
+	  > SMS con criptografía.</li
+	></ul
+      ><div id="difusi&#243;n-con-android"
+      ><h4
+	>Difusión con Android</h4
+	><ul
+	><li
+	  ><img src="img/manifestdroid/obscuracam.png" alt="ObscuraCam"
+	     /> <a href="https://guardianproject.info/apps/obscuracam/"
+	    >ObscuraCam</a
+	    > protege a los manifestantes borrando sus caras y quita los datos de GPS y modelo de celular cuando compartís sus fotos internet.</li
+	  ><li
+	  ><img src="img/manifestdroid/multisms.png" alt="Multi Sms"
+	     /> <a href="http://f-droid.org/repository/browse/?fdfilter=sms&amp;fdid=com.hectorone.multismssender"
+	    >Multi Sms</a
+	    > enviar SMS en cadena, puede usarse para la difusión previa o comunicarse con teléfonos sin Android.</li
+	  ><li
+	  ><img src="img/manifestdroid/mobilewebcam.png" alt="MobileWebCam"
+	     /> <a href="https://f-droid.org/repository/browse/?fdfilter=cam&amp;fdid=com.dngames.mobilewebcam"
+	    >MobileWebCam</a
+	    > Sube imagenes en vivo y directo de la camara de tu Android. A través de la red 2G y 3G puede llegar directamente a internet usando un FTP.</li
+	  ><li
+	  ><img src="img/manifestdroid/wificamera.png" alt="Wifi Camera"
+	     /> <a href="https://f-droid.org/repository/browse/?fdfilter=webcam&amp;fdid=teaonly.droideye"
+	    >Wifi Camera</a
+	    > Transmisión en vivo y directo de vídeo y audio con tu Android. A través de la red 2G y 3G puede llegar directamente a internet.</li
+	  ></ul
+	></div
+      ><div id="red-libre-con-android"
+      ><h4
+	>Red libre con Android</h4
+	><p
+	>Muchos dispositivos con Android no son celulares, así que no tienen acceso a internet permanente y en el caso de los celulares internet puede ser interrumpida, limitada o bloqueada, por eso es preferible armar nuestra propia red así podremos chatear con Bounjour, compartir archivos y conectarnos con diversos equipos. Además muchos dispositivos permite compartir internet dentro de la misma red libre usando el 3G.</p
+	><ul
+	><li
+	  ><img src="img/manifestdroid/barnacle.png" alt="Barnacle Wifi Tether"
+	     /> <a href="https://f-droid.org/repository/browse/?fdfilter=Barnacle%20Wifi%20Tether&amp;fdid=net.szym.barnacle"
+	    >Barnacle Wifi Tether</a
+	    > arma tu propia red libre en malla con Android.</li
+	  ><li
+	  ><img src="img/manifestdroid/shareviahttp.png" alt="Share via HTTP"
+	     /> <a href="https://f-droid.org/repository/browse/?fdfilter=share%20via%20http&amp;fdid=com.MarcosDiez.shareviahttp"
+	    >Share via HTTP</a
+	    > comparte archivos en la red.</li
+	  ></ul
+	><p
+	><em
+	  ><strong
+	    >Nota:</strong
+	    > Para instalar muchas de estas cosas vamos a necesitar tener <img src="img/manifestdroid/superuser.png" alt="Multi Sms"
+	     /> <a href="https://f-droid.org/repository/browse/?fdfilter=superuser&amp;fdid=org.fdroid.superuser"
+	    >Superuser</a
+	    ></em
+	  ></p
+	></div
+      ></div
+    ></div
+  ><div id="gas-lacrim&#243;geno"
+  ><h2
+    >Gas lacrimógeno</h2
+    ><p
+    >De verse afectado de forma real o potencial por este tipo de armas, es necesario conocer las medidas utilizadas para mantener el control de la situación.</p
+    ><div id="mascara"
+    ><h3
+      >Mascara</h3
+      ><div class="figure"
+      ><img src="planos/mascara.png" alt="mascara de contra gas lacrim&#243;geno"
+	 /><p class="caption"
+	>mascara de contra gas lacrimógeno</p
+	></div
+      ><blockquote
+      ><p
+	>Corte la <strong
+	  >botella de 2 litros</strong
+	  > con la forma de su rostro y colocar los <strong
+	  >elásticos</strong
+	  > de manera que la botella quede firme a la cabeza. Colocar <strong
+	  >cinta aisladora</strong
+	  >, en los bordes, de modo de evitar que entre gas en la máscara, sino puede lastimar los ojos. Encastre en la base <strong
+	  >un barbijo</strong
+	  > o trapo humedecido con vinagre, jugo de limón o <strong
+	  >neutralizante</strong
+	  ></p
+	></blockquote
+      ></div
+    ></div
+  ><div id="guante-de-cuero-curtido"
+  ><h2
+    >Guante de cuero curtido</h2
+    ><p
+    >Generalmente, la &quot;bomba&quot; se puede agarra y lanzar a otra dirección, aunque hay que protegerse las manos con un <strong
+      >paño húmedo grueso</strong
+      > o <strong
+      >guantes</strong
+      > de protección, ya que la bomba se calienta hasta alcanzar altas temperaturas, además, hay que considerar que, quien la tome se verá rodeado de gas momentáneamente.</p
+    ><div id="neutralizante"
+    ><h3
+      >Neutralizante</h3
+      ><div class="figure"
+      ><img src="planos/lacrimogeno_neutralizante.png" alt="neutralizante"
+	 /><p class="caption"
+	>neutralizante</p
+	></div
+      ><blockquote
+      ><p
+	>Prepare un neutralizador en <strong
+	  >un roseador</strong
+	  > con agua potable con 5% de <strong
+	  >bicarbonato de sodio</strong
+	  >. El roseador no tiene que ser mayor que 500cm3 (medio litro) por que se vuelve pesado, difícil de manejar o llevar colgado.</p
+	></blockquote
+      ><div id="que-podemos-hacer-2"
+      ><h4
+	>¿Que podemos hacer?</h4
+	><ul
+	><li
+	  >Rosearse neutralizante en ojos y boca, sin frotar.</li
+	  ><li
+	  >Protegerse la nariz y la boca con un trapo empapado de vinagre, neutralizante o jugo de limón.</li
+	  ><li
+	  >Ponerse un pedazo de limón en la boca.</li
+	  ><li
+	  >No llevar lentes de contacto o <a href="#mascara"
+	    >usar protección</a
+	    >.</li
+	  ><li
+	  >Evitar que el gas alcance los ojos, para ello se pueden llevar preparadas gafas de buceo, una <a href="#mascara"
+	    >mascara</a
+	    > o en todo caso cerrarlos y llevarlos hacia el suelo, ya que el gas se disipa hacia arriba.</li
+	  ></ul
+	></div
+      ></div
+    ></div
+  ><div id="linterna-estrobosc&#243;pica"
+  ><h2
+    >Linterna estroboscópica</h2
+    ><p
+    >Estas luces se usa para control mental, inducir al sueño o poner en estado de trance en las velocidades adecuadas producen estado de calma, somnolencia o la sensación de falta de tiempo. En las frecuencias entre <em
+      >5hz</em
+      > a <em
+      >7hz</em
+      > produce un estado de calma, eso es lo que intenta generar el este circuito. Podemos modificar una linterna que use entre 5v a 12v con este circuito, y reutilizar su lamparas LED y baterías.</p
+    ><div class="figure"
+    ><img src="planos/555_Estroboscopica.png" alt="circuito"
+       /><p class="caption"
+      >circuito</p
+      ></div
+    ><blockquote
+    ><p
+      >Uno o más LED, circuito integrado 555, resistencias de 47k, 82k y 1k, capacitor electrolítico 1mf, capacitor cerámico 1mf, pilas. <em
+	>Estos componentes se pueden comprar en cualquier casa de electrónica</em
+	></p
+      ></blockquote
+    ><p
+    ><em
+      ><strong
+	>Nota:</strong
+	> Si usas una mascara anti gas lacrimogeno de color verde podes poner un filtro a la lampara para que no te afecte.</em
+      ></p
+    ><p
+    >Además podes mejorar el efecto con sonidos binaural amplificado con un megáfono o amplificador. Se puede reproducirlo &quot;debajo&quot; de música o cuando alguien habla en los posible este sonido tiene que ser escuchado inconscientemente. Hay un generador para Android llamado <a href="https://f-droid.org/repository/browse/?fdfilter=binaural&amp;fdid=com.ihunda.android.binauralbeat"
+      >binauralbeat</a
+      >.</p
+    ></div
+  ><div id="l&#225;ser-de-alta-potencia"
+  ><h2
+    >Láser de alta potencia</h2
+    ><p
+    >Estos se pueden usar para molestar a la visión de los policías (en Brasil) y en Turquía casi derriban un helicóptero de monitoreo.</p
+    ></div
+  ><div id="mochila-wifi"
+  ><h2
+    >Mochila WIFI</h2
+    ><p
+    >Es un router dentro de una mochila (bolso, cartera, etc) con baterías para sostener su funcionamiento por horas. Sirve para mejorar el acceso a la red, compartir contenido, difundir lo que ocurre, tanto con una webcam todo el tiempo y un <a href="https://es.wikipedia.org/wiki/Portal_cautivo"
+      >portal cautivo</a
+      > para los vecinos.</p
+    ><div class="figure"
+    ><img src="img/media/PIC_0041.jpg" alt="mochila WIFI"
+       /><p class="caption"
+      >mochila WIFI</p
+      ></div
+    ><p
+    ><em
+      >Por ahora falta la documentación, podes leer la experiencia del <a href="https://github.com/b4zz4/NodoDeGuerrilla/"
+	>Nodo de Guerrilla</a
+	> y el 'satélite' hogareño <a href="https://github.com/b4zz4/mogul/"
+	>Mogul</a
+	>.</em
+      ></p
+    ><div id="edison-carter"
+    ><h3
+      >Edison Carter</h3
+      ><p
+      >Cámara para transmitir lo que ocurren en el momento en vivo y en directo, a la vez sirve para grabar y publicar.</p
+      ><p
+      ><img src="img/media/PIC_0175.jpg" alt="c&#225;mara WIFI con el panel solar"
+	 /> <img src="img/media/PIC_0176.jpg" alt="c&#225;mara wifi con panel solar"
+	 /></p
+      ><blockquote
+      ><p
+	>Esta basada en un router WIFI, una webcam. Puede alimentarse con pilas, baterías y panel solar.</p
+	></blockquote
+      ><p
+      >Como esta pensada para salir a la calle y transmitir del modo más económico, usa las redes disponibles, transmite en baja resolución, en formatos muy simples (JPG, <a href="https://es.wikipedia.org/wiki/MJPEG"
+	>MJPEG</a
+	>), y siempre esta disponible en un portal cautivo. Tiene la posibilidad de conectarlo a 3G pero todavía no ha sido probado.</p
+      ><div id="experiencias"
+      ><h4
+	>Experiencias</h4
+	><p
+	><strong
+	  >Primera experiencia</strong
+	  > con una webcam ZX30.., se conectaba a cualquier red abierta o cerrada, de la que conociera la clave, tomando en cuenta la calidad de la señal y salida a internet. Y con punto de acceso para que los vecinos conozcan la problemática a difundir. Para transmitir desde cualquier locación usaba <a href="http://librevpn.org"
+	  >librevpn</a
+	  >.</p
+	><ul
+	><li
+	  >En pruebas locales funcionó perfectamente.</li
+	  ><li
+	  >En la calle no se pudieron hacer demasiadas pruebas. Aun así filmó perfectamente, escaneó redes y conectó.</li
+	  ></ul
+	><p
+	><em
+	  >En los intentos por ponerles batería incorporada, y contactarla al revéz, termino quemándose la cámara.</em
+	  ></p
+	><p
+	><strong
+	  >Segundo experiencia</strong
+	  > con una webcam Datavision no fue muy buena, la imagen tenia muchos problemas de calidad o tan solo aparecía en gris. Termino quemándose, seguramente, por el calor dentro del dispositivo.</p
+	></div
+      ></div
+    ></div
+  ></div
+><div id="logistica-diy"
+><h1
+  >Logistica DIY</h1
+  ><div class="figure"
+  ><img src="poster/logistica_chico.png" alt="poster de inteligencia"
+     /><p class="caption"
+    >poster de inteligencia</p
+    ></div
+  ><blockquote
+  ><p
+    >Para soportar toda la actividad en las calles se necesita de varios equipos de inteligencia que coordinen y retransmitan todo lo que ocurre creando medios de comunicación tanto para difundir como para coordinar. Sobre todos necesitan tener <strong
+      >GNU/Linux</strong
+      > hay varias versiones y cada una sirve para las diferentes actividades que el equipo de coordinación, difusión, organización necesitan. Si no probaste ninguna podes generar tu propio <a href="http://live.learnfree.eu/download"
+      >pendrive vivo</a
+      > con el que podrás iniciar tu computadora usar gnu/linux y luego instalarlo.</p
+    ></blockquote
+  ><blockquote
+  ><ul
+    ><li
+      >Sistema operativo Tails pensado para manifestantes y activistas.</li
+      ><li
+      >Navegación anonima Tor, VPN, tuneles para anonimizar la navegación</li
+      ><li
+      >Difusión con bots para redes sociales</li
+      ><li
+      >Icecast e Mixxx para transmitir televisión y <a href="#transmisi%C3%B3n-de-radio"
+	>radios</a
+	></li
+      ><li
+      >Pidgin para chatear en <a href="#IRC"
+	>IRC</a
+	>, <a href="#Jabber"
+	>Jabber</a
+	>, <a href="#cryptocat"
+	>Cryptocat</a
+	>, TorChat o usar Tor para anonimizar</li
+      ><li
+      >Servidor hogareño hecho con viejas maquinas</li
+      ><li
+      >Umap para organizar la accion en la calles</li
+      ><li
+      >espeak para dar comunicados sin ser descubiertos.</li
+      ><li
+      >Quitar metadatos a los archivos</li
+      ><li
+      >Eliminar sin dejar rastros.</li
+      ></ul
+    ></blockquote
+  ><div id="coordinaci&#243;n"
+  ><h2
+    >Coordinación</h2
+    ><p
+    >Para organizarse <strong
+      >internamente</strong
+      > necesitamos no generar demasiado trafico rastreable en internet. O sea por cualquier cosa que puede ser guardada por servidor, proveedor de internet o el de mail, red social, IRC. Así que una de las mejores cosas que podemos hacer es tener una VPN, red de pares y/o método de publicación anónimo o usar conexiones cifradas.</p
+    ><p
+    >Nada que pueda ser comunicado en una <strong
+      >red local</strong
+      > debe pasar por una internet. En una red local podemos chatear usando <strong
+      >Bounjour</strong
+      > para chatear entre todos los disponibles en la misma red. Aun así debemos usar <a href="textos/Pidgin_con_OTR.md"
+      >OTR</a
+      >.</p
+    ><div id="lista-de-mails"
+    ><h3
+      >Lista de mails</h3
+      ><p
+      >Las listas de correo son excelentes para organizarse en grupos sin la necesidad de estar todo el día conectado. Para ser más efectivos lo más recomendables es respetar las <a href="textos/Netiquetas.md"
+	>Netiquetas</a
+	> y generar filtros de mail para organizarlos por listas y temas.</p
+      ><p
+      ><img src="img/lista_de_mail.png" title="Lista de correo por conversaci&#243;n" alt="Lista de correos"
+	 /> &gt; Lista de correos en Thunderbird</p
+      ><p
+      >Vale la pena indicar que los mails son descentralizados por ende podemos tener la lista en <a href="https://lists.riseup.net/www/"
+	>Riseup</a
+	> o <a href="http://www.autistici.org/es/services/lists.html"
+	>Autistici</a
+	> y asociarlas a cuentas de mail en otros servidores.</p
+      ></div
+    ><div id="irc"
+    ><h3
+      >IRC</h3
+      ><p
+      >Los servidores de <strong
+	>IRC</strong
+	> son servidores de chat con muchas salas tematicas (canales). No necesitan cuenta, pueden usarse muchos servidores; descentralizando la conversación. Si queres probar el <strong
+	>IRC</strong
+	> podes probar <a href="https://webchat.freenode.net/"
+	>Webchat</a
+	> de Freenode. Es tan simple como ponerte un <strong
+	>nick</strong
+	> y un <strong
+	>canal</strong
+	> (sala de chat) donde hablar.</p
+      ><div class="figure"
+      ><img src="img/irc.png" title="IRC en pidgin" alt="IRC en el pidgin"
+	 /><p class="caption"
+	>IRC en el pidgin</p
+	></div
+      ><blockquote
+      ><p
+	>Lo recomendable es usar <a href="http://pidgin.im"
+	  >Pidgin</a
+	  > que tiene soporte para <a href="textos/Pidgin_con_OTR.md"
+	  >OTR</a
+	  >. Para hablar con alguien, en particular, conocido solo tenes que pasarle el <strong
+	  >canal</strong
+	  > y servidor. Y podemos conectarnos usando <strong
+	  >Tor</strong
+	  >, hablar en salas publicas y chatear en privado (en los posible usando <strong
+	  >OTR</strong
+	  >).</p
+	></blockquote
+      ></div
+    ><div id="jabber"
+    ><h3
+      >Jabber</h3
+      ><p
+      >Es un protocolo para chatear que funciona de modo descentralizado y puede comunicarse entre diferentes nodos. Siempre con <a href="textos/Pidgin_con_OTR.md"
+	>OTR</a
+	> que esta disponible con el <a href="http://pidgin.im/"
+	>Pidgin</a
+	>. El hecho de que sea una servicio descentralizado nos da la posibilidad de tener una cuenta en diferente servidor que nuestro contacto. Aunque existen varios servicios cerrados como Facebook, que no nos da la posibilidad de contactar con nadie fuera de este sitio.</p
+      ><div class="figure"
+      ><img src="http://www.pidgin.im/shared/img/contact_window.png" alt="Jabber"
+	 /><p class="caption"
+	>Jabber</p
+	></div
+      ><blockquote
+      ><p
+	>Como cliente de chat de <strong
+	  >Jabber</strong
+	  > podemos usar Pidgin al igual que IRC. Podes crear tu cuenta de jabber en <a href="https://riseup.net/es"
+	  >Riseup</a
+	  >, <a href="http://www.autistici.org/es"
+	  >Autistici</a
+	  > o <a href="http://jabber.es/"
+	  >Jabber.es</a
+	  >.</p
+	></blockquote
+      ></div
+    ><div id="cryptocat"
+    ><h3
+      >Cryptocat</h3
+      ><p
+      >Es un chat cifrado y seguro, pensado para ser fácil de instalar y correr.</p
+      ><div class="figure"
+      ><img src="img/cryptocat.png" title="Cryptocat en el navegador" alt="Cryptocat"
+	 /><p class="caption"
+	>Cryptocat</p
+	></div
+      ><blockquote
+      ><p
+	>Podemos usar <a href="https://crypto.cat/"
+	  >Cryptcat</a
+	  > un complemento para Mozilla o TorBrowser (para mayor seguridad). Aunque es un chat en el navegador Cryptocat es un chat Jabber. Solo tenemos que coordinar en que canal hablar y <strong
+	  >¡listo!</strong
+	  >. Esto es muy bueno para coordinarse de modo seguro tanto en grupo y privado.</p
+	></blockquote
+      ></div
+    ></div
+  ><div id="navegar-con-tor"
+  ><h2
+    >Navegar con Tor</h2
+    ><p
+    >Es un modo de navegación anonima. Este no debe usarse para cuentas personales, si no para la navegación convencional, buscar datos, visitar blog, etc.</p
+    ><p
+    ><img src="img/torbrowser.png" alt="Tor Browser Bundel"
+       /> &gt; El navegador <a href="https://www.torproject.org/projects/torbrowser.html.en"
+      >Tor Browser</a
+      > debe descargarse de la pagina oficial.</p
+    ></div
+  ><div id="lector-de-noticias"
+  ><h2
+    >Lector de Noticias</h2
+    ><p
+    >Muchas paginas, blogs, centrales de noticias tiene <img src="img/rss.png" alt="RSS"
+       /> RSS o Atom con la que podemos mantenernos actualizados de las novedades, noticas, o eventos y actividades de colegas y amigos.</p
+    ><div class="figure"
+    ><img src="img/lector_de_noticias.png" alt="Brief"
+       /><p class="caption"
+      >Brief</p
+      ></div
+    ><blockquote
+    ><p
+      >Los lectores de noticias son un modo practivo y no rastreable (usando <strong
+	>Tor</strong
+	>) de mantenernos informados y actualizados. Podes usar <a href="http://brief.mozdev.org/"
+	>Brief</a
+	>, es un complemento de Firefox podemos instarlo en Tor Browser, anonimizando nuestras fuentes de noticias.</p
+      ></blockquote
+    ></div
+  ><div id="difusi&#243;n"
+  ><h2
+    >Difusión</h2
+    ><div id="transmisi&#243;n-de-radio"
+    ><h3
+      >Transmisión de Radio</h3
+      ><p
+      >Para poder transmitir radio en internet necesitamos un <strong
+	>punto de montaje</strong
+	> en un servidor Icecast, una especie de antena de transmisión en internet. Podemos conseguir uno en <a href="http://giss.tv/addmount.html"
+	>giss.tv</a
+	> y luego instalar <a href="http://mixxx.org/"
+	>Mixxx</a
+	></p
+      ><p
+      ><img src="img/mixxx.png" title="Vista general del programa" alt="Vista general del programa"
+	 /> &gt; <strong
+	>Mixxx</strong
+	> es una herramienta poderosa, flexible y dinámica que permite crear programación radial vía Internet. &gt; En esta pantalla se puede crea la secuencia musical que se utilizará en el programa de radio, activar y desactivar el micrófono.</p
+      ><div id="configurar-la-estaci&#243;n-streaming"
+      ><h4
+	>Configurar la estación (Streaming)</h4
+	><div class="figure"
+	><img src="img/mixxx_icecast.png" title="Vista general del programa" alt="Vista general del programa"
+	   /><p class="caption"
+	  >Vista general del programa</p
+	  ></div
+	><blockquote
+	><ul
+	  ><li
+	    ><strong
+	      >Servidor de streaming:</strong
+	      > http://giss.tv</li
+	    ><li
+	    ><strong
+	      >Número de puerto:</strong
+	      > 8000</li
+	    ><li
+	    ><strong
+	      >Punto de montaje (nombre de la radio):</strong
+	      > /nuestra_radio.ogg</li
+	    ><li
+	    ><strong
+	      >Nombre de usuario:</strong
+	      > nuestra_radio</li
+	    ><li
+	    ><strong
+	      >Contraseña:</strong
+	      > clave</li
+	    ></ul
+	  ></blockquote
+	><p
+	>Luego corresponde configurar el formato de salida. Este tiene que ser OGG.</p
+	><p
+	>Este manual es muy superficial más datos en <a href="http://juancarlosradio.com.ar"
+	  >Juan Carlos Radio</a
+	  ></p
+	></div
+      ></div
+    ><div id="mensajes-al-p&#249;blico"
+    ><h3
+      >Mensajes al pùblico</h3
+      ><div class="figure"
+      ><img src="img/gespeak.png" title="Interface de Gespeak" alt="Interface de Gespeak"
+	 /><p class="caption"
+	>Interface de Gespeak</p
+	></div
+      ><p
+      >Anonymous hace tiempo que usa sintetizadores de voz para difundir sus noticias y campañas. Esto es muy bueno por que no es posible reconocer quien habla, a la vez se puede programar mensajes automáticos para enviar mensajes al publico.</p
+      ><pre>
+sudo apt-get install gespeaker espeak mbrola mbrola-voice-es 
+</pre>
+</div
+    ></div
+  ><div id="proteger-informaci&#243;n"
+  ><h2
+    >Proteger información</h2
+    ><div id="cifrados-de-una-carpeta"
+    ><h3
+      >Cifrados de una carpeta</h3
+      ><p
+      >Cifrar una carpeta con todos su contenido de manera ocultar a cualquier persona que acceda físicamente a nuestra computadora.</p
+      ><div class="figure"
+      ><img src="img/cryptkeeper.png" title="Crptkeeper en el men&#250; de notificaciones" alt="Cryptkeeper"
+	 /><p class="caption"
+	>Cryptkeeper</p
+	></div
+      ><pre>
+sudo apt-get install cryptkeeper
+</pre>
+<p
+      >Luego podemos correr <strong
+	>Cryptkeeper</strong
+	> desde el menú (Aplicaciones -&gt; Herramientas del sistema -&gt; Cryptkeeper). En el panel de notificaciones tendrán un nuevo icono con unas llaves, pulsan con el botón izquierdo del ratón y seleccionan: &quot;New encrypted folder&quot;. Se les abrirá un cuadro de diálogo en el que deberán introducir el nombre y el destino de la carpeta a cifrar, y luego presionar el botón &quot;Forward&quot; y poner la contraseña dos veces.</p
+      ><p
+      >Para desmontarlo solo hay que usar el menú en el panel de notificaciones. En las Preferencias de la aplicación (boton derecho sobre el icono) podes configurar el tiempo que que res que tu carpeta se mantenga montada. Esto es muy útil, pues sirve para cuando te olvidas de desmontarla y/o tuviste que salir con urgencia.</p
+      ></div
+    ><div id="bufanda-rosa"
+    ><h3
+      >Bufanda Rosa</h3
+      ><p
+      >Este programa permite <strong
+	>cifrar</strong
+	> y <strong
+	>descifrar</strong
+	> mensaje, archivos para enviarlos por correo electronico, publicarlo, guardar información de cualquier tipo dentro de una imagen o audio. La información puede estar disponible de modo público y sin la clave correspondiente nunca nadie podrá acceder a los datos ocultos.</p
+      ><p
+      ><img src="img/bufandarosa.png" title="Cifrado y Descifrado" alt="Pantalla principal de Bufanda Rosa"
+	 /> &gt; Puede resultar útil si pretendemos enviar una información confidencial a una persona y no queremos que la información sea interceptada por otros.</p
+      ><p
+      ><a href="https://github.com/b4zz4/BufandaRosa"
+	>Descargar</a
+	></p
+      ><div id="consejos"
+      ><h4
+	>Consejos</h4
+	><ul
+	><li
+	  ><strong
+	    >NUNCA</strong
+	    > envies las claves junto al archivo o mensaje cifrado</li
+	  ><li
+	  >Compartirlas en vivo (de persona a persona)</li
+	  ><li
+	  >En un <a href="textos/Pidgin_con_OTR.md"
+	    >chat con OTR</a
+	    ></li
+	  ><li
+	  >Cambia tus claves periodicamente</li
+	  ><li
+	  >Borrar los <strong
+	    >metadatos</strong
+	    > de fotos de cámaras y celulares antes de publicarlas en noticias, redes sociales, blogs.</li
+	  ></ul
+	></div
+      ></div
+    ></div
+  ><div id="textos"
+  ><h2
+    >Textos</h2
+    ><p
+    >Para difundir textos, tanto por su falta de practicidad, como funcionales <strong
+      >NO</strong
+      > usar doc, docx ni pdf. Siempre conviene utilizar textos &quot;planos&quot; el mas común es TXT, Markdown o HTML. Estos son muy fáciles de interpretar, reutilizar. Que no pueden contener metadatos y no es nada fácil analizar el origen.</p
+    ><div class="figure"
+    ><img src="img/markdown.png" alt="markdown"
+       /><p class="caption"
+      >markdown</p
+      ></div
+    ><blockquote
+    ><p
+      >Markdown es un lenguaje de marcado ligero que trata de conseguir la máxima legibilidad y facilidad de publicación, tanto en sus forma de entrada como de salida. Básicamente es un texto plano con algunos símbolos para marcar títulos, subtítulos, negrita, cursiva, etc.</p
+      ></blockquote
+    ></div
+  ><div id="protestas"
+  ><h2
+    >Protestas</h2
+    ><div id="loic"
+    ><h3
+      >LOIC</h3
+      ><p
+      >Es una aplicación popularizada por <strong
+	>Anonymous</strong
+	> que se encarga de realizar ataques de denegación de servicios a páginas web <strong
+	>DDoS</strong
+	>.</p
+      ><p
+      ><img src="img/loic.png" title="Versi&#243;n de LOIC" alt="LOIC para Firefox"
+	 /> &gt; Nosotros vamos a usar <a href="http://b4zz4.github.io/loic/release/loic.firefox.xpi"
+	>LOIC</a
+	> que es fácil de difundir y corre sobre Mozilla Firefox.</p
+      ></div
+    ><div id="mapas"
+    ><h3
+      >Mapas</h3
+      ><p
+      ><img src="img/umap.png" alt="Umap"
+	 /> &gt; <a href="https://umap.openstreetmap.fr"
+	>Umap</a
+	> mapas para coordinarse en las calles.</p
+      ></div
+    ></div
+  ></div
+><div id="notas-relacionadas"
+><h1
+  >Notas relacionadas</h1
+  ><p
+  >Algunas experiencias relacionadas.</p
+  ><ul
+  ><li
+    >Experiencias de los <a href="https://es.wikipedia.org/wiki/Contracumbre_del_G8_en_G%C3%A9nova"
+      >movimientos anti-globalizadores</a
+      > en 2001 como el &quot;Tute Bianchi&quot;</li
+    ><li
+    >Mapa con el <a href="http://www.microsiervos.com/archivo/tecnologia/manifestantes-turquia-controlar-policia.html"
+      >movimientos de la Policía en Estambul</a
+      >, como los manifestantes turcos vigilan a la policía.</li
+    ><li
+    >Los manifestantes hacen <a href="https://www.youtube.com/watch?v=H42UJIszoaQ"
+      >huir a la policia</a
+      > en Brasil</li
+    ><li
+    >Los manifestantes españoles tiene un <a href="https://www.youtube.com/watch?v=h-oO8I5vR5s"
+      >helicoptero</a
+      > para ver lo que hace la policía.</li
+    ><li
+    ><a href="http://prism.hackcoop.com.ar/#es"
+      >Prism Break</a
+      > - Lucha contra la NSA.</li
+    ><li
+    ><a href="https://guardianproject.info/apps/tutorials/"
+      >Tutoriales</a
+      > de software libre para Android. (en ingles)</li
+    ><li
+    ><a href="http://www.biobiochile.cl/2013/06/30/manifestantes-realizan-impresionante-ataque-laser-contra-helicoptero-militar-en-egipto.shtml"
+      >Ataque laser contra helicopteros</a
+      ></li
+    ><li
+    ><a href="https://knightcenter.utexas.edu/es/blog/00-14203-midia-ninja-un-fenomeno-del-periodismo-alternativo-que-emergio-de-las-protestas-en-bra"
+      >MidiNinja</a
+      > colectivo que transmite usando 4G directamente desde las calles</li
+    ><li
+    ><a href="http://noticias.lainformacion.com/mundo/camover-el-juego-que-pretende-acabar-a-golpes-con-todas-las-camaras-de-videovigilancia-de-berlin_8z9GyH5P4kGbnLAcjE1vC/"
+      >CamOver</a
+      > El juego para destruir las camaras de seguridad de Berlín.</li
+    ><li
+    ><a href="https://techtoolsforactivism.org/"
+      >Tech Tools For Activism</a
+      > Herramientas digitales para activistas (en ingles)</li
+    ></ul
+  ></div
+><div id="licencia"
+><h1
+  >Licencia</h1
+  ><p
+  >Se permite el uso comercial de la obra y de las posibles obras derivadas, la distribución de las cuales se debe hacer con una licencia igual a la que regula la obra original.</p
+  ><p
+  ><img src="img/128px-GFDL_Logo.svg.png" alt="GFDL"
+     /> <img src="img/by-sa-125px.png" alt="Creado para la comunidad compartir con la misma licencia"
+     /></p
+  ></div
+><div id="quehaceres"
+><h1
+  >Quehaceres</h1
+  ><ul
+  ><li
+    >Hacer svg interactivo (1/2)</li
+    ><li
+    >Traducir</li
+    ><li
+    >Referencia a los tutti bianchi que se protegían de los policías</li
+    ><li
+    >Programa para tapar caras en HTML5</li
+    ><li
+    ><span style="text-decoration: line-through;"
+      >GNU/Manifest: GNU para manifestante</span
+      ></li
+    ><li
+    >ManifestWRT: versión de OpenWRT para manifestante</li
+    ><li
+    >ManifestDroid</li
+    ><li
+    >P2P ver la posibilidad de compartir archivos (probar <a href="https://f-droid.org/repository/browse/?fdid=net.i2p.android.router"
+      >i2p</a
+      >)</li
+    ><li
+    ><a href="http://f-droid.org/repository/browse/?fdid=com.google.zxing.client.android"
+      >codigos QR</a
+      > da la posibilidad de compartir URL facilmente de pantalla a pantalla</li
+    ><li
+    ><a href="http://f-droid.org/repository/browse/?fdid=at.univie.sensorium.o3gm"
+      >mapeo de datos</a
+      > no se que onda</li
+    ><li
+    >Chatear con Tor</li
+    ><li
+    >Ejemplo de como configurar Pidgin</li
+    ><li
+    >Ejemplo de TorChat</li
+    ><li
+    >Transmisión de Vídeo</li
+    ><li
+    >Este programa no es muy buena pero tiene scripts interesante: http://gollum.artefacte.org/tss/</li
+    ><li
+    >http://www.muylinux.com/2010/03/02/y-seguimos-dandole-vueltas-al-h-264/</li
+    ><li
+    >https://www.fsf.org/blogs/community/google-free-on2-vp8-for-youtube</li
+    ><li
+    >https://hacks.mozilla.org/2012/03/video-mobile-and-the-open-web/</li
+    ><li
+    >http://www.nomaspatanes.com/2012/04/video-html5-la-guerra-ha-terminado-y.html</li
+    ><li
+    >editor de markdown que exporte HTML</li
+    ></ul
+  ></div
+><div id="donaciones"
+><h1
+  >Donaciones ❤</h1
+  ><ul
+  ><li
+    ><a href="https://argentina.dineromail.com/Shop/Shop_Ingreso.asp?NombreItem=Donativo&amp;TipoMoneda=1&amp;PrecioItem=50%2E00&amp;E_Comercio=205889&amp;NroItem=-&amp;image_url=http%3A%2F%2F&amp;DireccionExito=http%3A%2F%2F&amp;DireccionFracaso=http%3A%2F%2F&amp;DireccionEnvio=1&amp;Mensaje=1"
+      >Dinero Mail</a
+      > (Argentina, Brasil, Chile y México)</li
+    ><li
+    >Carga credito, como en un celular, en <strong
+      >mi modem 3G</strong
+      > para transmitir en vivo: (+5411) 3246-5497 (empresa &quot;Claro&quot;)</li
+    ></ul
+  ></div
+>
 </body>
 </html>
+

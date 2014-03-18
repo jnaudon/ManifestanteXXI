@@ -420,6 +420,7 @@ Algunas experiencias relacionadas.
 
 * Experiencias de los [movimientos anti-globalizadores](https://es.wikipedia.org/wiki/Contracumbre_del_G8_en_G%C3%A9nova) en 2001 como el "Tute Bianchi"
 * Mapa con el [movimientos de la Policía en Estambul](http://www.microsiervos.com/archivo/tecnologia/manifestantes-turquia-controlar-policia.html), como los manifestantes turcos vigilan a la policía.
+* [Cómo filmar una manifestación](http://media.lavaca.org/pdf/mu/mu73.pdf) Excelente nota de la revista Mu.
 * Los manifestantes hacen [huir a la policia](https://www.youtube.com/watch?v=H42UJIszoaQ) en Brasil
 * Los manifestantes españoles tiene un [helicoptero](https://www.youtube.com/watch?v=h-oO8I5vR5s) para ver lo que hace la policía.
 * [Prism Break](http://prism.hackcoop.com.ar/#es) - Lucha contra la NSA.
@@ -428,7 +429,7 @@ Algunas experiencias relacionadas.
 * [MidiNinja](https://knightcenter.utexas.edu/es/blog/00-14203-midia-ninja-un-fenomeno-del-periodismo-alternativo-que-emergio-de-las-protestas-en-bra) colectivo que transmite usando 4G directamente desde las calles 
 * [CamOver](http://noticias.lainformacion.com/mundo/camover-el-juego-que-pretende-acabar-a-golpes-con-todas-las-camaras-de-videovigilancia-de-berlin_8z9GyH5P4kGbnLAcjE1vC/) El juego para destruir las camaras de seguridad de Berlín.
 * [Tech Tools For Activism](https://techtoolsforactivism.org/) Herramientas digitales para activistas (en ingles)
- 
+
 # Licencia
 
 Se permite el uso comercial de la obra y de las posibles obras derivadas, la distribución de las cuales se debe hacer con una licencia igual a la que regula la obra original.

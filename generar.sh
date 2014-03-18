@@ -3,9 +3,9 @@
 pandoc -f markdown \
 	-c css/markdown.css \
 	--standalone \
-#	-t html5 \
 	README.md \
 	-o index.html
+#	-t html5 \
 
 pandoc -f markdown \
 	README.md \
