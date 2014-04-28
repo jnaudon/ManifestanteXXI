@@ -314,6 +314,13 @@ Muchas paginas, blogs, centrales de noticias tiene ![RSS](img/rss.png) RSS o Ato
 > Los lectores de noticias son un modo practivo y no rastreable (usando **Tor**) de mantenernos informados y actualizados.
 > Podes usar [Brief](http://brief.mozdev.org/), es un complemento de Firefox podemos instarlo en Tor Browser, anonimizando nuestras fuentes de noticias.
 
+## Todo en uno
+
+![Logo de Ciboulette](pegatinas/ciboulette.png)
+
+Si queremos hacer todo esto junto (Leer noticias, chatear, usar Tor) podemos usar [Ciboulette](https://github.com/b4zz4/Ciboulette) una red social totalmente descentralizada que nos permite comunicarnos con nuestros amig@s sin ningun intermediario. 
+A la vez podemos publicar noticias que pueden ser vistas desde internet o desde el mismo tor.
+
 ## Difusión
 
 ### Transmisión de Radio
