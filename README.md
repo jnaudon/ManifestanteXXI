@@ -357,14 +357,15 @@ Esto es muy bueno por que no es posible reconocer quien habla, a la vez se puede
 sudo apt-get install gespeaker espeak mbrola mbrola-voice-es 
 </pre>
 
+### PyVoiceChanger
+
 ![Interface de PyVoiceChanger](https://raw.githubusercontent.com/juancarlospaco/pyvoicechanger/master/temp.jpg)
 
-[PyVoiceChanger](https://github.com/juancarlospaco/pyvoicechanger#pyvoicechanger "PyVoiceChanger HomePage Repo") es un Deformador de Voz en Tiempo Real, 1 solo archivo, facil de usar, hecho en 150 lineas de Python3 y Qt5,
-funciona con Google Hangouts, Skype Calls, On-Line Games y VideoConferencias. Origen Argentino.
+[PyVoiceChanger](https://github.com/juancarlospaco/pyvoicechanger#pyvoicechanger "PyVoiceChanger el repositorio oficial") es un deformador de voz en tiempo real escrito en un solo archivo, facil de usar de origen Argentino.
 
 ```
-sudo apt-get install sox python3-pyqt5  # OR  sudo yum install python3-qt5 sox  OR  sudo pacman -S python-pyqt5 sox
-sudo wget -O /usr/bin/pyvoicechanger https://raw.githubusercontent.com/juancarlospaco/pyvoicechanger/master/pyvoicechanger.py
+sudo apt-get install sox python3-pyqt5
+sudo wget https://raw.githubusercontent.com/juancarlospaco/pyvoicechanger/master/pyvoicechanger.py -O /usr/bin/pyvoicechanger 
 sudo chmod +x /usr/bin/pyvoicechanger
 pyvoicechanger
 ```
