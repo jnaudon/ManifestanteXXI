@@ -132,6 +132,7 @@ Es recomendable **no usar** la red telefónica convencional, pero en caso de nec
 
 Muchos dispositivos con Android no son celulares, así que no tienen acceso a internet permanente y en el caso de los celulares internet puede ser interrumpida, limitada o bloqueada, por eso es preferible armar nuestra propia red así podremos chatear con Bounjour, compartir archivos y conectarnos con diversos equipos. Además muchos dispositivos permite compartir internet dentro de la misma red libre usando el 3G.
 
+* [GilgaMesh](https://f-droid.org/repository/browse/?fdid=info.guardianproject.gilga) Chat por bluetooth
 * ![Barnacle Wifi Tether](img/manifestdroid/barnacle.png) [Barnacle Wifi Tether](https://f-droid.org/repository/browse/?fdfilter=Barnacle%20Wifi%20Tether&fdid=net.szym.barnacle) arma tu propia red libre en malla con Android.
 * ![Share via HTTP](img/manifestdroid/shareviahttp.png) [Share via HTTP](https://f-droid.org/repository/browse/?fdfilter=share%20via%20http&fdid=com.MarcosDiez.shareviahttp) comparte archivos en la red.
 
